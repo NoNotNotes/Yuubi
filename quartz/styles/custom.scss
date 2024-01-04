@@ -1,3 +1,26 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+strong {
+    color: var(--secondary);
+}
+
+.folder-outer.folder-outer li a::before {
+    content: '→  ';
+}
+
+.nodeLabel{
+    font-family: var(--headerFont);
+    text-align: center;
+}
+
+.node rect{
+    fill:#281c1ccc !important;
+    stroke:rgba(255, 126, 126, 0.4) !important;
+}
+
+.cluster rect{
+    fill:#0e0909 !important;
+    fill-opacity: 0.4 !important;
+    stroke:rgba(255, 126, 126, 0.2) !important;
+}
