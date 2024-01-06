@@ -1,11 +1,13 @@
 ---
-title: Welcome to Quartz
+title: No, Not Notes
 ---
 <script type="text/javascript">
 	if (window.addEventListener) { // Mozilla, Netscape, Firefox
 	    window.addEventListener('load', generateCountdown, false);
+		window.addEventListener('onpageshow',generateCountdown,false);
 	} else if (window.attachEvent) { // IE
 	    window.attachEvent('onload', generateCountdown);
+		window.attachEvent('onpageshow',generateCountdown);
 	}
 	
 	function generateCountdown(){
@@ -15,4 +17,4 @@ title: Welcome to Quartz
 	}
 </script>
 
-Daily (or more) notes of my undergrad studies. Hopefully complete on or within the next <code class="countdown"></code>.
+Daily (or more) notes of my undergrad studies. Hopefully complete on or within the next <code class="countdown"></code>. ???
