@@ -1,0 +1,74 @@
+## Theories of Labor Onset
+Labor normally begins when a fetus is sufficiently mature to cope with extrauterine life yet not too large to cause mechanical difficulty with birth.
+1. The **stretching of the uterus** causes the release of prostaglandins, triggering labor.
+2. The **pressure on the cervix** stimulates the release of oxytocin from the posterior pituitary gland.
+3. **Oxytocin stimulation** works with prostaglandins to initiate contractions.
+4. The change in the **ratio** between **estrogen and progesterone** (progesterone withdrawal)
+5. **Placental age** has a set point at which labor begins.
+6. Rising **fetal cortisol levels**, which inversely affects progesterone formation and increases prostaglandin formation, reach a threshold where labor begins.
+7. The **fetal membrane** produces **prostaglandin**, which stimulates contraction.
+## Signs of Labor
+### Preliminary Signs
+1. **Lightening**: a characteristic sign of the fetus descending into the pelvis, **occuring 10 to 14 days before labor** begins. The shape of the abdomen changes, and difficulty in breathing and diaphragmatic pressure from the uterus "*lightens*".
+2. **Increase in the Level of Activity**: increased epinephrine due to decreased placental progesterone. The mother-to-be then starts to be more active and is better prepared for labor.
+3. **Slight Weight Loss**: decreasing progesterone levels allows body fluids to be excreted. Urine production is increased, and a weight loss of 1 to 3 pounds may be observed.
+4. **Braxton Hick's Contractions**: painless and irregular contractions. False labor.
+5. **Ripening of the Cervix**: the cervix becomes softer ("butter-soft") and tips forward. It is in internal announcement that labor is very close at hand.
+### True Labor
+1. **Uterine Contractions** that cause pain, regular in frequency, and progress as time goes on are the surest signs of labor. It may cause distress; you can help the woman prepare for contractions because they are often able to anticipate the next contractions due to their regular nature.
+2. **Bloody Show**: after the softening of the cervix, the mucus plug of the cervix canal (operculum) is expelled. Exposed cervical capillaries from this release then seep blood, mixing with the mucus. It forms a pinkish bloody discharge. This is not a form of abnormal bleeding.
+3. **Rupture of Membranes**: a sudden gush or a scanty, slow seeping of clear fluid (amniotic fluid) from the vagina. This may result in intrauterine infections or umbilical cord prolapse. However, this may also result in better positioning for the fetus to be delivered.
+	- To avoid the complications, labor is induced if labor doesn't begin within 24 hours after the rupture of membranes (ROM).
+### Components of Labor (Five Ps)
+#### Passage
+The route that the fetus (passenger) must pass through. This starts from the uterus, through the cervix, cervical canal, and vagina to the external perineum.
+#### Passenger
+The fetus's most defining part for passing through the pelvic ring is the skull. Depending on the actual skull and its angle in relation to the pelvis, it may cause difficulty.
+- **Molding**: the slight accommodation of the skull (because it's not yet fully formed) when put under pressure.
+- **Engagement**: settling of the presenting part of a fetus into the pelvis. Engagement starts when the presenting part reaches the level of the ischial spines (Station 0)
+- **Station**: the level of **the presenting part in relation to the ischial** spines. It goes from -5 to +5, where the positive stations are below the ischial spines. **Crowning often begins at +3 or +4**.
+- **Fetal Attitude**: the degree of flexion of the fetus head. Complete flexion presents the occipital diameter of the baby, the smallest diameter of the fetal skull. This also determines the type of cephalic presentation.
+- **Descent**: a fetus has "descended" when the widest part of the fetus (**cephalic: biparietal diameter, breech: intertrochanteric diameter**)
+- **Fetal Lie**: the relationship between the cephalocaudal axis of the fetal body and the maternal body. Generally, whether the fetus is lying horizontally (transverse lie) or vertically (longitudinal lie).
+##### Fetal Presentation
+The body part that will first contact the cervix or be "born" first. This is determined by a combination of fetal lie and the degree of fetal flexion (fetal attitude).
+1. **Cephalic Presentation**: the most common presentation, where the fetal heal is the body part first contacting the cervix.
+	- **Vertex Presentation**: complete flexion, the posterior fontanel is facing the passageway. This is the most favorable presentation as the **anteroposterior diameter** of the skull is presented, the smallest diameter of the skull. In a classical "fetal position", the ovoid space the fetus occupies is small, also aiding in delivery.
+	- **Military Presentation**: moderate flexion, the fetus is facing forward. The top of the head (anterior fontanel) (*occiput*) is facing the passageway.
+	- **Brow Presentation**: poor/partial flexion; extension. The frontal portion of the skull (*sinciput*) is facing the passageway.
+	- **Face Presentation**: full extension; the face of the fetus is facing the passageway.
+	- **Mentum Presentation**: hyperextension; the chin is the presenting part.
+2. **Breech Presentation**: either the buttocks or the feet are the presenting parts. Occurs in ~3% of births.
+	- **Complete Breech**: buttocks are presented, feet are folded and at the level of the buttocks.
+	- **Footling Breech**: a foot or both feet are pointed down, and are the presenting part.
+	- **Frank Breech**: legs point up with feet by the baby's chest or head.
+3. **Shoulder Presentation**: transverse lie may result in the shoulder (acromion process), a hip (iliac crest), a hand, or an elbow.
+	- **Dorsoanterior Lie**
+	- **Dorsoposterior Lie**
+##### Fetal Position
+|**Presentaton**|Vertex|Breech|Face|Shoulder|
+|-|-|-|-|-|
+|**Term**|Occiput|Sacrum|Mentum|Acromion (Process)|
+|**LxA**|LOA|LSaA|LMA|LAA|
+|**LxP**|LOP|LSaP|LMP|LAP|
+|**LxT**|LOT|LSaT|LMT|-|
+|**RxA**|ROA|RSaA|RMA|RAA|
+|**RxP**|ROP|RsaP|RMP|RAP|
+|**RxT**|ROT|RSaT|RMT|-|
+##### Mechanism of Labor
+The passage of a fetus through the birth canal involves several position changes to maintain the smallest diameter of the fetal head always presenting to the smallest diameter of the pelvis. (**DFIREERE**)
+1. **Descent**: the downward movement of the biparietal diameter (temple to temple) of the fetal head to within the pelvic inlet. **Full descent** occurs when the fetal head extrudes beyond the dilated cervix and touches the posterior vaginal floor.
+2. **Flexion**: the fetal head bends forward and pushes into the chest, making the smallest anteroposterior (*suboccipitobregmatic*) diameter present to the birth canal.
+3. **Internal Rotation**: the occiput and body of the fetus rotates to bring the head into the best relationship to the outlet of the pelvis. This brings the **shoulders** into the optimal position to enter the **inlet**, aligning the wide transverse diameter of the inlet and the widest diameter of the shoulders.
+4. **Extension**: when the occiput is born, the back of the neck acts as a pivot for the rest of the head, with the rest of the head, face, and chin being born.
+5. **External Rotation**: the body almost immediately moves in response and assumes the previously transverse or oblique position. This aligns the **shoulders** with the **outlet**.
+6. **Expulsion**: the completion of the pelvic division of labor, where the rest of the baby is born easily (as the head and shoulders are the widest diameters of the fetus)
+### Powers of Labor
+The force used in labor is applied by the uterine fundus and uterine contractions. This causes dilation of the cervix. **It is important for women to avoid bearing down while the cervix is not fully dilated**.
+- The mark of effective uterine contractions are **rhythmicity** (regular frequency) and **progressive lengthening** and **intensity**.
+- Phases involved in a contraction: **increment** (increasing), **acme** (peak), and **decrement** (decreasing).
+- **Cervical Changes**: two of the major changes involved in labor is effacement and dilatation of the cervix.
+	- **Effacement**: shortening and thinning of the cervical canal. The canal is normally 1 to 2 cm in length. It virtually disappears during labor.
+	- **Dilatation**: widening of the opening of the cervical canal. It goes from a few millimeters to approximately 10 cm, permitting the passage of a fetus.
+### Psyche
+The woman's psychological outlook, referring to the psychological state feelings that a woman brings into labor. It is often **apprehension** or **fright**. For almost everyone, it involves excitement or awe.

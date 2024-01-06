@@ -1,6 +1,7 @@
 ---
 tags:
-  - NCMA110
+  - A110
+title: Theory of Composure Behaviors
 ---
 # Nursing Theorist Carmelita Divinagracia
 - **Master in Nursing** (1975), **Doctoral Degree in Nursing** (2001) from the University of the Philippines
