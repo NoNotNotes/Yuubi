@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "nonotnotes.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -20,14 +20,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#f8f8fa",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#ee9999",
-          tertiary: "#ff6666",
-          highlight: "rgba(255, 159, 169, 0.10)",
+          secondary: "#8888ff",
+          tertiary: "#6666ff",
+          highlight: "rgba(169, 159, 255, 0.10)",
         },
         darkMode: {
           light: "#161618",

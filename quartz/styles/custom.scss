@@ -1,6 +1,9 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+[saved-theme="light"] strong {
+    color: var(--secondary);
+}
 [saved-theme="dark"] strong {
     color: var(--secondary);
 }
