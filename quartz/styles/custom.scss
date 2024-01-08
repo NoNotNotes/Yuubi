@@ -1,6 +1,6 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// text formatting
 [saved-theme="light"] strong {
     color: var(--secondary);
 }
@@ -8,10 +8,49 @@
     color: var(--secondary);
 }
 
+// header formatting
+article h1::before {
+    content: "# ";
+    font-weight: 100;
+    font-family: var(--codeFont)
+}
+
+article h2::before {
+    content: "# ";
+    font-weight: 100;
+    font-family: var(--codeFont)
+}
+
+article h3::before {
+    content: "# ";
+    font-weight: 100;
+    font-family: var(--codeFont)
+}
+
+article h4::before {
+    content: "# ";
+    font-weight: 100;
+    font-family: var(--codeFont)
+}
+
+article h5::before {
+    content: "# ";
+    font-weight: 100;
+    font-family: var(--codeFont)
+}
+
+article h6::before {
+    content: "# ";
+    font-weight: 100;
+    font-family: var(--codeFont)
+}
+
+// explorer formatting
 .folder-outer.folder-outer li a::before {
     content: '→  ';
 }
 
+// mermaid formatting
 .nodeLabel{
     font-family: var(--headerFont);
     text-align: center !important;

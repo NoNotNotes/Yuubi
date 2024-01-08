@@ -17,7 +17,8 @@ tags:
 - **Severe Heartburn** (GERD)
 - **Intestinal Bleeding** as shown by black, tarry, or bloody stool.
 # Diagnostic Examination
-- A [[B316/01#Gastric Analysis|gastric analysis]] may be done to determine acidity of the stomach, or a blood test to check for serum gastrin levels.
+![[B316/01#Gastric Analysis|gastric analysis]]
+- Blood testing to check for **serum gastrin levels**.
 - Imaging tests may also be done for the gastrinomas.
 # Medical Management
 - [[Proton Pump Inhibitors]] can help manage extra stomach acid. This prevents the formation of ulcers.
@@ -25,4 +26,5 @@ tags:
 - Removal of the tumors may be necessary. If severe, chemotherapy may be used.
 # Complications
 - Prognosis is not complicated, and only a few people become seriously ill. Ulcers are just about the last things to worry about with ZES.
+
 [Original Source](https://www.hopkinsmedicine.org/health/conditions-and-diseases/zollingerellison-syndrome)
