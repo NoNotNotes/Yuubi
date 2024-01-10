@@ -9,36 +9,11 @@
 }
 
 // header formatting
-article h1::before {
-    content: "# ";
-    font-weight: 100;
-    font-family: var(--codeFont)
-}
-
-article h2::before {
-    content: "# ";
-    font-weight: 100;
-    font-family: var(--codeFont)
-}
-
-article h3::before {
-    content: "# ";
-    font-weight: 100;
-    font-family: var(--codeFont)
-}
-
-article h4::before {
-    content: "# ";
-    font-weight: 100;
-    font-family: var(--codeFont)
-}
-
-article h5::before {
-    content: "# ";
-    font-weight: 100;
-    font-family: var(--codeFont)
-}
-
+article h1::before,
+article h2::before,
+article h3::before,
+article h4::before,
+article h5::before,
 article h6::before {
     content: "# ";
     font-weight: 100;
@@ -51,11 +26,9 @@ article h6::before {
 }
 
 // mermaid formatting
-.nodeLabel{
-    font-family: var(--headerFont);
-    text-align: center !important;
+code.mermaid {
+    place-content: center;
 }
-
 [saved-theme="dark"] .node rect{
     fill:#281c1ccc !important;
     stroke:rgba(255, 126, 126, 0.4) !important;
