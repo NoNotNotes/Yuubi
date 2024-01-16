@@ -41,5 +41,5 @@ export {
   MobileOnly,
   RecentNotes,
   NotFound,
-  Breadcrumbs,
+  Breadcrumbs
 }

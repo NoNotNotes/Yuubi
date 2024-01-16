@@ -25,10 +25,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
+    Component.Darkmode(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
     Component.Graph({
       localGraph: {
         depth: 2,
@@ -36,9 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
       },
       globalGraph: {
       }
-    }),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    })
   ],
 }
 
@@ -50,6 +50,15 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [],
+  right: [
+    Component.Graph({
+      localGraph: {
+        depth: 2,
+        showTags: false
+      },
+      globalGraph: {
+      }
+    })],
 }
