@@ -20,6 +20,10 @@ tags:
 	- [[B316/03-5|Diverticulitis]]
 	- [[B316/03-6|Hemorrhoids]]
 - [[B316/04|Hepatic Disorders]]
-	- 
+	- [[B316/04-1|Hepatitis]]
+	- [[B316/04-2|Liver Cirrhosis]]
+	- [[B316/04-3|Hepatic Encephalopathy]]
+	- [[B316/04-4|Esophageal Varices]]
+	- [[B316/04-5|Cholelithiasis]]
+	- [[B316/04-6|Pancreatitis]]
 - [[B316/05|Endocrine and Pituitary Disorders]]
-	- 

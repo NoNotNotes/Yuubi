@@ -23,12 +23,12 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
+    Component.Darkmode(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.Graph({
