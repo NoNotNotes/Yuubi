@@ -1,5 +1,5 @@
 ---
-title: B316 Orientation
+title: B316
 tags:
   - B316
 aliases:
