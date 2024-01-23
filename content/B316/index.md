@@ -271,3 +271,4 @@ Covering gastrointestinal, endocrinal, and neurologic procedures.
 - **Affiliations**: Neurology Ward, Orthopedic Ward, Gastrointestinal Ward, Psychiatric Ward
 - **Orientation**: once a semester. **Orientation date to be announced**. There is a 30 peso fee for each student attending the orientation.
 - Report in **complete duty uniform** (cap and apron); no hair accessories are permitted.
+___
