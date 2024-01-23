@@ -59,6 +59,7 @@ export const defaultListPageLayout: PageLayout = {
         showTags: false
       },
       globalGraph: {
-      }
-    })],
+      }}),
+    Component.DesktopOnly(Component.TableOfContents())
+  ]
 }
