@@ -1,9 +1,25 @@
 ---
-title: "Preliminary Exam Reviewer"
+tags:
+  - B317
+  - COMP
+title: Preliminary Exam Reviewer
+aliases:
+  - PRELIMS
 ---
-Content outline provided by Ma'am Aida Bautista 
-# Week 1: Mental Health Concepts
-## Criteria of Mental Health (and Illness)
+Content outline provided by **Ma'am Aida Bautista**
+___
+### PRAISE (Criteria for Mental Health)
+- **Positive Attitude Toward Self**: a **strong of identity, esteem, confidence**.
+- **Realistic Perception**: being able to view reality; avoidance of over-pessimism or over-optimism.
+- **Autonomous Behavior**: independence in functioning.
+- **Integrative Capacity**: the management of adverse or difficult situations. This involves **resilience** (ability to adjust), **hardiness** (resist illness under stress), **self-efficacy** (ability to succeed), and **resourcefulness** (problem-solving) .
+- **Self-Actualization and Personal Growth**: the ability to **be motivated to achieve one's full potential** and make use of it to achieve goals.
+- **Environmental Mastery**: the ability to meet the demands of any situations and **adapt to changing circumstances**.
+### Criteria for Mental Illness
+1. **Lack of Personal Growth**
+2. **Ineffective Coping**
+3. **Non-Satisfactory Relationships**
+4. **Self-Dissatisfaction**
 ## Theorists and their contribution
 - **Sigmund Freud**:
 	- The **founder of psychoanalysis**. "The **unconscious** can be accessed **through dreams and free association**". A **personality theory** and a **theory of infantile sexuality was also developed**. One of his greatest contributions was "**talk therapy**", which stated that simply talking about their problems can help alleviate them.
