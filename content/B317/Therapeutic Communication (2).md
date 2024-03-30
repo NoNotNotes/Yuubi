@@ -299,7 +299,7 @@ The nurse's ability to **establish effective communication** in nursing is **imp
 12. **Stereotyped Comments**: The **use of cliché phrases** from social conversation with the patient provides little to no value. **Any "automatic" responses lack the nurse's consideration or thoughtfulness**.
 	- "***Keep your chin up.***"
 	- "***It's for your own good.***"
-13. **Approving or Disapproving**: **Sanctioning or denouncing the client's behaviors, thoughts, or ideas**. These imply that the nurse has the right to give judgement over the client's thoughts and actions, also creating an expectation that the client should please the nurse.
+13. **Approving or Disapproving**: **Sanctioning or denouncing the client's behaviors, thoughts, or ideas**. These imply that the nurse has the right to give judgment over the client's thoughts and actions, also creating an expectation that the client should please the nurse.
 	- "***I'd rather you wouldn't**...*"
 	- "***That's good.***"
 14. **Agreeing or Disagreeing**: These **create the idea that the client is "right" or "wrong"**. If accepted, the client cannot change their mind without being "wrong". **Opinions and conclusions should only be from the client**. If rejected, the client may then **feel defensive about their points of view or ideas**.
