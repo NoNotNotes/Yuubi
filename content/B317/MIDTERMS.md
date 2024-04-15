@@ -40,8 +40,8 @@
 		- **Stabilization**: express feelings with directly congruent verbal and nonverbal messages, free from psychotic symptoms, and demonstrate functional level of psychomotor activity.
 		- **Community**: demonstrate compliance with and knowledge of medications, increased ability to cope with negative feelings, and identify support systems within their community.
 5. **Nursing Actions**:
-	- ==**Safety**==: physical safety to prevent self-destructive actions.
-	- ==**Suicide watch**==: continuous assessment and awareness of suicide potential (thought, intent, plan).
+	- **==Safety==**: physical safety to prevent self-destructive actions.
+	- **==Suicide watch==**: continuous assessment and awareness of suicide potential (thought, intent, plan).
 	- **Observation** especially during initiation of medication (increased energy), limited or unstructured periods of activity, and changes in behavior, related to suicide awareness.
 	- **Reorientation** to the three spheres: inform the client of their name, the place, and the time. Presentation of reality is concrete reinforcement for the client.
 	- **Spend time with the client**. Your physical presence is reality.
@@ -53,7 +53,7 @@
 	- **Keep It Short and Simple**; the client's perception of complex stimuli may be impaired.
 	- **Avoid questioning**, especially questions that only require short answers. These may discourage expression by the client.
 	- **==Do not belittle or undermine the patient's feelings==**. Accept and support the client's verbalizations of feelings. Do not cut off interactions with cheerful remarks or platitudes if you feel discomfort during conversation.
-	- ==**Support expression**== of any form by the client, and let them know you are ready to listen and accept their expressions. Remain nonjudgmental.
+	- **==Support expression==** of any form by the client, and let them know you are ready to listen and accept their expressions. Remain nonjudgmental.
 	- **Allow and encourage the client to cry**. Provide privacy or remain with the client if they desire and if it is safe to do so. It is among the healthiest forms of expression for sadness, hopelessness, and despair.
 	- **Do not probe for information**. **Allow the client to discuss what they are comfortable with**. This may discourage communication and cause discomfort.
 	- **Discuss coping strategies** that the client has used, looking for successful and unsuccessful results. Teach the client about **positive coping strategies**, **stress management skills**, and **problem-solving processes** (e.g. exploring options, examining consequences, using alternatives, evaluating results), which may also be a source of **success and positive feedback** if practiced in the clinical environment. Assist the patients in choosing, using, and changing strategies and provide the patient with **positive feedback** for each step of the process.
@@ -91,7 +91,7 @@
 	- **Lithium** is a salt in the body found in trace amounts. In acute mania, lithium is effective in 70% to 80% of cases. It can "*mute*" and **reduce the frequency and degree of manic and depressive episodes**, potentially even eliminating manic episodes entirely. Its mechanism of action is unknown, but is thought to hasten catecholamine destruction, inhibit the release of neurotransmitters, and decrease postsynaptic receptor sensitivity.
 		- Peaks in **30 minutes to 4 hours**, or 4 to 6 hours in slow-release forms. The onset of action is 5 to 14 days, with its half-life being 20 to 27 hours.
 		- Affects other ions (calcium, magnesium, potassium) and glucose metabolism.
-		- ==**Contraindicated in renal disease**==.
+		- **Contraindicated in renal disease**.
 	- **Anticonvulsants**, whose mechanism of action is also unknown, has been theorized to raise the sensitivity of the brain to stimulants, which decreases or prevents mania.
 		- **Carbamezapine** (**Tegretol**) was the first anticonvulsant to serve as a mood stabilizer, but risk for agranulocytosis requires regular serum level checking for therapeutic levels (~4 to 12 mcg/mL) or toxic levels. A baseline and periodic laboratory testing monitors for white blood cell supression.
 		- **Valproic Acid** (**Depakote**) also requires regular monitoring (therapeutic levels are 50 to 125 mcg/mL) as well as liver function tests (ammonia levels, platelet and bleeding times).
@@ -117,7 +117,7 @@
 	- **==Ensure Safety==**: provide a safe environment for clients and others. Monitor for suicidal or violent thoughts, ideation, or planning.
 	- **Establish control**: which may be external, done so with a nonjudgmental and empathetic attitude. If boundaries are invaded, limits should be set when the clients are not able to set limits on themselves e.g. "*You are too close to my face. Please stand back two feet.*" or "*It is unacceptable to hug other clients. You may talk to others, but do not touch them*". Clearly identify the unacceptable behavior and the expected, appropriate behavior. All staff should enforce consistent limits.
 	- **Reorient the client** to the three spheres. Repeated presentation of reality provides concrete reinforcement for the client.
-	- **Consistency **
+	- **Consistency**
 	- **==Meet Physiological Needs==**: decrease environmental stimuli, establish a (bedtime) routine, finger-foods high in protein and calories that can be eaten quickly are ideal, but some may be inadequate. Snacks in between meals can also be useful. Sleep, food, and fluids are monitored until regularly met. Taking food from others should be prevented.
 	- **Therapeutic Communication**: clear, simple sentences is used for short attention span and impaired understanding. Asking the client to repeat brief sentences can ensure understanding. 
 		- Short explanations for laboratory tests allay anxiety. Printed information for tests, rules, schedules, rights, treatment, staff names, and client education can help reinforce verbal messages. 
