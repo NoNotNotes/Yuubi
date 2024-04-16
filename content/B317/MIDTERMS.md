@@ -413,6 +413,79 @@ Patients are often "*treatment-resistant*", which also adds to the slow progress
 | Avoidant             | Social inhibitions; inadequacy, hypersensitivity to negative evaluation     | Support and reassurance; promote self-esteem; cognitive restructuring techniques                                                                 |
 | Dependent            | Submissive and clinging behavior; excessive need for care                   | Foster self-reliance and autonomy; teach problem-solving and decision-making; cognitive restructuring techniques                                 |
 | Obsessive-Compulsive | Preoccupation with orderliness, perfectionism, and control                  | Encourage negotiation with others; assist in decision-making and completing work; cognitive restructuring techniques                             |
+## Eating Disorders
+- **Definition**: disorders characterized by alterations in eating patterns and disturbances in body image that interferes with relationships and occupational functioning.
+- **Theories**:
+	- **Biologic Factors**: eating disorders tend to run in families, as well as a family history of mood or anxiety disorders. There is also belief that disruption of the nuclei of the hypothalamus causes most symptoms of eating disorders, as it is responsible for hunger and satiety; the **lateral hypothalamus decreases hunger responses** (i.e. in anorexia) and the **ventromedial hypothalamus decreases response to satiety**, resulting in excessive consumption (i.e. in bulimia).
+	- **Developmental Factors**: a lack of autonomy and unique identity reduce the ability for an individual to gain independence, and therefore may result in achieving control through eating. Body image disturbances may manifest in puberty due to unrealistic social expectations. Anorexia nervosa and bulimia nervosa often accompany a disturbed body image, with the individual believing they are overweight despite their actual weight.
+	- **Family Influences**: eating disorders may arise as a response to family discord. Disordered eating becomes a distraction from emotions. Escaping emotions may result in latching onto something concrete, which may be physical appearance. **Childhood adversity is a significant risk factor** for eating disorders.
+	- **Sociocultural Factors**: the perpetuation by society of an "ideal body type" which is normally unrealistic may distort body image. Being overweight is equated to being lazy, unproductive, and having a lack of self-control or discipline. Pressure from peers, family, and notably in athletes, may also result in eating disorders.
+### Anorexia Nervosa
+- **Definition**: a life-threatening eating disorder characterized by (1) restriction of nutritional intake necessary to maintain minimally normal body weight, (2) fear of gaining weight or "*becoming fat*", (3) disturbed perception of body image, and (4) steadfast inability to accept abnormality or severity of problem. Contrary to its name, patients do not experience a loss of appetite (anorexia) but still choose to ignore it. This may be done through two subtypes:
+	- **Restrictive Subtype**: reduces overall food intake and participates in excessive exercise.
+	- **Purging Subtype**: purges (vomiting, diarrhea via laxatives, enemas) to reduce food intake, potentially accompanied by binge eating.
+- **Onset and Clinical Course**: typically begins during puberty/adolescence at 14 to 18 years old. Initially, negative body image is not present. A profound sense of emptiness is common. As it progresses, depression and lability become apparent. 10% to 20% of cases become chronic, and 30% to 50% fully recover.
+- **Symptoms**: less than normal expected body weight, preoccupation with food and food-related activities and rituals e.g. not letting food touch their lips, cutting food into small bits, not eating with others, etc. There is potential **amenorrhea**, constipation, **lanugo**, cold intolerance, loss of body fat, muscle atrophy, **hair loss**, dry skin, **dental caries**, pedal edema, bradycardia, arrhythmia, orthostasis, enlarged parotid glands, hypothermia, and electrolyte imbalances (hyponatremia, hypokalemia)
+#### Treatment/Management
+- **Hospitalization** is used for patients with major life-threatening conditions e.g. severe metabolic, fluid, and electrolyte imbalances. Those who respond quickly to weight gain can maintain short hospital stays. If weight gain is slow, inpatient stays are longer. Outpatient therapy is more successful only for patients who have had the disorder for less than 6 months, is not purging or binging, and have parents likely to participate in family therapy.
+- **Cognitive-Behavioral Therapy** is used to prevent relapses and improve overall outcomes.
+- **Medical Management**: weight restoration, nutritional rehabilitation, rehydration, potential TPN or hyperalimentation for severe malnutrition. Supervision to the bathroom is initially suggested to avoid purging when consumption starts to increase.
+- **Psychopharmacology**:
+	- Amitriptyline (Elavil) and Cyproheptadine (Periactin) in high doses aid in weight gain.
+	- **Olanzapine** (**Zyprexa**), an antipsychotic, has been used to treat bizarre body image distortions.
+- **Psychotherapy**:
+	- **Family Therapy** for clients younger than 18 years old can resolve familial discord.
+	- **Individual Therapy** may be indicated, focusing on coping skills, self-esteem, self-acceptance, interpersonal relationships, and assertiveness. CBT can prevent relapses and improve outcomes. Enhanced forms of CBT (CBT-E) also tackle perfectionism, mood intolerance, low self-esteem, and interpersonal difficulties.
+### Bulimia Nervosa
+- **Definition**: characterized by recurrent episodes of binge eating followed by inappropriate compensatory behaviors to avoid gaining weight e.g. purging, fasting, and excessive exercise. These "binging episodes" are often precipitated by strong emotion, and is followed by guilt, remorse, shame, or self-contempt.
+- **Onset and Clinical Course**: often begins in late adolescence from 18 to 19 years of age. 45% of clients fully recover, but ~25% remain chronically ill. 25% have been found to not receive treatment.
+- **Symptoms**: usually normal body weight; induced vomiting causes oral pH imbalance resulting in dental caries or a "moth-eaten appearance" of the teeth. As such, dentists are often the first to identify patients with bulimia.
+#### Treatment/Management
+- **Outpatient Therapy** is only used if purging and binging behaviors are severe, and medical conditions arise. Being near-normal body weight reduces the concerns for malnutrition.
+- **Cognitive-Behavioral Therapy**: the most effective form of treatment. Strategies are used to change cognition (thinking) and behavior (actions) about foods, where **the main focus is breaking the cycle of dieting, binging, and purging**. It is used to **alter dysfunctional thoughts and beliefs** about food, weight, body image, and overall self-concept.
+- **Psychopharmacology**: (not certain, and is often short-term) **antidepressants** can improve mood and preoccupation with food. Episodes of binging were less common.
+### Related Eating Disorders
+1. **Binge Eating Disorder**: a disorder characterized by recurrent episodes of binge eating with no compensatory behaviors. Marked psychological distress is noted with shame, guilt, remorse, and self-contempt felt after episodes.
+	- **Incidence**: men older than 35 years old with no other eating disorders, and overweight/obese individuals especially since childhood.
+2. **Night Eating Syndrome**: morning anorexia followed by evening hyperphagia. Over half of the caloric intake of these individuals are done after after the last evening meal and from night-time awakenings to consume meals.
+3. Childhood eating disorders include **Pica** (eating non-food substances) and **Rumination** (repeated regurgitation followed by spitting or reswallowing).
+	- **Incidence**: both are more common in children with [[#Intellectual Developmental Disability]]
+4. **Orthorexia Nervosa** is an obsession with healthful and proper eating. It is not yet recognized by DSM-5, but is suspected to be a separate diagnosis. This involves excessive checking of ingredients, excluding food groups from diets, and preoccupation with food and food-related things.
+5. Eating disorders are often accompanied by depression, obsessive-compulsive disorder, anxiety disorders, mood disorders, substance abuse/dependence, perfectionism, neuroticism, negative emotionality, (read about [[#Personality Disorders|Temperament]]) harm avoidance, low self-directedness, low cooperativeness, and traits of [[#Avoidant Personality Disorder]]. High impulsivity, novelty seeking, and traits of [[#Borderline Personality Disorder]] may also be noted. A history of sexual abuse is often present, especially if prepubertal, as well as childhood neglect.
+### Nursing Care
+1. **History**: family members often describe the client as perfectionists with above-average intelligence, achievement-oriented, dependable, eager to please, and approval-seeking until the onset of the disorder. Bulimic patients often have histories of impulsive behavior e.g. substance use, shoplifting
+2. **MSE**: slow, lethargic, fatigued appearance. Clothes are often loose fitting and in layers to hide weight loss and maintain body heat (may have cold intolerance). Eye contact is limited, and clients are unwilling to fully answer questions or discuss with the nurse for treatment. Bulimic patients may have normal body weight. Moods are labile, often correlated with their sense of control; being able to avoid "bad" foods make them feel powerful, while binging episodes cause anxiety, depression, and guilt. Anorexic patients are rarely cheerful, in contrast to the initial cheerfulness of bulimic patients only thwarted by discussions of their disorder. Thought process is preoccupied with food, body image (weight), and food. Body image may border on delusional. Paranoia about others trying to make patients fat may be present. Intellect is intact except for in severe malnutrition. Limited insight and poor judgment is observed; anorexic patients are ego-syntonic. Bulimic patients are ego-dystonic. Self-concept and self-esteem is low.
+3. **Assessment Priorities**:
+	- **Bulimia Nervosa**:
+		- Inadequate nutrition
+		- Ineffective coping
+		- Body image disturbance
+		- Low self-esteem
+		- Other problems such as dehydration, constipation, fatigue, and inability to tolerate activity.
+4. **Diagnosis**: **==Ineffective coping==**
+	- **Expected Outcomes** (**Anorexia**)
+		- **Immediate**: be free from self-inflicted injury, participate in a treatment program (2 to 3 days), demonstrate the beginning of a trusting relationship (3 to 4 days), verbalize recognition of perceptual distortions (4 to 5 days), identify non-food-related coping mechanisms (4 to 5 days), socialize in non-food-related ways (3 to 4 days), increased social skills (3 to 4 days)
+		- **Stabilization**: demonstrate more effective interpersonal relationships with family or significant others, exhibit age-appropriate behavior
+		- **Community**: participate in continuing therapy, demonstrate independence and age-appropriate behaviors, and verbalize a realistic perception of body image.
+	- **Expected Outcomes** (**Bulimia**)
+		- **Immediate**: be free from self-inflicted injury, identify non-food-related coping mechanisms (2 to 3 days), verbalize feelings of guilt, anxiety, anger, or need for excessive control (3 to 4 days)
+		- **Stabilization**: demonstrate more effective interpersonal relationships with family or significant others, demonstrate alternative behaviors during stress, and express feelings in non-food-related ways.
+		- **Community**: participate in continuing therapy, demonstrate independence and age-appropriate behaviors, and verbalize increased self-esteem, self-confidence, and a realistic perception of body image.
+5. **Nursing Actions**:
+	- **Establish adequate nutritional intake**: initial priority; implement nutritional rehabilitation.
+		- TPN may be required during severe compromisation. If the client is able to eat, 1,200 to 1,500 calories a day is ordered, gradually increasing until normal. Division is generally between three meals and three snacks. Liquid protein supplements may be given.
+		- The nurse is responsible for monitoring meals and snacks. Food rituals may be prohibited. Supervision for compensatory behaviors is also required.
+		- Weight is measured regularly. Patients may sneak items into clothing to falsify weight gain. Minimal clothing is used when weighing the patient.
+		- Bulimic patients are treated in an outpatient basis. They should be encouraged to (1) eat at a designated area, (2) eat with their family, (3) avoid common binging foods e.g. cookies, candy, potato chips, etc.
+	- **Identify Emotions and Develop Coping Strategies**: **self-monitoring** (a CBT technique) helps bulimia patients identify behavior patterns that they can then avoid or replace, also imparting a sense of control. A **food diary** is used to record consumption and the surrounding emotions, moods, situations, and thoughts during them. **Relaxation techniques**, distractions, etc. can help manage emotions.
+	- **Body Image Issues**: the client can agree to weight more, be healthy, stay out of the hospital, etc. to accept a more normal body image. Improved body image can be a product of self-esteem, decreased emotional distress, and positive coping mechanisms. The nurse should also introduce other aspects of body image besides weight and figure.
+	- **Client and Family Education**: nutritional needs, effects of disorders, realistic goals for eating, healthy body image; provision of emotional support, remove preoccupation on food-related topics, and when to seek professional help.
+6. **Outcome Evaluation**: using the Eating Attitudes Test
+	- The client will establish adequate, balanced nutritional food and fluid intake.
+	- The client will eliminate the use of compensatory behaviors such as excessive exercise and use of laxatives and diuretics.
+	- The client will demonstrate coping mechanisms not related to food.
+	- The client will verbalize feelings of guilt, anger, anxiety, or an excessive need for control.
+	- The client will verbalize acceptance of body image with a stable body weight.
 ## Template
 
 - **Definition**:
