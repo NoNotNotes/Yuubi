@@ -137,6 +137,282 @@
 	- The client will evaluate personal qualities realistically.
 	- The client will engage in socially appropriate, reality-based interactions.
 	- The client will verbalize knowledge of their illness and treatment.
+## Anxiety
+- **Definition**: anxiety by itself is a vague feeling of dread or apprehension normally as a response to external or internal stimuli, which may cause both psychological and physiological symptoms. It is unlike fear, where being afraid or threatened is a response to perceived danger. **Anxiety disorders** are a group of conditions that feature excessive anxiety and its psychological and physiological manifestations. Panic without reason, unwarranted fear, and unexplainable, overwhelming worry may appear. This distress significantly impairs multiple areas of functioning. Obsessive-Compulsive Disorder (OCD) and Posttraumatic Stress Disorder (PTSD) may also feature excessive anxiety. There are various levels
+- **Onset**: highly variable
+- **Incidence**: highest prevalence rates of all mental disorders for both children and adults. The lifetime incidence rate is 30%. Incidence is higher in women, and those less than 45 years of age.
+- **Symptoms**:
+	- Decreased attention span, restlessness, irritability, poor impulse control, feelings of discomfort, apprehension, or helplessness, hyperactivity, pacing, wringing hands, perceptual field deficits, decreased ability to communicate verbally
+	- **Mild**: restless, butterflies, widened senses, effective problem-solving and learning.
+	- **Moderate**: focus becomes limited, tension and physiological symptoms appear (strong heartbeat, diaphoresis, etc.).
+	- **Severe**: tunnel vision, becoming non-functional, severe headache and vertigo, chest pain, trembling.
+	- **Panic**: vision is limited to self, rationality is lost, suicide risk, flight/fight/freeze.
+- **Theories**:
+	- **Genetic Theories**: first-degree relatives with history increase incidence. Genetic susceptibility is clear, but further study is required.
+	- **Neurochemical Theories**: **GABA** is believed to be dysfunctional in anxiety disorders. GABA is inhibitory, functioning as the body's antianxiety agent. **Norepinephrine** naturally increases anxiety, and is suspected to be in excess for panic disorder, general anxiety disorder, and PTSD. The **5-Hydroxytryptamine type 1a subtype of Serotonin** affects aggression, mood, and anxiety.
+	- **Psychodynamic Theories**
+		- **Intrapsychic/Psychoanalytic Theories**: anxiety is the stimulus for behavior. Defense mechanisms are used to maintain a sense of control and lessen discomfort. Overuse results in an inability to resolve anxiety-producing situations.
+		- **Interpersonal Theory**: interpersonal relationships produce anxiety.
+		- **Behavioral Theory**: anxiety is learned through experiences.
+### Treatment/Management
+- **Psychopharmacology**: **anxiolytic Medications** may be used for short-term anxiety.
+	- **Benzodiazepines** e.g. **Diazepam** (**Valium**), **Lorazepam** (**Ativan**), **Alprazolam** (**Xanax**) are only used short-term (4 to 6 weeks) due to their potential for abuse. Its use is to reduce anxiety to allow for resolution and learning coping skills or changes. It is **not a cure**.
+		- Avoid CNS depressants (antihistamines, alcohol), caffeine, and hazardous activities such as driving.
+		- Do not stop taking the drug abruptly. Use as prescribed. Maintain hydration.
+	- **Nonbenzodiazepines** e.g. **Buspirone** (**BuSpar**) may also be used.
+		- Avoid hazardous activities such as driving.
+		- Report persistent restlessness, agitation, euphoria, and excitement.
+		- Take with food.
+- **Cognitive-Behavioral Therapy** is used successfully.
+	- **Positive Reframing** is the conversion of negative messages to positive messages e.g. "*I'm trembling. I'm going to die.*" to "*I can stand this. It will go away.*"
+	- **Decatastrophizing** involves the use of questions by the therapist to enforce realistic appraisal of situations. Thought-stopping and distractions stop negative thought such as splashing cold water on the face, snapping a rubber band on the wrist, or shouting when negative thoughts appear.
+	- **Assertiveness Training** helps the patient control life situations. "*I*" statements communicate feelings and needs to others, like "*I feel angry when you turn your back while I'm talking*".
+- **Mental Health Promotion**: maintaining a positive attitude, self-assurance, communicating assertively, learning to relax, exercising, balanced diets, limited caffeine/alcohol intake, proper rest and sleep, realistic goals, and stress management techniques (relaxation, guided imagery, meditation)
+### Nursing Care
+1. **History**:
+2. **MSE**:
+3. **Assessment Priorities**:
+4. **Diagnosis**: **==Anxiety==**
+	- Expected Outcomes:
+		- **Immediate**: the client will be free from injury (safety), discuss negative feelings (24 to 48 hours), and respond to relaxation techniques with assistance from staff, displaying decreased anxiety level (48 to 72 hours).
+		- **Stabilization**: demonstrate effective independent use of relaxation techniques, reducing own anxiety level without staff assistance.
+		- **Community**: be free from anxiety attacks and manage anxiety responses to stress effectively.
+5. **Nursing Actions**:
+	- According to level:
+		- **Mild**: the nurse does not need to intervene, and this form may even be beneficial.
+		- **Moderate**: the nurse should make certain that the patient is paying attention to instructions. Keep it short and simple. Refocusing the patient may be required.
+		- **Severe**: attention and information is no longer retainable. The goal now is to reduce the anxiety levels before proceeding. Remaining with the client is important as being alone may cause anxiety to increase. A low, soothing, calm voice can help. Walking with the patient while talking can reduce restlessness. Deep breaths can also help.
+		- **Panic**: safety is priority. Judgment is impaired. Talking with the patient in a comforting manner even if conversation cannot occur can still help. A small, quiet, non-stimulating environment can reduce anxiety. Reassure safety and transience of the anxiety. It may last from 5 to 30 minutes.
+	- **Implementation**:
+		- **Therapeutic Use of Self**: presence reduces anxiety levels. Supervision is used to ensure safety for highly anxious patients. Be aware of the nurse's own anxiety and discomfort to avoid becoming anxious due to the patient.
+		- **Use of the environment**: reduce stimuli (small, quiet room)
+		- **Therapeutic Communication**: remain calm. Displaying anxiety can elevate the client's own anxiety. Short, concise sentences allow for understanding even during periods of elevated anxiety. Do not asking or forcing the client to make choices.
+		- **Relaxation Exercises** such as deep breathing, progressive muscle relaxation, meditation, and imagining a "*happy place*". Encourage the patient to participate in these activities.
+		- **Encourage the client** to pursue relationships, personal interests, supportive resources and systems, or hobbies.
+## Panic Disorder
+- **Definition**: discrete episodes of panic attacks, defined as 15 to 30 minutes of rapid, intense, escalating anxiety with great emotional fear as well as physiological discomfort. Four or more of the following are displayed: palpitations, sweating, tremors, shortness of breath, sense of suffocation, chest pain, nausea, abdominal distress, dizziness, paresthesia, chills, hot flashes
+- **DSM-5 TR**: (1) recurrent, unexpected panic attacks, followed by (2) at least one month of persistent concern or worry about future attacks or their meaning may constitute a diagnosis of panic disorder.
+- **Onset**: onset peaks from late adolescence to the mid-30s. Occurrences may be normal in certain situations, but a lack of stimulus characterizes a panic disorder. **Avoidance behaviors** may result from stimuli that trigger a panic attack. The patient may avoid riding a bus if they have had a panic attack in one before. They may also become homebound; **agoraphobia** may occur. **Primary gain**, where an action reduces anxiety (like staying at home) and **secondary gain**, a resulting attention primary gain produces (like being taken care of while homebound) are displayed in agoraphobia. These "gains" are related to many anxiety disorders, and may drive behavior.
+- **Incidence**: 
+- **Symptoms**: 
+- **Theories**: 
+### Treatment/Management
+- **Cognitive-Behavioral Therapy** such as deep breathing and medication are used to treat panic disorder.
+- **Psychopharmacology**
+	- **Benzodiazepines** e.g. Diazepam (Valium), Lorazepam (Ativan)
+	- **Selective Serotonin Reuptake Inhibitor Antidepressants**
+	- **Tricyclic Antidepressants** (TCA)
+	- **Antihypertensives** like **Clonidine** (**Catapres**)
+	- **Propranolol** (**Inderal**)
+### Nursing Care
+1. **History**: the client often looks for treatment after several panic attacks. They often cannot identify a trigger for the episodes. Assessment may be done through the **Hamilton Rating Scale for Anxiety**.
+2. **MSE**: the client may be entirely normal or may have some anxiety about future panic attacks. Automatisms such as tapping fingers, jingling keys, or twisting hair may be elevated, which act to attempt to decrease anxiety. Its frequency and intensity is proportional to the severity of anxiety. Distress about their panic attacks may be evident. Anger, tearfulness, and feelings of depersonalization or derealization may be present. Alterations in social roles may occur from anxiety related to panic attacks.
+	- During a panic attack, feelings of "*losing control*", disorganized thought, loss of rationality, confusion, disorientation, suspended judgment, and impaired insight may occur. Thoughts of suicide may occur.
+3. **Assessment Priorities**: 
+	- Risk of injury
+	- Anxiety
+	- Situational low self-esteem
+	- Ineffective coping
+	- Powerlessness
+	- Ineffective role performance
+	- Disturbed sleep pattern
+4. **Diagnosis**: **==Panic; Anxiety==**
+5. **Nursing Actions**:
+	- **Ensure safety**. Provide a safe, private environment. Less stimulation may also help.
+	- **Therapeutic Use of Self**: remain with the patient to prevent elevating anxiety and provide supervision and continued assessment. Use a soothing, calm voice and reassure the patient. If the patient feels like they have no control, the nurse can assure that they are in control until the client regains self-control.
+	- **Therapeutic Communication**: utilize simple, calm communication. The nurse may talk to the patient while walking to relieve restlessness. Discussing panic attacks after cognition is regained allow for exploration of their experiences; their emotional responses to physiological processes and behaviors. This may allow them to regain a sense of control.
+	- **Manage Anxiety**: relaxation techniques such as deep breathing, guided imagery, progressive relaxation, and cognitive restructuring techniques can be taught to the patient. They can be assisted in performing the techniques, but should eventually be able to perform them independently.
+	- **Decrease Stressors**: explore how to decrease stressors and anxiety-provoking situations with the client.
+6. **Outcome Evaluation**:
+	- The client will be free from injury.
+	- The client will verbalize feelings.
+	- The client will demonstrate use of effective coping mechanisms.
+	- The client will demonstrate effective use of methods to manage anxiety response.
+	- The client will verbalize a sense of personal control.
+	- The client will reestablish adequate nutritional intake.
+	- The client will sleep at least 6 hours per night.
+## Phobias
+- **Definition**: illogical, intense, and persistent fear of a specific object or situation, creating extreme distress and dysfunction. Oftentimes, these phobias are not preceded by a negative experiences. Contrarily, the person may not have ever experiences their phobia. Irrational fear is paired by irrational reactivity to the phobia. Recognition of the irrationality of the fear may not abate their control over it. There are three categories:
+	- **Agoraphobia**, a fear of the outside
+	- **Specific phobia**, a phobia of specific situations or objects
+		- Natural environmental phobias: storms, water, heights, etc.
+		- Blood-injection phobias: fear of seeing one's own or other's blood, traumatic injury, or other medical procedures.
+		- Situational phobias: fear of being in a specific situation such as being on a bridge, a tunnel, elevator, small room, hospital, airplane, etc.
+		- Animal phobia: fear of animals or insects (often of a specific type) that usually develop in childhood, sometimes continuing into adulthood. The most common objects of animal phobia are cats and dogs.
+	- **Social anxiety/phobia** is provoked by certain social or performance situations.
+- **DSM-5 TR**: a diagnosis is only made when phobias significantly interfere with the person's life by creating marked distress or difficulty in interpersonal or occupational functioning.
+- **Onset**: specific phobias occur in childhood or adolescence. 80% of specific phobias persist for a lifetime. Social phobia often develops during middle adolescence. This may occur in shy children and less intense during adulthood.
+- **Incidence**: phobias may run in families.
+- **Symptoms**: anticipatory anxiety develops and **avoidance behavior** may occur, limiting life quality. The anxiety is not abated by the avoidance behavior.
+### Treatment/Management
+- **Behavioral therapy**: teaching the patient about anxiety, anxiety responses, relaxation techniques, goal-setting, and planning. Phobic situations are visualized with the patient, and development of self-esteem, self-control can be done with methods like **positive reframing** and **assertiveness training**.
+	- **Systematic (Serial) Desensitization** is often used, tapering the intensity of the phobic item in a safe environment to condition the client's anxiety to decrease.
+	- **Flooding** is rapid desensitization where the client is "*flooded*" with a phobic object until it no longer produces anxiety. As expected, severe anxiety is produced by this method, and is only used by trained psychotherapists with consent.
+- **Psychopharmacology**: the same drugs used for anxiety may be used for phobia-induced anxiety.
+## Generalized Anxiety Disorder (GAD)
+- **Description**: excessive worrying and high anxiety for more than half the time for six months or more, causing greatly diminished quality of life, especially in older adults.
+- **Symptoms**: unease, irritability, muscle tension, fatigue, difficulty in thinking, and sleep alterations.
+### Treatment/Management
+- **Buspirone** (**BuSpar**) and SSRIs/SNRI Antidepressants are the most effective treatments for GAD.
+## Personality Disorders
+- **Definition**: personality is an ingrained, enduring pattern of behavior and relating to the self, others, and the environment, including perceptions, attitudes, and emotions. These remain consistent across situations and do not change easily. **Personality Disorders** affect personality functioning (areas of identity, self-direction, empathy, and intimacy), and traits in a maladaptive way. **Egocentrism** is a common problem, and self-esteem is sourced from gaining power or pleasure, often at the expense of others. Non-conformity to social norms is normal.
+- **DSM-5 TR**: for Borderline Personality Disorder; a pervasive pattern of instability of interpersonal relationships, self-image, and affects, and marked impulsivity including five or more of the following: (1) frantic efforts to avoid abandonment, whether real or not; (2) unstable and intense interpersonal relationships characterized by alternating idealization and devaluation; (3) identity disturbance; (4) self-damaging impulsivity in at least two areas; (5) recurrent suicidal or self-mutilating behaviors; (6) affective instability; (7) chronic feelings of emptiness; (8) inappropriate, intense, hard-to-control anger; (9) transient, stress-related paranoid ideation or severe dissociation 
+- **Onset**: 10% to 20% of the general population exhibit personality disorders. By age 40 or 50, personality disorders often reduce in severity.
+- **Incidence**: lower socioeconomic groups and unstable or disadvantaged populations (prisoners, drug users) have increased incidence. Personality disorders commonly coexist with other mental illnesses (15% of inpatients, 30% of outpatients, 45% of those with major mental illnesses)
+- **Symptoms**:
+	- **Behaviors**: negative behaviors (being manipulative, dishonest, deceitful, or lying), anger, hostility, irritability, labile moods, lack of guilt/remorse, emotionally cold and uncaring, impulsivity, distractibility, distractibility, poor judgment, irresponsible, unaccountable, risk-taking, thrill-seeking, mistrust, exhibitionism, entitlement, dependency, insecurity, eccentric perceptions.
+- **Theories**:
+	- **Biologic Theories**: **Temperament** refers to the biologic processes of sensation, association, and motivation that underlie the integration of skills and habits based on emotion. Genetic differences account for half of variance in temperament. There are four traits found in temperament:
+		- (1) **Harm Avoidance**: excess in harm avoidance results in fear of uncertainty, social inhibition, shyness, rapid fatigability, and anticipatory pessimism. Deficiency in harm avoidance results in unwarranted optimism, and unresponsiveness to potential harm.
+		- (2) **Novelty Seeking**: excess in novelty seeking results in being quick-tempered, curious, easily bored, impulsive, extravagant, and disorderly. Deficiency in novelty seeking results in slow-tempered, stoic, reflective, frugal, reserved, orderly behaviors that are tolerant of monotony, adhering to routine activities.
+		- (3) **Reward Dependence** determines the responses of an individual to social cues. High reward dependence results in tender-hearted, sensitive, sociable, and socially dependent individuals. Overdependence on approval may cause a loss of adherence to one's own beliefs or desires. Low reward dependence result in practical, tough-minded, cold, socially insensitive, irresolute, and indifferent to being alone. Social withdrawal, detachment, aloofness, and disinterest in others can result.
+		- (4) **Persistence**: highly persistent people people are hardworking overachievers who perceive fatigue or frustration as a personal challenge. Even during situations where they must change or stop, they often persevere. Low persistence results in inactivity, indolence, instability, and erratic behavior. These individuals give up easily and rarely strive for higher accomplishments.
+	- **Psychodynamic Theories**: **character** is changed by social learning, culture, and random life events. It consists of concepts about the self and the external world. There are three major character traits identified:
+		- (1) **Self-directedness**: the extent to which a person is responsible, resourceful, reliable, goal-oriented, and self-confident. High levels result in realistic, effective, adaptive individuals. Deficiency results in blaming, helpless, irresponsible, unreliable, non-achieving individuals.
+		- (2) **Cooperativeness**: the extent to which a person perceives themselves as an integral part of human society. High cooperativeness produce empathic, tolerant, compassionate, supporting, and principled individuals. Deficiency results in self-absorbed, intolerance, critical, unhelpful, revengeful, and opportunistic.
+		- (3) **Self-transcendence**: the extent to which a person perceives themselves as an integral part of the universe. Development of self-transcendence help deal with suffering, illness, or death with spirituality, unpretentious, humility, and fulfillment. Low self-transcendence results in self-conscious, practical, materialistic, controlling individuals.
+### Treatment/Management
+Patients are often "*treatment-resistant*", which also adds to the slow progress of treatment for personality disorders. They are also often unable to perceive the dysfunctions of their behavior, and even defend them, thinking of suggested changes as threats.
+- **Psychopharmacology**: often symptomatic.
+	- **Cognitive-perceptual Distortions** including psychotic symptoms, magical thinking, odd beliefs, illusions, suspiciousness, ideas of reference. These respond to **low-dose antipsychotic medications**
+	- **Mood Dysregulation**: Lithium (lability), MAOIs/SSRIs (atypical depression/dysphoria), SSRIs (emotional detachment)
+	- **Aggression and Behavioral Dysfunctions**: Lithium, Antipsychotics, Anticonvulsants, Benzodiazepines
+	- **Anxiety**: SSRIs, MAOIs, Benzodiazepines, Low-dose Antipsychotics (in severe anxiety)
+- **Psychotherapy**, both individual and group forms: inpatient hospitalization is used for safety concerns. Psychotherapy goals include building trust, basic living skills, providing support, decreasing distress, improving interpersonal relationships, relaxation or stress management techniques.
+- **Cognitive-Behavioral Therapy**: thought-stopping, positive self-talk, decatastrophizing
+- **Dialectical Behavioral Therapy** is used for **Borderline Personality Disorder**.
+- **Schema Therapy** is used for unmet emotional needs, developing self-worth, forming nurturing relationships, and achieving goals.
+### Paranoid Personality Disorder
+- **Definition**: highly suspicious and mistrustful of others.
+- **Symptoms/Characteristics**: aloof and maintains distance with the nurse, guarded or hypervigilant, restricted affect, potentially labile moods, distorted thought, use of projection as a defense mechanism, potential danger in fantasies of retribution.
+- **Onset, Incidence**: 2% to 4% of the general population, more common in males.
+- **Nursing Actions**:
+	- Take a formal, business-like manner as the patients take everything seriously. Refrain from social chit-chat, jokes, etc. It is essential to be straightforward, reliable, and punctual.
+	- Involve the patient in planning of treatment and care, as they prefer being in control. Ask the patient what they would like to gain from care, such as reducing problems at work or getting along with others.
+	- Teach the patient to validate thoughts with at least one trusted individual before acting upon them.
+### Schizoid Personality Disorder
+- **Definition**: a pervasive pattern of detachment from social relationships and a restricted range of emotional expression in interpersonal settings. They lack desire to be involved with others in all aspects of life, and do not find fun in hobbies or leisures. They often involve themselves with computers or mathematics as they may see it as "*productive*", but still not fun.
+- **Symptoms/Characteristics**: they avoid treatment as much as they avoid relationships. Constricted affect and emotion even in stressful situations. Aloof, indifferent, cold, uncaring, or unfeeling. No leisure or pleasurable activities are reported. They often have rich, extensive fantasy life in stark contrast with reality. They seldom reveal these fantasies, and are aware that fantasies are fantasies.
+- **Onset, Incidence**: 5% of the general population, being more common in males.
+- **Nursing Actions**: improve community functioning, refer support systems and a case manager if necessary. It is not necessary to remove their isolation.
+### Schizotypal Personality Disorder
+- **Definition**: social and interpersonal deficits marked by acute discomfort with and reduced capacity for close relationships, as well as cognitive or perceptual distortions and behavioral eccentricities.
+- **Symptoms/Characteristics**: transient psychotic episodes may occur in response to stress. They appear disheveled/unkempt, clothes do not match, speech is loose or vague, answers to questions are unsatisfactory, words are misused, ideas of reference, magical thinking, odd beliefs, and preoccupation with parapsychology are observed. Anxiety is present when in social settings and does not abate with time and familiarity.
+- **Onset, Incidence**: 4% to 5% of the population.
+- **Nursing Actions**:
+	- "*Disheveled and unkempt*": develop self-care e.g. through a daily hygiene routine.
+	- "*Reduced capacity for close relationships*": develop social skills. Find a community member or family member to be the one for the client to relay thoughts to.
+### Antisocial Personality Disorder
+- **Definition**: a pervasive pattern of disregard for and violation of the rights of others. This has also been referred to as psychopathy, sociopathy, or dyssocial personality disorder.
+- **Symptoms/Characteristics**: **==deceit and manipulation==**
+- **Onset, Incidence**: 3% of the general population, 3 or 4 times more common in men than women. Peaks in the 20s, diminishing significantly after 45 years of age.
+#### Nursing Care
+1. **History**: onset is often in childhood, though not formally diagnosed until the age of 18. Enuresis, sleepwalking, and syntonic acts of cruelty are characteristic predictors. Adolescents engage in lying, truancy, sexual promiscuity, smoking, substance use, and illegal activities. Childhood is often erratic, neglectful, harsh, or even abusive; containing depression, substance abuse, antisocial personality disorder, poverty, and divorce.
+2. **MSE**: appearance is often normal and even engaging or charming. False emotions, evoking sympathy, and lack of guilt is common. There are no disordered thoughts, but worldviews may be distorted e.g. "*It's a dog-eat-dog world*". Orientation and perception is normal. Poor judgment is displayed due to illegality, immorality, and the need for immediate gratification (impulsivity). Insight is lacking, often resulting to projection. They are able to realistically assess their strengths and weaknesses, and display self-assurance, but are actually shallow.
+3. **Assessment Priorities**:
+	- Ineffective coping
+	- Unable to fulfill life roles
+	- Risk for violence
+4. **Diagnosis**: **==Ineffective coping==**
+	- Expected Outcomes
+		- **Immediate**: refrain from harming self and others throughout hospitalization, identify behaviors leading to current situation (24 to 48 hours), function within the limits of the environment e.g. following no-smoking rules, participate in group activities (48 to 72 hours).
+		- **Stabilization**: demonstrate nondestructive ways to deal with stress and frustration, identify ways to meet own needs without infringing on the rights of others
+		- **Community**: achieve or maintain satisfactory work performance, meet own needs without infringing on the rights of others
+5. **Nursing Actions**:
+	- **Limit-setting** (stating behavior, consequence, and expected behavior) consistently in a matter-of-fact nonjudgmental manner.
+	- **Confrontation** can manage manipulative or deceptive behavior, where incongruence in actions and words are brought up to the patient.
+	- **Problem-solving skills** can be taught to avoid destructive forms of achieving goals: exploring alternatives, related consequences, and evaluating the results.
+	- **Managing emotions** is a major problem. Time-outs may be required to avoid impulsive reactions and angry outbursts.
+	- **Improve role performance** and identifying barriers to role fulfillment.
+	- **Eliminate drug or alcohol use**
+6. **Outcome Evaluation**:
+	- The client will demonstrate **nondestructive ways to express feelings and frustration**
+	- The client will identify **ways to meet their own needs that do not infringe on the rights of others**
+	- The client will achieve or maintain **satisfactory role performance**.
+### Borderline Personality Disorder
+- **Definition**: a pervasive pattern of unstable interpersonal relationships, self-image, and affect, as well as marked impulsivity. 8% to 10% of patients with BPD commit suicide, with many more with self-mutilation resulting in permanent. ~75% of patients with BPD self-mutilate potentially as a means for expressing anger, as a cry for help, or as self-punishment.
+- **Incidence**: 2% to 3% of the general population, up to five times more common when with a first-degree relative also has the diagnosis, and up to three times more common in women. 
+- **Symptoms**: non-suicidal self-harm, labile moods
+#### Nursing Care
+1. **History**: disturbed parental relationships is observed in many clients, with 50% experiencing childhood sexual abuse and other forms of abuse.
+2. **MSE**: behaviors vary from seemingly normal to disheveled, restless, and suicidal. The most pervasive mood displayed by patients is **dysphoria** (unhappiness, restlessness, malaise). **Loneliness, boredom, frustration, and a feeling of "*emptiness*"** is common. The pervasive depressed affect is not stable, and periods of **irritability**, **hostility**, and [[#Anxiety|panic anxiety]] may occur. **Hypersensitivity to others and their emotions** may result in severe emotional crises e.g. when appointments are changed or delayed. **Severe fear of abandonment** result in potential trauma when their therapists take vacations. Polarized thought of others (idealization, devaluation) i.e. ***splitting*** is common. **Dissociative episodes** may precipitate self-harming behaviors. **Transient psychotic symptoms** may also occur during periods of acute stress, which can produce command hallucinations for self-harm. **Intellect is intact** except for during psychosis. Flashbacks to previous traumatic experiences like in PTSD is observed. Judgment is impaired and **projection** is a common defense mechanism. Self-concept is labile, shifting dramatically and suddenly. They may view themselves as "*evil*". **==Suicidal threats, gestures, and attempts are common==**. They sometimes use these suicide threats to attempt to gain or maintain relationships. They have a great need for companionship but is hindered by their disorder, with their feelings for others also being distorted, erratic, or inappropriate. Role performance is highly impacted. Binging, purging, substance use, unprotected sex, and other reckless behaviors may occur.
+3. **Assessment Priorities**:
+	- Risk for suicide
+	- Risk for non-suicidal self-injury
+	- Risk for violence
+	- Ineffective coping
+	- Social isolation
+4. **Diagnosis**: **==Risk for non-suicidal self-injury==**
+	- **Expected Outcomes**
+		- **Immediate**: be safe and free from injury, refrain from harming others or damaging property, respond to external limits (24 to 48 hours), participate in treatment plan (24 to 48 hours)
+		- **Stabilization**: eliminate acting-out behaviors and develop a schedule or daily routine that involves socialization and daily responsibilities.
+		- **Community**: independently control urges toward self-injurious behavior and demonstrate alternative expressions of feelings e.g. contacting therapists or significant others.
+5. **Nursing Actions**:
+	- **Promote Safety**: assess for self-mutilating or suicidal thought, behavior, etc., facilitate supervision, and clear the environment for dangerous items.
+	- **Limit-setting**: set behavioral limits, expectations, and consequences. Maintain responsibilities, rules, regulations, and so forth with the client in a consistent manner.
+	- **Daily Activities**: boredom and fear of abandonment are issues. Creating a written schedule with the patient can help patients manage time alone. This can include shopping, reading, going for a walk, etc., and may even involve more healthful behaviors.
+	- **Withdraw attention when the client acts out**
+	- **Controlling Emotions**: decreasing impulsivity, using delayed gratification, identifying feelings, and distractions can help mitigate extreme emotional responses. **Cognitive restructuring techniques** such as decatastrophizing, positive self-talk, and thought-stopping can be used to reshape thinking patterns.
+	- **Expression**: encourage the client to identify feelings that precipitate self-destructive behaviors, and to express them directly. Help the client identify coping behaviors they have used successfully in the past, and teach them new positive coping strategies and stress management techniques e.g. exercise, journalling, meditation. When talking with the client, focus on self-responsibility and active approaches.
+6. **Outcome Evaluation**:
+	- The client will be safe and free from significant injury
+	- The client will not harm others or destroy property
+	- The client will demonstrate increased control of impulsive behavior
+	- The cline twill take appropriate steps to meet their own needs
+	- The client will demonstrate problem-solving skills
+### Histrionic Personality Disorder
+- **Definition**: a pervasive pattern of excessive emotionality and attention seeking. Patients become uncomfortable and distressed when they are not the center of attention. They go to great lengths to gain this status, using clothing, lying, and even illness to do so. If they are disapproved of, temper tantrums or crying may be induced.
+- **Symptoms/Characteristics**: exaggeration of relationships, occurrences, and emotions despite vague details and often being unable to explain why; extreme concern for impressing others, often resulting in being easily suggestible; emotions are shallow, insincere, and labile.
+- **Onset, Incidence**: 2% of the general population, but as much as 15% in inpatient populations. More commonly diagnosed in women.
+- **Nursing Actions**:
+	- **Provide concrete feedback** on the client's social interactions (verbal and nonverbal) with others. Be constructive and provide appropriate alternatives.
+	- **Improve the patient's social functioning** through teaching and role-playing in a safe, non-threatening environment. When teaching patients, the nurse should be specific and may also use content outlines for topics being discussed.
+	- **Developing self-esteem** can help reduce anxiety related to disapproval. This may be done through genuine confidence in the client, exploring personal assets, and feedback about positive characteristics.
+### Narcissistic Personality Disorder
+- **Definition**: a pervasive pattern of grandiosity (overt or subtle), need for admiration, and lack of empathy. When not receiving admiration, they may be puzzled or even angry.
+- **Symptoms/Characteristics**: arrogant or haughty attitude; lack of empathy, often belittling the feelings of others; they may envy and begrudge when others receive recognition. **Fantasies** of unlimited success, power, talent, love, etc. may reinforce their **sense of superiority**. Thought processes are intact but with impaired insight. **Projection** is a primary coping mechanism. **Underlying self-esteem is almost always fragile or vulnerable**.
+- **Onset, Incidence**: 6% of the general population, mostly being men.
+- **Nursing Actions**:
+	- **Self-awareness skills** by the nurse is required to avoid anger and frustration when dealing with clients. **Use a matter-of-fact** approach with the patient.
+	- **Gain cooperation** and **set limits** on rude or verbally abusive behavior, explaining expected behaviors.
+	- **Educate the client** on comorbid medical or psychiatric conditions, medication regimens, and other self-care skills that they require.
+### Avoidant Personality Disorder
+- **Definition**: A pervasive pattern of social alienation, discomfort and reticence, low self-esteem, and hypersensitivity to negative evaluation. These clients often report over-inhibition as children and avoidance of unfamiliar situations and people. They are reluctant to do anything risky, which is most of everything to them. Contrastingly, they yearn for intimacy and acceptance but their fears hinder socialization. They often require excessive reassurance of guaranteed acceptance before they risk forming a relationship.
+- **Symptoms/Characteristics**: shy, fearful, socially awkward, anxious; easily devastated by real or perceived criticism, becoming more reticent and withdrawn. **Avoidant behavior** distances them from situations they believe will cause failure, humiliation, and disapproval.
+- **Onset, Incidence**: 2% to 3% of the general population, equally common in both sexes.
+- **Nursing Actions**:
+	- **Support and reassurance**. In a non-threatening relationship, the nurse can help them explore positive self-aspects and positive responses from others, as well as possible reasons for self-criticism.
+	- **Promote self-esteem**: **self-affirmation** and **positive self-talk**. **Cognitive restructuring techniques** such as positive reframing and decatastrophizing may also be used.
+	- **Teach social skills**: practice may be done in the safety of a nurse-patient relationship. It is often not too difficult as the need for social acceptance counterbalance the fear of rejection.
+### Dependent Personality Disorder
+- **Definition**: a pervasive and **excessive need to be taken care of**, leading to submissive and clinging behavior and fears of separation. They may even avoid gaining competence as it may lead to being left by their caretaker. Clients may seek aid for anxious, depressed, or somatic symptoms. They exhibit **tremendous difficulty in decision-making** and believe they are unable to function outside of a submissive relationship. If a relationship ends, they desperately look for another, embodying "*any relationship is better than no relationship at all*."
+- **Symptoms/Characteristics**: **frequently anxious** and mildly uncomfortable. **Pessimism and self-critique is common**, reporting feelings of unhappiness or depression. They are **excessively preoccupied with unrealistic fears of being left alone** to care for themselves.
+- **Onset, Incidence**: 1% of the general population, running in families and being more common in the youngest child.
+- **Nursing Actions**:
+	- **Expressing emotions**: help the client express grief and loss over relationships while fostering autonomy and self-reliance.
+	- **Autonomy and self-reliance**: help the client identify their strengths and needs. **Cognitive restructuring** e.g. reframing and decatastrophizing may help. Assistance in daily functions may be required if they patient is inexperienced. Careful assessment for determining areas of need is crucial.
+	- **Teach problem-solving skills** such as considering alternatives and exploring consequences. **Avoid advising** the patient despite requests to do so. Discuss with the patient and provide **counsel** to let them reach a decision. **Provide positive feedback** for their efforts in these areas.
+### Obsessive-Compulsive Personality Disorder
+- **Definition**: a pervasive pattern of preoccupation with perfectionism, mental and interpersonal control, and orderliness at the expense of flexibility, openness, and efficiency.
+- **Symptoms/Characteristics**: a formal, serious demeanor is often displayed; a restricted affect. Unwillingness to relinquish control is common. Judgment and decision-making is dysfunctional due to decision paralysis. Insight is limited; they often believe they are right, are not listening to others, and do not perceive their potentially "*annoying*" behavior. Their self-esteem is often low due to being unable to reach the perfection they strive for, with praise and reassurance not relieving anxiety.
+- **Onset, Incidence**: among the most common personality disorders; 2% to 8% of the population, affecting men twice as often. Oldest children and professions involving facts, figures, and other focuses on detail show higher incidence. The feeling of needing perfection often begins in childhood, especially for parental approval.
+- **Nursing Actions**:
+	- **Set Goals** for the patient, with focus on being **time-bound**. The nurse may help the patient with the project as a different perspective or **aid the patient in decision-making**. Allowing the client to accept or tolerate "less-than-perfect" work is helpful. Encourage the client to take risks, like allowing other family members to plan a trip. This can reduce their need for control.
+	- **Cognitive restructuring techniques** can benefit the thinking of clients. Asking the client questions like "*What's the worst that could happen?*" or "*How would your wife react to this situation?*" helps reduce rigidity and inflexibility in thinking.
+### Summary
+
+| Disorder             | Symptoms/Characteristics                                                    | Nursing Action                                                                                                                                   |
+| -------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Paranoid             | Suspiciousness; Restricted Affect                                           | Serious, straightforward approach; teach thought validation before taking action; involve patient in treatment planning to reduce suspiciousness |
+| Schizoid             | Social Detachment; Restricted Affect                                        | Improve community functioning; help find a case manager for the patient                                                                          |
+| Schizotypal          | Acute discomfort in relationships; altered thought/perception; eccentricity | Develop self-care; improve community functioning; social skills training                                                                         |
+| Antisocial           | Disregards for others, rules, and laws                                      | Limit setting; confrontation; teach problem-solving; help cope with emotions.                                                                    |
+| Borderline           | Unstable relationships, self-image, and affect; impulsive; self-mutilation  | Promote safety; help cope with emotions; teach social skills; structure time; cognitive restructuring techniques                                 |
+| Histrionic           | Excessive emotionality and attention-seeking behavior                       | Teach social skills; provide factual feedback about behavior                                                                                     |
+| Narcissistic         | Grandiosity; lack of empathy; need for admiration                           | Matter-of-fact approach; gain cooperation for treatment; teach self-care skills                                                                  |
+| Avoidant             | Social inhibitions; inadequacy, hypersensitivity to negative evaluation     | Support and reassurance; promote self-esteem; cognitive restructuring techniques                                                                 |
+| Dependent            | Submissive and clinging behavior; excessive need for care                   | Foster self-reliance and autonomy; teach problem-solving and decision-making; cognitive restructuring techniques                                 |
+| Obsessive-Compulsive | Preoccupation with orderliness, perfectionism, and control                  | Encourage negotiation with others; assist in decision-making and completing work; cognitive restructuring techniques                             |
 ## Template
 
 - **Definition**:
