@@ -1,0 +1,246 @@
+---
+tags:
+  - CMPA
+---
+# Conception
+"*Pregnancy*" occurs from **sexual intercourse** (APOR: arousal/excitement, plateau; actual sexual intercourse, orgasm, resolution), fertilization, and implantation. Fetal development beings thereafter.
+
+1. **Fertilization**: an egg cell is released from the ovary, caught by the fimbrae, and stored by the ampulla for 1 to 2 days while waiting to be fertilized.
+	- The ovum is covered in two layers: the outer **Corona radiata** and the **zona pellucida** under it.
+	- The sperm cell reaches the ampulla, and its head/tip, the acrosome releases hyalase, breaking down the corona radiata.
+	- Once it reaches the **zona pellucida**, the sperm releases **acrosin** to soften the **zona pellucida** until a sperm cell reaches the "egg". Once this occurs, the **zona pellucida hardens**, stopping any other sperm cells from entering.
+		- Each sex cell contains 23 chromosomes composed of 22 autosomes and 1 sex chromosome. The sperm determines the gender of the baby (XY: boy, XX: girl) because the sperm cell may contain X (gynosperm, big head + small tail; because of alkaline content to counter vaginal acidity) or Y (androsperm, small head + long tail) sex chromosome. The egg always contains the X sex chromosome.
+2. **Migration**: the egg stays 3 to 4 days in the (ciliated) fallopian tube, and takes 3 to 4 days to move into the uterus (implantation takes 6 to 8, average 7, days after fertilization.
+	- During this period, estrogen starts to increase, and progesterone even more so.
+		- **Estrogen**: encourages contraction, enlarges uterus, epistaxis, palmar erythema
+			- The inside of the fallopian tube contracts, moving the fertilized egg into the uterus.
+		- **Progesterone**: prevents contractions, provides nutrition, hormone of pregnancy, poor GI motility, pyrosis (heart burn)
+3. **Implantation**: normally in the upper uterine endometrium (if myometrium, placenta acreta). **The site of implantation is the site placental development**.
+	- The combined sperm and egg cell is called the **zygote**, which becomes a partially divided cell: a **cleavage**. Multiplication into four overlapping cells becomes a **blastomere**. Multiplication into 16 overlapping cells becomes a **morulla**. Multiplication and movement into the edges of the cell results in a **blastocyst** (which becomes the embryo), which grows finger-like projections, in which it becomes a **trophoblast** (this becomes the placenta). This then becomes an embryo, fetus, then fetus.
+		- The trophoblast's finger-like projections allow it to embed into the endometrium. It contains a special structure: the **chorionic villi**. This is what produces **human chorionic gonadotropin** (HCG). This is what is detected in urinary pregnancy test.
+	- Once implantation occurs, the endometrium becomes called the "**decidua**", which is further typed into:
+			- **Decidua Basalis**: the inner layer, where the site of implantation is. This is where the development of the placenta occurs, along with the chorionic villi.
+			- **Decidua Capsularis**: the portion of the endometrium that covers the implanted egg cell.
+			- **Decidua Vera**: the remaining part of the endometrium.
+	- The placenta also produces hormones: progesterone, estrogen, human chorionic gonadotropin (HCG) normally at 50,000 to 400,000 units, human placental lactogen (HPL)
+		- HCG is the main cause of morning sickness for pregnant women. Second is estrogen. HCG is high in the morning because HCG is excreted through urine.
+4. **Fetal Development**: sequential stages;
+	- 1st month:
+		- **Dizziness** due to nervous system development of the fetus. For this, glucose is the foremost requirement. This results in the slight hypoglycemia of the mother that results in dizziness.
+		- **Fetal Heart Beat** begins 16 days after conception.
+	- 2nd month:
+		- **Sex Differentiation**
+		- **Fetal Heart Tone** auscultation with a **doppler**, unheard with a stethoscope.
+		- **Placental Development** (not fully functional)
+	- 3rd month:
+		- **Placenta is fully functional**
+		- **Renal system** becomes functional. This is when the fetus begins to urinate in-utero.
+	- 4th month:
+		- **Sex Differentiation** is complete, but the external genitals remain small, which may lead to false determination.
+		- **Fetal Heart Tone** auscultation with a **fetoscope**.
+		- **Lanugo**: fine downy hair on the shoulder, nape, arms, etc.
+		- **Quickening**: first fetal movement felt by **multiparous women**.
+	- 5th month:
+		- The best period for sex determination through ultrasound.
+		- **Vernix caseosa appears**: the cheese-like substance for lubrication during delivery.
+		- **Fetal Heart Tone** auscultation with a stethoscope.
+		- **Quickening**: first fetal movement felt by **primiparous women**.
+	- 6th month:
+		- **Surfactant Production** for alveolar lubrication.
+		- **Hearing ability occurs**: the best time to sing or talk to the fetus.
+	- 7th month:
+		- **Bone Ossification**: fetal bone development. **Calcium demand increases**. This results in **leg cramps** for the mother. Premature occurrence of leg cramps indicate inadequate calcium intake. (Vitamin D increases Calcium absorption; Vitamin C increases Iron absorption)
+	- 8th month:
+		- **Iron is transferred to the fetus**.
+		- Ultrasound at this period shows high presence of calcium in the base of the placenta. Calcium may be visualized (placental grading) due to the clumping of calcium with each other.
+		- **Lanugo disappears**.
+	- 9th month:
+		- **Vernix disappears**.
+
+# Different Discomforts of Pregnancy
+1. **Morning Sickness** (GI)
+	- **Causes**: high levels of HCG, Estrogen
+	- **Signs and Symptoms**: Nausea and Vomiting in the morning
+	- **Management**:
+		- Consumption of crackers 30 minutes before arising from the bed. The crackers absorb hydrochloric acid, which decreases symptoms.
+		- Small feedings to reduce hydrochloric acid production.
+		- Avoid fatty, spicy, acidic foods and drinks.
+		- Avoid sudden positional change
+2. **Pyrosis** (GI)
+	- **Causes**: high levels of progesterone; decreases GI motility/slower stomach emptying; increased hydrochloric acid production due to slower gastric emptying + compression of the stomach from the uterus results in reflux.
+	- **Signs and Symptoms**: chest-like pain.
+	- **Management**:
+		- Small feedings, avoid fatty, spicy, acidic foods and drinks.
+		- Bend by her knees when necessary (avoid compression)
+		- Antacids as ordered by the physician.
+3. **Constipation** (GI)
+	- **Causes**: high levels of progesterone decreases GI motility.
+	- **Signs and Symptoms**: straining during defecation, dry hard stool
+	- **Management**: increase fluids (soften), fiber (bulk), and activity/exercise (improves GI motility). Avoid the use of laxatives.
+4. **Leg Cramps**
+	- **Causes**: hypocalcemia from increased demand due to fetal bone ossification.
+	- **Signs and Symptoms**: leg spasms (often the calf)
+	- **Management**:
+		- Calcium (and vitamin D) consumption. In the Philippines, malunggay is rich in calcium, iron, and folic acid.
+		- Dorsiflexion of the foot, extend the knee.
+		- Warm therapy for muscle relaxation.
+		- The use of liniments (topical pain killer; omega, bengay)
+5. **Varicosities**
+	- **Causes**: caused by the pressure of the uterus on the femoral vein, resulting in a pooling of blood in the legs and distended veins.
+	- **Management**:
+		- Elevate lower extremities
+		- Hip-high stockings
+		- Avoid standing for long periods
+6. **Edema**
+	- **Causes**: high level of progesterone that increases aldosterone production, causing sodium and water retention. Edema follows.
+	- **Management**:
+		- Elevate lower extremities
+		- Hip-high stockings
+		- Avoid standing for long periods
+7. **Physiologic Anemia; Hemodilution**
+	- **Causes**: 30% to 50% increase in blood volume (normally ~5L) of the pregnant woman, particularly of plasma volume.
+	- **Signs and Symptoms**: pallor (check the skin, nail beds, lips lower conjunctival area)
+	- **Management**:
+		- Increase dietary iron, folic acid (may be supplemented), and supplement with vitamin C for iron absorption.
+			- Iron: meat, liver, green leafy vegetables (malunggay, spinach)
+			- Iron is best absorbed in an acidic environment (hence vitamin C supplementation)
+		- Differentiate pathologic with physiologic anemia with a CBC.
+			- **Non-pregnant**: Hgb: 12-16 g/dL; Hct: 37 - 47%
+			- **Pregnant**: Hgb: 11 g/dL; Hct: 33 - 34%
+			- **Pathologic**: Hgb <11 g/dL
+				- **Mild Pathologic Anemia**: 9 to 11 g/dL
+				- **Moderate Pathologic Anemia**: 7 to 9 g/dL
+				- **Severe Pathologic Anemia**: <7 g/dL
+					- **Medical Management**: blood transfusion with packed RBC.
+# Assessment of the Pregnant Women
+1. **Skin**:
+	- **Pallor**
+	- **Chloasma**: mask of pregnancy, darkening of the cheeks and neck due to increased melanin production during pregnancy.
+	- **Striae Gravidarum**: "stretch marks". Collagen affects formation of striae. In early pregnancy, the stretch marks are silvery, but become brown later on.
+		- **Management**: collagen consumption (carrots, fish, tendons/ligaments)
+2. **Head**:
+	- **Headaches**: may often be caused by hypertension; PIH. Otherwise, they may consult an ophthalmologist.
+	- **Seborrhea**
+	- **Facial Pallor**
+	- **Eyes**: pallor; check for vision changes.
+	- **Nose**: enlargement (due to hormones), epistaxis (Mgmt: lean head forward)
+3. **Neck**: slight enlargement of the thyroid gland (normal)
+4. **Chest**:
+	- **Palpitations**
+	- **Shortness of Breathing** due to compression of the diaphragm (lay side-lying when in bed)
+5. **Abdomen**: pyrosis, morning sickness, constipation
+6. **Urinary**: urinary frequency
+7. **Lower Extremities**: edema, varicosities
+8. **Posture**: lordosis AKA the "pride of pregnancy".
+	- In later pregnancy, the mother begins to lean back due to the shift in center of gravity.
+	- Predisposes the mother to **lower back pain**. Provide rest periods and the use of liniment at the lumbosacral area.
+___
+# Nutritional Requirements of Pregnancy
+1. **Caloric**: 2,000 cal/d; 2,300 - 2,500 cal/d
+	- If socioeconomic status is significant, attempt for achievable goals i.e. minimum requirements.
+2. **Iron**: 30 mg/d, 60 mg/d
+3. **Folic Acid**: <400 mcg/d, 450 mcg/d
+4. **Calcium**: 800 - 900 mg/d, 1200 mg/d
+5. **Phosphorus**: 700mg/d
+6. **Protein**: +60 grams/d
+7. **Vitamin A**: 10,000  IU; use starts on the 4th month due to its teratogenic effects.
+8. **Elemental Iodine**: 1 capsule (250 mg) per pregnancy. It is used for brain development, and can be taken on the second month of pregnancy.
+9. **Increase fluid and fiber**
+10. **Decrease fat, sodium, and carbohydrates**. (CHO especially for patients prone to GDM.)
+___
+# Prenatal Checkup
+This must be a **facility-based checkup**, at minimum, at a health center level as certified and trained health workers. The ultimate goal of prenatal checkups is to decrease total maternal and neonatal morbidity and mortality rates.
+- There should be minimum 4 visits in a pregnancy: <4, 6, 8, and 9th month of pregnancy (1st, 2nd, 3rd trimester, final month).
+1. **History Taking**
+	- **Biographic Profile of the Client**:
+		- **Age**: <18 and >35 are at risk, especially hypertension. Hypertension may result in vasoconstriction and subsequent smaller-than-gestational age (<2.5 kg) of the neonate.
+		- **Height**: <5' are at risk due to a small pelvis.
+			- Best time for pelvic x-ray: 2 weeks before EDC	
+		- **Pre-pregnant weight**: <90 or >150 lbs
+			- <90 lbs: may result in anemia, resulting in SGA.
+			- \>150 lbs: may result in diabetes, resulting in LGA.
+			- Normal weight gain for pregnancy:
+				- 24 lbs to 30 lbs, average of 27 lbs. Maximum is 35 lbs. This includes the uterus enlargement, amniotic fluid, fetus, edema, etc.
+				- 1st Trimester: 1 lb per month; 3 lbs
+				- 2nd Trimester: 1 lb per week (0.8 - 1.2); 12 lbs
+				- 3rd Trimester: 1 lb per week (0.8 - 1.2); 12 lbs
+			- Monitor for **pattern of weight gain**. **Sudden weight gain** is often caused by edema, following proteinuria, edema, and hypertension.
+	- **Socioeconomic Status**
+	- **Educational Status**
+2. **OB History**
+	- **Menarche**: the onset of menstruation
+	- **Menstrual Cycle**: regular or irregular
+	- **Menstrual Period**: days 1 to 5
+		- Days of ovulation: 15 (-5 + 3 for fertile days)
+		- Fertile days: 10 to 18; safe from 1 to 9 and 19 to 29
+	- **Problems**, **Number of Pads Consumed**
+	- **LMP**: last menstrual period
+		- 03/28/2023
+		- EDC: LMP (3/7/1) -> 01/4/2024
+		- AOG: 
+	- **Estimates of Pregnancy**
+		- **McDonald's Rule**:
+			- $\text{AOG (wk)} = \text{FH (cm)}*8/7$
+			- $\text{AOG (mo)} = \text{FH (cm)}*2/7$
+			- Measure the fundic height by starting from the **upper border of the symphysis pubis** to the **fundus**.
+		- **Bartholomew's Rule**:
+			- Locate the fundus.
+			- At the symphysis pubis: **0 months**
+			- Above the symphysis pubis: **3 months**
+			- Between the umbilicus and symphysis pubis: **4 months**
+			- At the umbilicus: **5 months**
+			- Above the umbilicus: **6 months**
+			- Between the umbilicus and xyphoid process: **7 months**
+			- Just below the xyphoid process: **8 months** or **late 9th month**.
+				- Recession of the fundus back to this level is caused by lightening, the setting of the fetus into the pelvic inlet. In primipara, they experience it 1 to 2 weeks before labor and delivery, but multipara experience it 1 to 2 days before labor and delivery. 
+			- At the xyphoid process: **early 9th month**
+			- Pelvic diameters:		
+				- Pelvic Inlet: 11 13 12
+				- Pelvic Cavity: 12 12 12
+				- Pelvic Outlet: 13 11 12
+			- **Engagement**: along the ischial spines, the station is 0. Above is negative, and below is positive. Station goes from -5 to +5, 11 centimeters of range. Engagement beings at station 0.
+		- **Haase's Rule**:
+			- Estimated fetal length (cm)
+			- $\text{First five months}^2$
+			- $\text{Next four months}*5$
+		- **Johnson's Rule**:
+			- Estimated fetal weight (grams); check for ballotment
+			- **Not Engaged**: $\text{Wt (g)}=(\text{FH (cm)}-11)155$
+			- **Engaged**: $\text{Wt (g)}=(\text{FH (cm)}-12)155$
+		- **Factors affecting Fundic Height**
+			- Number of fetuses: multiple fetuses
+			- Size of the baby: SGA, LGA
+			- Amount of amniotic fluic: poly/oligohydramnios
+			- Size of mother
+	- **OB Score**: GPTPALM; Gravida (pregnancy), Parity (viable deliveries regardless of number and outcome), Term (37 weeks), Preterm (<37 weeks), Abortion (<20 weeks), Living (only value counting total babies), Multiple (tuplets). When answering, if the question is GPTPALM, write G\#P\#\#\#\#\#\#. If the question is GTPALM, write G\#P_\#\#\#\#\# (take note of the space).
+		- Nulli-: 0
+		- Primi-: 1
+		- Multi-: 2 to 4
+		- Grand Multi-: 5 or more
+		- If both numbers are the same i.e. in G3P3, multiparity also denotes multigravidity, so it is a better OB description.
+___
+# Normal Postpartum
+- Puerperium: the first 6 weeks after delivery.
+	- The most important process: **involution**, the return of the uterus to its pre-pregnant state.
+## Involution
+Immediately after the expulsion of the products of conception
+- **At the level of the umbilicus**, at the midline.
+	- If not at the midline, the uterus is **displaced**, often due to a full bladder. When it is displaced, the uterus relaxes. This results in bleeding and a delay in involution.
+- Every following postpartum day, the level of the fundus should **decrease by one fingerbreadth**.
+- On the **10th postpartum day**, the fundus is expected to no longer be palpable.
+### Promoting Involution
+1. **Massage the fundus**: press inward and massage at the level of the umbilicus. One may expect to feel the uterus contract.
+2. **Early ambulation**: as soon as possible, when tolerable.
+	- For **CS deliveries**, after 24 hours.
+3. **Early breastfeeding** (stimualtes oxytocin release)
+4. **Bladder emptying**
+5. **Monitoring Lochia**
+	- if lochia is not drained, blood clots may form. Large blood clots may result in infections and pain.
+#### Lochia
+|Name|Date|Characteristic|
+|---|---|---|
+|**Rubra**|1-3|Dark red|
+|**Serosa**|4-7|Pink to Brown|
+|**Alba**|8 to 14|Whitish to Clear|
+- Any foul-smelling discharges may indicate infection.
+- Any bright-red discharges are signs of laceration.

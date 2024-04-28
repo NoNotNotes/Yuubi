@@ -1,3 +1,11 @@
+---
+tags:
+  - B317
+  - COMP
+title: Midterms Examination Reviewer
+aliases:
+  - MIDTERMS
+---
 ## Major Depressive Disorder
 - **Definition**: two or more weeks of a sad mood or a lack of interest in activities with at least four other symptoms of depression. This is the leading cause for worldwide disability, followed by [[#Bipolar Disorder]].
 - **DSM-5 TR**: at least five symptoms displayed in a two-week period, representing differences from previous behavior
