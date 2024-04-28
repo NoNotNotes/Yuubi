@@ -7,6 +7,12 @@
 [saved-theme="dark"] strong {
     color: var(--secondary);
 }
+[saved-theme="light"] .text-highlight {
+    color: #bbffb3;
+}
+[saved-theme="dark"] .text-highlight {
+    color: #39477d;
+}
 
 // header formatting
 article h1::before,
