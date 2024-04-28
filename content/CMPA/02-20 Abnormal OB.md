@@ -17,12 +17,12 @@ Termination of the pregnancy before the age of viability (20 weeks)
 			- When used as a vaginal suppository, cytotec change the pH balance of the vagina, leading to ascending infection, resulting in chorioamnionitis. The amniotic fluid becomes infected, which the fetus also contracts. The uterus contracts, separating the placenta from the body to prevent infection, resulting in abortion.
 			- When used orally (overdose), it increases uterine contraction.
 ### Spontaneous Abortion (Miscarriage)
-1. **Threatened Abortion**: the only form of abortion where the pregnancy may be saved. Most important signs: ==contractions== and ==spotting==
+1. **Threatened Abortion**: the only form of abortion where the pregnancy may be saved. Most important signs: **==contractions== and ==spotting==**
 	- Cervical Dilatation: **closed**
 	- Bag of Water: **intact** (+)
 	- Uterine Contraction/Bleeding: **mild** 
 	- Tissues: **intact**
-	- Management: **tocolytics**; ==**no IE**== (for any bleeding during pregnancy, as it increases uterine contractions and therefore bleeding); **external fetal monitoring**; **no sex**.
+	- Management: **tocolytics**; **==no IE==** (for any bleeding during pregnancy, as it increases uterine contractions and therefore bleeding); **external fetal monitoring**; **no sex**.
 	- Drugs: **tocolytics**, **sedation** (esp. if caused by emotions)
 	- **==Nursing Management==**: complete bed rest, watchful waiting, save pads to monitor discharge.
 2. **Imminent Abortion**: progression of threatened abortion to an unrecoverable state. This will result in a **complete or incomplete abortion**.
@@ -43,7 +43,7 @@ Termination of the pregnancy before the age of viability (20 weeks)
 	- Uterine Contraction/Bleeding: **moderate**
 	- Tissues: fragments (+)
 	- Management: **oxytocic**, **antibiotic**, **analgesic**, **antiinflammatory**
-5. **Missed Abortion**: intrauterine fetal demise; the fetus may remain in the uterus for **4 to 6 weeks** without leading into complications. It is often found that there are ==**no fetal movements**==; nurses auscultates ==**no fetal heart tone**==. The best diagnostic examination is **==ultrasound==**. May also progress to septic abortion.
+5. **Missed Abortion**: intrauterine fetal demise; the fetus may remain in the uterus for **4 to 6 weeks** without leading into complications. It is often found that there are **==no fetal movements==**; nurses auscultates **==no fetal heart tone==**. The best diagnostic examination is **==ultrasound==**. May also progress to septic abortion.
 	- Cervical Dilatation: **closed** before infection
 	- Bag of Water: **intact** (+) before infection
 	- Uterine Contraction/Bleeding: (-)
@@ -100,7 +100,7 @@ Rarely occurs; management is through administration of methotrexate. DNC is not 
 1. If detected early, **elective surgery**
 ___
 ## Hydatidiform Mole
-AKA ==**Gestational Tropoblastic Disease**== (GTD)
+AKA **==Gestational Tropoblastic Disease==** (GTD)
 - Normal HCG hormone: 50,000 to 400,000 IU
 - Elevated HCG: 1,000,000 - 2,000,000 IU
 - Common predisposing factors:
