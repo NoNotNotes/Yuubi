@@ -80,37 +80,40 @@ aliases:
 	<tr><th style="text-align: center; vertical-align: middle;" colspan=3>Week 6: Preliminary Examination</th></tr>
 	<tr>
 		<th style="text-align: center; vertical-align: middle;">07</th>
-		<td>Diabetes Mellitus</td>
+		<td><a href="B316/07-1">Diabetes Mellitus</a></td>
 	</tr>
 	<tr>
 		<th style="text-align: center; vertical-align: middle;" rowspan=3>08</th>
-		<td>Hypothyroidism</td>
+		<td><a href="B316/08-3">Hypothyroidism</a></td>
 	</tr>
 	<tr>
-		<td>Hyperthyroidism</td>
+		<td><a href="B316/08-3">Hyperthyroidism</a></td>
 	</tr>
 	<tr>
-		<td>Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)</td>
+		<td><a href="B316/08-1">Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)</a></td>
 	</tr>
 	<tr>
-		<th style="text-align: center; vertical-align: middle;" rowspan=3>09</th>
-		<td>Cushing Syndrome (Addison's, Pheochromocytoma)</td>
+		<th style="text-align: center; vertical-align: middle;" rowspan=5>09</th>
+		<td><a href="B316/09-3">Cushing Syndrome</a></td>
 	</tr>
 	<tr>
-		<td>Hypoparathyroidism</td>
+		<td><a href="B316/09-4">Addison's Disease</a></td>
 	</tr>
 	<tr>
-		<td>Hyperparathyroidism</td>
+		<td><a href="B316/09-2">Pheochromocytoma</a></td>
 	</tr>
 	<tr>
-		<th style="text-align: center; vertical-align: middle;" rowspan=4>10</th>
+		<td><a href="B316/09-5">Hypoparathyroidism</a></td>
+	</tr>
+	<tr>
+		<td><a href="B316/09-5">Hyperparathyroidism</a></td>
+	</tr>
+	<tr>
+		<th style="text-align: center; vertical-align: middle;" rowspan=3>10</th>
 		<td>Introduction to Neurology</td>
 	</tr>
 	<tr>
-		<td>Diagnostic Examinations of the Neurologic System</td>
-	</tr>
-	<tr>
-		<td>Overview of Neurologic Assessment</td>
+		<td><a href="B316/10-1">Assessment and Diagnostic Examinations of the Neurologic System</a></td>
 	</tr>
 	<tr>
 		<td>Spinal Cord Injury</td>
@@ -123,7 +126,7 @@ aliases:
 		<td>Seizures</td>
 	</tr>
 	<tr>
-		<td>Cerebrovascular Accident (CVA)</td>
+		<td><a href="B316/11-1">Cerebrovascular Accident (CVA)</a></td>
 	</tr>
 	<tr>
 		<td>Traumatic Brain Injury (TBI) or Head Injury</td>
@@ -131,33 +134,54 @@ aliases:
 	<tr><th style="text-align: center; vertical-align: middle;" colspan=3>Week 12: Midterm Examination, Open-Book Examination</th></tr>
 	<tr>
 		<th style="text-align: center; vertical-align: middle;" rowspan=3>13</th>
-		<td>Parkinson's Disease (PD)</td>
+		<td><a href="B316/13-1">Parkinson's Disease (PD)</a></td>
 	</tr>
 	<tr>
-		<td>Multiple Sclerosis (MS)</td>
+		<td><a href="B316/13-2">Multiple Sclerosis (MS)</a></td>
 	</tr>
 	<tr>
-		<td>Myasthenia Gravis (MG)</td>
+		<td><a href="B316/13-3">Myasthenia Gravis (MG)</a></td>
 	</tr>
 	<tr>
 		<th style="text-align: center; vertical-align: middle;" rowspan=3>14</th>
-		<td>Guillain-Barré Syndome (GBS)</td>
+		<td><a href="B316/14-1">Guillain-Barré Syndome (GBS)</a></td>
 	</tr>
 	<tr>
-		<td>Huntington's Disease (HD)</td>
+		<td><a href="B316/14-2">Huntington's Disease (HD)</a></td>
 	</tr>
 	<tr>
-		<td>Amyotrophic Lateral Sclerosis (ALS)</td>
+		<td><a href="B316/14-3">Amyotrophic Lateral Sclerosis (ALS)</a></td>
 	</tr>
 	<tr>
-		<th style="text-align: center; vertical-align: middle;" rowspan=3>15</th>
-		<td>Introduction to the Musculoskeletal System</td>
+		<th style="text-align: center; vertical-align: middle;" rowspan=10>15</th>
+		<td><a href="B316/15-1">Assessment and Diagnostic Examination of the Musculoskeletal System</a></td>
 	</tr>
 	<tr>
-		<td>Fractures</td>
+		<td><a href="B316/15-2">Common Musculoskeletal Disorders (Inflammatory, Traumatic, Structural)</a></td>
 	</tr>
 	<tr>
-		<td>Bone and Joint Disorders</td>
+		<td><a href="B316/15-3">Osteomalacia</a></td>
+	</tr>
+	<tr>
+		<td><a href="B316/15-4">Osteomyelitis</a></td>
+	</tr>
+	<tr>
+		<td><a href="B316/15-5">Common Foot Problems</a></td>
+	</tr>
+	<tr>
+		<td><a href="B316/15-6">Osteoporosis</a></td>
+	</tr>
+	<tr>
+		<td><a href="B316/15-7">Osteoarthritis</a></td>
+	</tr>
+	<tr>
+		<td><a href="B316/15-8">Rheumatoid Arthritis</a></td>
+	</tr>
+	<tr>
+		<td><a href="B316/15-9">Gout/Gouty Arthritis</a></td>
+	</tr>
+	<tr>
+		<td><a href="B316/15-10">Systemic Lupus Erythematous</a></td>
 	</tr>
 	<tr>
 		<th style="text-align: center; vertical-align: middle;" rowspan=9>16</th>
