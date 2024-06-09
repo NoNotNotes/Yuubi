@@ -3,7 +3,7 @@ tags:
   - REVIEW
 title: PALMER Reviewer
 ---
-A summary of **Professional Reviewer Dr./Atty. Glenn R. Luansing**'s Nursing Review Guide on **Professional Adjustment**, **Leadership and Management**, **Ethics**, and **Nursing Research**
+palmeA summary of **Professional Reviewer Dr./Atty. Glenn R. Luansing**'s Nursing Review Guide on **Professional Adjustment**, **Leadership and Management**, **Ethics**, and **Nursing Research**
 >[!CITE] 
 >Luansing, G. (2024). *Nursing Review Guide: Professional Adjustment, Leadership and Management, Ethics, and Nursing Research* (1st ed.). CentralBooks. ISBN:978-621-02-2289-0.
 
