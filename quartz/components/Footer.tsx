@@ -13,7 +13,6 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <hr />
         <p>
           Created by <strong>Kenneth</strong> with <a href="https://quartz.jzhao.xyz/">Quartz</a>
         </p>
