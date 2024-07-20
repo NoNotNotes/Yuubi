@@ -7,7 +7,9 @@ title: Foundations of Care
 modified: 2024-07-19
 sources:
   - CMPA_Saunders
-progress: 85/115/233 -85-87
+progress: 85/122/233
+aliases:
+  - Unit III - Foundations of Care
 ---
 # VIII: Fluids and Electrolytes
 **Electrolytes** are substances that, on dissolving in solution, ionizes; that is, some of its molecules split or dissociate into electrically charged atoms or ions. The metric system is used to measure volumes of fluids; liters (L) or milliliters (mL). The unit of measure that expresses the "combining activity" of an electrolyte is the milliequivalent (mEq). One mEq of any cation (positive ion) reacts chemically with one mEq of any anion (negative ion). They provide information about the number of anions or cations available to combine with other anions or cations.
@@ -1055,3 +1057,5 @@ These medications vary in class, side effects, and considerations. Nursing inter
 | Acetaminophen        | Hepatotoxicity                                                                                                                                                                                     |
 | Opioids              | Physical dependence, addiction, respiratory depression, atelectasis, pneumonia, cough suppression, bradycardia, hypotension, urine retention, constipation, gastric irritation, euphoria, sedation |
 ## Laboratory Reference Intervals
+### Serum Potassium
+### Serum Sodium
