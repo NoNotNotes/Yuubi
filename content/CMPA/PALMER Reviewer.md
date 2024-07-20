@@ -1,7 +1,7 @@
 ---
 tags:
   - CMPA
-title: Professional Adjustment, Leadership and Management, Management, Ethics, and Research
+title: PALMER
 ---
 A summary of **Professional Reviewer Dr./Atty. Glenn R. Luansing**'s Nursing Review Guide on **Professional Adjustment**, **Leadership and Management**, **Ethics**, and **Nursing Research**
 >[!CITE] 

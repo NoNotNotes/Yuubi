@@ -1,5 +1,5 @@
 ---
-title: B316
+title: Medical-Surgical Nursing
 tags:
   - B316
 aliases:
