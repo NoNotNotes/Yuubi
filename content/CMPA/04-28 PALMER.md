@@ -3,7 +3,7 @@ tags:
   - CMPA
 ---
 (c) The Royal Pentagon Review Specialists
-Dean Dr./Atty. Glenn Reyes Luangsing RN, LLB - JD, LLM, DCL, PD, DSM
+Dean Dr./Atty. Glenn Reyes Luansing RN, LLB - JD, LLM, DCL, PD, DSM
 # Professional Adjustments & Nursing Judiprudence
 ## AAACCESS
 Nursing as a profession entails **Accountability**, **Autonomy**, **Altruism**, **Caring**, **Competency**, **Ethics**, **Service-Oriented**, **Specialized Knowledge and Skills**
@@ -66,17 +66,6 @@ Medical records are legally owned and safekept by the hospital. These records ar
 2. **Improper Corrections**: crossing out, liquid taper, etc. are not allowed. **Strikethrough**: draw one or two straight lines across the mistake and write it as an **error** or **mistake**, **date the correction**, and **sign**.
 3. **Spaces and skips**: do not leave spaces to avoid tampering. Obstruct empty spaces with lines.
 4. **Abbreviations** are only used when medically recognized.
-___
-# Leadership, Management
-# Ethics
-# Research in Nursing
-# Fundamentals of Nursing
-
-MS 120
-Psych 40
-MCM 60
-PALMR 200
-Research 30
 ___
 # Example Questions
 1. Which of the following is the most distinguishing characteristic of a professional nurse?

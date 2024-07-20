@@ -2,9 +2,6 @@
 tags:
   - CMPA
 ---
-ABG Reading
-- CO2 is observed for respiratory and pH is observed for acidosis/alkalosis.
-___
 # Normal Breath Sounds
 1. **Tracheal BS** heard at the level of the trachea, characterized as harsh, discontinuous sounds.
 2. **Bronchial BS** heard at the level of the bronchi, characterized as high-pitched.

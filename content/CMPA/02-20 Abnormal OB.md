@@ -9,13 +9,13 @@ tags:
 	- 2nd: abortion (only until the age of viability), incompetent cervix, hydatidiform mole
 	- 3rd: abruptio placenta, placenta previa
 ## Abortion
-Termination of the pregnancy before the age of viability (20 weeks)
+Termination of the pregnancy before the age of viability (20 weeks).
 ### Induced Abortion
 1. **Therapeutic Abortion**: AKA Legal Abortion, to save the life of the mother. This may be used in cases such as ectopic pregnancies, and gravido cardia.
 2. **Non-Therapeutic Abortion**: AKA Criminal Abortion, to get rid of unwanted pregnancies.
-		- Most commonly performed through "Hilot", midwives, doctors, and finally nurses (they suggest abortive drugs, usually cytotec, an antiulcer drug via an overdose or as a vaginal suppository).
-			- When used as a vaginal suppository, cytotec change the pH balance of the vagina, leading to ascending infection, resulting in chorioamnionitis. The amniotic fluid becomes infected, which the fetus also contracts. The uterus contracts, separating the placenta from the body to prevent infection, resulting in abortion.
-			- When used orally (overdose), it increases uterine contraction.
+	- Most commonly performed through "Hilot", midwives, doctors, and finally nurses (they suggest abortive drugs, usually cytotec, an antiulcer drug via an overdose or as a vaginal suppository).
+		- When used as a vaginal suppository, cytotec changes the pH balance of the vagina, leading to ascending infection, resulting in chorioamnionitis. The amniotic fluid becomes infected, which the fetus also contracts. The uterus contracts, separating the placenta from the body to prevent infection, resulting in abortion.
+		- When used orally (overdose), it increases uterine contraction.
 ### Spontaneous Abortion (Miscarriage)
 1. **Threatened Abortion**: the only form of abortion where the pregnancy may be saved. Most important signs: **==contractions== and ==spotting==**
 	- Cervical Dilatation: **closed**
@@ -71,7 +71,6 @@ flowchart TB
 4(Complete Abortion)
 5(Missed Abortion)-->6
 6(Septic Abortion)
-7(Habitual Abortion)
 ```
 ## Ectopic Pregnancy
 The two leading predisposing factors for this is **PID** and **IUD**. PID can affect the cervix, ovaries, and fallopian tubes. The IUD commonly only affect the fallopian tubes (e.g. salphingitis).
@@ -277,7 +276,7 @@ The main problem involved is arteriospasm wcaused by the hormones of pregnancy. 
 	- **Decreased fat**
 	- **Slightly decreased sodium**
 ## Pathophysiology
-1. Arteriospasm
+%%1. Arteriospasm
 2.1. Increased heart workload
 2.2. Increased blood pressure
 3.1. Renal Hypoxia
@@ -297,7 +296,7 @@ The main problem involved is arteriospasm wcaused by the hormones of pregnancy. 
 7.1. Uteroplacental Insufficiency
 7.1.1. IUGR
 7.1.2. Fetal Distress
-7.1.3. Abruptio Placenta from placental necrosis
+7.1.3. Abruptio Placenta from placental necrosis%%
 
 ```mermaid
 graph TD
@@ -317,7 +316,6 @@ graph TD
 3.3-->3.4
 3.4-->3.5
 ```
-
 ```mermaid
 graph TD
 4.1(Hepatic Hypoxia)

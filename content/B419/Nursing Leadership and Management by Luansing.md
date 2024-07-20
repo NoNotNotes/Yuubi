@@ -5,6 +5,7 @@ tags:
 title: Nursing Leadership and Management (Luansing)
 description: A nurse is a leader in the health care system. Leadership is the process of persuasion and example of an individual to influence a group to take action in accordance with their common goals, and achieve desired objectives. Management is a process of the accomplishment of organizational objects using both interpersonal and technical aspects, and using resources efficiently and effectively. A manager coordinates actions and resources available to achieve organizational goals and outcomes.
 ---
+This can also be found under my [[PALMER Reviewer|summary of Luansing's PALMER review book]].
 # Nursing Leadership
 **Leadership** is the process of persuasion and example-setting of an individual to influence a group to take action in accordance with their common goals, and achieve desired objectives. This process may be **formal** or **informal** based on appointment or status of the leader or de-facto leader. This process may be achieved through:
 1. **Rationalization**
@@ -27,7 +28,7 @@ description: A nurse is a leader in the health care system. Leadership is the pr
 - **Vroom-Yetton Expectancy Theory**: a model of decision-making where the leader determines the amount of participation by followers depending on the situation.
 - **Contingency Theory**: the most appropriate leadership style is contingent on situational factors.
 - **Transformational Leadership Theory**: the utilization of **group empowerment** to allow for success.
-- **Transactional Leadership Theory**: the utilization of **policies, rules, or other written documents** for objectives.
+- **Transactional Leadership Theory**: the utilization of **policies, rules, or other written documents** for objectives. Performance is important and rewarded or sanctioned.
 - **Fielder's Theory**: the style utilized by a leader must match the situation it is being used in. (to-do: differentiate from contingency theory)
 - **Path-Goal Theory**: the leader is the one to set a path and traverse it along with his followers in achieving a goal, e.g., setting clear directions for a certain objective.
 ## Leadership Styles
