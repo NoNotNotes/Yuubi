@@ -1057,5 +1057,33 @@ These medications vary in class, side effects, and considerations. Nursing inter
 | Acetaminophen        | Hepatotoxicity                                                                                                                                                                                     |
 | Opioids              | Physical dependence, addiction, respiratory depression, atelectasis, pneumonia, cough suppression, bradycardia, hypotension, urine retention, constipation, gastric irritation, euphoria, sedation |
 ## Laboratory Reference Intervals
-### Serum Potassium
 ### Serum Sodium
+**Sodium** (135 to 145 mEq/L, 135 to 145 mmol/L) is a major cation of extracellular fluid and serves to maintain osmotic pressure and acid-base balance, and assists in the transmission of nerve impulses.
+- Sodium is absorbed from the small intestine and excreted in the urine in amounts dependent on dietary intake.
+
+**Elevations** ([[#Hypernatremia]]) occur in dehydration, impaired renal function, increased dietary or IV intake of sodium, primary aldosteronism, and use of corticosteroid therapy.
+
+**Depressions** ([[#Hyponatremia]]) occur in Addison's disease, decreased dietary intake of sodium, diabetic ketoacidosis, diuretic therapy, excessive loss from the gastrointestinal (GI) tract, excessive perspiration, and water intoxication.
+### Serum Potassium
+**Potassium** (3.5 to 5.0 mEq/L, 3.5 to 5.0 mmol/L) is a major intracellular cation and serves to regulate cellular water balance, electrical conduction in muscle cells, and acid-base balance.
+- Potassium is obtained through **dietary ingestion**, and the **kidneys preserve or excrete potassium** depending on cellular need.
+- Potassium levels are used to **evaluate cardiac function, gastrointestinal function, and the need for IV replacement therapy**.
+- If the client is receiving **potassium supplements**, this should be noted on the laboratory form.
+
+**Elevations** ([[#Hyperkalemia]]) occur in acute or chronic kidney disease, Addison's disease, dehydration, diabetic ketoacidosis, excessive dietary or IV intake of potassium, massive tissue destruction, and metabolic acidosis.
+- Falsely high readings may be found in clients with elevated white blood cells and platelet cells.
+
+**Depressions** ([[#Hypokalemia]]) occur in burns, Cushing's syndrome, deficient dietary intake of potassium, severe diarrhea, diuretic therapy, GI fistula, insulin administration, pyloric obstruction, starvation, and vomiting.
+### Activated Partial Thromboplastin Time
+aPTT (30 to 40 seconds, depending on type of activator used) evaluates how well the coagulation sequence (intrinsic clotting system) is functioning by measuring the amount of time it takes in seconds for recalcified citrated plasma to clot after partial thromboplastin is added to it. It screens for deficiencies and inhibitors of all factors except VII and XIII.
+- This is usually used to **monitor the effectivity of heparin therapy** and **screen for coagulation disorders**.
+- If the client is receiving **intermittent heparin therapy**, blood samples should be drawn 1 hour before the next scheduled dose. These should not be drawn from the arm into which heparin is infusing.
+- Specimen should be transported to the laboratory immediately.
+- Provide direct pressure to the venipuncture site for 3 to 5 minutes.
+- If the patient is receiving heparin therapy, the aPTT results should return 1.5 to 2.5 times normal.
+
+**Elevations** occur in deficiency of one or more of the following: factor I, II, V, or VIII; factors IX and X; factor XI; and factor XII; hemophilia; heparin therapy; liver disease
+>[!WARNING] Bleeding Precautions
+>If the aPTT value is prolonged (longer than 100 seconds or per agency policy) in a client receiving IV heparin therapy or in any client at risk for thrombocytopenia, initiate bleeding precautions.
+
+### Prothrombin Time (PT) and International Normalized Ratio (INR)

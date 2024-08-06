@@ -1,14 +1,14 @@
 ---
 tags:
   - CMPA
-title: PALMER
+title: PALMER Reviewer
 ---
 A summary of **Professional Reviewer Dr./Atty. Glenn R. Luansing**'s Nursing Review Guide on **Professional Adjustment**, **Leadership and Management**, **Ethics**, and **Nursing Research**
 >[!CITE] 
 >Luansing, G. (2024). *Nursing Review Guide: Professional Adjustment, Leadership and Management, Ethics, and Nursing Research* (1st ed.). CentralBooks. ISBN:978-621-02-2289-0.
 
 ___
-# Professional Adjustment and Nursing Practice
+# I: Professional Adjustment and Nursing Practice
 >[!INFO]
 >Most of the following information is based on R.A. 9173, the **Philippine Nursing Act of 2002** as presented in Atty. Luansing's book.
 
@@ -59,7 +59,7 @@ ___
 	- **Registration by Reciprocity** may be provided without examination for nurses registered foreign countries that require the same qualifications and provide the same scope of practice.
 (left off on page  29, continue some other time)
 ___
-# Nursing Leadership
+# II: Nursing Leadership
 **Leadership** is the process of persuasion and example-setting of an individual to influence a group to take action in accordance with their common goals, and achieve desired objectives. This process may be **formal** or **informal** based on appointment or status of the leader or de-facto leader. This process may be achieved through:
 1. **Rationalization**
 2. **Coercion**
@@ -201,7 +201,7 @@ Conflict resolution utilizes different methods:
 4. **Smoothing**/**Accommodating**: a party appeases the other party by using conscientious efforts or kindness. This may not resolve the conflict, producing a temporary result.
 5. **Negotiation**: the most advisable solution; both parties recognize the problem and mutually look for a solution acceptable to both.
 ___
-# Nursing Management
+# III: Nursing Management
 **Management** is a process for the accomplishment of organizational objects using both interpersonal and technical aspects, and using resources efficiently and effectively. A manager coordinates actions and resources available to achieve organizational goals and outcomes.
 ## Theories in Management
 - **Frederick Taylor's Scientific Management Theory**: management work can be **scientifically done** to be able to increase work production or output. It may be summarized as follows:
@@ -309,3 +309,192 @@ The final step of the management process wherein the nurse manager **determines 
 9. **Program Evaluation and Review Technique** (PERT)
 10. **Nursing Rounds**
 11. **Sentinel Event Review**
+___
+# IV: Nursing Research
+Research is a systematic, controlled, empirical, critical investigation and collection of data based on a certain hypothetical proposition about its relation to a phenomena (Kerlinger); it is a formal, systematic, and intensive process of analyzing problems through scientific means for purposes of discovery and development of an organized body of knowledge (Abdeilah).
+- Research is **systematic, controlled, empirical/evidence-based, critical, and may be applied**.
+
+Research is used to **obtain accurate and complete information and richer familiarity about phenomena**; to provide explanations to any hypothesis based on observation of human behavior or through experimentation; to develop a new method or system of care to clients; to **provide new knowledge and technology to improve the delivery of health services**; to provide scientific knowledge; to provide clarifications about a certain concept, inquiry, or theory; and to provide predictions, testing, and control.
+## Ethical Considerations in Nursing Research
+1. Study is based on scientific objectives or purposes, conducted to develop not to destroy others.
+2. Gain proper cooperation and informed consent. Observe the principles of **autonomy** and **self-determination**.
+3. Maintain the integrity of the researcher and his work.
+4. Proper acknowledgment of the contributions of others.
+5. Protection of the basic human rights of subjects:
+	- Right to be **free from harm**
+	- Right to **self-determination**; the subject must be free from coercion, restraint, force, or other undue influences. Consent must be a **voluntary act**, and may be withdrawn at any time.
+	- Right to **privacy**, which involves **anonymity** and **confidentiality**.
+6. Truthfulness with regards to the presentation of findings.
+7. Importance and significance to the nursing profession.
+8. Evidence-based practice; a factual basis and empiricism.
+9. Must proceed utilizing the [[#Basic Steps in the Nursing Research Process|basic steps]] in the research process.
+10. Maintain courage, patience, and determination to collect, analyze, and interpret data or information.
+11. As much as possible, experimental research must be free from any human testing.
+## Basic Steps in the Nursing Research Process
+1. **Chapter I**: The Problem and Its Setting
+	- 1.0 Introduction
+	- 1.1 Statement of the Problem; including historical background
+	- 1.2 Problem Rationale
+	- 1.3 Scope and Limitation
+	- 1.4 Formulation of hypotheses
+	- 1.5 Definition of Terms
+2. **Chapter II**: Review of Related Literature
+	- 2.0 The Review of Related Literature
+	- 2.1 Theoretical Framework
+	- 2.2 Conceptual Framework
+	- 2.3 Other Relevant Theories
+3. **Chapter III**: Research Methodology
+	- 3.0 Nature of the Methodology Deployed
+	- 3.1 Methodological Objectives
+	- 3.2 Advantages and Limitations
+	- 3.3 Rationale
+	- 3.4 Sources of Data: selecting your population and samples, determining the appropriate tool for data collection, conducting pilot studies, and collection of data
+4. **Chapter IV**: Presentation, Analysis, and Discussion
+	- 4.0 Presentation of Findings
+	- 4.1 Analysis and Discussion
+	- 4.2 Summary
+5. **Chapter V**: Conclusion and Recommendations
+	- 5.0 Conclusion
+	- 5.1 Recommendations and Suggestions
+## Research Problems
+A problem is **any condition, situation, or inquiry requiring solution through scientific investigation**. They may be sourced from various concepts, literature, journals, books, essays, clippings, articles, issues affecting the health care system, experience (of the researcher), nursing assessment, areas of practice, theories and principles of nursing, and from curiosity. Good research problems feature:
+- **Significance**: the problem must be of adequate relevance and produces an important contribution to the nursing profession.
+- **Feasibility**/**Measurability** in terms of time, availability of subjects, cooperating and consent of participants, facilities, tools, equipment, financing, experience, and ethics.
+- **General Applicability and Use**
+- **Researchable and Empirically Testable**
+- **Novel**/**Original**
+- **Clearly defined objectives/purposes**
+## Purpose of the Study
+The rationale of the researcher for conducting a study. It shows the significance and importance of conducting a certain research study and its probably contribution in the profession. It shows the reason for focusing on a certain study. Research, based on purpose, may be divided between:
+1. **Basic Research**: research used to generate new knowledge or ideas.
+2. **Applied Research**: research used to solve immediate assessed problems.
+## Research Variables
+Variables are any characteristic or attribute of a person or an object which may be affected by an experience, events, or phenomenon being studied. It changes or "*varies*", but basically can be measured either quantitatively or qualitatively. They may be classified as:
+1. **Independent Variables**: the "*cause of the study*"; the variable that is manipulated in an experimental research and greatly influences the dependent variable.
+2. **Dependent Variables**: the "*effect or response of the study*"; the variable that is being influenced by the independent variable.
+3. **Extraneous/Confounding/Intervening Variables**: variables that may affect the study, but the researcher does not choose to control.
+
+Variables may be expressed or related in various forms:
+1. **Proposition**: an assertion of the relationship between concepts.
+2. **Construct**: a set of concepts which can be subjected to empirical testing.
+3. **Model**: a symbolic representation of phenomena. It symbolizes some aspects of reality, concrete or abstract, by means of likeness which may be structural, diagrammatic, pictorial, or mathematical (Bush, 1979).
+4. **Assumption**: assertions which are held to be true but has **not been scientifically tested or proven**. It is often merely based on common sense or basic reasoning.
+## Scope and Limitations
+The **scope** of the study determines the specific area/s covered by the study. It should state the following:
+- A brief statement of the **general purpose** of the study.
+- The **subject matter** and topics studied and discussed.
+- The **locale** of the study, where the data were gathered or the entity to which the data belong.
+
+ The **limitations** of the study are constraints or restrictions on generalizability and utility of findings that are the result of the ways in which you chose to design the study and/or the method used to establish internal and external validity. This may include a lack of samples, unavailable data and literature, and other physical impossibilities during research itself.
+## Definition of Terms
+Terms used within the study which may require specification or are otherwise significant may be defined by the researchers in the definition of terms. Terms may be defined **conceptually** or **operationally**, where the former utilizes the usual or common definitions usually taken from the dictionary or other common sources, and the latter is based on how the researcher used and applied the terms in his problem or study.
+## Review of Related Literature
+This provides the researcher an overview of the problem under study using prior, previous, or past research findings; studies; and data. It also:
+- Provides ideas and techniques in conducting a research study.
+- Determines the strengths and weaknesses of a study.
+- Provides a simple background, orientation, and current status regarding the problem.
+
+Various literatures may be available for research, but they are generally classified as:
+1. **Conceptual/Non-research Literature**: mere narrations of experience, expert's opinions, thoughts, and theories related to the problem.
+2. **Research Literature**: the result of scientific investigations, studies, and actual research done and published along the problem area. It may be found using library/index or computer search.
+## Research Concepts and Frameworks
+A **concept** is a single abstract thought representing two or more interrelated ideas. It serves as the building blocks of a theory. A **conceptual framework** is  a structural and diagrammatically presented set of relationships between concepts, and is referred to as a **paradigm**.
+
+A **theory** is a tentative relationship between concepts and phenomena. These describe or explain the relationships of two or more concepts, and are mere abstractions of processes, interactions, and observations (Fawcett); a set of interrelated concepts, definitions, and propositions that presents a systematic view of phenomena by specifying the relationship among variables, with the purpose of explaining and predicting a phenomena (Kertinger, 1973). A **theoretical framework** is a general explanation of a problem under study utilizing an existing, established, or well-defined theories.
+## Research Hypotheses
+A **hypothesis** is a **tentative statement, prediction, or explanation of a supposed answer** based on a presumption about the relationship between two or more variables.
+1. **Null/Statistical Hypothesis**: a type of hypothesis that shows or predicts **no relationship** or difference that occurs between a variable to another variable.
+2. **Research/Alternate Hypothesis**: states an **expected relationship** between variables.
+3. **Simple/Univariate/Operational Hypothesis**: a type of hypothesis that shows an anticipated relationship or difference between **a single independent variable to a single dependent variable**.
+4. **Complex/Multivariate Hypothesis**: a type of hypothesis that states the anticipated or predicted relationship between **two or more independent variables to two or more dependent variables**.
+5. **Directional Hypothesis**: a type of hypothesis that **specifies a precise direction of the relationship** between variables.
+6. **Non-Directional Hypothesis**: a type of hypothesis that **shows no specific direction of the relationship** between variables.
+## Research Design
+A study's design is the systematic and controlled **plan** on how the study will be conducted. It servers as **the roadmap, skeletal framework or the blueprint in research**.
+
+Based on existing knowledge, research design may be
+1. **Exploratory Studies**: done to gain richer familiarity for phenomenon which has less or few existing information or data available.
+2. **Descriptive Studies**: done to study the relationship between variables in a known phenomenon; it studies the relationship and characteristics of a particular subject in a certain phenomena as it naturally happens (Brink and Wood, 2001)
+3. **Explanatory Studies**: helps provide basic explanations about the relationships between phenomenon.
+
+Based on the setting or environment, research design may be
+1. **Clinical Setting**: often more controlled.
+2. **Field Study**: ordinary setting where subjects naturally exist.
+
+Based on the type of data collected, research design may be
+1. **Quantitative Research**: a type of research whose result can be determined by **objectivity**, **senses**, and other **empirical methods**. This study is usually measurable, single reality, and can be subjected to statistical analysis based on numerical data.
+	- Experimental and non-experimental designs
+2. **Qualitative Research**: a type of research that focuses on a subject's subjective insights and values about given facts, i.e., perceptions, understanding, emotions, feelings, behavior, etc. These focus more on words than numbers. Data is **represented in thematic or narrative forms**.
+	- Historical studies, case studies, phenomenological studies, ethnographic studies, ethnography, and grounded theory
+3. **Mixed/Triangulation Research**: a combination of quantitative and qualitative research.
+### Experimental Research
+In this design, researchers try to manipulate or control the independent variable to reproduce a certain effect (on the dependent variable). It is mainly concerned with the "*cause and effect*" relationship. Some "True Experimental Designs" are *Pretest-Posttest Control Group Design, Posttest Only Control Group, and the Solomon Four-Group Design*. Experimental research has the following features:
+1. **Manipulation**: the researcher intervenes with the subject under study.
+2. **Control**: the researcher uses a certain system or condition to control the investigation or study
+3. **Randomization of Samples**: samples are acquired and segregated as control or experimental groups.
+4. **Measurement/Validation** of results
+>[!WARNING] Quasi-experimental Studies
+>These are experimental research designs which may be missing some of the features listed above. Usually, there is  no control or comparison group because participants are not randomized.
+
+Various phenomenon may affect the validity of the research:
+1. **Hawthorne's Effect**: changes in behavior attributed to the knowledge of being under study.
+2. **Halo Effect**: specific attributes, whether positive or negative, produce an assumption for other, non-related attributes that the researcher may falsely observe, e.g. good appearance does not constitute good decorum, but the latter may be implied by the former, even if not specifically observed.
+3. **Experimenter's Effect**: the researcher's own beliefs, principles, and values seep into the outcome of the research.
+4. **Reactive Effect of the Pretest**: the pretest effects the participants' actions for the posttest, which produces an imbalance in behavior between tests. 
+5. **Selection Effect**: a lack of randomization in assigning participants introduces bias.
+6. **History Effect**: events that occur outside of the study affect the behavior of the participants under study, such as economic changes.
+7. **Maturation**: the participants of the study mature and change during the study, and the findings become altered as a result.
+8. **Attrition Effect**: the result is altered by participants that drop-out of the study; the final sample may no longer be representative of the population.
+9. **Instrumentation**: the result is affected by changes in calibration of the instruments and equipment used between periods of measurement.
+### Non-experimental Research
+Samples are not subjected to any burdensome control or manipulation. They can easily cooperate for these types of research, and the researcher is not concerned with the cause-and-effect phenomenon.
+1. **Historical Approach**: a type of research based on past events, primarily utilizing pre-existing data such as journals, records, and similar sources or the subjects themselves, merely recalling some past occurrences. Sources may be sources or secondary.
+2. **Survey Studies**: the utilization of mass/large/smaller groups; whether mailed, face-to-face, or through telephone; and simultaneously between groups (cross-sectional) or longitudinal (successive surveys for a single group).
+3. **Comparative Studies**: contrasting studies in relation to particular variables or phenomenon being studied. There are two types:
+	- **Retrospective Design**: a study done "*ex post facto*"; after-the-fact. The researcher usually selects subjects who have undergone some related experience in the past and attempts to let them describe its relationship with a present study or investigation.
+	- **Prospective Design**: a study done at the present, but where the study is consummated in any future time or upon the happening of a future event or occurrence which is certain to happen. The subjects are followed and observed for a period of time.
+4. **Correlational Studies**: a study to determine the strength of relationships among variables in a particular subject. This often utilizes statistical analysis.
+### Qualitative Research Studies
+1. **Case Study/Case Analysis**: research data is taken and analyzed on a certain focus group, institution, or single subject only. This is a type of subject that focuses on a smaller number of subjects, making the design costly and time-consuming.
+2. **Ethnographic Studies**: data are collected and analyzed coming from a certain cultural group or minority.
+3. **Grounded Theory Studies**: studies leading to the discovery or development of useful theories.
+4. **Phenomenological Studies**: data based on described human experiences, provided by the very same people involved.
+5. **Field Studies**: studies naturally conducted in an ordinary setting, such as in a community.
+## Population and Sample
+- A **population** is a general group to be studied.
+- A **sample** refers to a selected portion of the population from whom the data will be collected.
+- An **element** is an individual member of the sample population.
+- The **sampling frame** is the listing of all elements.
+
+Samples may be chosen in various ways to improve its representation of the population:
+1. **Simple Random Sampling**: every element of the population is given an equal chance or opportunity to be chosen as a sample. No bias.
+2. **Stratified Random Sampling**: done by first dividing the population into sub-strata or sub-populations according to some subject character (e.g. age), then applying random sampling from each sub-strata or sub-population.
+3. **Systematic Random Sampling**: involves utilizing some method to choose from the population randomly, most commonly selecting every nth element from the population.
+4. **Cluster Random Sampling**: sampling by sub-areas of the population, applicable if a population is spread geographically.
+5. **Accidental/Convenience Sampling**: a non-probability sampling technique that involves choosing samples from readily available groups accessible to the researcher.
+6. **Purposive/Judgmental Sampling**: a non-probability sampling technique that involves choosing elements based on common knowledge or as a typical choice.
+7. **Snowball Sampling**: a non-probability sampling technique where the researchers use networking or referrals from previous elements to acquire more data, e.g. referrals of one cancer patient to a fellow cancer patient who underwent the same treatment.
+8. **Quota Sampling**: a non-probability sampling technique where the population is divided into subpopulations, and chosen based on "other" personal criteria instead of random sampling.
+## Data Collection
+Data collection is the stage in the research process wherein the data is actually collected or received from subjects to ascertain the veracity of the researcher's hypothesis and shall form the basis of the researcher's conclusion. Among all of the stages of the research process, it is often the most budget and time-consuming. Good data collection is based on three characteristics:
+1. **Reliability**: if tested once or twice, the data will likely **yield the same result**.
+2. **Validity**: the test measures what it is meant to measure. This includes face validity, content validity, and construct validity.
+3. **Accuracy**: measurements are accurate and truthful.
+
+Methods of data collection vary depending on requirements and resources:
+1. **Questionnaires**: among the most accessible forms of data collection. These may be:
+	- **Dichotomous**: Yes-No or True-False questions
+	- **Rating Scale**: choices are categorized and subjects answer according to the criteria, most often utilizing a Likert scale. One example is a scale of 1 to 5, with 1 as "Never" and 5 as "Very Frequently".
+2. **Observation**: data collection using one's senses. It is an ocular method of collecting descriptive behavioral data as it occurs.
+	- **Participant Observation**: the observer actively joins the subject while performing observation.
+	- **Non-Participant Observation**: the researcher is a mere passive observer during data collection.
+	- **Structured Observation**: the researcher prepares a pre-determined list of phenomenon to observe for.
+	- **Non-Structured Observation**: free-style observation.
+3. **Interview**: the utilization of oral communication skills between the researcher and his source to obtain data. It may be:
+	- **Structured**: a list of specific questions are asked in the same manner to all respondents.
+	- **Unstructured**: informal and open-ended questions are being asked. A simple, normal conversation.
+	- **Combined Method** (Semi-structured)
+4. **Pre-existing data or Record**: data is collected from previous recordings, published, archives, or documented. It may be:
+	- **Primary**: recorded by a source who actually experienced and observed a phenomena.
+	- **Secondary**: second-hand information.
+5. **Others**: Q-Sort, Projective Techniques, Delphi Technique, Physiologic Measures, Visual Analogue Scale (VAS Technique)
