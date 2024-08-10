@@ -45,7 +45,7 @@ const defaultOptions: Options = {
   enableInHtmlEmbed: false,
   enableYouTubeEmbed: true,
   enableVideoEmbed: true,
-  enableCheckbox: false,
+  enableCheckbox: true,
 }
 
 const calloutMapping = {

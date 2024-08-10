@@ -14,6 +14,10 @@
     background-color: #39477d;
 }
 
+li:has(>input[type=checkbox]:checked) {
+    text-decoration: none;
+}
+
 // header formatting
 article h1::before,
 article h2::before,
