@@ -1,3 +1,6 @@
+---
+password: braindead
+---
 # Practice Questions
 Raya is being prepared for a thoracentesis due to a pleural effusion. The nurse should assist the client to which position for the procedure?
 - [ ] Lying in bed on the affected side

@@ -1,3 +1,6 @@
+---
+password: braindead
+---
 # Practice Questions
 Joann was diagnosed with strongyloidiasis. Which of the following is responsible for the phase of acute infection in strongyloidiasis where lungs are destroyed causing pneumonia with hemorrhage?
 - [ ] Asymptomatic phase

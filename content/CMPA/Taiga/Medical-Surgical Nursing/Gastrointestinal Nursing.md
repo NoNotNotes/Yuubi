@@ -1,3 +1,6 @@
+---
+password: braindead
+---
 # Practice Questions
 Sabrina has undergone esophagogastroduodenoscopy. Which of the following should you place highest priority on the client's care plan?
 - [ ] Monitoring the temperature

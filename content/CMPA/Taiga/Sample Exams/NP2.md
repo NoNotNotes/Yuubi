@@ -1,3 +1,6 @@
+---
+password: braindead
+---
 >[!INFO] Situation
 >Pregnancy is a dangerous milestone. Nurse Jeara intends to lessen pregnancy complications. 
 

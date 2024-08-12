@@ -1,3 +1,6 @@
+---
+password: braindead
+---
 1. Mrs. Johnson, a 65-year-old woman, visits the clinic for a routine check-up. During the assessment, the nurse asks Mrs. Johnson about her nutritional habits. Mrs. Johnson mentions that she often skips meals and prefers eating processed foods. Upon further inquiry, the nurse finds out that Mrs. Johnson has lost 15 pounds in the last 6 months. Which statement by Mrs. Johnson indicates high nutritional risk?
 - [ ] "I eat fewer than two meals per day."
 - [ ] "I eat few fruits, vegetables, or milk products."

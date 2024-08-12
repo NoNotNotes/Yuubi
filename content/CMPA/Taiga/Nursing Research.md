@@ -1,3 +1,6 @@
+---
+password: braindead
+---
 # Practice Questions
 You are currently reviewing the research proposal of a student nurse. Which question will you ask to critique the purpose of a research project?
 - [ ] Is the strategy used for analysis compatible with the purpose of the study?

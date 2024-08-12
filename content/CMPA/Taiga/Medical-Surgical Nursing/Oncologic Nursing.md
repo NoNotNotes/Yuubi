@@ -1,3 +1,6 @@
+---
+password: braindead
+---
 # Practice Questions
 You are an oncology nurse. While doing your rounds, you identify which of the following patients as requiring immediate intervention? Select all that apply. 
 - [ ] Sara Lee, 25/F with ovarian cancer, facial edema in the morning was present

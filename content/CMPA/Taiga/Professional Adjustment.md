@@ -1,3 +1,6 @@
+---
+password: braindead
+---
 # Practice Questions
 You are a nurse in a clinic. Which of the following information are you allowed to legally and ethically disclose confidential information about a client?
 - [ ] The diagnosis of brief psychotic disorder of a patient to the concerned government unit.

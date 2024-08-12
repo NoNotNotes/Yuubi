@@ -1,3 +1,6 @@
+---
+password: braindead
+---
 1. A nurse is establishing a therapeutic relationship with a client diagnosed with depression. The nurse demonstrates empathy by:
 - [ ] Sharing personal experiences of overcoming depression.
 - [ ] Showing concern and compassion for the client's feelings.

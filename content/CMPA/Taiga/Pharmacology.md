@@ -1,3 +1,6 @@
+---
+password: braindead
+---
 # Practice Questions
 You are currently discussing cardiovascular pharmacology to student nurses rotating in the Central ICU. Which of the following calcium channel blockers has the most potent peripheral smooth muscle dilator effect?
 - [ ] Diltiazem (Cardizem)
