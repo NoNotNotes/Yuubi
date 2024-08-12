@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { Staticrypt } from "./quartz/password"
 
 /**
  * Quartz 4.0 Configuration
@@ -38,14 +39,14 @@ const config: QuartzConfig = {
           highlight: "rgba(150, 150, 255, 0.10)",
         },
         darkMode: {
-          light: "#161618",
+          light: "#1e1e1e",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
-          dark: "rgba(235, 215, 215, 1)",
-          secondary: "#ffbbbb",
-          tertiary: "#ff9999",
-          highlight: "rgba(255, 159, 159, 0.10)",
+          dark: "#ebe7d7",
+          secondary: "#FFD08F",
+          tertiary: "#ffec99",
+          highlight: "rgba(159, 159, 159, 0.10)",
         },
       },
     },
@@ -69,6 +70,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Staticrypt()
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

@@ -30,6 +30,10 @@ article h6::before {
     font-family: var(--codeFont)
 }
 
+.breadcrumb-element{
+    font-family: var(--headerFont);
+}
+
 // explorer formatting
 .folder-outer.folder-outer li a::before {
     content: '→  ';
