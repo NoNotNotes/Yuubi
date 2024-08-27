@@ -1,3 +1,7 @@
+---
+tags:
+  - CMPA
+---
 Planning the number of family members in terms of **timing**, **number**, and **interval** between children, mainly achieved through contraception. There are natural forms and artificial methods.
 # Natural Methods
 1. **Abstinence**: primarily countered by self-control.
