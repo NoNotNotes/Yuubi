@@ -1,6 +1,3 @@
----
-password: braindead
----
 >[!INFO] Situation
 >NCDs in the Philippines are causing a surge in health-care costs and social care and welfare support needs and are contributing to reduced productivity. 
 

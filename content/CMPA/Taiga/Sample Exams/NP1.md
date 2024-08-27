@@ -1,6 +1,3 @@
----
-password: braindead
----
 Progress Notes:
 - [[#Diagnostic Examination]]: N/A
 - [[#Pre-Intensive Examination]]: N/A

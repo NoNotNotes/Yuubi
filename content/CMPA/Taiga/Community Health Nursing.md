@@ -1,6 +1,3 @@
----
-password: braindead
----
 # References
 1. DOH White Book
 2. Maglaya

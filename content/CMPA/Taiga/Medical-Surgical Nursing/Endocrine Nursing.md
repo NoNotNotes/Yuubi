@@ -1,6 +1,3 @@
----
-password: braindead
----
 # Practice Questions
 Lorelei is patient with diabetes mellitus has an Hba1c level of 8%. On the basis of this test result, the nurse plans to teach the client about the need for which measure?
 - [ ] Avoiding infection

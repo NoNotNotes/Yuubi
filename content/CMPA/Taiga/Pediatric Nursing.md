@@ -1,6 +1,3 @@
----
-password: braindead
----
 # Practice Questions
 %% Pre-test
 Which of the following patient history is significant for a child who shall receive a hepatitis B vaccine?

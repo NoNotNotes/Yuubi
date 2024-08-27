@@ -1,6 +1,3 @@
----
-password: braindead
----
 # Practice Questions
 You are monitoring a patient post-CABG when suddenly she presents with ventricular fibirillation. After placing the pads on the client's chest and before discharging the device, which intervention isa priority?
 - [ ] Ensure that the client has been intubated.

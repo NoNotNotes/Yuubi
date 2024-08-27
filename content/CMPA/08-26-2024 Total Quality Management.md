@@ -1,3 +1,6 @@
+---
+title: Total Quality Management
+---
 The following discussion is based on a lecture by **Dean Maria Luisa T. Uayan, DHSc, MSN, RN**.
 # Quality Control
 "**Quality Control**" involves quality-related activities associated with the creation of *project deliverables*, i.e. the fulfillment of a contract or achievement of desired industry standards. **Deliverables** are expected to be of acceptable quality, are complete, and are correct.
@@ -7,28 +10,38 @@ The following discussion is based on a lecture by **Dean Maria Luisa T. Uayan, D
 "**Quality Assurance**" is the **process used** to create the deliverables, and can be performed by a manager, client, or even a third-party reviewer. These are used to ensure that defects or problems do not arise, establishing a target degree of excellence.
 - Quality assurance attempts to **set a standard for nursing care delivery**, and to set **criteria as basis for evaluation** of said standards.
 - A **Q.A. Program** has various components:
-	- A clear and concise **written statement of purpose, philosophy, values, and objectives**.
-	- **Standards or indicators** for measuring quality of care.
-	- **Policies and procedures** for using such standards in *data gathering*.
-	- **Analysis and reporting of gathered data**, with **isolation of problems and variances**.
-	- **Using results to prioritize and correct** problems and variances.
-	- **Monitoring of clinical and managerial performance** and **on-going feedback**.
-	- **Evaluation of the Q.A. system itself**.
+        - A clear and concise **written statement of purpose, philosophy, values, and objectives**.
+        - **Standards or indicators** for measuring quality of care.
+        - **Policies and procedures** for using such standards in *data gathering*.
+        - **Analysis and reporting of gathered data**, with **isolation of problems and variances**.
+        - **Using results to prioritize and correct** problems and variances.
+        - **Monitoring of clinical and managerial performance** and **on-going feedback**.
+        - **Evaluation of the Q.A. system itself**.
 # Quality Improvement
-"**Quality Improvement**" is continuous performance development fixing the "*now*" in order to **prevent future mistakes**. It involves skills, competencies, and human resource management.
+"**Quality Improvement**" is continuous performance development fixing the "*now*" in order to **prevent future mistakes**. It involves skills, competencies, and human resource management. There are ten steps in quality improvement:
+1. **Commitment**: all members of the team must be committed to improving themselves and their department.
+2. **Improvement Teams**: a congregation of the committed individuals for improvement.
+3. **Education**
+4. **Measures, Display, and Review**: measurement of improvement against set standards to determine progress and effectivity.
+5. **Cost of Quality**: a balance between patient satisfaction and profit.
+6. **Communication** is a common problem, and a common solution.
+7. **Corrective/Preventive Actions**
+8. **Recognition**: provide recognition for employees
+9. **Event**: holding events for quality improvement
+10. **Goal Setting and Continuous Improvement**: set SMART goals for continuous improvement.
 
 "**Continuous Quality Improvement**" (CQI) is an on-going process of monitoring structure, process, and outcome indicators in order to identify signal events, significant trends, and opportunities for change.
 - All three of structure, process, and outcomes must be correct and complete. A good outcome does not necessarily require a good structure or process. For example, a skipped step to achieve a result may increase client risk for complication.
 - This is the integration of QC, QA, and QI; QA aims at maintaining care quality at the *present level*, while CQI is an on-going process that progressively enhances research, practice, and client welfare.
 - **Components of CQI**:
-	- **Customer Focus**: all clients and their relatives.
-	- **Continuous Improvement** (Process Focus)
-	- **Total Participation** (People Focus; refer to later discussion)
-	- **Integrated Management System**
+        - **Customer Focus**: all clients and their relatives.
+        - **Continuous Improvement** (Process Focus)
+        - **Total Participation** (People Focus; refer to later discussion)
+        - **Integrated Management System**
 
 A method to allow for CQI is the **Plan-Do-Check-Act** (PDCA) **Cycle**:
 1. **Plan**: what are the standards, current quality level, problems, and root cause of these problems? From these, what solutions can be planned?
-	- For these, quality problem solving tools may be used: brainstorming, check sheets, nominal group technique, Pareto charting, Flowcharting, Cause-effect diagrams, Histograms
+        - For these, quality problem solving tools may be used: brainstorming, check sheets, nominal group technique, Pareto charting, Flowcharting, Cause-effect diagrams (Ishikawa/Fishbone), Histograms, etc. Discussed [[#Tools of TQM|here]]
 2. **Do**: implement the chosen solutions.
 3. **Check**: have the solutions been successful?
 4. **Act**: if necessary, adjust the plan to ensure success, then standardize effective solutions.
@@ -78,30 +91,30 @@ TQM activities include:
 8. **Quality goals** must be based on **customer requirements**.
 ## Issues and Concerns of TQM
 - **Management Commitment**
-	- Plan (drive, direct)
-	- Do (deploy, support, participate)
-	- Check (review)
-	- Act (recognize, communicate, revise)
+        - Plan (drive, direct)
+        - Do (deploy, support, participate)
+        - Check (review)
+        - Act (recognize, communicate, revise)
 - **Employee Empowerment**
-	- Training
-	- Suggestion Scheme
-	- Measurement and Recognition (awards)
-	- Excellence Teams (a model team)
+        - Training
+        - Suggestion Scheme
+        - Measurement and Recognition (awards)
+        - Excellence Teams (a model team)
 - **Fact-Based Decision Making**
-	- Statistical Process Control (SPC)
-	- Design of Experiment (DOE), FMEA (Failure Modes and Effect Analysis)
-	- Statistical Tools (SPSS, R, MatLab, MS Excel, SAS, GraphPad Prism, Minitab)
-	- TOPS (Ford 8D - Team Oriented Problem Solving)
+        - Statistical Process Control (SPC)
+        - Design of Experiment (DOE), FMEA (Failure Modes and Effect Analysis)
+        - Statistical Tools (SPSS, R, MatLab, MS Excel, SAS, GraphPad Prism, Minitab)
+        - TOPS (Ford 8D - Team Oriented Problem Solving)
 - **Continuous Improvement**: 
-	- Systematic measurement and focus on COQ (Cause on Quality)
-	- Excellence Teams
-	- Cross-Functional Process Management
-	- Attain, Maintain, and Improve Standards
+        - Systematic measurement and focus on COQ (Cause on Quality)
+        - Excellence Teams
+        - Cross-Functional Process Management
+        - Attain, Maintain, and Improve Standards
 - **Customer Focus**
-	- Supplier partnership
-	- Service relationship with internal customers
-	- Never compromise quality
-	- Customer driven standards
+        - Supplier partnership
+        - Service relationship with internal customers
+        - Never compromise quality
+        - Customer driven standards
 ## Continuous Improvement
 In TQM, **all work** is involved in continuous improvement, from high-level strategic planning and decision-making to detailed execution of work elements in the clinical area. It stems from the belief that mistakes can be avoided, and defects can be prevented. This leads to continuously improving results in all aspects of work as a result of **continuously improving capabilities, people, processes, technology, and machine capabilities**.
 - This deals not only with improving results, but more importantly with improving capabilities to produce better results in the future.
@@ -121,11 +134,11 @@ There are five major areas of focus for capability improvement:
 1. **Assessment** of the organization's *current reality* is the preliminary step in TQM implementation. If the current reality does not include important preconditions, implementation should be delayed until the organization is in a state that is likely to succeed.
 2. If an organization has a track record of effective responsiveness to the environment, and if it has been able to successfully change the way it operates when needed, **people need to feel a need for a change**. Kanter (1983) addresses this phenomenon by describing *building blocks* which are present in effective organizational change.
 3. **Managing Transition**: Beckhard and Pritchard (1992) outlines the basic steps in managing transition:
-	1. Identify the tasks to  be done
-	2. Create necessary management structures
-	3. Develop strategies for building commitment
-	4. Designing mechanisms to communicate the change
-	5. Assigning resources
+        1. Identify the tasks to  be done
+        2. Create necessary management structures
+        3. Develop strategies for building commitment
+        4. Designing mechanisms to communicate the change
+        5. Assigning resources
 ## Quality Teams/Circles
 These are a small group of voluntary employees who meet at regular times to identify, analyze, and solve quality and other problems in their working environment. They recommend and implement improvement strategies as a reserve of new ideas. Members face and share similar problems in their daily work lives and create a program to generate positive changes.
 - List the project name, goal, and rationale
@@ -141,6 +154,16 @@ These are a small group of voluntary employees who meet at regular times to iden
  4. **Understand causes of process variation**
  5. **Select the process improvement** method to utilize.
  6. **Plan-Do-Check-Act Cycle**: a cycle for continuous improvement which involves planning solutions for identified problems, implementing solutions, checking solution outcomes, and acting upon the outcome (whether to maintain, adjust, change, remove, etc.).
+## Tools of TQM
+1. **Flowchart**: an input and output is outlined in a directional chart
+	- Layout Flowchart, Data Flow Diagrams
+2. **Cause and Effect** (Fishbone/Ishikawa): a qualitative tool sometimes also called the 5M diagram, covering **Men**, **Machine**, **Materials**, **Measurement**, and **Methods**. What among of these five Ms are contributing to the effect?
+3. **Check Sheets**: a central tool for quality assurance programs specially used for operational procedures which may be derived from flowcharts or fishbone diagrams. An example of this is a Patient Transport Problem Sheet, which tallies how many types of equipment has been broken for a specific area and timeframe.
+4. **Pareto Charts**: a bar graph which evaluates the degree to which problems are the most significant; bars represent cost incurred or frequency of a problem. This is useful when **analyzing data about frequency of problems**/causes in a process, when **multiple problems exist** and **prioritization is required**, and **analyzing broad causes by looking at specific components**. An example of this is charting the types of customer complaints, seeing which aspect of care is most commonly complained about.
+	- Creating pareto charts requires a specific procedure: decide on categories, what measurements are appropriate (e.g., frequency, quantity, cost, time), what time period to consider, then collect and present (subtotal, scaling, labelling, percentages, visualizing) the data.
+5. **Process Decision Program Chart** (PDPC) is a simple tree diagram that identifies risks then countermeasures for a specific plan. For example, the first node focuses on a blood transfusion, and it is followed by the primary blood transfusion reactions, and each reaction is followed by their respective interventions.
+6. **Histograms**
+7. **Run Charts and Control Charts**
 # Clinical Practice Guidelines
 **Clinical Pathways** are standardized, evidence-based multidisciplinary management plans which identify an appropriate sequence of clinical interventions, timeframes, milestones, and expected outcomes for a homogenous patient group.
 
@@ -148,8 +171,12 @@ These are a small group of voluntary employees who meet at regular times to iden
 - This is used to (1) **evaluate nursing care given**, (2) **achieve deserved and feasible quality of nursing care**, (3) **stimulate better recording**, and (4) **evaluates care provided rather than care provider**.
 # Utilization Review
 A **health insurance company's opportunity to review a request for medical treatment**. The purpose of this review is to confirm that the plan provides coverage for medical services. It minimizes cost and determines if the recommended treatment is appropriate, giving opportunity to confirm that the client's health plan provides adequate coverage for their particular condition. This may also be done in a **concurrent** or **retrospective** manner.
-# Credentialing
-1:58:35
+# Credentialing and Privileging
+**Credentialing** is the process of obtaining, verifying, and assessing the qualifications of a healthcare practitioner to provide patient care services in or for a healthcare entity. **Re-credentialing** is the process of obtaining and evaluating data to support the continued competence of the healthcare practitioner to provide patient care services in or for a healthcare organization.
+
+**Clinical Privileging** is the process used to identify, document, and approve the specific procedures and treatments that may be performed in a specific setting. These are granted based on the findings of the credentialing function and should only be granted for services that are currently offered by the hospital.
+
+Together, these increase patient safety, reduction of medical errors, and the provision of high quality health care services.
 # Complaint Analysis
 Complaints are comments and feedback coming from dissatisfied customers. These are blessing in disguise. A prompt resolution of a complaint often generates more customer loyalty than trouble-free service. These may be analyzed through **customer surveys**, **policy technicians**, and **customer complaint forms**. These allow management to consider: "*how could we have prevented this service problem?*", "*how could we have handled this differently?*", "*could we have responded better to the customer?*".
 - While the average client will not complain to the company, they will tell others about their problem.
@@ -175,3 +202,7 @@ M&M reviews are a requirement for all medical departments within the hospital. T
 13. Death or severe injury consequent to the incorrect attribution of a triage code by emergency services department or by emergency telephone call center
 14. Sudden death or injury consequent to surgery
 15. All other adverse events that cause death or grievous bodily harm to patient
+# Variance Reporting and Analysis
+**Variance** is the difference from the norm or standard based on current records. Usually, it is associated with a manufacturer's product costs. In the health setting, variance analysis **attempts to identify the causes of the differences between services provided**.
+- **Price Variance** identifies whether the company paid too much for each unit of input, or if they paid more per actual input that it had planned.
+- **Quality Variance** identifies whether the health institution used too much of the input for the number of services it renders to the client.

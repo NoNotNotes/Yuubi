@@ -1,6 +1,3 @@
----
-password: braindead
----
 # Practice Questions
 Hannah is a patient with multiple myeloma. Which of the following assessment findings is consistent with the pathogenesis of multiple myeloma? 
 - [ ] Ca: 13 mg/dl
