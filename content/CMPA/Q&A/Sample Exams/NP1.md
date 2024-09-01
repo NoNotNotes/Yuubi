@@ -1790,7 +1790,7 @@ The PHC has 8 essential health services in which it aims to improve. All of thes
 >[!FAQ]- Rationalization
 >Option 3 alters the "Expanded Program for Immunization", and is the wrong option. In the first place, primary health care is not *exclusive*, but *inclusive*.
 
-Considerations are made regarding the health services being provided to the people. These have to be to be available acceptable, affordable and accessible to the people to reach the success of Primary Health Care. Which criteria questions whether the health service is offered in health care facilities or is provided on a regular and organized manner?
+Considerations are made regarding the health services being provided to the people. These have to be to be available, acceptable, affordable and accessible to the people to reach the success of Primary Health Care. Which criteria questions whether the health service is offered in health care facilities or is provided on a regular and organized manner?
 - [ ] Acceptability
 - [ ] Affordability
 - [ ] Accessibility
@@ -1874,7 +1874,7 @@ Nurse Caloy wants to determine the health status of a population and infer their
 >[!FAQ]- Rationalization
 >Swaroop's Index is the percentage of deaths aged 50 years of older. It represents the percentage of timely and untimely deaths, inferring the longevity of life and lifestyle.
 
-This statistics indicate the health status of the community.
+This statistics indicates the health status of the community.
 - [ ] Fetal death rate
 - [ ] Neonatal mortality rate
 - [ ] Infant mortality rate
