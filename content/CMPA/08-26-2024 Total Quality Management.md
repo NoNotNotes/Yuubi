@@ -1,5 +1,8 @@
 ---
 title: Total Quality Management
+tags:
+  - B419
+  - CMPA
 ---
 The following discussion is based on a lecture by **Dean Maria Luisa T. Uayan, DHSc, MSN, RN**.
 # Quality Control

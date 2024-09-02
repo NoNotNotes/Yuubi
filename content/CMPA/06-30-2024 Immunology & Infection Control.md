@@ -1,3 +1,7 @@
+---
+tags:
+  - CMPA
+---
 # Immunoglobulins
 1. **IgG**: the most abundant immunoglobulin; able to cross the placenta. It is found in chronic infection.
 2. **IgA**: found in secretions and is 

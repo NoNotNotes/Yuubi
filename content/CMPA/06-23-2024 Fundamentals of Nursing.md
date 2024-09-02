@@ -1,6 +1,8 @@
 ---
-description: (c) Ms. Toni
+tags:
+  - CMPA
 ---
+(c) Ms. Toni
 # Module 1: Bowel Elimination
 ## Colostomy
 Handling the colostomy requires a clean technique.

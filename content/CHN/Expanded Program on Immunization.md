@@ -1,3 +1,11 @@
+---
+title: Expanded Program on Immunization
+tags:
+  - CHN
+---
+>[!CITE] Reference
+>Nies, M., McEwen, M. (2020). National Immunization Program. In *Community and Public Health Nursing* (2nd Philippine ed., pp. 287-294). C&E Publishing, Inc.
+
 *Text in italic denotes additional information not found in the book*
 ___
 **Immunization** is an essential public health service and is commonly defined as the *process of conferring artificial immunity to population groups*. **Immunity** is described as *resistance and protection from disease attributed to the presence of antibodies in the blood*. The **National Immunization Program** (NIP) is committed to guaranteeing free immunization services and ensures that Filipinos, especially the poor, have access to routinely recommended vaccines. It further guarantees the immunization of **neonates**, **infants**, **children**, **adolescents**, **mothers**, and **elderly** populations as part of the comprehensive strategy for disease prevention and cotrol following the life stage approach. Its goal is **to reduce morbidity and mortality** among infants and children caused by common childhood immunizable diseases. Specifically, the NIP has the following goals.

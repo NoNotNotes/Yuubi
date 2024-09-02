@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "nonotnotes.github.io/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "PRELIMS", "MIDTERMS", "FINALS"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

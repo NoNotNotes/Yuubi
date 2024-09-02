@@ -17,7 +17,7 @@ tags:
 - **Severe Heartburn** (GERD)
 - **Intestinal Bleeding** as shown by black, tarry, or bloody stool.
 # Diagnostic Examination
-![[B316/01#Gastric Analysis|gastric analysis]]
+![[19#Gastric Analysis|gastric analysis]]
 - Blood testing to check for **serum gastrin levels**.
 - Imaging tests may also be done for the gastrinomas.
 # Medical Management

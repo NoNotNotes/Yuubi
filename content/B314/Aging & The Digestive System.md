@@ -4,7 +4,7 @@ tags:
   - B314
 description: One of the major systems highly involved in the care of older adults is the digestive system. It loses its ability to provide nutrition for the elderly, among other changes.
 ---
-Also Read: [[ANPH/13|The Gastrointestinal Tract]], [[B316/01|Assessment of the Gastrointestinal System]]
+Also Read: [[ANPH/13|The Gastrointestinal Tract]], [[19|Assessment of the Gastrointestinal System]]
 # GIT Changes in Older Adults
 Physiologic changes occur as individuals age, especially at the **age of 65 and older**. Overall changes of the digestive system involved in aging include:
 1. **Oral Cavity and Pharynx**: difficulty chewing and swallowing

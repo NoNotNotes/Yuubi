@@ -18,7 +18,7 @@ Deals with logical collection, organization, presentation, analysis, and interpr
 ## Inferential Statistics
 1. Measure of Association
 - For two variables, rank them and find the difference between both ranks, then square.
-- strength of correlation ![[Pasted image 20240311084814.png]]
+- strength of correlation ![[pearson_correlation_strengths.png]]
 * Pearson is the most common*
 	* Used for a 2x2 matrix (computed by a statistician)
 ___

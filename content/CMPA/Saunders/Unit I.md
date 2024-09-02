@@ -32,7 +32,7 @@ Many questions require the test-taker to **prioritize**.  While this can require
 	- **Love and Belonging** needs include friendship, family, intimacy, and sense of connection.
 	- **Self-Esteem** needs include confidence, achievement, respect, and uniqueness.
 	- **Self-Actualization** needs include morality, creativity, spontaneity, acceptance, purpose, meaning, and inner potential.
-![[maslow-needs3.jpg|400]]
+![[maslow_needs.jpg|400]]
 3. **Nursing Process**: assessment, analysis, planning, interpretation, and evaluation; and **NCJMM Cognitive Skills**: recognizing cues, analyzing cues, prioritizing hypotheses, generating solutions, taking action, and evaluating outcomes.
 	- **Assessment/Recognizing Cues**: the nurse recognizes cues by identifying significant data from many sources.
 		- Questions under this process involve the process of gathering subjective and objective data relative to the client, confirming the data, and communicating and documenting the data.
