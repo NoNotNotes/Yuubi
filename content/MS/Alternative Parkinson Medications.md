@@ -1,8 +1,9 @@
 ---
 tags:
-  - B316
+  - MS
 title: Alternative Parkinson Medications
 ---
+
 | Antiparkinsonian Agents | Indications and Therapeutic Effects                                              | Common Side Effects                                                                                                                    |
 | ----------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Levodopa**            | Most effective for symptomatic relief                                            | Dyskinesia after 5 to 10 years of treatment, On-off syndrome, nausea, vomiting, anorexia, hypotension, dystonia, dyskinesia, confusion |

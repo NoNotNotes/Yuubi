@@ -17,7 +17,7 @@ aliases:
 		<td>Review: <a href="ANPH/13">ANPH of the GIT</a></td>
 	</tr>
 	<tr>
-		<td><a href="B316/01">Diagnostic Examination of the GIT</a></td>
+		<td><a href="MS/19">Diagnostic Examination of the GIT</a></td>
 	</tr>
 	<tr>
 		<th style="text-align: center; vertical-align: middle;" rowspan=3>02</th>

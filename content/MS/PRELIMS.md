@@ -1,7 +1,7 @@
 ---
 tags:
-  - B316
   - COMP
+  - MS
 title: Preliminary Exam Reviewer
 aliases:
   - PRELIMS

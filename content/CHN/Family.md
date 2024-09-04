@@ -1,0 +1,227 @@
+---
+title: The Individual and the Family as Clients
+tags:
+  - CHN
+---
+>[!CITE] Reference
+>Nies, M., McEwen, M. (2020). The individual and the family as clients in community and public health nursing. In *Community and Public Health Nursing* (2nd Philippine ed., pp. 81-106). C&E Publishing, Inc.
+
+There are four levels of clientele in community health nursing:
+1. The **individual**, a biopsychosocial and spiritual being. The person is **the unit of care**, the focus of care is usually on the person's health or medical problem. The family may or may not be involved. They may also be an "entry point" in working with the individual.
+2. A **family**, from a systems perspective, is defined as **a collection of people who are integrated, interactive, and interdependent**. Each member affects the other. The family as a whole is responsible for the health of all members. In the family level, the nurse provides care to two or more individuals in a single household. Because most people belong to a family and their health is strongly influenced by the home situation, **the family is considered the basic unit of care in community health nursing**.
+3. **Population groups** refer to people who share common **characteristics**, **developmental stage**, and **common exposure to common health problems**. Some of these groups are children, women, farmers, factory workers, and elderly. The nurse responds to **the needs of a group or aggregate**, while maintaining recognition of each individual's situation and circumstance.
+4. A **community** is defined as a collection of families having **common values**, **beliefs**, **common interests**, **goals** and **objectives within a specific social system**. This social system includes health system, family system, economic system, educational system, religious system, welfare system, political system, recreational system, legal system and communication system. Each community is unique to its own specific sociocultural, political, economic, and environmental context and vary in terms of community dynamics.
+___
+# The Family as a Unit of Service
+There are many definitions of the family:
+1. The family is a group of persons usually living together and composed of the head and other persons related to the head by blood, marriage or adoption. It includes both the nuclear and extended family. (National Statistical Coordination Board)
+2. A social unit interacting with the large society. (Johnson, sociologist)
+3. A family is characterized by people together because of birth, marriage, adoption, or choice (Allen et al.).
+4. The family is composed of two or more persons who are joined together by bonds of sharing and emotional closeness and who identify themselves as being part of the family. (Friedman et al.).
+
+The family is considered as a "*unit of service*" for the following reasons:
+1. The family is considered as the "*natural*" and fundamental **unit of society**.
+2. The family as a group **generates**, **prevents**, **tolerates**, and **corrects health problems** within its membership; the family acts as the basic care provider.
+3. The health problems of the family are interlocking. **Illness in one member affects the entire family and its functioning**.
+4. The family is **the most frequent focus of health decisions and actions in personal care**.
+5. The family is an **effective and available channel for nursing efforts**. Improved community health is realized only through improved family health.
+## Family Structure
+| Family Form   | Description                                                                                                                                                                                                                                                                              |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nuclear       | "*Traditional*; *Family of marriage, parenthood, or procreation*". A husband, wife, and their children— natural, adopted, or both (Friedman et al.).                                                                                                                                     |
+| Dyad          | "*Empty nesters*". A husband and wife with no children.                                                                                                                                                                                                                                  |
+| Extended      | "*Multigenerational*". Three or more generations, which may include in-laws and grandparents.                                                                                                                                                                                            |
+| Blended       | The union of two spouses who have had children from a previous marriage.                                                                                                                                                                                                                 |
+| Compound      | A husband with multiple wives, primarily only permitted in Muslim culture (in the Philippines) by virtue of P.D. No. 1083 (Code of Muslim Personal Laws of the Philippines).                                                                                                             |
+| Cohabiting    | "*Live-in*". An unmarried couple and their child or children, recognized through common-law marriage.                                                                                                                                                                                    |
+| Single Parent | Resulting from death of a spouse, separation, or pregnancy outside of wedlock. These families are faced with greater risk associated with lesser social, emotional, and financial resources. Families who have one of the spouses working overseas effectively fall under this category. |
+| Homosexual    | A cohabiting couple of the same sex in a sexual relationship. They may or may not have children. E.O. 209 (Family Code of the Philippines) expressly states that marriage is between a man and a woman, therefore disallowing same-sex marriage.                                         |
+*The following are additional forms and classifications discussed but not included within the book.*
+
+Based on **Authority**, where decision-making is delegated to either the father (**Patriarchal**) or mother (**Matriarchal**). A participative form of authority is termed **Patricentric**, **Matricentric** or **Egalitarian** (equal), eliminating the hierarchal nuance of previous terminology.
+
+Based on **Marital Residence Pattern**, where the family moves closer to or at the father's residence (**Patrilocal**), moves closer to or at the mother's residence (**Matrilocal**), or independent of either spouse's location (**Neo-Local**)
+
+Based on **Lineage**; the system of descent and inheritance where lineage, family name, and property are passed down the male line (**Patrilineal**) or the female line (**Matrilineal**)
+
+Based on **Amount of Partners**, a family may be **Monogamous**, where one husband is bound to one wife; **Polygamous**, where a husband is with multiple wives (commonly found among Muslims in Saudi Arabia); or **Polyandrous**, where a wife is with multiple husbands (commonly found in the Todas of Southern India).
+## Functions of the Family
+1. **Procreation**: the universally accepted institution for reproductive function and child rearing.
+2. **Socialization of Family Members**: the family creates the foundation for how its children becomes productive members of society. It involves the transmission of culture from the parents to their children.
+3. **Physical Maintenance**: the provision of basic needs for its dependent members.
+4. **Economic Function**: the family serves as a basic unit of economic production (rural families producing goods) or economic consumption (urban families earning salaries or wages)
+5. **Welfare and Protection**: the family provides companionship and meets affective, sexual, socioeconomic needs, and emotional gratification. The family is a source of motivation and morale for its members.
+6. **Status Placement**: the family confers its societal rank on the children. With social mobility, the family may shift between social classes.
+## Family as a Client
+The family unit is important to society. It meets individual needs, and supports spouses or partners by meeting affective, sexual, and socioeconomic needs. The family is also viewed as an important unit of health care with awareness that **the individual can be best understood within the social context of the family**. Observing and inquiring about family interaction enables the nurse in the community to assess the influence of family members on each other. Specifically, reasons to work with families are enumerated by Friedman et al.:
+- "**The family is a critical resource**"; the family can improve individual members' health through health promotion and wellness activities.
+- "**In a family unit, any dysfunction that affects one or more family members will affect the members and unit as a whole**"; this is also referred to as a "*ripple effect*".
+- "**Case finding**"; while assessing an individual, the nurse may identify a health problem that necessitates identifying risks for the entire family.
+- "**Improving nursing care**"; the nurse provides better and more holistic care by understanding the family and its members.
+%% skipped the subchapter for "The family as a system"%%
+>[!INFO] The family as a system
+>The *General Systems Theory* explains how the family as a unit interacts with larger units outside the family. There are three subsystems of the family that are most important: **parent-child subsystem**, **marital subsystem**, and **sibling-sibling subsystem**. Each subsystem can reestablish balance if any disrupting force or imbalance occurs.
+## Developmental Stages of the Family
+Like with the growth and development of pediatrics for individuals, families also experience stages of development traversing from marriage to death. The nurse must comprehend these phases and the struggles that families experience while going through them. Developmental tasks exist for these stages, and are the resolution to each stage.
+1. **Marriage** (joining of families): the formation of an identity as a couple, and inclusion of the spouse in realignment of relationships with extended families.
+2. **Families with young children** (to age 12): problems arise with who is to take care of the children; the integration of children into the family unit, adjustment of tasks for child-reading, financial, and household; accommodation of new parenting and grandparenting roles.
+3. **Families with adolescents**: development of increasing autonomy for adolescents; midlife reexamination of marital and career issues. This is the initial shift towards concern for the older generation.
+4. **Families as launching centers**: establishment of independent identities for parents and grown children; renegotiation of marital relationship, readjustment of  relationships to include in-laws of older generations
+5. **Aging families**: maintaining couple and individual functioning while adapting to the aging process, supporting role of the middle generation, supporting and autonomy of the older generation, and the preparation for their own death and dealing with the loss of spouse and/or siblings and other peers.
+## Health Tasks and Characteristics of a Health Family
+The family serves as an essential resource for its members by carrying out health tasks. An important responsibility of the community health nurse is to develop the family's capability in performing its health tasks (Freeman, Heinrich):
+1. **Recognizing interruptions of health or development**: a requisite step to dealing with an unacceptable health condition.
+2. **Seeking health care**: consultation with health workers if the health needs are beyond its capability.
+3. **Managing health and non-health crises**: maturational (foreseeable) and incidental (unexpected) crises that require coping and adaptation.
+4. **Providing nursing care to sick, disabled, or dependent members of the family**: many minor illnesses, chronic conditions, disabilities, and some age groups require home management by responsible family members.
+5. **Maintaining a home environment conducive to good health and personal development**: a safe and healthful physical environment, and an atmosphere of security and comfort for psychosocial development.
+6. **Maintaining a reciprocal relationship with the community and its health institutions**: just as the family utilizes community resources, the family also gets involved in community events.
+
+
+Otto (1973) and Pratt (1976) characterized health families as "energized families" and provided descriptions of healthy families to guide in assessing strengths and coping. DeFrain (1999) and Montalvo (2004) helped to identify health families. They suggest the following traits of a healthy family:
+1. Able to **communicate and listen repeatedly in many contexts**
+2. Able to **establish priorities and family needs**
+3. **Affirms, supports, and respects each other**
+4. Members engage in **flexible role relationships**, share power, respond to change, support growth and autonomy, and decision-making
+5. Teaches **family and societal values and beliefs**, sharing a spiritual core
+6. Fostering **responsibility** and values **service to others**
+7. Has **a sense of play and humor** and shares leisure time
+8. Able to ability to **cope with stress and crisis and grow from problems**
+
+___
+# Family-Nurse Contact
+The family-nurse relationship is developed through family-nurse contacts, which may take the form of a clinic visit, group conference, telephone contact, written communication, or home visit. The nurse uses the type of family-nurse contact that is most suitable to the purpose or situation at hand.
+1. **Clinic Visit**: the family member takes initiative of visiting the professional health worker, usually indicating the family's readiness to participate in the health care process. The nurse can maintain control of the situation, but this may also result in less confidence of the family to discuss family health concerns.
+2. **Group Conference**: e.g. a conference of mothers, provides an opportunity for initial contact between the nurse and target families of the community. This is appropriate for developing cooperating, leadership, self-reliance, and/or community awareness among group members. The group is able to share experiences and practical solutions to common health concerns. Difficulty may be found in the motivation and availability of attendees.
+3. **Telephone Contact**: if available, this provides easy and wide access. This also includes mobile/cell phone communication services. Contact may be through messaging or calls. Encouraging contact improves trust in the health agency. Information transmitted through this form of contact is limited, and proper assessment still takes place face-to-face.
+4. **Written communication**: used to give specific information to families. This is able to reach many families, but literacy and interest become problems when attempting to guarantee that the intended recipient is reached.
+5. **Home Visit**: a professional, purposeful interaction that takes place in the family's residence aimed at promoting, maintaining, or restoring the health of the family or its members. This occurs upon the family's request, as a result of case finding, in response to a referral, or to follow-up clients who have utilized services of a health facility such as a health center, lying-in clinic, or hospital.
+## Home Visit
+- A home visit allows firsthand assessment of the home situation: family dynamics, environmental factors affecting health, and resources within the home.
+- The nurse is able to seek out previously unidentified needs.
+- It gives the nurse an opportunity to adapt interventions according to family resources.
+- It promotes family participation and focuses on the family as a unit.
+- Teaching family members in the home is made easier by the familiar environment and the recognition of the need to learn as they are faced by the actual home situation.
+- The personalized nature of a home visit gives the family a sense of confidence in themselves and in the agency.
+- Difficulty may be met in cases of safety of the nurse, efficiency, and inability to control the environment/distractions.
+
+Because of the nature of this visit, multiple ethical issues may arise:
+1. **Maintaining a client focus**: goals must be clear and distractions must be avoided.
+2. **Client independence**: the nurse may be able to gain and provide confidence for the family if goals are being met.
+3. **Honesty**: telling the truth about how the family performs its responsibility is important. Suggestions are more important than advice. The nurse must be able to identify what the family knows about themselves.
+4. **Privacy and confidentiality**: both the family and the nurse share their own experiences during care. Anything that transpires during this period should not be shared to anyone. The nurse limits care to common areas of the household so as not to compromise privacy of the family.
+5. **Limits of intervention**: the nurse has to recognize the knowledge and skills of the family to care for themselves. The nurse needs to assess what the family knows about a certain problem. For example, the nurse may have a mother explain and demonstrate how they care for their child. If lacking or inappropriate, the nurse steps in to teach the client.
+6. **Termination**: ideally, termination is included in the objectives of care, where continuation of care is moved to the health center. The nurse has to be grateful to the family for allowing for their care.
+### Phases of a Home Visit
+1. **Pre-visit Phase**: the nurse contacts the family, determines their willingness for a home visit, and sets an appointment with them. A plan for the home visit is formulated during this phase. Planning occurs similarly to the nursing process, and follow specific principles:
+	- The home visit should have a purpose. Some purposes include assessment; education; infection control; supplemental intervention; or the provision of greater access to community health resources through rapport, information, and referrals.
+	- Use information about the family collected from all possible sources. All available information is used to determine and analyze the family situation.
+	- Focus on identified family needs, particularly those recognized by the family as requiring urgent attention (salient).
+	- The client and family should actively participate in planning for continuing care.
+	- The plan should be practical and adaptable. Flexibility is important in working with families because the nurse will not know the family's priority needs until the home visit.
+2. **In-home Phase**: this begins as the nurse seeks permission to enter and lasts until departure. This phase consists of initiation, implementation, and termination.
+	- Initiation: knock or ring the doorbell and declare yourself. Upon entering, introduction is done for the nurse and the agency they represent. Observation of the environment and general safety is appraised. To establish rapport, the nurse initiates a short social conversation, then states the purpose of the visit and sources of information is present.
+	- Implementation: the application of the nursing process; assessment (interview, physical examination, observation), intervention (care, teaching, counseling, referral), and evaluation.
+	- Termination: summarizing with the family the events during the home visit and setting a subsequent home visit or another form of family-nurse contact such as a clinic visit. Recording of findings may also be done at this time if necessary.
+3. **Post-visit Phase**: after returning to the health facility, documentation occurs, recording events that transpired during the visit, personal observations, and feelings of the nurse about the visit. A referral may be made. Planning may be done at this time if a subsequent visit has been set.
+### Bag Technique
+The nursing bag, also called the Public Health Nurse bag, is a traditional tool used during home and community visits to be able to provide care safely and efficiently. Content depends on the agency and type of expected service. It often contains the following:
+1. Articles for **infection control**: soap, disposable paper towels/linen, apron, antiseptic bottles, hand sanitizer
+2. Articles for **assessment of family members**: body thermometer(s), measuring tape, aids such as glucometer, or items for Benedict's test (Benedict's solution, dropper, test tube and holder, alcohol lamp). Note that the stethoscope and sphygmomanometer are carried separately.
+3. Articles for **nursing care**
+4. **Sterile items**: dressings, cotton balls, cotton tip applicators, syringes (2 and 5 mL) with needles, surgical gloves, cord clamp, one pair of surgical scissors, sterile pack with kidney basin, two pairs of forceps (straight, curved).
+5. **Clean articles**: adhesive tape, bandage scissors
+6. **Pieces of paper**: for lining the soap dish and bag (alternatively, a washable rubber protector) and folded paper as a waste receptacle if needed.
+
+General principles for bag technique includes:
+1. **Bag technique helps the nurse in infection control**. Proper use allows medical asepsis during the home visit as the home and family is considered a potential source of infection. This act can serve as a demonstration to the family practical methods of infection control such as handwashing.
+	- Proceed from clean to contaminated. This applies to care of family members, or even between families e.g., the family with a newborn is cared for before a family with communicable disease.
+	- The bag and its contents should be well protected from contact with any article in the patient's home. Line the table/flat surface with paper/washable protector on which the bag and all of the articles to be used are placed. Only articles that are necessary should be brought out. If possible, these are cleaned (or wrapped) before being returned to the bag.
+	- Wash your hands before and after physical assessment and physical care of each family member.
+	- Items such as the washable protector or apron are folded inwards to separate the contaminated surface from the outside.
+	- Wash the inner lining of the bag as necessary.
+2. **Bag technique allows the nurse to give care efficiently**, saving time and effort by ensuring articles are available, assorted, and stored in an efficient manner.
+3. **Bag technique should not take away the nurse's focus on the patient and the family**. It is simply a tool in providing care.
+4. **Bag technique may be performed in different ways**. Variation in use is expected, but principles of asepsis are of the essence and should be practiced at all times.
+# Family Nursing and the Nursing Process
+Family nursing is an established concept since Nightingale's period. The International Family Nursing Association provides characteristics that justify family nursing:
+1. **Families have inherent competencies, strengths, and unique interactional processes that influence family health beliefs, goals, and actions**.
+2. **Family nursing is the practice of nursing directed towards maximizing the health and well-being of all individuals within a family system**. The nurse may focus on the individual within the context of the family, or the family unit. Regardless of the identified client, the nurse establishes a relationship with each member and understands the influence of the unit on the individual and society.
+3. **Competency in family nursing translates to community and public health nurses across all health care settings**, e.g., understanding children within the family system can aid in understanding children within the educational system, and the use of a family approach to improve the health of the worker and contribute to overall productivity in an occupational health setting.
+4. The nurse **always considers the family's willingness to utilize nursing services**. Expression of the family's desire not to utilize the services offered or their preference for another health worker or agency should be respected.
+## Family Assessment
+Assessments helps identify the health status of the individual members of the family and aspects of family composition, function, and process. This process is unceasing and requires objectivity and professional judgment to attach practical meaning to the information being acquired. The nurse can obtain information through **interviews** with family members individually or by group, or of subsystems within the family. **Observation** is another method by which the nurse observes individuals, dyads, or the entire family and environment (housing, neighborhood, larger  community). **Physical examination** and other health assessment techniques, such as anthropometry, may be used. All of these are sources of *primary data*. A review of records for the family is the source of *secondary data*. Many tools have been developed to allow for a more systematic and organized classification and analysis of data:
+1. **Genogram**: a tool that helps the nurse outline the family's structure. It is a diagrammatic way to represent the family. Generally, three generations are included in the family tree with symbols denoting genealogy. This may be used during an early family interview to gain a general picture of the family. Some sensitive topics may arise, such as a history of separation, divorce, alcoholism, substance abuse, or depression. Creating the genogram with the family may be an excellent opening to the discussion of family history or hereditary health problems, and potentially highlight the need for health education and promotion.%%
+	- Children are pictures from left to right, from oldest to youngest.
+	- If a spouse has had a previous marriage, their distance to the first spouse is closer than the second spouse, and so on.
+	- A family with multiple households may be segregated with circles.
+	- A more comprehensive guide in creating a genogram may be found [here](www.genopro.com)%%
+2. **Family Health Tree**: based on the genogram, it provides a mechanism for recording the family's medical and health histories. This may be used to plan positive familial influences on risk factors such as diet, exercise, coping with stress, or pressure to have a physical examination.
+	- **Causes of death**
+	- **Genetically linked diseases** e.g. heart disease, cancer, diabetes, hypertension, allergies, asthma, and mental retardation.
+	- **Environmental and occupational diseases**
+	- **Psychosocial problems**
+	- **Infectious diseases**
+	- **Familial risk factors** from health problems
+	- **Risk factors** related to the family's **methods of illness prevention**, such as having periodic physical examinations, Pap smears, and immunizations
+	- **Lifestyle-related risk factors**, i.e., by asking what family members do the "*handle stress*" or "*keep in shape*".
+4. **Ecomap**: another classic tool used to depict a family's linkages to its suprasystems. The eco-map portrays an overview of the family in their situation; it depicts the important nurturant or conflict-laden connections between the family and the world. It demonstrates the flow of resources, or the lacks and deprivations (Hartman). This may also be filled out during an early family interview, noting people, institutions, and agencies significant to the family.
+	- The nurse may be able to use the ecomap to discuss with the family the types of resources in the community and the types of relationships they want to establish with them.
+5. ***Cultugram***
+6. **Family Interviewing**: the use of a standardized tool (family service and progress report) to conceptualize the health needs of the families and to assess families' responses to events such as birth, retirement, or chronic illness. It may also be a method of intervention. The following are *critical components of the family interview*, as devised by Wright and Leahey:
+	- **Manners**: greetings, privacy, confidentiality; this sets the tone for the interview and begins the development of a therapeutic relationship.
+	- **Therapeutic Questions**: focus on problems and sharing information. The questions should be specific for the context or family situation but have the basic themes of family expectations of the home visit; challenges, concerns, and problems encountered at the time of the interview; and sharing information.
+	- **Therapeutic Conversations**: conversation should be focused, planned, and engages the family. The nurse must actively listen, knowing that even a single sentence has the potential to heal or help a family member. The nurse encourages questions, engages the family in the interview and assessment process, and commends the family when strengths are identified.
+	- Family Genogram (and Ecomap when indicated) may provide essential information on family structure, composition, background, and basic health status. It also allows for the family to be engaged with the interview process.
+	- **Commending family or individual strengths** on at least two strength areas to develop rapport. Sharing strengths reinforces immediate and long-term positive relationships. Building upon strengths leads to more open and trusting relationships and often allow the family to reframe problems, thereby increasing problem solving and healing.
+## Family Data Assessment
+A thorough family assessment yields a large volume of data. These are organized into clusters (data synthesis) and filtered based on pertinence. **Data analysis** is done by comparing findings with accepted standards for individual family members and for the family unit. The following system organizes family data:
+1. **Family Structure and Characteristics**: household membership, demographic characteristics, family members living outside the household, family mobility, and family dynamics. This may be visualized with genogram, ecomap, and/or family health tree.
+2. **Socioeconomic Characteristics**: data on social integration (ethnic origin, languages and/or dialects spoken, and social networks), educational experience and literacy, work history, financial resources, leisure time interests, and cultural influences, including spirituality or religious affiliation.
+3. **Family Environment**: physical environment inside the family's home/resident and its neighborhood.
+4. **Family Health and Health Behavior**: activities of daily living, self-care, risk behaviors, health history, current health status, and health care resources (home remedies and health services).
+## Family Nursing Diagnosis
+A family nursing diagnosis may be formulated at several levels: the individual, the family, and the family as it relates to its environment/community. Specific diagnoses by NANDA serve as a common framework of expressing human responses to actual and potential health problems. An alternative tool for nursing diagnosis is the **Family Coping Index**. It works on the principle that family problems may be resolved if the nurse improves the family's coping capacity rather than focusing on the problem itself. There are nine areas of assessment:
+1. Physical independence: ability to perform ADLs
+2. Therapeutic competence: ability to comply with recommended procedures or treatments e.g. medications, dietary recommendations, exercise, etc.
+3. Knowledge of health condition: understanding of health conditions or essentials of care
+4. Application of principles of personal and general hygiene
+5. Health care attitudes: perception of health care in general and in responsiveness to promotive, preventive, and curative efforts of health workers.
+6. Emotional competence: degree of emotional maturity
+7. Family living patterns: interpersonal relationships among family members
+8. Physical environment: home, school, work, community environment
+9. Use of community facilities: ability to seek and utilize, as needed, both government-run and private health, education, and other community services
+## Formulating the Plan of Care
+1. **Priority Setting**: determine the sequence in dealing with identified family needs and problems. The following need to be considered:
+	- Family safety: a life-threatening situation is given top priority. Likewise, communicable disease requires immediate attention.
+	- Family perception: whichever problem the family recognizes as most urgent should be prioritized more. If urgent problems exist but are not recognized as urgent, the nurse may strive towards client education.
+	- Practicality: consider existing resources, limitations, and feasibility.
+	- Projected effects: think of the prospect of preventing serious problems in the future by resolving an existing family concern.
+2. **Establishing Goals and Objectives**: a goal is a desired observable family response to planned interventions in response to a mutually identified family need; the end that the nurse and the family aim to achieve. This also keeps in consideration practicality and family perception. On the other hand, an objective is the desired step-by-step family response as they work towards a goal. These should be **SMART**:
+	- *Specific*: clear articulation of who is to do what, e.g., the family or a target family member will manifest a particular behavior.
+	- *Measurable*: observable, measurable, and whenever possible, quantifiable indications of the family's achievement as a result of their efforts. This is used for monitoring and evaluation.
+	- *Attainable*: realistic and in conformity with available resources, constraints, and family traits.
+	- *Relevant*: appropriate in relation to family problem.
+	- *Time-bound*: specific in target times or dates helps the family and nurse in focusing their attention and efforts.
+3. **Determining Appropriate Interventions**: interventions can range from simple or immediate (such as in client education) to complicated or prolonged interventions (such as in pulmonary tuberculosis). Interventions should follow the principle of mutuality (both the nurse and family agree to it) and the principle of personalization (the intervention is suited to the family's unique situation) There are three types of interventions as proposed by Freeman and Heinrich:
+	- Supplemental interventions: actions the nurse performs on behalf of the family, if unable. Excessive reliance to these interventions can hold back development of self-reliance.
+	- Facilitative interventions: actions that remove barriers to appropriate health action.
+	- Developmental interventions: actions that improve the capacity of the family to provide for its own health needs.
+## Implementing the Plan of Care
+Implementation is the execution of the plan of action. This is determined by the mutually agreed upon goals and objectives and the selected courses of action. The nurse should be aware of potential barriers to implementation, categorized as *family-related barriers* including apathy and indecision, or *nurse-related barriers* including being imposing, negative labeling, overlooking family strengths, and neglecting cultural and gender implications of family interventions.
+- Being imposing diminishes the family's responsibility and decision-making.
+- Negative labeling, such as labeling the family as stubborn or the nurse's self as ineffective, hinders relationship building, expectations, and compliance.
+- Overlooking family strengths results from a tendency of focusing on the problems and weaknesses of a family.
+- The nurse who fails to consider cultural and gender differences/issues risks making plans that are unacceptable to the family.
+
+To this end, the nurse should be able to **determine the self**, or be self-aware. This is the nurse's awareness of their own behaviors; recognition of having an idea or behavior that may affect effectiveness, allows the nurse to address the issue appropriately.
+## Evaluation
+Evaluation is determining the value of nursing care that has been given to a family. The product of this step is used for further decision-making: to terminate, continue, or modify the intervention(s) being used. Evaluation may be done in two ways:
+1. **Formative Evaluation**: a judgment made about the effectiveness of nursing interventions as they are implemented. This is on-going and continuing while family nursing care is being implemented and family-nurse interactions are taking place. These guide the nurse and family in updating plans as necessary.
+2. **Summative Evaluation**: the end results of family nursing care and usually involves measuring outcomes or the degree to which goals have been achieved.
+
+Evaluation includes various aspects:
+1. **Effectiveness**: the determination of whether goals and objectives were attained; "*Did we produce the expected results?*"
+2. **Appropriateness**: the suitability of the goals/objectives to the identified family health needs; "*Are our goals/objectives and interventions correct in relation to the family health needs we intend to address?*"
+3. **Adequacy**: the degree of sufficiency of goals/objectives and interventions in attaining the desired change in the family; "*Were our interventions enough to bring about the desired change?*"
+4. **Efficiency**: the relationship of resources used to attain the desired outcomes; "*Was the effort and resources used appropriate for the result?*"

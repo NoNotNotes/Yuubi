@@ -2,6 +2,9 @@
 title: Traditional and Complementary Medicines
 tags:
   - CHN
+aliases:
+  - TACM
+  - TAMA
 ---
 >[!CITE] Reference
 >Nies, M., McEwen, M. (2020). Primary Health Care. In *Community and Public Health Nursing* (2nd Philippine ed., pp. 191-204). C&E Publishing, Inc.

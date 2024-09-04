@@ -1,12 +1,12 @@
 ---
 tags:
-  - B316
+  - MS
 title: Peripheral Nerve Function Assessment
 aliases:
   - Peripheral Neurovascular Dysfunction
   - CMS Assessment
 ---
-Frequent neurovascular assessment is required for musculoskeletal disorders, especially from [[B316/15-7|fractures]] due to the risk of nerve and muscle anoxia and necrosis. 
+Frequent neurovascular assessment is required for musculoskeletal disorders, especially from [[MS/33-07|fractures]] due to the risk of nerve and muscle anoxia and necrosis. 
 # Indicators of Peripheral Neurovascular Dysfunction
 1. **Circulation**:
 	- **Color**: pale, cyanotic, or mottled
