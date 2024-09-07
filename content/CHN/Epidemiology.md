@@ -109,8 +109,8 @@ Population indicators include population growth indicators (*crude birth rate*, 
         - $GFR=(\frac{Br}{Pw})k$, where $Br$ is the number of registered live births in a year, $Pw$ is the midyear population of women 15 to 49 years of age, and $k$ is a constant, usually taken as 1000.
         - A GFR greater than or equal to 200 live births in 1000 women implies **high fertility**, while a level less than 60 live births in 1000 women implies **low fertility**.
 3. **Population Pyramid**: a graphical representation of the age-sex composition of the population. The shape of the pyramid provides insights into the fertility and mortality patterns of the population as well as the health services likely to be needed based on the age-sex composition of the population.
-- %% insert image %%
-- A normal triangular shape of a population pyramid is characteristic of developing countries whose population has a larger proportion of younger age groups. This implies that more health services are needed for the young populations, such as immunization, nutrition programs, and environmental measures to prevent common childhood illnesses.
+	- A normal triangular shape of a population pyramid is characteristic of developing countries whose population has a larger proportion of younger age groups. This implies that more health services are needed for the young populations, such as immunization, nutrition programs, and environmental measures to prevent common childhood illnesses.
+![[Screenshot_2024-09-06-12-37-01-659_com.android.chrome.png]]
 >[!INFO] Live Birth
 >A live birth is defined as the complete expulsion or extraction from its mother of a product of conception, irrespective of the duration of the pregnancy, which, after such separation, breathes or shows any other evidence of life, such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles, whether or not the umbilical cord has been cut or the placenta is attached.
 ### Mortality Indicators
@@ -195,20 +195,21 @@ ___
         - Observation of single events or clusters - cases of communicable diseases are reported by laboratories and healthcare providers to health departments.
         - Reports from patients or members of the community - individuals that report to the hospital, e.g. a sudden spike in patients reporting diarrhea after attending a party, or a local citizen calling about a mysterious disease affecting their neighborhood.
 2. **Factors Affecting Disease Outbreak Investigation**: investigation is needed to identify and eliminate the source of disease/health condition and prevent occurrence of more cases.
-        - Factors related to the disease or health problem - these include the severity of illness, the number of cases, the source, mode or ease of transmission, and the availability of prevention and control measures. That is, investigation is more likely if there are a large number of affected persons, when the disease is severe, when effective control measures exist, and when the outbreak has the potential to affect others unless prompt control measures are taken.
-        - Factors related to the health department
-        - Factors related to external concerns
+	- Factors related to the disease or health problem - these include the severity of illness, the number of cases, the source, mode or ease of transmission, and the availability of prevention and control measures. That is, investigation is more likely if there are a large number of affected persons, when the disease is severe, when effective control measures exist, and when the outbreak has the potential to affect others unless prompt control measures are taken.
+	- Factors related to the health department - availability of staff and resources, and competing priorities; if a health department is experienced in investigating outbreaks.
+	- Factors related to external concerns - other concerns include (1) control or prevention of the health problem, (2) opportunity to learn or do research, (3) public, political, or legal concerns, (4) public health program considerations, and (5) training in field epidemiology.
 ## Steps in Disease Outbreak Investigation
-1. **Prepare for field work**
-2. **Establish the existence of an outbreak**
-3. **Verify the diagnosis**
-4. **Construct a working case definition**
-5. **Find cases systematically and record information**
-6. **Perform descriptive epidemiology**
-7. **Develop hypotheses**
-8. **Evaluate hypotheses epidemiologically**
-9. **As necessary, reconsider, refine, and re-evaluate hypotheses**
-10. **Compare and reconcile with laboratory and/or environmental studies**
-11. **Implement control and prevention measures**
-12. **Initiate or maintain surveillance**
-13. **Communicate findings**
+The **CDC** (2012) outlines the steps in disease outbreak investigation. The steps listed are ordered conceptually though, in practice, some of the steps may be done at the same time; or a different ordered may be followed; such as, in cases where diagnosis and existence of an outbreak is established first before an outbreak investigation is decided upon, or control measures are implemented as soon as the source and mode of transmission are known.
+1. **Prepare for field work**: gain background knowledge on the disease or condition, supplies, and equipment required for the investigation. Plan with a team and coordinate with the local area.
+2. **Establish the existence of an outbreak**: the expected number is usually the number from the pervious few weeks or months, or from a comparable period during the previous few years. For a notifiable disease, the expected number is based on surveillance records. Local data may also be used for other diseases. A survey of the community may be conducted to establish the background of the disease or condition.
+3. **Verify the diagnosis**: this ensures the disease has been identified, and to ensure that laboratory error is not the source of increasing cases.
+4. **Construct a working case definition**: a case definition is a tool for classifying someone as either having or not having the disease of interest. These include clinical criteria and restrictions by time, place and person. In early investigation, case definitions are usually operationalized: (a) suspect case has a few typical clinical features, (b) probable case has typical features, and (c) confirmed case has typical features and laboratory verification. This minimizes false-positive and false-negative error cases.
+5. **Find cases systematically and record information**: passive surveillance (send out information about the outbreak and ask for reports) or active surveillance (visit facilities to collect information about the outbreak). Forms, questionnaires, or snowball sampling may be used.
+6. **Perform descriptive epidemiology**: characterize the outbreak by time, place, and person (*descriptive epidemiology*). This can be the basis for testable hypotheses, and provide directions for prevention and intervention measures.
+7. **Develop hypotheses**: may address the source of the agent, the mode of transmission, or the exposures that caused the disease, depending on what is known.
+8. **Evaluate hypotheses epidemiologically**: evaluate hypotheses by (a) comparing them with established facts, or (b) using analytic epidemiology to quantify relationships and assess the role of chance. The necessity of analytical epidemiology (retrospective cohort studies, case-control studies) depends on the amount of evidence supporting the hypotheses.
+9. **As necessary, reconsider, refine, and re-evaluate hypotheses**: if the results of analytic epidemiology are unrevealing, rethinking the hypothesis may be necessary.
+10. **Compare and reconcile with laboratory and/or environmental studies**: laboratory and environmental studies can correlate with the analytic epidemiology studies. Together, they provide a complete picture of the outbreak investigation and guide appropriate public health action.
+11. **Implement control and prevention measures**: measures that target areas of the chain of infection are set in place, sometimes even before investigation begins. 
+12. **Initiate or maintain surveillance**: continuing surveillance is important to determine whether the prevention and control measures are working in terms of declining number of cases; as well as checking whether the outbreak has spread to other areas where control measures would need to be initiated too.
+13. **Communicate findings**: summarization of the findings and its outcomes in a report, and communication of this report through oral briefing to local authorities and as a written report with a scientific format of introduction, background, methods, results, discussion, and recommendations. It is also published in public health literature to contribute to the knowledge base of epidemiology and public health.

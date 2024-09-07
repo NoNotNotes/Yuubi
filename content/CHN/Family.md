@@ -77,7 +77,6 @@ The family serves as an essential resource for its members by carrying out healt
 5. **Maintaining a home environment conducive to good health and personal development**: a safe and healthful physical environment, and an atmosphere of security and comfort for psychosocial development.
 6. **Maintaining a reciprocal relationship with the community and its health institutions**: just as the family utilizes community resources, the family also gets involved in community events.
 
-
 Otto (1973) and Pratt (1976) characterized health families as "energized families" and provided descriptions of healthy families to guide in assessing strengths and coping. DeFrain (1999) and Montalvo (2004) helped to identify health families. They suggest the following traits of a healthy family:
 1. Able to **communicate and listen repeatedly in many contexts**
 2. Able to **establish priorities and family needs**
@@ -87,7 +86,6 @@ Otto (1973) and Pratt (1976) characterized health families as "energized familie
 6. Fostering **responsibility** and values **service to others**
 7. Has **a sense of play and humor** and shares leisure time
 8. Able to ability to **cope with stress and crisis and grow from problems**
-
 ___
 # Family-Nurse Contact
 The family-nurse relationship is developed through family-nurse contacts, which may take the form of a clinic visit, group conference, telephone contact, written communication, or home visit. The nurse uses the type of family-nurse contact that is most suitable to the purpose or situation at hand.

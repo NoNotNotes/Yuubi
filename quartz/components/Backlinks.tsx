@@ -11,7 +11,17 @@ const Backlinks: QuartzComponent = ({
   cfg,
 }: QuartzComponentProps) => {
   const slug = simplifySlug(fileData.slug!)
-  const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
+  // const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
+
+  const firstLevelBacklinks = allFiles.filter((file) => file.links?.includes(slug))
+  const secondLevelBacklinks = allFiles.filter((file) =>
+    firstLevelBacklinks.some((backlinkFile) => file.links?.includes(simplifySlug(backlinkFile.slug!)))
+  )
+
+  const backlinkFiles = [...firstLevelBacklinks, ...secondLevelBacklinks].filter(
+    (file, index, self) => index === self.findIndex((f) => f.slug === file.slug)
+  )
+
   return (
     <div class={classNames(displayClass, "backlinks")}>
       <h3>{i18n(cfg.locale).components.backlinks.title}</h3>
