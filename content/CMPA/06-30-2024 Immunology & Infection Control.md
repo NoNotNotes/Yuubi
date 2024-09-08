@@ -4,7 +4,7 @@ tags:
 ---
 # Immunoglobulins
 1. **IgG**: the most abundant immunoglobulin; able to cross the placenta. It is found in chronic infection.
-2. **IgA**: found in secretions and is 
+2. **IgA**: found in secretions and is found in breastmilk, which can confer immunity once consumed.
 3. **IgM**: the largest immunoglobulin, found to rise during acute infections.
 4. **IgE**: allerges; responsible for pruritus/urticaria, and helminths.
 5. **IgD**: no role
