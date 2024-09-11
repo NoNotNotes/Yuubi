@@ -26,7 +26,7 @@ The use of plants or derivatives from plants for the treatment of specific condi
 	- Use: **Diarrhea**, **Stomachache**
 	- Preparation: **Decoction**
 5. **Niyog-niyogan**:
-	- Use: **Antihelminthic**
+	- Use: **Anthelminthic**
 	- Preparation: **Seeds are used**
 6. **Bayabas**:
 	- Use: **Washing wounds**, **diarrhea**, gargle, **toothache**
