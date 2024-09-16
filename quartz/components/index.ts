@@ -20,6 +20,7 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
+import OverlayExplorer from "./OverlayExplorer"
 
 export {
   ArticleTitle,
@@ -42,5 +43,6 @@ export {
   MobileOnly,
   RecentNotes,
   NotFound,
-  Breadcrumbs
+  Breadcrumbs,
+  OverlayExplorer
 }
