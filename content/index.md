@@ -17,14 +17,15 @@ title: No, Not Notes
     }
 </script>
 
-Daily (or more) notes of my undergrad studies. Hopefully complete on or within the next <code class="countdown"></code>.
+Hopefully complete on or within the next <code class="countdown"></code>. The name saying "No Not Note(s)" is just a bit of wordplay I thought of. These are definitely notes.
 ___
 # Acknowledgements
 For the actual site, its components, and its styling:
 
-| Contributor                                        | Contribution                                                                                                                                                   |
-| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Jacky](https://github.com/jackyzha0)              | [Quartz](https://github.com/jackyzha0/quartz), the best static site builder around.                                                                            |
-| [MikeKneeB](https://github.com/MikeKneeB)          | [OverlayExplorer](https://github.com/MikeKneeB/quartz-site/tree/main) addendum for Quartz, implementing explorer functionality into mobile viewports.          |
-| [Eileen Zhang](https://github.com/fanteastick)     | [Random Page Button](https://quartz.eilleeenz.com/) from her cute website, with code from t-schreibs. Found this out from MassiveJuice.                        |
-| [MassiveJuice](https://github.com/MasssiveJuice08) | [Callouts, Columns, Info boxes, and more](https://morrowind-modding.github.io/contributing/custom-formatting-features) from other sources adapted into Quartz. |
+| Contributor                                                       | Contribution                                                                                                                                                                                      |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Jacky](https://github.com/jackyzha0)                             | [Quartz](https://github.com/jackyzha0/quartz), the best static site builder around.                                                                                                               |
+| [Obsidian](https://github.com/obsidianmd/obsidian-developer-docs) | [Obsidian](https://obsidian.md/) is the markdown note-taking app I use that Quartz primarily bases its root data from! It's free and highly customizable to my aesthetic and functionality needs. |
+| [MikeKneeB](https://github.com/MikeKneeB)                         | [OverlayExplorer](https://github.com/MikeKneeB/quartz-site/tree/main) addendum for Quartz, implementing explorer functionality into mobile viewports.                                             |
+| [Eileen Zhang](https://github.com/fanteastick)                    | [Random Page Button](https://quartz.eilleeenz.com/) from her cute website, with code from t-schreibs. Found this out from MassiveJuice.                                                           |
+| [MassiveJuice](https://github.com/MasssiveJuice08)                | [Callouts, Columns, Info boxes, and more](https://morrowind-modding.github.io/contributing/custom-formatting-features) from other sources adapted into Quartz.                                    |

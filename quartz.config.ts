@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitle: "NNN",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: 'google', tagId: 'G-9KBPBRNS0D' },
     locale: "en-US",
     baseUrl: "nonotnotes.github.io/",
     ignorePatterns: ["private", "templates", ".obsidian", "PRELIMS", "MIDTERMS", "FINALS"],
