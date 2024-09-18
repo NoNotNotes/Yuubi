@@ -260,6 +260,7 @@ There are two primary types of tools utilized by the FHSIS:
 |           |                                 |                 | A1, A2, A3      | Every second week of March                              |
 |           |                                 |                 |                 |                                                         |
 ___
+# Family
 There are many definitions of the family:
 1. The family is a group of persons usually living together and composed of the head and other persons related to the head by blood, marriage or adoption. It includes both the nuclear and extended family. (National Statistical Coordination Board)
 2. A social unit interacting with the large society. (Johnson, sociologist)
