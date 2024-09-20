@@ -1,5 +1,8 @@
 ---
 title: Maternal Newborn Child Health and Nutrition Services
+tags:
+  - CHN
+  - INC
 ---
 >[!CITE] Reference
 >Nies, M., McEwen, M. (2020). Maternal, child and adolescent health services. In *Community and Public Health Nursing* (2nd Philippine ed., pp. 261-304). C&E Publishing, Inc.

@@ -31,7 +31,7 @@ ___
 # Demography Statistics
 1. **Natural Increase**: the difference between live births and deaths in a specified period of time.
 $$\text{Natural Increase}=\text{\# of Births}-\text{\# of Deaths}$$
-2. **Rate of Natural Increase**: the difference between live births and deaths in a specified period of time.
+2. **Rate of Natural Increase**: the difference between live births and deaths in a specified period of time. Refer to [[Epidemiology#Vital Statistics|Epidemiology]] for the discussion on crude birth and death rates.
 $$\text{Rate of Natural Increase}=\text{Crude Birth Rate}-\text{Crude Death Rate}$$
 3. **Absolute Increase per Year**: the number of people that are added to the population per year. $Pt$ is the population size and $Po$ is the population size from $t$ years before.
 $$\text{Absolute Increase per Year}=\frac{Pt-Po}{t}$$

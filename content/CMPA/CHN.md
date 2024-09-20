@@ -1,10 +1,10 @@
 The following discussion is the complete summary of the following notes, based on the 2nd Philippine edition of *Nies* and *McEwen*'s [Community and Public Health Nursing](https://cebookshop.com/product/8043545) (*Famorca*) textbook.
-1. [[CMPA/08-29-2024 CHN|CHN D1]]
-2. [[CMPA/08-30-2024 CHN|CHN D2]] 
+1. [[08-29-2024 CHN|CHN D1]]
+2. [[08-30-2024 CHN|CHN D2]] 
 
 As discussed by **Ma'am Aida V. Garcia, RN, MAN** on 08-29-2024 and 08-30-2024.
 ___
-# Traditional and Complementary Medicines
+# Traditional & Complementary Medicines
 **Republic Act 8423**, titled the **Traditional and Alternative Medicine Act** (TAMA) authored by Senator Juan Flavier institutes the Philippine Institute of Traditional and Alternative Health Care (PITAHC) under the DOH to improve the quality and delivery of health care services to the Filipino people through **the development of traditional and alternative health care** and its integration into the national health care. Today, these methods are called **T&CM**, **Traditional and Complementary Medicine**.
 ## Herbal Medicines
 Colloquially known as "*Botika sa Paso*" (literally "Pot Pharmacy"), it is defined as the use of plants or derivatives from plants for the treatment of specific conditions. In the Philippines, it is one of the most popular modalities of complementary medicine. Currently, the DOH recommends ten such medicines:
