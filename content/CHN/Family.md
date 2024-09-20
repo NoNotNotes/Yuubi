@@ -223,3 +223,9 @@ Evaluation includes various aspects:
 2. **Appropriateness**: the suitability of the goals/objectives to the identified family health needs; "*Are our goals/objectives and interventions correct in relation to the family health needs we intend to address?*"
 3. **Adequacy**: the degree of sufficiency of goals/objectives and interventions in attaining the desired change in the family; "*Were our interventions enough to bring about the desired change?*"
 4. **Efficiency**: the relationship of resources used to attain the desired outcomes; "*Was the effort and resources used appropriate for the result?*"
+___
+# Family Nursing and the Nursing Process
+>[!WARNING] Reference
+>This discussion, while on the same topic as the last, is different and purely based on Ma'am Dang's presentation. I believe it references other books I don't have, so I do not have complete information regarding the discussion.
+
+The **Family Nursing Process** is the blueprint of care that the nurse designs to systematically minimize or eliminate the identified health and family nursing problems through explicitly formulated outcomes of care and elivery chosen 
