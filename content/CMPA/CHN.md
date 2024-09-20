@@ -186,35 +186,54 @@ Recommended Duration of Storage for Biologicals (*only the 1 month limit was rea
 | 5    | 1 year after DT4                                                  | 99%        | Lifetime |
 ___
 # Demography
-*I need more information on this; it's based on the Maglaya Community Health Nursing book but I don't have one.*
+This part is not sourced from the book, but is directly from a handout for CMPA by Ma'am Dang.  I believe this is a topic found in Maglaya's Community Nursing book, which I am not in possession of.
 
-The study of the population, entailing not only the size, but the composition and distribution as well. Some sources of demographic data include:
-1. **Census**: either **de jure** (actual residence), or **de facto** (based on where the individual is currently situated) performed by the National Government. It is the most expensive form of data collection in terms of both money and time (done every 10 years).
-2. **Registration System**: records of vital events e.g. birth certificate, death certificate
-	- Births should be reported within 30 days by the birth attendant or who birthed the child to the local civil registry.
-	- Deaths%%incomplete%%. In terms of location to register, this should be done where the death had occurred. The certificate should be signed by the municipal health officer.
-3. **Sample Survey**: selecting a small subset of the community in order to represent the entire community.
-## Population Size
-In the Philippines, the global population is increasing by 1.6% (2020). In general, this change is based on **absolute increase**; calculated by deducting deaths from births. The same represented in percentage is called the **relative increase**.
-- The age group with the most births is the 25 to 29 year old bracket of women.
-- The total fertility rate includes all women from 15 to 49 years old who are still within the reproductive age. As of 2022, the amount of children per woman is 1.9.
-- **Crude Birth Rate** (CBR) is the rate of births. The inversion is **Crude Death Rate** (CDR), the rate of death. The *rate of natural increase* is $\text{CBR}-\text{CDR}$.
-- The most common cause of mortality is **lifestyle**; the most common cause of morbidity is **infection**.
+**Demography** is the study of the size, territorial distribution, and composition of population and the changes therein (Duncan & Hauser, 1972). Literally translated from Greek, it means "*description of the people*". A **Population** is defined as group of individuals of the same species living and interbreeding within a given area. There are several general parameters in studying the population:
+1. **Population Size**: the number of people in a given place at a given time.
+2. **Population Distribution**: the specific geographic location of the population.
+3. **Population Composition**: the characteristics of population as to age, sex, occupation, or educational level.
+4. **Population Projection**: a common demographic tool that provides a basis for other statistical projections. It helps governments with decision-making.
 
-The population may also be described based on its composition, a primary example being of its *gender*. This is calculated with the **sex ratio**:
-$$\text{Sex Ratio}=\frac{\text{Males}}{\text{Females}\times100}$$
-
-Composition may also be represented by age. The **median age** denotes the middle point of age in the population. Others include:
-- The **Dependency Ratio**: the number of people who are *economically dependent* (unemployed, not employable; 0 to 14 years old, 65 years old and above) or *economically independent* (able to work; 15 to 64 years old).
-$$\text{Dependency Ratio}=\frac{\text{Dependent}}{\text{Independent}}\times100$$
-
-The representation of both **age** and **sex** with one graph utilizes the **population pyramid graph**.
+There are three components that affect population growth:
+```mermaid
+flowchart LR
+A(Birth)
+B(Death)
+C(Migration)
+A---B
+B---C
+```
+## Sources of Data
+1. **Census**: conducted by a national government and attempts to enumerate every person in a country. It may be done in two ways:
+	- **De Jure**: individuals are recorded based on legal residence
+	- **De Facto**: individuals are recorded based on their location at a specific time.
+2. **Sample Survey**: data gathered from a subset of the population proportionate to the general population.
+3. **Registration System**: deals with recording of vital events such as birth, marriage, and death.
+## Demography Statistics
+1. **Natural Increase**: the difference between live births and deaths in a specified period of time.
+$$\text{Natural Increase}=\text{\# of Births}-\text{\# of Deaths}$$
+2. **Rate of Natural Increase**: the difference between live births and deaths in a specified period of time.
+$$\text{Rate of Natural Increase}=\text{Crude Birth Rate}-\text{Crude Death Rate}$$
+3. **Absolute Increase per Year**: the number of people that are added to the population per year. $Pt$ is the population size and $Po$ is the population size from $t$ years before.
+$$\text{Absolute Increase per Year}=\frac{Pt-Po}{t}$$
+4. **Relative Increase** (Population Growth Rate): the actual differences between the two census counts expressed in **percent** relative to the population size made during an earlier census. This percent is the average yearly percentage change over the same time frame.
+$$\text{Relative Increase}=\frac{Pt-Po}{Po}$$
+## Population Composition
+1. **Sex Composition** (Sex Ratio): the ratio of males to females in a population, expressed as "number of males for every 100 females".
+$$\text{Sex Ratio}=\frac{\text{\# of Males}}{\text{\# of Females}}\times100$$
+2. **Age Composition** (or distribution): the proportionate number of persons in successive age categories in a given population. As an example, a population with persistently high fertility would exhibit a large proportion of children, and a small proportion of aged persons.
+3. **Median Age**: the age that divides a population into two numerically equally sized groups, i.e., exactly half the population would be younger or older than the median age. It is a single age that summarizes the age distribution of a population.
+4. **Dependency Ratio**: the age-population ratio of those typically not in the labor force and those typically in the labor force. This age group is between 15 years old and 64 years old. It is used to measure the pressure on the productive population to support the dependent population. It is expressed as a percent, e.g., "60% of the population is dependent on the remaining 40%"
+$$\text{Dependency Ratio}=\frac{\text{People aged <14, and >65 years old}}{\text{People aged 15 to 65 years old}}\times 100$$
+5. **Age and Sex Composition**: a population pyramid that depicts both age (vertical axis) and sex (horizontal axis). The shape of this pyramid can determine the pattern of population change. A normal pyramid (as illustrated below) shows rapid growth, a thin, almost columnar pyramid shows slow growth, and a top-heavy pyramid shows negative growth.
 ![[population_pyramid.png]]
-
-The **geographical and housing distribution** of the population can be quantified through the following:
-1. **Urban-Rural Distribution**: the distribution of the population between urban and rural areas.
-2. **Crowding Index**: number of individuals per room in a household. Exceeding two indicates increased risk, especially for communicable diseases.
-3. **Population Density**: number of individuals within a given area (per km²).
+## Population Distribution
+The pattern of where people live. It denotes the spatial pattern: due to dispersal of population, formation of agglomeration (groups), and linear spread.
+1. **Urban-Rural Distribution**: illustrates the proportion of the people living in urban areas compared to rural areas.
+2. **Crowding Index**: an alternative measure of **household crowding**. It is defined as the number of usual residents in a dwelling divided by the number of rooms in the dwelling.
+$$\text{Crowding Index}=\frac{\text{\# of Persons in a Household}}{\text{\# of Rooms used for Sleeping}}$$
+3. **Population Density**: is calculated as population divided by total land area, expressed as number of people per square kilometer of land area.
+$$\text{Population Density}=\frac{\text{\# of people}}{\text{Land area in km}^2}$$
 ___
 # Field Health Services and Information System (FHSIS)
 A **Health Information System** (HIS) has four primary functions: data generation, compilation, analysis & synthesis, and communication & use. This system collects data from the healthcare and other pertinent sectors; analyzes gathered data; ensures overall data quality, relevance, and timeliness; and, converts the data into information imperative for health-related decision-making (WHO, 2008b).
@@ -277,14 +296,14 @@ The family is considered as a "*unit of service*" for the following reasons:
 
 | Family Form   | Description                                                                                                                                                                                                                                                                              |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nuclear       | "*Traditional*; *Family of marriage, parenthood, or procreation*". A husband, wife, and their children— natural, adopted, or both (Friedman et al.).                                                                                                                                     |
-| Dyad          | "*Empty nesters*". A husband and wife with no children.                                                                                                                                                                                                                                  |
-| Extended      | "*Multigenerational*". Three or more generations, which may include in-laws and grandparents.                                                                                                                                                                                            |
-| Blended       | The union of two spouses who have had children from a previous marriage.                                                                                                                                                                                                                 |
-| Compound      | A husband with multiple wives, primarily only permitted in Muslim culture (in the Philippines) by virtue of P.D. No. 1083 (Code of Muslim Personal Laws of the Philippines).                                                                                                             |
-| Cohabiting    | "*Live-in*". An unmarried couple and their child or children, recognized through common-law marriage.                                                                                                                                                                                    |
-| Single Parent | Resulting from death of a spouse, separation, or pregnancy outside of wedlock. These families are faced with greater risk associated with lesser social, emotional, and financial resources. Families who have one of the spouses working overseas effectively fall under this category. |
-| Homosexual    | A cohabiting couple of the same sex in a sexual relationship. They may or may not have children. E.O. 209 (Family Code of the Philippines) expressly states that marriage is between a man and a woman, therefore disallowing same-sex marriage.                                         |
+| **Nuclear**       | "*Traditional*; *Family of marriage, parenthood, or procreation*". A husband, wife, and their children— natural, adopted, or both (Friedman et al.).                                                                                                                                     |
+| **Dyad**          | "*Empty nesters*". A husband and wife with no children.                                                                                                                                                                                                                                  |
+| **Extended**      | "*Multigenerational*". Three or more generations, which may include in-laws and grandparents.                                                                                                                                                                                            |
+| **Blended**       | The union of two spouses who have had children from a previous marriage.                                                                                                                                                                                                                 |
+| **Compound**      | A husband with multiple wives, primarily only permitted in Muslim culture (in the Philippines) by virtue of P.D. No. 1083 (Code of Muslim Personal Laws of the Philippines).                                                                                                             |
+| **Cohabiting**    | "*Live-in*". An unmarried couple and their child or children, recognized through common-law marriage.                                                                                                                                                                                    |
+| **Single Parent** | Resulting from death of a spouse, separation, or pregnancy outside of wedlock. These families are faced with greater risk associated with lesser social, emotional, and financial resources. Families who have one of the spouses working overseas effectively fall under this category. |
+| **Homosexual**    | A cohabiting couple of the same sex in a sexual relationship. They may or may not have children. E.O. 209 (Family Code of the Philippines) expressly states that marriage is between a man and a woman, therefore disallowing same-sex marriage.                                         |
 *The following are additional forms and classifications discussed but not included within the book.*
 
 Based on **Authority**, where decision-making is delegated to either the father (**Patriarchal**) or mother (**Matriarchal**). A participative form of authority is termed **Patricentric**, **Matricentric** or **Egalitarian** (equal), eliminating the hierarchal nuance of previous terminology.
