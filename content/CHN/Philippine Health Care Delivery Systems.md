@@ -4,13 +4,17 @@ tags:
   - CHN
 description: Exploring the various systems in place to provide all levels of care for the archipelagic country of the Philippines, and health goals of the various institutions related to public health.
 ---
+Updated on 09-22-2024. Inclusions:
+1. Financing of Health Services
+2. Board Exam Tip for [[#Millennium Development Goals]]
+___
 The Philippines is an archipelagic country composed over ~7,100 islands. Geographically, it is divided into three main islands: Luzon, Visayas, and Mindanao. Divided into 17 regions, 82 provinces, 135 cities, and 1,493 municipalities. The provision of health care for the country is divided into the private and public sectors.
 - The **Private Sector** is responsible for the production and provision of health goods and services e.g. private clinics, hospitals, laboratories, drugstores, and other facilities.
 - The **Public Sector** is a decentralized health care system managed by the Department of Health (DOH) local government units.
 >[!INFO] RA 7160: The Local Government Code of 1991
 >A republic act detailing the devolution and decentralization of primary and secondary health services to local government units.
 ## Department of Health
-The **Department of Health** (DOH) is the main governing body for public health. It is responsible for the management, coordination, and regulation of the public sector, the center of health development, and guidance//technical assistance to local government units.
+The **Department of Health** (DOH) is the main governing body for public health. It is responsible for the management, coordination, and regulation of the public sector, the center of health development, and guidance/technical assistance to local government units.
 
 The DOH has a central office, and 17 regional offices for each region in the Philippines. They also run retained and specialty hospitals.
 ### Retained Hospitals
@@ -21,6 +25,7 @@ Retained hospitals refer to hospitals being run by the DOH. Specialty hospitals 
 |**Specialty Hospital**|Lung Center of the Philippines, National Kidney and Transplant Institute, Philippine Children's Medical Center, Philippine Heart Center|
 |**Metro Manila Hospitals**|Amang Rodrigues Memorial Medical Center, Dr. Jose Fabella Memorial Hospital, East Avenue Medical Center, Jose R. Reyes Memorial Medical Center, National Center for Mental Health, National Children's Hospital, Philippine Orthopedic Center, Quirino Memorial Medical Center, Research Institute for Tropical Medicine, Rizal Medical Center, San Lazaro Hospital, Tondo Medical Center|
 |**Regional Hospitals**|Batanes General Hospital, Cagayan Valley Medical Center, Southern Isabela General Hospital, Region II Trauma and Medical Center, Dr. Jose N. Rodriquez Memorial Hospital, Las Pinas General Hospital and Satellite Trauma Center, San Lorenzo Ruiz General Hospital, Valenzuela Medical Center|
+### Financing of Health Services
 
 ### Levels of Health Care Delivery Systems
 Health care delivery systems are classified according to the service capacities and compliance of the system to standards for manpower, equipment, construction, and physical activities.
@@ -55,9 +60,11 @@ The **Millennium Development Goals** (MDGs) are a set of eight goals created by 
 3. Promote **Gender Equality** and Empower Women
 4. Reduce **Child Mortality**: 25.7/1000 live births will die before the age of five. These deaths are highly linked to economic standing.
 5. Improve **Maternal Health**: every year, ~2,600 mothers die due to pregnancy-related complications (2019).
-6. **Combat** HIV/AIDS, Malaria, and Other **Diseases**
+6. **Combat HIV/AIDS, Malaria, and Other Diseases
 7. Ensure **Environmental Sustainability**
 8. **Global Partnership** for Development
+>[!TIP] Board Exam Tip
+>The items under the millennium development goals commonly asked are the **health-related MDGs: 4, 5, and 6**.
 ## Sustainable Development Goals
 The **Sustainable Development Goals** (SDGs) are seventeen interlinked objectives serving as a blueprint for peace and prosperity of the people and the planet, especially for Goals 1, 2, 3, 6, 7, 11, 13, 16, which are set as goals for 2030.
 1. **No Poverty**
@@ -86,9 +93,9 @@ The **Sustainable Development Goals** (SDGs) are seventeen interlinked objective
 - **Performance Accountability**: using management systems to drive better execution and policies and programs in the DOH while ensuring responsibility to all stakeholders. It uses evidence-based metrics and is used for the health care needs of Filipinos; **Ambisyon Natin 2040** (**Matatag, Maginhawa, at Pantag na Buhay**).
 - The national policy on universal health care espouses three strategic thrusts: better health outcomes, more responsive health systems, and more equitable health financing.
 ## World Health Organization (WHO)
-A specialized agency of the United Nations (UN) that provides global leadership on health matters. The constitution for the WHO came into force on April 7, 1948. They serve five core functions:
-	- **Provide leadership** on matters critical to health and engage partnerships when joint actions are needed.
-	- **Shape research agenda**, **stimulate generation**, **translation**, **and dissemination of valuable knowledge**.
-	- **Setting norms**, **standards**, **promote and monitor implementation**.
-	- **Articulating ethical** and **evidence-based policy** options.
-	- **Provide technical support**, **catalyze change**, and **build sustainable institutional capacity**.
+A specialized agency of the United Nations (UN) that provides global leadership on health matters. The constitution for the WHO came into force on April 7, 1948 (World Health Day). They serve five core functions:
+- **Provide leadership** on matters critical to health and engage partnerships when joint actions are needed.
+- **Shape research agenda**, **stimulate generation**, **translation**, **and dissemination of valuable knowledge**.
+- **Setting norms**, **standards**, **promote and monitor implementation**.
+- **Articulating ethical** and **evidence-based policy** options.
+- **Provide technical support**, **catalyze change**, and **build sustainable institutional capacity**.

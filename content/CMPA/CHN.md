@@ -2,7 +2,14 @@ The following discussion is the complete summary of the following notes, based o
 1. [[08-29-2024 CHN|CHN D1]]
 2. [[08-30-2024 CHN|CHN D2]] 
 
-As discussed by **Ma'am Aida V. Garcia, RN, MAN** on 08-29-2024 and 08-30-2024.
+As discussed by **Ma'am Aida V. Garcia, RN, MAN** on 08-29-2024, 08-30-2024, and 09-22-2024. The following links are more comprehensive notes on the chapters of the book.
+1. [[Expanded Program on Immunization]]
+2. [[Family]]
+3. [[Epidemiology]]
+
+09-22-2024 additions:
+- Transcluded `Family > Family Assessment` into this note
+- 
 ___
 # Traditional & Complementary Medicines
 **Republic Act 8423**, titled the **Traditional and Alternative Medicine Act** (TAMA) authored by Senator Juan Flavier institutes the Philippine Institute of Traditional and Alternative Health Care (PITAHC) under the DOH to improve the quality and delivery of health care services to the Filipino people through **the development of traditional and alternative health care** and its integration into the national health care. Today, these methods are called **T&CM**, **Traditional and Complementary Medicine**.
@@ -304,6 +311,7 @@ The family is considered as a "*unit of service*" for the following reasons:
 | **Cohabiting**    | "*Live-in*". An unmarried couple and their child or children, recognized through common-law marriage.                                                                                                                                                                                    |
 | **Single Parent** | Resulting from death of a spouse, separation, or pregnancy outside of wedlock. These families are faced with greater risk associated with lesser social, emotional, and financial resources. Families who have one of the spouses working overseas effectively fall under this category. |
 | **Homosexual**    | A cohabiting couple of the same sex in a sexual relationship. They may or may not have children. E.O. 209 (Family Code of the Philippines) expressly states that marriage is between a man and a woman, therefore disallowing same-sex marriage.                                         |
+
 *The following are additional forms and classifications discussed but not included within the book.*
 
 Based on **Authority**, where decision-making is delegated to either the father (**Patriarchal**) or mother (**Matriarchal**). A participative form of authority is termed **Patricentric**, **Matricentric** or **Egalitarian** (equal), eliminating the hierarchal nuance of previous terminology.
@@ -354,3 +362,4 @@ Otto (1973) and Pratt (1976) characterized health families as "energized familie
 6. Fostering **responsibility** and values **service to others**
 7. Has **a sense of play and humor** and shares leisure time
 8. Able to **cope with stress and crisis and grow from problems**
+## Assessment of the Family
