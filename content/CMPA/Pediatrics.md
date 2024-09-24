@@ -169,6 +169,8 @@ The usual **cephalocaudal direction** in assessment is started in **preschoolers
 ### Ear Assessment
 The position of the ears is determined in relation to the line of the inner and outer canthus of the eye. Ears that are set lower than normal is abnormal, and can be seen in chromosomal defects such as [[#Down syndrome]], Patau syndrome, Edward disease; kidney defects; and craniofacial defects.
 ![[ear_placement.png]]
+#### Complications
+1. [[#Down Syndrome]]
 ### Nose Assessment
 The primary sign to look for from the nose is **nasal flaring**. Enlarged nares can indicate respiratory distress. This may be caused by:
 1. **Obstruction** by secretions, bone, or membranes (choanal atresia)
