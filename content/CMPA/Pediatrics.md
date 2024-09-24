@@ -36,13 +36,21 @@ Within 60 or 90 minutes, breastfeeding prevents an estimated 19.1% of all neonat
 - Related: **R.A. 7600**, the **Rooming-In and Breast-feeding Act** of 1992, and **E.O. 51**, the **Milk Code**.
 >[!WARNING] The DO NOTs 
 >Do not ventilate unless the baby is floppy/limp and not breathing.
+>
 >Do not suction unless the mouth/nose are blocked with secretions or other material.
+>
 >Do not suction meconium unless the baby is not vigorous
+>
 >Do not "*milk*" the umbilical cord towards the newborn. This may cause circulatory overload, and contribute to jaundice.
+>
 >Do not separate the newborn from the mother unless indicated (newborn does not have severe chest in-drawing, gasping, apnea; mother does not need urgent medical stabilization)
+>
 >Do not place the newborn on a cold or wet surface.
+>
 >Do not wipe off vernix if present.
+>
 >Do not bathe the newborn earlier than 6 hours of life.
+>
 >Do not do *footprinting* (old identification method), as it introduces a risk for contamination.
 ## Other Priorities
 1. **Identification**: utilize double-banding (using two identifiers), ideally in the presence of the parents.
@@ -86,6 +94,7 @@ Created by **Dr. Virginia Apgar**, this is a screening test done one minute and 
 | Grimace     | Cries, sneezes, pulls away   | Grimaces or weak cry                | No response                |
 | Activity    | Active movement; well flexed | Some flexion of extremities         | Flaccid/limp; no movement  |
 | Respiration | Good, strong cry             | Weak cry; slow/irregular            | No breathing               |
+
 The score is tallied, and interpreted as:
 1. **0 to 3**: poor, serious, severely depressed. CPR may be required.
 2. **4 to 6**: fair, guarded, moderately depressed. Suctioning may be required. Monitoring is required.
@@ -185,7 +194,7 @@ Observe the newborn's face for **symmetry**. It should be primarily symmetrical,
 Also known as **hyaline membrane disease**, it is a disorder in the respiratory system of a newborn whose cause is unknown. Its predisposing factors include premature babies; LBW, SGA, and LGA babies; and CS delivery babies.
 ##### Management
 1. **Continuous Positive Airway Pressure** (CPAP): maintained positive airway pressure that keeps the alveoli open, preventing **atelectasis**.
-2. **Oxygen Therapy**: 40% FiO<sub>2</sub> (not higher, to prevent blindness/retrolental fibroplasia and emphysema/bronchopulmonary dysplasia).
+2. **Oxygen Therapy**: 40% FiO₂ (not higher, to prevent blindness/retrolental fibroplasia and emphysema/bronchopulmonary dysplasia).
 3. **Incubation** to provide a warm environment, allowing the newborn to conserve energy and avoid infection (via isolation). It is set at 34.4°C with a humidity of 55% to 65%. Minimal handling should be done, while utilizing touch therapy.
 4. **Medication**: steroids to promote surfactant maturation (Dexamethasone, Betamethasone), exogenous surfactant administration (Beractant) intratracheally, sodium bicarbonate for correction of acidosis, and gamma immunoglobulin.
 5. **Monitoring**: watch for **anemia** (BT, 50 mL PRBC), **hyperbilirubinemia** (Phototherapy, exchange transfusion), and **malnutrition** from excessive oxygen utilization, resulting in poor growth and development (TPN, Gavage, Breastfeeding)
@@ -227,11 +236,11 @@ Observe the oral cavity for abnormal mucous membranes, secretions, odor, and app
 3. **Vomiting** can be projectile or non-projectile:
 	- **Projectile**: commonly caused by **obstructive** defects such as [[#Pyloric Stenosis]], Intussusception, and [[#Aganglionic Megacolon]].
 	- **Non-projectile**: commonly caused by **non-obstructive** defects such as infections, or chalasia (weakness of the lower esophageal sphincter)/GERD.
-4. [[#Cleft Lip and Cleft Palate|Cleft Lip/Palate]]: a malformation of the lip/palate in a newborn. It is commonly genetic or due to maternal folic acid (Vitamin B<sub>9</sub>) deficiency.
+4. [[#Cleft Lip and Cleft Palate|Cleft Lip/Palate]]: a malformation of the lip/palate in a newborn. It is commonly genetic or due to maternal folic acid (Vitamin B₉) deficiency.
 5. [[#Esophageal Atresia]] can be suspected by **excessive drooling**.
 6. **Oral Moniliasis/Candidiasis**: caused by the bacteria *Candida albicans*, a fungus potentially acquired by the baby during passage through the birth canal. Management is mainly pharmacologic with **antifungals** (Nystatin) applied to the oral cavity with a gloved finger.
 #### Cleft Lip and Cleft Palate
-A **malformation** of the lip and/or palate. It is known to be genetic, or caused by maternal folic acid (B<sub>9</sub>) deficiency. If uncorrected, it can result in **feeding difficulties**, **speech defects**, **dental defects**, altered normal body image, or even **respiratory distress**. The compromised tissues can also result in **upper respiratory and ear infections** (through the eustachian tube).
+A **malformation** of the lip and/or palate. It is known to be genetic, or caused by maternal folic acid (B₉) deficiency. If uncorrected, it can result in **feeding difficulties**, **speech defects**, **dental defects**, altered normal body image, or even **respiratory distress**. The compromised tissues can also result in **upper respiratory and ear infections** (through the eustachian tube).
 ##### Surgical Management
 A **cheiloplasty** or **palatoplasty** is used to reconstruct the closure of the unformed tissues. Nursing responsibilities during the preoperative phase include:
 1. **Proper positioning** during and after feeding: **upright**.
@@ -268,9 +277,12 @@ It is the failure of the esophagus to form a continuous passage between the mout
 **The narrowing of the pylorus/pyloric sphincter**, which restricts gastric emptying and results in projectile vomiting in a newborn. It is the pyloric muscle that enlarges and thickens, decreasing the lumen of the pylorus. The stomach becomes a **palpable olive-shaped mass** and compensating **peristalsis becomes visible**. The child becomes irritable and restless.
 - Surgery may be required to correct the stenosis. The **Fredet Ramsted Procedure**, a **pyloromyotomy** to separate hypertrophied pyloric muscle without any mucosal incision, releases the restriction of the pylorus. This is done with a laparoscope.
 ##### Nursing Management
+- Feedings use **thickened formula** (rice cereal and milk) given through **gavage**.
+- Prevent and **correct dehydration** from vomiting, with the potential use of IVF. Measure I&O.
+- **Monitor for complications** such as metabolic alkalosis, acidosis, and dehydration.
 ___
 ## Neck Assessment
-The neck is often short in newborns. Notably, it is the site where the **thyroid gland** can be found. The nurse palpates for the thyroid gland, though it is normally not palpable in a newborn. A **thyroid scan** exposes T<sub>3</sub> (triiodothyronine) and T<sub>4</sub> (thyroxine) levels which, if low, diagnoses **cretinism**.
+The neck is often short in newborns. Notably, it is the site where the **thyroid gland** can be found. The nurse palpates for the thyroid gland, though it is normally not palpable in a newborn. A **thyroid scan** exposes T₃ (triiodothyronine) and T₄ (thyroxine) levels which, if low, diagnoses **cretinism**.
 ### Abnormalities
 1. **Cretinism**: insufficient thyroid hormone production, potentially from iodine deficiency. This is one of the disorders tested in newborn screening as it can result in **mental retardation**. **Treatment is hormone replacement therapy** with **Synthroid**.
 2. **Congenital Torticollis**: "*wry neck*"; abnormal contractions of the sternocleidomastoid (SCM) muscle, resulting in twisting of the neck. It may be treated with exercise and the application of warm packs or compress, but in severe cases, a **tenotomy** may be done to release the contracted muscle.
@@ -388,10 +400,10 @@ The protruding sac should be **protected from rupture**. This can be done throug
 ___
 ## Skin Assessment
 The skin is assessed for its **color** and **marks**. The skin at birth is normally **pink**, potentially due to high RBC. Normal CBC values for an infant are:
-- **RBC**: 4.4 to 7.5 million/mm<sup>3</sup>
+- **RBC**: 4.4 to 7.5 million/mm³
 - **Hgb**: 14.5 to 22.5 g/dL
 - **Hct**: 45% to 65%
-- **WBC**: 5,000 to 35,000/mm<sup>3</sup>
+- **WBC**: 5,000 to 35,000/mm³
 ### Abnormalities
 1. **Cyanosis**: blue/purple discoloration of the skin resulting from **hypoxia**.
 2. **Pallor**: paleness of the skin resulting from **anemia**, potentially due to **ABO or Rh incompatibilities**, hemolytic disorders, and bleeding. The decreased synthesis of **Vitamin K** can contribute to hemophilia, a deficiency or absence of clotting factors conducive to excessive bleeding. It may also be due to a deficiency in **platelets**.
@@ -467,8 +479,8 @@ Congenital heart defects (CHDs) are malformations of the heart, e.g. from format
 Children with CHDs **tire quickly** and experience dyspnea. With exertion, cyanosis can become severe and syncope can occur (**hypercyanotic spells**). Decreased cardiac output and oxygenation also results in:
 - Edema
 - Diaphoresis
-- Oliguria
-- Growth Retardation
+- **Oliguria**
+- **Growth Retardation**
 
 Care for children with CHDs is primarily focused on the principle of improving cardiac function, cardiac output, and decreasing cardiac workload and edema. Overall, these all **improve tissue perfusion**.
 ## Acyanotic CHDs
@@ -492,13 +504,13 @@ These are CHDs that **produce cyanosis**. This is because the defects under this
 ## Palliative Management
 Especially for **tetralogy of fallot** (TOF) and **transposition of great arteries** (TGA), palliative care is provided to improve oxygenation and circulation.
 1. **TOF**:
-	- **Blalock Taussig Anastomosis**, the connection of the subclavian artery and pulmonary artery.
+	- **Blalock Taussig Anastomosis**: the connection of the subclavian artery and pulmonary artery.
 	- **Potts Procedure**: anastomosis of the aorta and pulmonary artery
 	- **Brock Procedure**: the correction of pulmonary stenosis, but not the ventricular septal defect.
 2. **TGA**:
-	- **Blalock Hanlon**, enlargement of the foramen ovale.
+	- **Blalock Hanlon**: enlargement of the foramen ovale to improve flow.
 	- **Rashkind Procedure**: an interatrial balloon septostomy.
-	- **Prostaglandin Infusion**, which maintains the patent ductus arteriosus and prevents it from closing.
+	- **Prostaglandin Infusion**: maintains the patent ductus arteriosus and prevents it from closing.
 ___
 # Other Pediatric Diseases
 - **Respiratory Infections**:
