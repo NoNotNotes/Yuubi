@@ -104,6 +104,7 @@ The score is tallied, and interpreted as:
 3. **7 to 10**: poor, serious, severely respiratory distress.
 
 A visualization:
+
 ![[silverman-anderson-index.png]]
 ## Ballard Scoring
 >[!CITE] Wong's Nursing Care of Infants and Children, pp. 202-203
@@ -442,21 +443,21 @@ Reflexes are involuntary movements or actions. Some appear spontaneously, and so
 3. **Sneezing Reflex**: a sneeze just like in adults (this reflex that does not diminish) when the nasal passages are irritated.
 4. **Coughing Reflex**
 
-| Reflex                         | Duration                        |
-| ------------------------------ | ------------------------------- |
-| Stepping/Dancing               | 2 months                        |
-| Rooting                        | 3 to 4 months                   |
-| Moro                           | 4 to 5 months                   |
-| Extrusion/Protrusion/Spit Out  | 4 to 5 months                   |
-| Grasping/Palmar                | 5 to 6 months                   |
-| Tonic Neck/Fencing             | 5 to 7 months                   |
-| Sucking/Suckling               | 6 months                        |
-| Plantar                        | 9 to 10 months                  |
-| Crawling                       | 10 months                       |
-| Babinski                       | 12 to 18 months                 |
-| Landau                         | 12 to 24 months*                |
-| Glabellar/Blinking             | Disappears in the mature brain* |
-| Swallowing, Sneeze, Cough, Gag | Stay until adulthood            |
+| Reflex                             | Duration                        |
+| ---------------------------------- | ------------------------------- |
+| **Stepping/Dancing**               | 2 months                        |
+| **Rooting**                        | 3 to 4 months                   |
+| **Moro**                           | 4 to 5 months                   |
+| **Extrusion/Protrusion/Spit Out**  | 4 to 5 months                   |
+| **Grasping/Palmar**                | 5 to 6 months                   |
+| **Tonic Neck/Fencing**             | 5 to 7 months                   |
+| **Sucking/Suckling**               | 6 months                        |
+| **Plantar**                        | 9 to 10 months                  |
+| **Crawling**                       | 10 months                       |
+| **Babinski**                       | 12 to 18 months                 |
+| **Landau**                         | 12 to 24 months*                |
+| **Glabellar/Blinking**             | Disappears in the mature brain* |
+| **Swallowing, Sneeze, Cough, Gag** | Stays until adulthood           |
 
 *Items suffixed with `*` are externally sourced.*
 ___
