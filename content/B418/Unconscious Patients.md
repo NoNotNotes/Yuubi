@@ -1,6 +1,7 @@
 ---
 tags:
   - B418
+  - INC
 title: Nursing Obligations to Unconscious Patients
 ---
 **Unconscious patients** are among the most ethically and legally concerning cases. **Consciousness** is the state of awareness of oneself and their surroundings. It is the ability to perceive sensory stimuli and respond appropriately to them. Its abnormal state— non-arousability and unresponsiveness at its most severe state, is a coma. It is a symptom, rather than a disease by itself. It varies in profoundness and duration, ranging from fainting to a deep coma.
@@ -153,4 +154,40 @@ Limitations to the descriptive nature of a GCS can arise from:
 - Risk for aspiration
 - Risk for contractures
 - Altered family process
-## Maintaining a Patent Airway
+### Airway Maintenance
+1. **Breath sounds** are assessed every two hours.
+2. **ABG testing** is done regularly to determine oxygenation.
+3. Assess for **cough and swallow reflexes**.
+4. An **artificial airway** may be used; **tracheostomy or endotracheal intubation** and **mechanical ventilation** may be necessary.
+5. **Avoid obstructions**:
+	- Position the client on alternate sides every two to four hours to prevent the accumulation of secretions on one side.
+	- Maintain the neck in a **neutral position**.
+	- **Oronasopharyngeal suctioning** may be done as necessary.
+	- If facial palsy or hemiparalysis is present, keep the affected side up/the uppermost.
+	- **Chest physiotherapy** and **postural drainage** may be done to assist in the removal of tenacious secretions.
+	- **Remove dentures**
+	- **Oral care** is given to avoid upper respiratory tract infection.
+### Cerebral Tissue Perfusion and Increased ICP
+1. Monitor **GCS**, **SpO₂**, **ABGs**, and **vital signs** (particularly increased temperature).
+	- High temperature can be corrected with antipyretics and cooling measures.
+2. **Position the head at an elevation of 30°** maintained to facilitate venous drainage, along with a neutral position.
+3. **Reduce agitation** (utilize sedation if necessary).
+4. **Reduce cerebral edema**. The drug of choice for cerebral edema is Mannitol, an osmotic diuretic. Loop diuretics and corticosteroids also reduce cerebral edema. Edema caused by trauma generally peaks within 72 hours post-trauma and subsides gradually.
+	- **Mannitol** 20 to 50 grams IV bolus is given if ICP exceeds 20 mmHg, as prescribed.
+5. **Harsh activities** (suctioning, bathing, turning) **are spaced apart** to give breaks for recovery.
+6. **Minimize stimulation**; speak softly and limit touch.
+7. **Administer laxatives, antitussives, and antiemetics** as ordered. Constipation, coughing, and vomiting all increase intracranial pressure and can contribute to decreased perfusion.
+8. **Prevent seizures** with antiepileptics (**Dilantin**) as ordered.
+
+Monitor for signs of rising ICP, such as **restlessness**, **headaches**, **pupillary changes** (assessed hourly), **respiratory irregularity**, and **Cushing's triad** (widening pulse pressure, hypertension, bradycardia). Remember the normal ICP must stay within 5 to 15 mm Hg.
+### Imbalanced Fluid and Electrolyte
+The main method of monitoring F&E is with a meticulously maintained **intake-output chart**. The **daily weight** of the patient should be recorded to determine fluid retention. 1 L of fluid retained will translate to 1 kg of body weight. Any symptoms that may indicate fluid volume overload or deficit should be assessed and documented.
+- **Diuretics** may be prescribed to correct fluid overload and reduce enema.
+- **Overhydration** and **IVF with glucose** are **always avoided** in comatose patients, as these may result in cerebral edema.
+### Impaired Skin Integrity
+The nurse provides interventions for **all self-care needs** if the patient is unable to do so for themselves. This includes bathing, hair care, skin care, and nail care (trimming). **Frequent back care** should be given as it is a primary area of discomfort in immobile patients.
+- Comfort devices should be used; special mattresses or airbeds are used.
+- Positioning should be changed regularly.
+- Adequate nutritional and hydration status should be maintained.
+- The **eyes** should also be kept moist by instilling methylcellulose. Protective eye shields can be used, or the eyelids can be closed with adhesive strips if corneal reflex is absent. These avoid corneal abrasions and irritation.
+- Inspect the **oral cavity**. Oral hygiene is given every 4 hours. Keep the lips coated with a water-soluble lubricant to prevent encrustation, drying, and cracking. Paralyzed cheeks are inspected. The nasal passages may also become occluded. They may be cleaned with a cotton-tipped applicator.
