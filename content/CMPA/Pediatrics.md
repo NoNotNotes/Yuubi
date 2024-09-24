@@ -172,7 +172,7 @@ ___
 ## Face Assessment
 Observe the newborn's face for **symmetry**. It should be primarily symmetrical, with only mild asymmetries. If the face is **markedly asymmetrical**, it can indicate **facial nerve (CN VII) paralysis** i.e. **Bell's Palsy**.
 1. **Eyes**: pupils should be normally equal, round, reactive to light, and shows accommodation (PERRLA). The lacrimal duct in newborns is immature, so no tears form.
-	- Tests for **blindness** should done within the first ten days of life: **Doll's Eye Test** (move head laterally; eyes should move in the opposite direction, indicating intact brain stem function) and **Glabellar Tap Test** (tap just above the nose; the eyes should blink as a protective reflex, also discussed in [[Pediatric Reflexes]]).
+	- Tests for **blindness** should done within the first ten days of life: **Doll's Eye Test** (move head laterally; eyes should move in the opposite direction, indicating intact brain stem function) and **Glabellar Tap Test** (tap just above the nose; the eyes should blink as a protective reflex, also discussed in [[#Pediatric Reflexes]]).
 2. **Nose**: the primary sign to look for from the nose is **nasal flaring**. Enlarged nares can indicate respiratory distress. This may be caused by **obstruction** by secretions, bone, or membranes (choanal atresia); or a **lack of surfactant production**.
 ### Abnormalities
 1. **Bell's Palsy**: paralysis of the facial nerve (CN VII). Management aims to prevent the premature disappearance of the sucking reflex. For this, the baby is fed with dropped and syringe, and encouraged to breastfeed. Aspiration precautions are applied.
@@ -191,6 +191,7 @@ Also known as **hyaline membrane disease**, it is a disorder in the respiratory 
 ___
 ## Ear Assessment
 The position of the ears is determined in relation to the line of the inner and outer canthus of the eye. Ears that are set lower than normal is abnormal, and can be seen in chromosomal defects such as [[#Down syndrome]], Patau syndrome, Edward disease; kidney defects; and craniofacial defects.
+
 ![[ear_placement.png]]
 ### Abnormalities
 1. [[#Down Syndrome]]: one of the characteristic appearances of Trisomy 21 is a low-set ear placement.
@@ -209,7 +210,7 @@ Down syndrome contains highly characteristic **mental retardation** and **physic
 - Small penis with cryptorchidism
 
 Down syndrome commonly involves defects that can result in disability and dysfunction:
-1. **Cardiac Defects**: refer to [[Congenital Heart Defects]]
+1. **Cardiac Defects**: refer to [[#Congenital Heart Defects]]
 2. **Gastrointestinal Tract Defects**: [[#esophageal atresia]]
 3. **Gastrourinary Tract Defects**
 ##### Diagnostic Tests
@@ -270,7 +271,7 @@ ___
 ## Neck Assessment
 The neck is often short in newborns. Notably, it is the site where the **thyroid gland** can be found. The nurse palpates for the thyroid gland, though it is normally not palpable in a newborn. A **thyroid scan** exposes T<sub>3</sub> (triiodothyronine) and T<sub>4</sub> (thyroxine) levels which, if low, diagnoses **cretinism**.
 ### Abnormalities
-1. **Cretinism**: insufficient thyroid hormone production, potentially from iodine deficiency. This is one of the disorders tested in [[Newborn Screening]] as it can result in **mental retardation**. **Treatment is hormone replacement therapy** with **Synthroid**.
+1. **Cretinism**: insufficient thyroid hormone production, potentially from iodine deficiency. This is one of the disorders tested in newborn screening as it can result in **mental retardation**. **Treatment is hormone replacement therapy** with **Synthroid**.
 2. **Congenital Torticollis**: "*wry neck*"; abnormal contractions of the sternocleidomastoid (SCM) muscle, resulting in twisting of the neck. It may be treated with exercise and the application of warm packs or compress, but in severe cases, a **tenotomy** may be done to release the contracted muscle.
 ___
 ## Abdominal Assessment
@@ -343,7 +344,7 @@ The extremities are assessed for symmetry in movement, presence, and malformatio
 - The legs of a newborn are normally **bow-like**; **bow-legged** (varus) until toddlerhood.
 - The feet of a newborn are flat due to fat deposits and usually point outward, but will be corrected (straight upward) by the time the child is ready to walk. The direction the foot points in and its general formation can be abnormal (Equinous, Varus, Valgus, Calcaneous)
 ### Abnormalities
-1. **Erb's Palsy**/**Brachial Plexus Paralysis**: damage to the brachial plexus nerve, which can limit the use of the arm. Damage commonly occurs during delivery. In the affected arm, the **moro reflex is absent**, the **tonic neck reflex** is incomplete, and there is **decreased sensory and motor function**. Infant reflexes are discussed [[Pediatric Reflexes|here]].
+1. **Erb's Palsy**/**Brachial Plexus Paralysis**: damage to the brachial plexus nerve, which can limit the use of the arm. Damage commonly occurs during delivery. In the affected arm, the **moro reflex is absent**, the **tonic neck reflex** is incomplete, and there is **decreased sensory and motor function**. Infant reflexes are discussed [[#Pediatric Reflexes|here]].
 	- The affected arm is **abducted and rotated externally**, then immobilized with a **figure of eight** or **airplane splint**.
 2. **Amelia**: absence of an entire limb
 3. **Phocomelia**: absence of arms or legs
