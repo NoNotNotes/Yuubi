@@ -166,7 +166,39 @@ The usual **cephalocaudal direction** in assessment is started in **preschoolers
 1. **Bell's Palsy**: paralysis of the facial nerve (CN VII). Management aims to prevent the premature disappearance of the sucking reflex. For this, the baby is fed with dropped and syringe, and encouraged to breastfeed. Aspiration precautions are applied.
 2. **Coloboma**: a keyhole appearance of the eyes from a hole formed in one of the structures of the eyes.
 3. **Exotropia Strabismus**: wall-eyed defect of the eyes, and **Esotropia Strabismus**: cross-eyed defect of the eyes. Non-physiologic strabismus is managed with occlusion therapy, surgery (SQUINT), corrective glasses, and laser therapy.
+### Ear Assessment
+The position of the ears is determined in relation to the line of the inner and outer canthus of the eye. Ears that are set lower than normal is abnormal, and can be seen in chromosomal defects such as [[#Down syndrome]], Patau syndrome, Edward disease; kidney defects; and craniofacial defects.
+![[ear_placement.png]]
+### Nose Assessment
+The primary sign to look for from the nose is **nasal flaring**. Enlarged nares can indicate respiratory distress. This may be caused by:
+1. **Obstruction** by secretions, bone, or membranes (choanal atresia)
+2. **Lack of surfactant**
+#### Complications
+1. **Respiratory Distress Syndrome**, A.K.A. Hyaline Membrane Disease. Its cause is unknown, but its predisposing factors include prematurity, LBW/SGA/LGA, and CS delivery.
 ___
+# Chromosomal Aberrations
+## Down Syndrome
+**Trisomy 21**, whose cause is unknown, but with the predisposing factors of advanced maternal age. Trisomy 21 indicates the presence of three 21st chromosomes, totaling 47 chromosomes rather than the expected 46. The expected lifespan of those with down syndrome is variable.
+### Assessment Findings
+Down syndrome contains highly characteristic **mental retardation** and **physical abnormalities**, such as:
+- Microcephaly
+- Low-set ears
+- Saddle nose
+- Small mouth with macroglossia
+- Short neck
+- Short and stubby digits with single transverse line (simian crease)
+- Hypotonic musculature
+- Protuberant abdomen
+- Small penis with cryptorchidism
+
+Down syndrome commonly involves defects that result in disease and dysfunction:
+1. **Cardiac Defects**
+2. **Gastrointestinal Tract Defects**: esophageal atresia
+3. **Gastrourinary Tract Defects**
+### Diagnostic Tests
+1. **Alpha fetoprotein** (AFP): a protein created by a growing liver, normally high in an unborn child. Testing of AFP presence in maternal serum can reveal low levels, indicating a potential genetic abnormality.
+2. **Chorionic Villi Sampling**: checks cells from the placenta (which are identical to cells from the fetus) to see if they have a chromosomal abnormality.
+3. **Karyotyping**: genetic testing to reveal the presence of extra or missing chromosomes.
 # Fun Facts
 (*things the lecturer mentions, but is questionably within the scope of the presentation*)
 1. Neonates primarily breathe through their nose, as adults do. This is why suctioning is done on the mouth first, before the nose.
