@@ -4,12 +4,17 @@ The following discussion is the complete summary of the following notes, based o
 
 As discussed by **Ma'am Aida V. Garcia, RN, MAN** on 08-29-2024, 08-30-2024, and 09-22-2024. The following links are more comprehensive notes on the chapters of the book.
 1. [[Expanded Program on Immunization]]
-2. [[Family]]
+2. [[Family]] (added new Maglaya FNCP content)
 3. [[Epidemiology]]
+4. [[#Demography]]
+5. [[IYCF|Infant and Young Child Feeding]]
+6. [[MNCHN Services|Mother and Newborn Child Health Nursing]] (incomplete)
+7. [[Philippine Health Care Delivery Systems]] (old)
+8. [[Field Health Services Information System]]
+9. [[Traditional and Complementary Medicines]]
 
 09-22-2024 additions:
 - Transcluded `Family > Family Assessment` into this note
-- 
 ___
 # Traditional & Complementary Medicines
 **Republic Act 8423**, titled the **Traditional and Alternative Medicine Act** (TAMA) authored by Senator Juan Flavier institutes the Philippine Institute of Traditional and Alternative Health Care (PITAHC) under the DOH to improve the quality and delivery of health care services to the Filipino people through **the development of traditional and alternative health care** and its integration into the national health care. Today, these methods are called **T&CM**, **Traditional and Complementary Medicine**.
