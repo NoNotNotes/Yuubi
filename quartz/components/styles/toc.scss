@@ -58,13 +58,19 @@ button#toc {
         0.3s ease color;
       &.in-view {
         opacity: 0.75;
-      }
+      } 
     }
   }
 
   @for $i from 0 through 6 {
     & .depth-#{$i} {
       padding-left: calc(1rem * #{$i});
+    }
+  }
+
+  @media (max-width: 1000px) {
+    & ul > li > a {
+      opacity: 0.75;
     }
   }
 }
