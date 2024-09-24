@@ -1,3 +1,8 @@
+---
+tags:
+  - CMPA
+title: Normal Obstetrics
+---
 The following discussion is the complete summary of the following notes, based on the 2nd edition of Dr. *Rosalinda Parado Salustiano*'s [Maternal and Newborn Care: A Comprehensive Review Guide](https://cebookshop.com/product/8057035) textbook, and the discussions of Sir Francis Vasquez.
 
 These are the fragmented notes combined into this page:
