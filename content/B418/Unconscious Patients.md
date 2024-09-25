@@ -191,3 +191,33 @@ The nurse provides interventions for **all self-care needs** if the patient is u
 - Adequate nutritional and hydration status should be maintained.
 - The **eyes** should also be kept moist by instilling methylcellulose. Protective eye shields can be used, or the eyelids can be closed with adhesive strips if corneal reflex is absent. These avoid corneal abrasions and irritation.
 - Inspect the **oral cavity**. Oral hygiene is given every 4 hours. Keep the lips coated with a water-soluble lubricant to prevent encrustation, drying, and cracking. Paralyzed cheeks are inspected. The nasal passages may also become occluded. They may be cleaned with a cotton-tipped applicator.
+- **Positioning** is imperative. The position should be alternated between sides every two to four hours. If the patient is hemiplegic, the affected side is only used for brief periods.
+	- Lateral position on a pillow: neutral head position
+	- Upper arm positioned on a pillow: shoulder alignment
+	- Upper leg supported on a pillow: hip alignment
+### Self-Care Deficit
+Attending to the hygiene needs of the unconscious patient should never become ritualistic. Dignity is maintained at all times. Hygiene is a major contributor to pressure ulcers, along with incontinence, perspiration, poor nutrition, obesity, and old age. The skin is properly examined, noting any dry, red, or broken areas.
+1. **Bathing**: two nurses bathe an unconscious patient. Make to prevent airway obstruction. Include proper hair care and assess the skin when giving a bed bath.
+2. **Oral Hygiene**: a chlorhexidine-based solution is used for oral care. Maintaining oral cleanliness (at least every four hours) reduces the risk of infection. Airways, if possible, are removed, cleaned, and reinserted. If an ETT is in place, the tube should be fixed alternately on each side. Take care to not damage the gums with excessive force.
+3. **Eye Care**: observe for irritation, abrasion, corneal drying, and edema. The eyes are gently cleaned with gauze and 0.9% sodium chloride to prevent infection. Artificial tears can also be applied as drops to help moisten the eyes. If the eyes remain open for a long time, corneal damage can occur; the use of adhesive strips can aid in closing the eyes.
+4. **Nasal Care**: nasal mucosa may be cleaned with gauze and water. An NGT can damage the nasal mucosa, so pressure spots are inspected and the side used is alternated.
+5. **Ear Care**: the surroundings of the aural canal should be cleaned. Take care not to push anything into the ear canal.
+### Imbalanced Nutrition
+Diet is prescribed based on the individual's requirements specifically to meet energy needs, aid in tissue repair, replace fluid loss, all to maintain basic life functions. This may be done via:
+1. **TPN** for prolonged unconsciousness.
+2. **Enteral Feeding** via NGT, NJT, or PEG tube.
+### Risk for Injury
+A cardinal rule is to **keep side rails up** when the patient is not receiving direct care. **Seizure precautions** must be taken. Other causes of injury include:
+- **Moving and turning**: make sure to provide adequate support to the limbs and head. Protect the patient from external sources of heat.
+- **Oversedation** can impede LOC assessment and causes respiratory depression.
+- **Restraints** are not used unless highly necessary. Restraints are also regularly released (every 2 hours).
+### Impaired Elimination Functions
+Assess the patient for **constipation** and **bladder distention**:
+- **Bowel sounds** should be auscultated. If necessary, stool softeners or laxatives may be igiven.
+- **Bladder Catheterization** may be done if ordered. Catheter care is provided with aseptic technique to prevent CAUTIs. The urine output and color is monitored. **Bladder training** is started as soon as the patient regains consciousness in order to remove the need of a catheter, which is a source of infection.
+### Risk for Contractures
+Contractures can form in immobile patients. **Maintain the extremities in functional positions** by providing proper support. Support devices should be removed every four hours to allow for **passive exercises** and skin care. **Foot support** should be provided.
+### Altered Family Process
+The family members should be included in the patient's care. Communicate frequently with them, and allow them to stay with the patient when possible. Aid the family in using external support systems (counsellors, religious clergy, etc.) and provide any information or clarifications they may require. Encourage them to share their inquiries and concerns.
+## Sensory Stimulation
+The brain needs sensory inputs to maintain activity, as if exercising. In patients, the **sense of hearing** is often the last to be lost, whether in unconsciousness, coma, or death. The patient should always be communicated with when procedures are being performed, despite the appearance of unconsciousness. Many clients remember audible events or dialogue while they were "sleeping", and some report longing for someone to communicate with them. The nurses should always show respect and maintain privacy. The family is encouraged to contribute to the care of their loved ones.
