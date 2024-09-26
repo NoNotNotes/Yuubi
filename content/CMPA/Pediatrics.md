@@ -156,7 +156,6 @@ Note the interpretation for **Maturity Rating**: a score of less than 35 is pret
 ___
 # Physical Examination
 The assessment for a newborn does not follow the usual **cephalocaudal direction**. It is used starting in **preschoolers** (4 to 6 years old). For younger children, the **chest** is the first target, before proceeding with the head. This discussion utilizes a **assessment-based approach**, categorizing normal and abnormal findings based on the body system being assessed. Particularly lengthy discussions on abnormalities will be in their own section. Some systems had minimal discussions, so forgive me for insufficient material.%% For a **system-based approach**, %%
-___
 ## Chest Assessment
 The chest should not show retractions, and have clear symmetrical breath sounds throughout all lung fields.
 ### Abnormalities
@@ -504,23 +503,23 @@ These are CHDs that **produce cyanosis**. This is because the defects under this
 ## Palliative Management
 Especially for **tetralogy of fallot** (TOF) and **transposition of great arteries** (TGA), palliative care is provided to improve oxygenation and circulation.
 1. **TOF**:
-	- **Blalock Taussig Anastomosis**: the connection of the subclavian artery and pulmonary artery.
-	- **Potts Procedure**: anastomosis of the aorta and pulmonary artery
-	- **Brock Procedure**: the correction of pulmonary stenosis, but not the ventricular septal defect.
+        - **Blalock Taussig Anastomosis**: the connection of the subclavian artery and pulmonary artery.
+        - **Potts Procedure**: anastomosis of the aorta and pulmonary artery
+        - **Brock Procedure**: the correction of pulmonary stenosis, but not the ventricular septal defect.
 2. **TGA**:
-	- **Blalock Hanlon**: enlargement of the foramen ovale to improve flow.
-	- **Rashkind Procedure**: an interatrial balloon septostomy.
-	- **Prostaglandin Infusion**: maintains the patent ductus arteriosus and prevents it from closing.
+        - **Blalock Hanlon**: enlargement of the foramen ovale to improve flow.
+        - **Rashkind Procedure**: an interatrial balloon septostomy.
+        - **Prostaglandin Infusion**: maintains the patent ductus arteriosus and prevents it from closing.
 ___
 # Other Pediatric Diseases
 - **Respiratory Infections**:
-	1. Bronchiolitis (viral infection)
-	2. Respiratory Syncytial Virus, manifested by expiratory wheezing
+        1. Bronchiolitis (viral infection)
+        2. Respiratory Syncytial Virus, manifested by expiratory wheezing
 - **Croup**/**Acute Laryngotracheobronchitis**: can be viral or bacterial, manifested as inspiratory stridor.
-	1. Acute Infectious Laryngitis
-	2. Acute Spasmodic Laryngitis
-	3. Acute Laryngotracheobronchitis
-	4. Acute Epiglottitis (never depress the tongue as this may cause complete airway obstruction)
+        1. Acute Infectious Laryngitis
+        2. Acute Spasmodic Laryngitis
+        3. Acute Laryngotracheobronchitis
+        4. Acute Epiglottitis (never depress the tongue as this may cause complete airway obstruction)
 %%# Extras
 (*things the lecturer mentions, but is questionably within the scope of the presentation*)
 1. Neonates primarily breathe through their nose, as adults do. This is why suctioning is done on the mouth first, before the nose.
@@ -530,3 +529,12 @@ ___
 5. Colostrum may begin begin produced as early as 5 months of pregnancy.
 6. Milk expressed during breastfeeding may be divided into two categories: foremilk and hindmilk. Foremilk contains more water and nutrients, while hindmilk contains more fat and calories. This is why it is important to perform complete breastfeeding.
 %%
+___
+# Fun Facts
+(*things the lecturer mentions, but is questionably within the scope of the presentation*)
+1. Neonates primarily breathe through their nose, as adults do. This is why suctioning is done on the mouth first, before the nose.
+2. Failure of the neonate to breathe within 60 seconds
+3. Bilirubin is *not* produced by the liver; the liver produces glucuronyl transferase that converts indirect bilirubin to direct bilirubin. In newborns, this enzyme is not sufficient, which results in physiologic jaundice.
+4. The four signs of infection are rubor, tumor, calor, and dolor; respectively, redness, swelling, heat, and pain.
+5. Colostrum may begin begin produced as early as 5 months of pregnancy.
+6. Milk expressed during breastfeeding may be divided into two categories: foremilk and hindmilk. Foremilk contains more water and nutrients, while hindmilk contains more fat and calories. This is why it is important to perform complete breastfeeding.

@@ -1,6 +1,7 @@
 ---
 tags:
   - CMPA
+  - A217
 title: Normal Obstetrics
 ---
 The following discussion is the complete summary of the following notes, based on the 2nd edition of Dr. *Rosalinda Parado Salustiano*'s [Maternal and Newborn Care: A Comprehensive Review Guide](https://cebookshop.com/product/8057035) textbook, and the discussions of Sir Francis Vasquez.
@@ -44,7 +45,7 @@ The penis is an elongated and cylindrical appendage, consisting of a body (shaft
 1. **Corpora Cavernosa** (two columns): lateral columns located on either side and in front of the urethra
 2. **Corpus Spongiosum** (one column): posterior column, which contains the urethra. The tip is expanded to form the glans penis. The skin at the end of the penis is folded back on itself above the glans penis to form the prepuce (foreskin), a movable double fold.
 
-Stimulation of the parasympathetic causes contraction of the ischiocavernous muscle, which prevents the return of venous blood from the cavernous sinuses. The blood vessels engorge, and the penis becomes elongated, thickened, and stiff. If stimulation is intense, there is rhythmic contraction of the penile muscles, resulting in the forceful and sudden expulsion of semen, a phenomenon called **ejaculation**.
+Stimulation of the parasympathetic system causes contraction of the ischiocavernous muscle, which prevents the return of venous blood from the cavernous sinuses. The blood vessels engorge, and the penis becomes elongated, thickened, and stiff. If stimulation is intense, there is rhythmic contraction of the penile muscles, resulting in the forceful and sudden expulsion of semen, a phenomenon called **ejaculation**.
 - Released with ejaculation is about **2 to 4 mL** (or 1.25 to 5 mL) **of semen** containing about **100 million sperm per mL**, of which about **20% to 25% are likely abnormal**; sperms move at a speed of 2 to 3 mm per minute. In a single ejaculation, the male deposits approximately 200 to 400 million spermatozoa in the vagina, of which fewer than 200 actually reach the ampulla.
 - A successful sperm can fertilize an ovum in 5 to 30 minutes after ejaculation.
 - Volume and force of ejaculate varies due to some factors:
@@ -88,11 +89,6 @@ The **primary spermatogonia**, the primitive germ cell, are present at birth wit
 3. **Spermiogenesis**: the spermatids grow a tail, develops a mid-piece where mitochondria gather and form an axoneme, and removing residual cytoplasm and organelles to form four **spermatozoa**/**sperms** (22X or 22Y). The nucleus becomes compacted in the head of the sperm, and covered with a cap (acrosome).
 4. **Spermination Process**: occurs when mature, non-motile spermatozoa are released from protective Sertoli cells (the "*nursing cells* of the testes) into the lumen of the seminiferous tubules.
 
-The **primary spermatogonia**, the primitive germ cell, are present at birth with diploid 44XY cells. After puberty, **spermatogenesis** is continuous and is completed in **72 hours**. There are various stages:
-1. **Spermato-Cytogenesis**: the diploid spermatogonium produces **primary spermatocytes** (44XY), which undergo meiosis into two **secondary spermatocytes** (now a haploid; 22X or 22Y).
-2. **Spermatidogenesis**: second meiotic cell division produces four **spermatids**.
-3. **Spermiogenesis**: the spermatids grow a tail, develops a mid-piece where mitochondria gather and form an axoneme, and removing residual cytoplasm and organelles to form four **spermatozoa**/**sperms** (22X or 22Y). The nucleus becomes compacted in the head of the sperm, and covered with a cap (acrosome).
-4. **Spermination Process**: occurs when mature, non-motile spermatozoa are released from protective Sertoli cells (the "*nursing cells* of the testes) into the lumen of the seminiferous tubules.
 ```mermaid
 flowchart LR
 A(Diploid Spermatogonium)
@@ -132,7 +128,7 @@ The primary male hormone. It is responsible for the regulation of sex differenti
 ## Accessory Glands
 1. **Seminal Vesicles**: paired structures or pouches situated posterior to the bladder. They are 5-cm long and pyramid shaped, and contributes to the ejaculate. This provides nutrition (fructose) for the sperm. It also contains mucus and prostaglandin (causes uterine contraction to aid in sperm motility.
 2. **Prostate Gland**: just below the bladder, surrounding the urethra at the base of the bladder, and lies between the rectum and the symphysis pubis. It is 4-cm long, 3-cm wide, and 2-cm deep. It is composed of columnar epithelium, a muscular layer and enclosed in a form outer fibrous layer/capsule. It connects to the urethra and ejaculatory ducts, and **secretes a thin, lubricating milky fluid that enters the urethra through the ducts and helps in the passage and viability of spermatozoa**. It contributes **alkaline** to the sperm, which give it its scent and protects against the acidic environment of the vaginal canal.
->[!INFO] Döderlein bacilli is responsible for acidity of the vaginal canal, as it produces lactic acid from glycogen in the lining of the vagina. This protects the vagina, but is harmful to the sperm.
+>[!INFO] Döderlein bacilli are responsible for acidity of the vaginal canal, as it produces lactic acid from glycogen in the lining of the vagina. This protects the vagina, but is harmful to the sperm.
 
 3. **Cowper's Glands**: located on each side of the urethra, just below the prostate gland; **it secretes a small amount of lubricating fluid**.
 4. **Urethra**: the **conduit of semen** (sperm with fluids) outside the body through the penis.
@@ -189,7 +185,7 @@ Other considerations for low sperm count if it is seemingly idiopathic:
 ___
 # Female Anatomy
 >[!CITE] Reference
->Salustiano, R. (2024). The Normal Antepartal Period. In *Dr. RPS Maternal & Newborn Care: A Comprehensive Review Guide and Source Book for Teaching and Learning* (2nd ed., pp. 80-116). C&E Publishing, Inc.
+>Salustiano, R. (2024). The Female Reproductive System. In *Dr. RPS Maternal & Newborn Care: A Comprehensive Review Guide and Source Book for Teaching and Learning* (2nd ed., pp. 23-49). C&E Publishing, Inc.
 
 ## The Vulva
 The **external genitalia** of the female are collectively called the vulva. The **pudenda** is commonly designated the vulva.
@@ -277,7 +273,7 @@ The ovaries are the **female gonads**, and are responsible for both reproductive
 2. **Ovulation**: the monthly expulsion of a mature ovum from the **Graafian follicle** into the pelvic cavity.
 3. **Endocrine Function**: secretion of female hormones **estrogen** and **progesterone**; maturing follicles secrete estrogen,  while the corpus luteum secretes estrogen and primarily **progesterone**.
 	- **Ovaries**: primary source of estrogen; adrenal cortex (extraglandular sites) produce a minute amount of estrogen.
-	- **Estgrogen**: develops female secondary sex characteristics.
+	- **Estrogen**: develops female secondary sex characteristics.
 	- **Progesterone**: the hormone of pregnancy; its effects on the decidua (thickened and more vascular) allow pregnancy maintenance.
 ## Mammary Glands (Breasts)
 Located under the skin, over the pectoralis major muscles. It is made of fibrous, adipose, and glandular tissue. The glandular tissue is arranged in about 15 to 25 lobes. Each lobe is composed of lobules, which in turn are composed of alveoli with **secreting cells** (**acinar cells**) that produce milk; and **excretory ducts** that lead from each lobe to an opening in the nipple composed of erectile tissue and muscle fibers that have a sphincter-like action in controlling the flow of milk. The smooth muscle of the nipple causes the erection of the nipple on contraction.
@@ -401,17 +397,17 @@ Placental functions vary, and play vital roles in nutritive, respiratory, excret
 	- The major source of **estrogen** and **progesterone** after the first two months.
 	- **hCG**: secreted as early as 8 to 10 days after fertilization, detected in serum as early as the time of implantation by the most sensitive pregnancy test, radioimmunoassay (RIA). Detected in urine by 10 days (2 weeks) after the first amenorrheic period. It **prolongs the lifespan of the corpus luteum**, and **serves as the basis of pregnancy tests**. It is found to be elevated in cases of excessive vomiting. Normally, its value is 50,000 to 400,000 IU/24 hours.
 	- **hCS**/**hPL**: secreted by the third week after ovulation, influencing somatic cellular growth (resembling growth hormone). It is the **principal diabetogenic factor**, being a major insulin antagonist/glucose sparing hormone. It **prepares the breasts of the mother for lactation**.
-### Placental/Cord Abnormalities INC
-1. **Placenta Succenturiata**
-2. **Placental Infarcts**
-3. **Placenta bipartita**
-4. **Placenta tripartita**
-5. **Placenta circumvallata**
-6. **Battledore placenta**
-7. **Velamentous insertion of the cord**
-8. **Cord loops**
-9. **Cord torsion**
-10. **Cord knots**
+### Placental/Cord Abnormalities
+1. **Placenta succenturiata**: the presence of accessory lobes of the placenta.
+2. **Placental infarcts**: the death of a portion of the placenta, often due to ischemia.
+3. **Placenta bipartita**: a *bilobed* placenta, a placenta that develops into two roughly equal-sized lobes separated by a membrane.
+4. **Placenta tripartita**: a *trilobed* placenta, a placenta that develops into three roughly equal-sized lobes separated by membranes.
+5. **Placenta circumvallata**: the membranes of the placenta fold back around its edges.
+6. **Battledore placenta**: marginal cord insertion, where the umbilical cord is inserted at or near the placental edge/margin rather than in the center.
+7. **Velamentous insertion of the cord**: an abnormality of the cord where the umbilical vessels diverge as they traverse between the amnion and chorion before reaching the placenta.
+8. **Cord loops**: twisting of the umbilical cord around the fetus, especially the neck.
+9. **Cord torsion**: excessive twisting can result in **torsion**, which can lead to fetal demise. Most cases of cord torsion is only found upon pathological examination.
+10. **Cord knots**: the **knotting** of the cord, which compromise blood flow.
 ## The Umbilical Cord
 Also known as the **funis**, it is a 30 to 100 cm (average 55 cm) cord with a diameter of 0.8 to 2.0 cm at term. It extends from the fetal surface to the placenta to the fetal umbilicus, serving to transport oxygen and nutrients, and returning metabolic wastes from the fetus to the placenta. It contains three umbilical vessels (*mn. AVA*): one vein and two arteries.
 1. **Umbilical Vein**: carries oxygenated blood to the fetus.
@@ -573,7 +569,7 @@ The major endocrine organ during pregnancy is the **placenta**. Its chorion (15 
 - The **placenta matures by 10 to 12 weeks** (3 months), increasing placental hormones estrogen, progesterone, hCG, and hPL/hCS (Human Placental Lactogen/Human Chorionic Somatomammotropin).
 >[!BUG] hPL is the major diabetogenic hormone in pregnancy, contributing to gestational DM.
 
-The **anterior pituitary gland** becomes ready for breastfeeding through increase **prolactin**. FSH production from the APG does not result in ovulation. The **posterior pituitary gland** (PPG) secretes **oxytocin** from the hypothalamus when fetal head pressure on the cervix increases. Oxytocin acts to stimulate the uterine myometrium, causing uterine contractions and labor onset, especially with the decrease in progesterone, which inhibit contractions, in late pregnancy.
+The **anterior pituitary gland** becomes ready for breastfeeding through increased **prolactin**. FSH production from the APG does not result in ovulation. The **posterior pituitary gland** (PPG) secretes **oxytocin** from the hypothalamus when fetal head pressure on the cervix increases. Oxytocin acts to stimulate the uterine myometrium, causing uterine contractions and labor onset, especially with the decrease in progesterone, which inhibit contractions, in late pregnancy.
 ## Signs of Pregnancy
 The signs of pregnancy are divided into three categories. **Presumptive signs** are those felt by the mother herself, **probable signs** are those observed by a healthcare provider, and **positive signs** are those emanating from the fetus itself.
 ### Presumptive Signs
@@ -634,7 +630,7 @@ Prenatal visits are done to serve as a basis for comparison (**baseline data col
 	- Temperature becomes elevated by progesterone and basal metabolic rate, not to reach 38°C.
 	- Cardiac rate increases by 10 to 15 BPM during pregnancy.
 	- Respiratory rate at rest can increase to 24 respirations/min.
-	- Blood pressure is rarely affected, but hypotension can occur due to **supine hypotension syndrome**/**vena caval syndrome**. Prevention of this syndrome is through the use of a left-lateral recumbent position. **Pregnancy-Induced Hypertension** (PIH)is an important problem of pregnancy.
+	- Blood pressure is rarely affected, but hypotension can occur due to **supine hypotension syndrome**/**vena caval syndrome**. Prevention of this syndrome is through the use of a left-lateral recumbent position. **Pregnancy-Induced Hypertension** (PIH) is an important problem of pregnancy.
 		- The **roll-over test** can be done in the first trimester for early detection of developing PIH by 20 to 24 weeks. Place the mother in the LLR position, check BP until stable (may take 10 to 15 minutes), then roll to supine. Check BP right away, then again in 5 minutes. If an increase between the two recordings exceeds 20 mm Hg, the woman is at risk (positive roll-over test).
 6. **Weight** is checked every visit. Weight gain pattern should be monitored to determine any abnormalities. This is more important than the amount of weight gain; failure to gain weight is an ominous sign. The prepregnant weight is ideally from 90 to 150 lbs. Normal weight gain patterns contribute to the health of the mother and fetus. The total expected weight gain of **20 to 25, max of 35 lbs.** is gained as follows:
 	- **First Trimester**: 1 lb. every month, 3 to 4 lbs. in total
@@ -742,7 +738,7 @@ The **intrapartal period** contains a series of physiologic and mechanical proce
 	- **Increased frequency of urination**, varicosities, and pedal edema because of pressure on the bladder and pelvic girdle
 	- **Shooting pains down the legs because of the pressure on the sciatic nerves**
 	- **Increased amount of vaginal discharge**
-2. **Braxton Hicks Contractions** are another sign, beginning 3 to 4 weeks before labor. They are painless and false labor contractions, appearing intermittently, irregularly, and non-progressively. They do not progress cervical dilatation or effacement, produce abdominal (not lumbosacral) discomfort, and can be relieved by walking and edema. They last anywhere from 30 to 120 seconds, maybe feeling like a wide belt tightening around the front of the abdomen.
+2. **Braxton Hicks Contractions** are another sign, beginning 3 to 4 weeks before labor. They are painless and false labor contractions, appearing intermittently, irregularly, and non-progressively. They do not progress cervical dilatation or effacement, produce abdominal (not lumbosacral) discomfort, and can be relieved by walking and enema. They last anywhere from 30 to 120 seconds, maybe feeling like a wide belt tightening around the front of the abdomen.
 3. **Increased maternal energy/burst of energy because of the hormone epinephrine**
 4. **Slight decrease in maternal weight** by 2 to 3 lbs, 1 to 2 days before labor. Before labor, there is a drop in the blood level of progesterone, a water-retaining hormone, causing the excretion of retained fluid.
 5. **Show**: blood-tinged mucus discharged from the cervix shortly before or during labor.
@@ -964,10 +960,10 @@ The **relationship of the fetal parts to the trunk or to one another**.
 ## Fetal Presentation
 The **lowermost part in the pelvic inlet**; the part felt upon internal examination.
 1. **Cephalic**: the head is the presenting part.
-	- **Vertex**: head acutely flexed
+	- **Vertex**: head acutely flexed (suboccipitobragmatic, 9.5 cm)
 	- **Sinciput**: head moderately flexed
 	- **Brow**: head moderately extended
-	- **Face**: head acutely extended
+	- **Face**: head acutely extended (mento-vertical, 13.5 cm)`
 2. **Breech**: the buttocks are the presenting part. FHT is felt at the upper quadrants or above the level of the umbilicus, and with the findings of Leopold's maneuvers 1 (hard, round, ballottable mass) and 3 (soft, globular, non-ballottable mass).
 	- **Complete** (Full): feet and legs are flexed on the thighs; buttocks and feet presenting; fetus squatting; the type favoring most the second stage of labor as the feet could be used as traction.
 	- **Incomplete** (Frank): thighs flexed against the abdomen; legs extending up to the shoulders as they lie on the anterior chest; buttocks present; the type favoring most the first stage of labor as the large buttocks are a good dilating wedge.
