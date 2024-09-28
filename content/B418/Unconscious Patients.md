@@ -1,7 +1,6 @@
 ---
 tags:
   - B418
-  - INC
 title: Nursing Obligations to Unconscious Patients
 ---
 **Unconscious patients** are among the most ethically and legally concerning cases. **Consciousness** is the state of awareness of oneself and their surroundings. It is the ability to perceive sensory stimuli and respond appropriately to them. Its abnormal state— non-arousability and unresponsiveness at its most severe state, is a coma. It is a symptom, rather than a disease by itself. It varies in profoundness and duration, ranging from fainting to a deep coma.
