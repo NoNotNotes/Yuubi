@@ -388,7 +388,7 @@ Nurses should have the proper **knowledge and implementation** of healthcare pol
 2. Engaging in creating and **updating a report system** to avoid blaming culture.
 3. Be involved in **research and evidence-based activities** for better decision making.
 4. Be up-to-date on **all life-saving certifications** (CPR, BLS, ACLS, PALS, NALS) and other Nursing Specialty Certification Programs.
-5. Engage in **hospital committees** to advocate for safe, effective, and patient-centered healthcare systems./
+5. Engage in **hospital committees** to advocate for safe, effective, and patient-centered healthcare systems.
 6. Be responsible in **reporting all errors and near misses** for the patient and for the prevention of sentinel and adverse events in the future.
 7. Ensure **better lighting and less clutter** in work areas.
 >[!ERROR] Sentinel Events and Near Misses
