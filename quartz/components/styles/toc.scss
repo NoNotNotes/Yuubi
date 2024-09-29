@@ -67,10 +67,4 @@ button#toc {
       padding-left: calc(1rem * #{$i});
     }
   }
-
-  @media (max-width: 1510px) {
-    & ul > li > a {
-      opacity: 0.75;
-    }
-  }
 }
