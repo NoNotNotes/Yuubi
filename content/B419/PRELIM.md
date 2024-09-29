@@ -73,6 +73,7 @@ Created by **Henry Gantt**, a student of Taylor, a Gantt chart is a timeline for
 #### Classical Organization Theories
 ##### Fayol's Principles of Management and Management Process
 Also read: [[Nursing Leadership and Management#Management Process]]
+
 **Henry Fayol** is known as the "*father of the management process school*". He studied the functions of the managers and concluded that **management is universal**. There are **fourteen principles of management**:
 1. **Division of work**
 2. **Authority and Responsibility**
@@ -390,6 +391,8 @@ Nurses should have the proper **knowledge and implementation** of healthcare pol
 5. Engage in **hospital committees** to advocate for safe, effective, and patient-centered healthcare systems./
 6. Be responsible in **reporting all errors and near misses** for the patient and for the prevention of sentinel and adverse events in the future.
 7. Ensure **better lighting and less clutter** in work areas.
+>[!ERROR] Sentinel Events and Near Misses
+>**Sentinel events** are patient safety events that result in death, permanent harm, or severe temporary harm. **Near Miss events** are errors that occur in the process of providing medical care that are *detected and corrected before a patient is harmed*.
 ## Standards of Professional Nursing Practice (ANA)
 The standards of professional nursing practice as dictated by the American Nurses Association (2015) is composed of the **Standards of Practice** and **Standards of Professional Performance**:
 1. **Standards of Practice**: the level of competency a nurse demonstrates with the critical thinking model known as the nursing process (Assessment, Diagnosis, Outcomes Identification, Planning, Implementation, and Evaluation). These encompass significant actions taken by registered nurses and forms the foundation of the nurse's decision-making.
