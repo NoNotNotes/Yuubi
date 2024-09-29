@@ -4,8 +4,6 @@ tags:
   - B419
   - COMP
 ---
->[!WARNING] I'm still missing Course Unit 3! It's a work in progress, but there's already plenty of content to study.
-
 The following notes were used for this compilation:
 - [[B419/01|Introduction to Nursing Leadership and Management]]
 - [[B419/02|Patient Health Care Delivery Systems]]
