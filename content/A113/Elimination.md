@@ -104,4 +104,4 @@ Other considerations for setting up a catheter and urine collection bag include:
 5. **Sizing and Length**: the catheter is inserted until urine flows, at somewhere around **6 to 9 inches** for men with a **Fr. 16 to Fr. 18** lumen catheter, and **3 to 4 inches** for women with a **Fr. 12 to Fr. 14** lumen catheter.
 ___
 # Fecal Elimination
-🛌
+**Fecal elimination** is the removal of waste from the body through the divgestive system, via the **gastrointestinal tract**. Here's a short review of the physiology of the digestive system:
