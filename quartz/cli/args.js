@@ -68,12 +68,12 @@ export const BuildArgv = {
   },
   serve: {
     boolean: true,
-    default: false,
+    default: true,
     describe: "run a local server to live-preview your Quartz",
   },
   fastRebuild: {
     boolean: true,
-    default: false,
+    default: true,
     describe: "[experimental] rebuild only the changed files",
   },
   baseDir: {
