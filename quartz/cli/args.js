@@ -73,7 +73,7 @@ export const BuildArgv = {
   },
   fastRebuild: {
     boolean: true,
-    default: true,
+    default: false,
     describe: "[experimental] rebuild only the changed files",
   },
   baseDir: {
