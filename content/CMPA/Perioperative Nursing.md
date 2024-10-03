@@ -55,10 +55,11 @@ Many landmarks and subdivisions are used in surgery, used appropriately dependin
 3. **Longitudinal Midline Incision**: midline incision above, around, and below the umbilicus. Not through the umbilicus directly.
 4. **Paramedian Incision**: meaning "*adjacent to the midline*". It is a longitudinal incision performed in one or more of the four quadrants of the abdomen.
 5. **Mid-abdominal Transverse Incisions**: same as paramedian incisions, but perpendicular to the long axis of the body.
-6. **Thoracolumbar Incisions**: 
+6. **Thoracolumbar Incisions** (*no clue...*)
 7. **Oblique Incisions**: incisions similar to paramedian incisions, but at oblique angles.
 8. **McBurney's Incisions**: an incision at **McBurney's point**, the midpoint between the umbilicus and the right anterosuperior iliac spine. This is used to locate the position of the appendix, and is the **most common site of maximum tenderness in acute appendicitis**.
 9. **Pfannenstiel Incisions**: the most common method for performing caesarian sections in present day. It is a slightly curved transverse incision between the symphysis pubis and umbilicus.
+![[incision_areas.png]]
 
 The patient is positioned in whichever position is most ideal for the area being operated on. This includes:
 1. **Prone Position**: the patient lies on their stomach with their head turned to one side. This is used for spinal, rectal, or perianal procedures.
