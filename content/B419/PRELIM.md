@@ -576,7 +576,7 @@ The creation of a will follows several **legal requirements**:
 3. Properties, if disposed, should follow their respective legal requirements.
 4. The will must be **signed by the testator**, and **attested and signed** by **at least three witnesses in his presence and of one another**. Every witness shall be of sound mind, 18 years of age or more, not blind, deaf or dumb, and able to read and write.
 5. Every will must be acknowledged **before a notary public** by the testator and witnesses.
-6. A married woman may make a will without the consent of her husband and without the authority of the court.\
+6. A married woman may make a will without the consent of her husband and without the authority of the court.
 ### Nursing Obligations in a Will
 A nurse verifies the client as being **of age**, of **sound of mind** and **free from fraud or undue influence**. The nurse notes that the will was signed by the testator, and that all witnesses were present simultaneously and signed the will in the presence of the testator.
 ### Gifts
@@ -624,7 +624,7 @@ A **standard** is the level of performance or quality against which actual pract
 	- **Invasion of Right to Privacy and Breach of Confidentiality**: the right to be left alone, free of unwanted publicity and exposure. Specifically, privacy refers to the person or identity, while confidentiality refers to data or information about an individual.
 	- **Defamation**: "*character assassination*", be it written or spoken. Specifically, **slander** is oral defamation, and **libel** is written defamation.
 2. **Negligence**: the failure to fulfill (omission) a part of one's due responsibilities in a situation where a reasonable prudent person would be able to fulfill, which results in an injury to another person or their property.
-3. **Malpractice**: the improper or unskillful care of a patient, or stepping beyond one's authority with serious consequences.\
+3. **Malpractice**: the improper or unskillful care of a patient, or stepping beyond one's authority with serious consequences.
 4. **Incompetence**: a lack of ability or legal qualification to be fit to discharge required duties. This is a ground for revocation and suspension of the certificate of registration.
 The nature of crime is further discussed later in this page.
 
@@ -720,7 +720,7 @@ There are, however, circumstances which can increase, reduce or completely exemp
 3. At the start of employment, get a copy of your job description, the agency’s rules, regulations and policies.
 4. Upgrade your skills and competence
 5. Accept only such responsibility that is within the scope of your employment and your job description.
-6. Do not delegate your responsibilities to others.\
+6. Do not delegate your responsibilities to others.
 7. Determine whether your subordinates are competent in the work you are assigning them.
 8. Develop good interpersonal relationships with your co-workers, whether they be your supervisors, peers or subordinates.
 9. Consult your superior for problems that may be too big for you to handle.
@@ -761,6 +761,13 @@ Written communication is the most commonly used form of communication due to its
 	- Writing the detailed notes into meeting minutes: opening (title, location, time, date), present members, absent members, approval of the agenda, approval of the previous minutes, business from previous meetings, new business, additions to the agenda, agenda for the next meeting, and adjournment.
 	- Submission to and approval by the chairperson.
 	- Distribution of meeting minutes, often as a responsibility of the secretary.
+## Meetings
+Meetings can become effective if managed properly, with the following steps undertaken (Cherry & Jacobs, 2014):
+1. **Pre-meeting Work**: determine the purposes of the meeting. **A list of meeting topics is made**, and a fact sheet is created in relation to each topic. This is distributed to those in attendance.
+	- Determine those **who will attend the meeting**— those affected by decisions made during the meeting and those who may provide valuable insight for the topics.
+	- Schedule the meeting by **date, time, and location**, then invite the attendees. Consultation with the attendees will allow for maximized attendance.
+	- **Meeting agendas** (containing the aforementioned information) **are distributed** at least **one week** before the meeting, with a reminder two days before the meeting.
+2. **During the Meeting**: ensure that the participants are comfortable. In the group, there should be a leader (chairperson), timekeeper, and recorder. The leader processes one agenda at a time, allowing the timekeeper to do their job to keep the meeting on track. At the end of the meeting, **debriefing** is done, asking "*what went well?*" and "*what could have been better?*". This improves subsequent meetings over time.
 ## Reports in Nursing
 **Nursing reports** are **oral**, **taped**, or **written exchanges of information** between nurses and members of the health team, such as in change-of-shift reports (endorsement), telephone orders, and transfer reports.
 1. **Change-of-Shift Reports**: the transfer of essential information and holistic care of patients, providing continuity of patient care for 24 hours. This may be done orally, by audio recording, or at the bedside during nursing rounds. Initially, oral reporting is done at the nurse's station or conference room with nurses from the departing and arriving shifts.
@@ -769,13 +776,6 @@ Written communication is the most commonly used form of communication due to its
 	- **Nursing Rounds**: endorsement at bedside, where the care plan is discussed, allowing the patient and family to participate, pose questions, and seek clarifications. Any additional assessments and evaluations can also be made at this time.
 2. **Telephone Reports**: physicians or other nurses may be updated about patients via telephone. All information transmitted should be transcribed accurately, especially if medications are involved or if significant variances have occurred. The date, time, name of the physician, and signature of the nurse receiving telephone orders are all documented to be countersigned within 24 hours.
 3. **Transfer Reports**: patients being transferred from one unit to another require proper referral and coordination. The receiving unit is usually advised beforehand about the transfer so that the unit or bed including special equipment, if necessary, will be arranged. All pertinent information for the continuity of care is provided to the receiving unit, including a summary of medical progress and current health status. An oral report is also made by the accompanying nurse so that additional information can be made or clarified. A transfer report accompanies the patient.
-## Meetings
-Meetings can become effective if managed properly, with the following steps undertaken (Cherry & Jacobs, 2014):
-1. **Pre-meeting Work**: determine the purposes of the meeting. **A list of meeting topics is made**, and a fact sheet is created in relation to each topic. This is distributed to those in attendance.
-	- Determine those **who will attend the meeting**— those affected by decisions made during the meeting and those who may provide valuable insight for the topics.
-	- Schedule the meeting by **date, time, and location**, then invite the attendees. Consultation with the attendees will allow for maximized attendance.
-	- **Meeting agendas** (containing the aforementioned information) **are distributed** at least one week before the meeting, with a reminder two days before the meeting.
-2. **During the Meeting**: ensure that the participants are comfortable. In the group, there should be a leader (chairperson), timekeeper, and recorder. The leader processes one agenda at a time, allowing the timekeeper to do their job to keep the meeting on track. At the end of the meeting, **debriefing** is done, asking "*what went well?*" and "*what could have been better?*". This improves subsequent meetings over time.
 ## Patient Satisfaction & Customer Service
 Nurses need to provide a comprehensive range of patient needs. In settings where facilities desire for patients to use their services, nurses are expected to keep patient satisfaction and customer service, which includes safety and quality care as the leading motivator of all plans and activities (Cherry & Jacobs, 2014). Customers may be categorized as external or internal:
 1. **External customers**: those not employed by the organization (patients, families, referral physicians, payers e.g. insurance companies, managed care plans).

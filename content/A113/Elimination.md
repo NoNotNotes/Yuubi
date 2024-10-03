@@ -32,7 +32,8 @@ ___
 3. **Muscle Tone**: as micturition is a function of the detrusor muscle, its tone is important in being able to adequately and appropriately initiate voiding. In patients with a long-term need for in-dwelling/retention catheters, the continuous drainage of urine removes the cycle of stretching and contracting, which can negatively impact the detrusor muscle's tone.
 4. **Pathology**: the malfunctioning of any of the systems or structures related to the urinary system can increase and decrease urine output, or the filtering ability of the kidneys. These include renal failure, heart failure, shock, hypertension, urinary stones, prostatic hyperplasia, etc.
 5. **Surgical and Diagnostic Procedures**: structures may be altered after procedures done to the urinary tract, such as urethral swelling after a cystoscopy.
-## Normal Urinary Functions
+## Normal Urine Characteristics
+
 | Parameter                         | Reference Range           | Abnormal                                                                             | Considerations                                                                                                                                    |
 | --------------------------------- | ------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Rate of Production (24 hours)** | 1,200 to 1,500 mL         | <1,200 mL or if vastly greater than intake                                           | Urinary output should be proportional to fluid intake.                                                                                            |
@@ -45,7 +46,8 @@ ___
 | **Blood**                         | (-)                       | (+)                                                                                  | Hematuria: UTI, kidney disease, urinary tract bleeding                                                                                            |
 | **Sterility**                     | (+) Microbes              | (-) Microbes                                                                         | Contamination from perineum during collection                                                                                                     |
 
-## Altered Urinary Functions
+## Altered Urinary Characteristics
+
 | Abnormality                 | Description                                                                                                                                                                                                   |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Polyuria**                | Excessive urine production.                                                                                                                                                                                   |
@@ -105,3 +107,29 @@ Other considerations for setting up a catheter and urine collection bag include:
 ___
 # Fecal Elimination
 **Fecal elimination** is the removal of waste from the body through the digestive system, via the **gastrointestinal tract**. Here's a short review of the physiology of the digestive system:
+1. **Colon**: the *large intestine*, which is generally about 50 to 60 inches long. Its main functions are the absorption of water and nutrients, fecal elimination, and mucoid protection of the intestinal wall. The colon terminates at the rectum, where any remaining products of digestion is feces or stool.
+2. **Rectum**: a pouch with vertical folds, that expand to retain feces. This connects to the **anal canal**, which has to sphincters: the **internal sphincter** acts **involuntarily**, while the **external sphincter** is controlled **voluntarily**. The internal sphincter reacts to the **defecation reflex**, but the external sphincter can be used to inhibit the reflex. The urge to defecate normally disappears soon after inhibition, and resurfaces in a few hours.
+## Factors Affecting Defecation
+**Development**
+## Stool Characteristics
+| Parameter        | Normal                                                                                                 | Abnormal                                                            |
+| ---------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **Color**        | Brown (Adult), Yellow (Infant)                                                                         | Clay, white, black, tarry, red, pale, orange, green                 |
+| **Consistency**  | Formed, soft, semi-solid, moist                                                                        | Hard, dry                                                           |
+| **Shape**        | Cylindrical (same as the contour of the rectum)                                                        | Narrow, pencil-shaped stool                                         |
+| **Amount**       | Varies with diet                                                                                       |                                                                     |
+| **Odor**         | Aromatic, affected by ingested food                                                                    | Pungent                                                             |
+| **Constituents** | Small amounts of undigested roughage, sloughed dead bacteria and epithelial cells, fats, and proteins. | Pus, parasites, blood, large quantities of fat, and foreign objects |
+
+These abnormalities have the following potential (common) causes:
+1. **Color**:
+	- **Clay**/**White**: absence of **bile**, potentially from bile obstruction. Diagnosis is through a barium enema.
+	- **Black**/**Tarry**: (1) normal from iron intake,  (2) upper gastrointestinal bleeding, or (3) diets high in red meat and dark green vegetables.
+	- **Red**: lower gastrointestinal bleeding
+	- **Pale**: (1) malabsorption of fats, (2) diet high in milk and low in meat.
+	- **Orange**/**Green**: intestinal infection
+2. **Consistency**: hard, dry stool can be a result of **dehydration** or a **lack of fiber** in the diet.
+3. **Shape**: narrow, pencil-shaped stool can be a result of **obstruction conditions**.
+4. **Amount**: N/A
+5. **Odor**: a foul or pungent smell results from **infection** or the presence of **blood**.
+6. **Constituents**: pus (infection), parasites (parasitic infection), blood (bleeding), large amounts of fat (malabsorption), and foreign objects.
