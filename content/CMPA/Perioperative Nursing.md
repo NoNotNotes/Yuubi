@@ -139,17 +139,18 @@ The intraoperative phase includes the goals of care of asepsis, infection contro
 2. **Semi-Critical**: used for items coming into contact with non-intact skin and mucous membranes. This requires **high-level disinfection**.
 3. **Non-Critical**: used for items coming into contact with intact skin and mucous membranes. This requires **intermediate-level to low-level disinfection**.
 ### Principles of Sterile Technique
-1. Only sterile items are used within the sterile field.
-2. Sterile personnel are gowned and gloved.
-3. Tables are sterile **only at table level**.
+1. Only sterile items are used within the sterile field. If in doubt of integrity, consider an item unsterile.
+2. Sterile personnel are gowned and gloved. Gowns are only sterile from the **level of the shoulder to the waist**. The back is considered unsterile.
+3. Tables are sterile **only at table level**. The level of the table should not be changed too frequently.
 4. Sterile personnel touch only sterile items or areas; unsterile personnel touch only unsterile items or areas.
 5. Unsterile personnel **avoid reaching over** the sterile field and sterile personnel avoid leaning over an unsterile area.
 6. The **edges** of anything that encloses sterile contents are considered unsterile.
-7. The sterile field is **created as close as possible to the time of use**.
-8. Sterile areas are **continuously kept in view**.
+7. The sterile field is **created as close as possible to the time of use**, and kept as dry as possible.
+8. Sterile areas are **continuously kept in view**. Overt contamination of the sterile area is better than covert contamination.
 9. Sterile personnel keep **well within the sterile area**.
 10. Sterile personnel keep **contact** with sterile areas **to a minimum**.
 11. Destruction of the integrity of microbial barriers results in **contamination**.
+12. Microorganisms must be kept to an irreducible minimum 
 ### Surgical Scrubbing
 | Time Method | 1st (5 min.) | 2nd (4 min.) | 3rd (1 min.) |
 | ----------- | :----------: | :----------: | :----------: |
