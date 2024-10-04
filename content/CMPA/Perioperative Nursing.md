@@ -252,7 +252,7 @@ This is care provided while the patient remains in the **recovery room**.
 1. **Assure ABCs**:
 	- O₂ therapy with positioning, artificial airways until the return of gag reflex, suctioning, encouraging deep breathing
 	- **Check vital signs** every 15 minutes until stable, then every 30 minutes.
-	- **Check skin color, temperature, drainage, and dressings**. These can
+	- **Check skin color, temperature, drainage, and dressings**. These are among the overt signs of infection or failing circulation, among other complications.
 2. **Monitor Level of Consciousness**: reorient the client. Sedation can last for a few hours and affect cognition.
 3. **Discharge**: once the patient is awake and responsive, with easy breathing and acceptable CP clearance, they may be discharged from the recovery room.
 ## Continuing Care
