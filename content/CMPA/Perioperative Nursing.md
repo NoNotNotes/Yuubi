@@ -6,18 +6,23 @@ title: Perioperative Nursing
 ---
 This page is lifted from **Sir V's handout on Perioperative Nursing**. He has a lot more to say than what is on the presentation, so don't expect this to be completely comprehensive in terms of content. This can be used as a content outline for further review. However, I did attempt to supplement information when possible to provide more context.
 
+![[periop.pdf]]
+
 When I have time, full lectures on perioperative nursing will be linked here. The sources I have for perioperative nursing are all pretty long, so they will have to wait.
 ___
 # Perioperative Nursing
 **Perioperative nursing** is the identification of the physiological, psychological, social and spiritual needs of the client and the formulation of an individualized plan of care **before**, **during**, and **after surgery**. Surgeries are done to cure, to relieve pain, to prolong life, to maintain dynamic body equilibrium, to treat and prevent infection, or to correct deformities or defects. For this vast array of functions, surgeries take on various forms:
 
-| Classification                  | Types                                                                                         |
-| ------------------------------- | --------------------------------------------------------------------------------------------- |
-| **According to Purpose**        | - Curative: to cure<br>- Diagnostic: to diagnose<br>- Exploratory: to explore                 |
-| **According to Location**       | - External<br>- Internal                                                                      |
-| **According to Mode**           | - Constructive: to create structures<br>- Reconstructive: to restore structures               |
-| **According to Degree of Risk** | - Minor<br>- Major                                                                            |
-| **According to Urgency**        | - Emergency<br>- Urgent<br>- Elective: may still be required, but can be scheduled/voluntary. |
+| Classification                  | Types                                                                                                                                                              |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **According to Purpose**        | Curative: to cure<br>Diagnostic: to diagnose<br>Exploratory: to explore<br>Ablative: to remove<br>Palliative: to reduce symptoms<br>Transplant: to transfer organs |
+| **According to Location**       | External, e.g., a hysterectomy<br>Internal, e.g., skin grating                                                                                                     |
+| **According to Mode**           | Constructive: to create structures<br>Reconstructive: to restore structures                                                                                        |
+| **According to Degree of Risk** | Minor<br>Major                                                                                                                                                     |
+| **According to Urgency**        | Emergency<br>Urgent<br>Elective: may still be required, but can be scheduled/voluntary.                                                                            |
+
+>[!ERROR] Pathologic Conditions
+>There are four basic pathologic conditions that require surgery: **obstruction**, such as in a blocked bile duct; **perforation**, the rupture of an organ, artery, or bleb i.e. in aneurysms; **erosion**, a break in the continuity of tissue surfaces caused by irritation, infection, ulceration, or inflammation; and **tumors**, abnormal growths of tissue that serve no physiologic function in the body.
 ___
 # The Surgical Team
 The medical team handling an patient in the operating room is composed to a multidisciplinary set of members that all play their respective roles for providing holistic care. They are generally divided between **sterile** and **unsterile** members of the team:
@@ -27,16 +32,18 @@ The medical team handling an patient in the operating room is composed to a mult
 | Sterile   | 1. Operating Surgeon<br>2. Assisting Surgeons<br>3. Scrub Nurse |
 | Unsterile | 4. Anesthesiologist<br>5. Circulating Nurse                     |
 ## Scrub Nurse
+The scrub nurse is a sterile member, and assists the surgeon during the operation by providing sterile instruments and supplies, counting instruments, or sometimes even basic functions of assistant surgeons such as retracting, suctioning, and assisting in suturing (sponging, cutting).
 1. Receives patient from the surgical ward nurse.
-2. Prepares and organizes the OR unit based on the case.
+2. **Prepares and organizes the OR unit** based on the case.
 3. Opens sterile packs and adds sterile supplies and instruments.
-4. Performs surgical scrubbing, gowning, and gloving.
-5. Organizes sterile fields.
+4. Performs **surgical scrubbing, gowning, and gloving**.
+5. Organizes sterile fields and maintains its integrity, safety, and efficiency.
 6. Serves gowns and gloves to surgeons.
 7. Counting of instruments.
 8. Draping.
 9. Announcing cutting time.
 ## Circulating Nurse
+The circulating nurse provides assistance to any member of the OR team in any manner they are qualified for. Circulating nurses are crucial in communication, direction, and safety.
 1. Receives patient from the surgical ward nurse. Endorsement during transfer includes **confirmation of patient identity**, **schedule**, and securing **[[#Consent|informed consent]]**. Discussed later: [[#Preoperative Preparation]]
 2. Establishes rapport with the client.
 3. Places the patient on the OR table and remains with them.
@@ -46,7 +53,8 @@ The medical team handling an patient in the operating room is composed to a mult
 7. Skin preparation.
 8. Position the patient for surgery.
 9. Help drape the patient.
-10. Record cutting time.
+10. Handle, label, and send tissue samples for analysis.
+11. Record starting time, cutting time, closing time, etc.
 ___
 # Surgical Landmarks and Positioning
 Many landmarks and subdivisions are used in surgery, used appropriately depending on the purpose of the surgery. Surgical incisions include:
@@ -150,7 +158,7 @@ The intraoperative phase includes the goals of care of asepsis, infection contro
 9. Sterile personnel keep **well within the sterile area**.
 10. Sterile personnel keep **contact** with sterile areas **to a minimum**.
 11. Destruction of the integrity of microbial barriers results in **contamination**.
-12. Microorganisms must be kept to an irreducible minimum 
+12. Microorganisms must be kept to an irreducible minimum.
 ### Surgical Scrubbing
 | Time Method | 1st (5 min.) | 2nd (4 min.) | 3rd (1 min.) |
 | ----------- | :----------: | :----------: | :----------: |
