@@ -21,6 +21,7 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import OverlayExplorer from "./OverlayExplorer"
+import OnlyFor from "./OnlyFor"
 
 export {
   ArticleTitle,
@@ -44,5 +45,6 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
-  OverlayExplorer
+  OverlayExplorer,
+  OnlyFor
 }

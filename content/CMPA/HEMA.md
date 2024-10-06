@@ -1,10 +1,21 @@
 ---
-title: Hematologic Diseases
 tags:
   - MS
-description: Diseases and disorders that affect the ability of the blood to carry out its functions properly. This involves various types of anemia and vascular disorders.
+  - CMPA
+  - INC
+title: Hematologic Disorders
 ---
-# Anemia
+This nursing domain was discussed along with the following:
+1. [[CARDIO|Cardiologic Disorders]]
+2. [[PULMO|Pulmonary Disorders]]
+3. [[HEMA|Hematologic Disorders]] (You're here!)
+
+>[!WARNING] Work In Progress
+>These notes for MS1 are notes I made last year. Formatting may still be inconsistent. They are sourced from presentations, Aki's compilations, and course modules. After I find the time, I plan to make this more comprehensive with information from the Saunders Comprehensive Review book or other sources. Stay tuned.
+
+___
+# Hematologic Disorders
+## Anemia
 The lowered concentration of hemoglobin within the blood. It is not a disease but rather a symptom of an underlying disease; it is the most common hematologic condition. There are three cardinal signs for anemia: **weakness, fatigue, and pallor**. Most other general symptoms only appear in severe or acute anemia.
 - **General Diagnostic Procedures**: Hematologic Studies (CBC), Iron Studies, Serum Vitamin B9 and B12 Levels, and Bone Marrow Aspiration
 - **General Medical Management**: correction of the underlying cause and blood transfusion in severe or acute anemia.
@@ -21,13 +32,13 @@ The lowered concentration of hemoglobin within the blood. It is not a disease bu
 	- **Compliance**
 	- **Absence of Complications**: assess for heart failure and neurologic assessment for megaloblastic anemia.
 - **Evaluation**: decreased fatigue, adequate nutrition, adequate perfusion, no or minimal complications.
-## Aplastic Anemia
+### Aplastic Anemia
 Anemia caused by damaged or ineffective production of blood cells from the bone marrow, resulting in thrombocytopenia, anemia (erythrocytopenia), and leukocytopenia, all together being encompassed by **pancytopenia**: low concentrations of all cellular blood components.
 - **Clinical Manifestations**: infection (from leukopenia), anemic S/S triad (from anemia), bleeding/bruising (from thrombocytopenia), lymphadenopathy (from infection)
 - **Diagnostics**: bone marrow aspiration
 - **Medical Management**: bone marrow transplant (<60 y.o.), sometimes immunosuppressive therapy
 - **Nursing Interventions**: monitor for drug side effects, problems related to pancytopenia, and compliance.
-## Iron-Deficiency Anemia (IDA)
+### Iron-Deficiency Anemia (IDA)
 The most common type of anemia. Iron may be lost from bleeding, from inability to be absorbed, or simply from not being present in the diet. In premenopausal women, the most common cause is menstruation. In men and postmenopausal women, the most common cause is GI bleeding.
 - **Clinical Manifestations**: anemia S/S triad; in prolonged or severe cases, mouth ulceration (angular cheilosis) and smooth/sore tongue, and brittle/ridged nails.
 - **Diagnostics**: bone marrow aspiration, Iron studies (Serum Iron and Ferritin, CBC, Hgb, Hct)
@@ -35,7 +46,7 @@ The most common type of anemia. Iron may be lost from bleeding, from inability t
 - **Nursing Interventions**: health education about use of iron supplements
 	- **PO**: (if liquid) take with straw, as it may stain the teeth; take before meals for best absorption (may cause GI upset), take after meal to avoid GI upset, do not take with antacids or milk (diminishes absorption). Intake of Vit. C (orange juice) with the supplement helps with absorption.
 	- **IM**: deep IM (Z-Track); use an aspirating needle; check for anaphylactic reaction with a small test dose.
-## Megaloblastic Anemia
+### Megaloblastic Anemia
 Megaloblastic anemia is the proliferation of immature erythrocytes caused by inadequacies in B9 (Folate), B12 (Cobalamin), or Intrinsic Factor (IF; required for B12 absorption). Their manifestations are similar, except for B9 not having neurological manifestations.
 - **Clinical Manifestations**: anemia S/S, neurological manifestations (B12 is required for neurological activity), altered LOC, jaundice (from low lifespan of megaloblasts)
 - **Diagnostics**: Schilling's Test (testing Intrinsic Factor effectivity), Serum tests for B9, B12, and a CBC (very high MCV result).
@@ -48,8 +59,7 @@ Megaloblastic anemia is the proliferation of immature erythrocytes caused by ina
 	- Assess gait (the need for assistive devices, safety, and therapy)
 	- Explain the process and importance for compliance with the 24-hour urine test for Schilling's test.
 	- Explain the importance for compliance with the lifelong B12 supplementation therapy.
-___
-# Disseminated Intravascular Coagulation (DIC)
+## Disseminated Intravascular Coagulation (DIC)
 A coagulation disorder causing an over-activation of the clotting cascade. This results in simultaneous thrombosis and hemorrhage. May be acute or chronic; highly fatal. Because of the overuse of clotting factors, bleeding is a problem despite the abnormal rates of coagulation. Two contrasting problems cause high difficulty in treatment for severe cases.
 - **Signs and Symptoms**:
 	- **Clotting**: Chest pain, shortness of breath, myocardial infarction (from obstruction of coronary arteries), cerebral effects from decreased perfusion (LOC changes)
@@ -64,8 +74,7 @@ A coagulation disorder causing an over-activation of the clotting cascade. This 
 	- **Maintain hemodynamic status**: observe procedures to minimize wounding and risk for bleeding.
 	- **Monitor for imbalanced fluid volume**: faulty circulation may result in fluid retention. Assess for edema and monitor breath sounds. Administer diuretics and minimize IV volume as prescribed.
 	- **Assess for ineffective tissue perfusion related to microthrombi**: assess neurologic, pulmonic, and skin systems.
-___
-# Idiopathic Thrombocytopenic Purpura
+## Idiopathic Thrombocytopenic Purpura
 Lysis of platelets after binding to antiplatelet autoantibodies. Compensatory production of platelets in the bone marrow occurs following this. Its acute form is mostly self-limiting, but chronic forms may last.
 - **Clinical Manifestations**: mostly asymptomatic; easy bruising, petechiae, purpura, heavy menses and mucosal bleeding, thrombocytopenia
 - **Diagnostics**: Decreased platelet count, increased bleeding time, and increased megakaryocyte (immature thrombocyte) counts in a bone marrow aspiration procedure.
@@ -95,20 +104,19 @@ Normal blood pressure is defined as being <120/<80 mmHg. Hypertension is a persi
 	- Deficient knowledge regarding the relationship between the treatment regimen and control of the disease process.
 	- Noncompliance with therapeutic regimen related to side effects of prescribed therapy.
 ___
-# Beurger's Disease
+# Vascular Diseases
+## Beurger's Disease
 A repeating inflammation of the intermediate and small arteries and veins of the lower and upper extremities. It results in thrombus formation and segmental occlusion of the vessels. Most commonly occurs in **men from 20 to 35 years old**. Smoking or tobacco is an aggravating or causative factor.
 - **Clinical Manifestation**: pain, changes in color, (if in feet) instep claudication.
 - **Diagnostics**: segmental blood pressure, contrast angiography, duplex ultrasonography.
 - **Medical Management**: stop tobacco use, regional sympathetic block/ganglionectomy to prevent vasodilation, debridement of necrotic tissue, if a toe is gangrenous, BKA/AKA indicated for severe gangrene, severe resting pain or severe sepsis.
 	- Vasodilators are not prescribed as they only cause vasodilation for healthy vessels.
-___
-# Raynaud's Disease
+## Raynaud's Disease
 Intermittent arteriolar vasoconstriction resulting in coldness, pain, and pallor or the fingertips or toes (Raynaud's Phenomenon). Most commonly occurs in **women from 16 to 40 years old**.
 - **Clinical Manifestations**: pallor followed by cyanosis, then followed by rubor when vasodilation occurs. (Pink -> White -> Blue -> Red -> Pink); paresthesia; bilateral involvement.
 - **Medical Management**: avoiding causative stimuli; calcium-channel blockers; sympathectomy.
 - **Nursing Interventions**: avoiding situations that cause stress, being cold, nicotine, sharp objects, and postural hypertension that some medications may cause.
-___
-# Aneurysm
+## Aneurysm
 An aneurysm is the enlargement of an artery caused by weakness of the arterial wall. It is often asymptomatic until a rupture occurs. Most commonly comes in tandem with atherosclerosis.
 - **Clinical Manifestations**: usually clinically silent until rupture. Non-ruptured aneurysms may cause obstruction or promote clotting (thromboembolism) which may lead to a stroke or other complications. Thoracic aneurysms may cause dyspnea or dysphagia.
 - **Complications**:
@@ -118,11 +126,11 @@ An aneurysm is the enlargement of an artery caused by weakness of the arterial w
 	- Any ruptures may cause pain, hypotension, tachycardia, and lightheadedness.
 - **Risk Factors** include hypertension, poor diet, sedentary living, and obesity. The most common is smoking (it increases risk of both an aneurysm and a rupture).
 - **Nursing Assessment**: anticipate a rupture. Assess for activity of all the organs.
-## Aortic Aneurysm
+### Aortic Aneurysm
 The largest artery. Most commonly affected site is the abdominal aorta: Abdominal Aortic Aneurysm (AAA; Triple A). It is normally 2 cm in diameter, and may dilate up to 5 cm. Past 5.5 cm, surgery is necessary. Uncommonly, a Thoracic Aortic Aneurysm (TAA) may occur. It has a higher survival rate but presents the same.
-## Cerebral Aneurysm
+### Cerebral Aneurysm
 Also known as "berry" aneurysms, as they appear like small berries on branches. Ruptures of these berry aneurysms can cause death within 24 hours; 40% of ruptures being fatal and 66% resulting in permanent neurological damage. These are the most common type of stroke: subarachnoid hemorrhages (SAHs)
-## Peripheral Aneurysm
+### Peripheral Aneurysm
 Less likely to rupture, but still occur.
 - **Popliteal Aneurysm**: behind the knee. The most common peripheral aneurysm.
 - **Splenic Artery Aneurysm**: near the spleen.
@@ -139,8 +147,6 @@ Less likely to rupture, but still occur.
 - **Complications**: vasospasm, seizures, hydrocephalus, re-bleeding, hyponatremia.
 - **Nursing Interventions**:
 	- **Tissue Perfusion**: assess regularly, avoid clotting, avoid increases in intracranial pressure (elevate head, don't strain, no caffeine, etc.)
-___
-## Vein Disorders
 ## Venous Thrombosis, Thrombophlebitis, Phlebothrombosis, and Deep Vein Thrombosis
 Caused by Virchow's Triad: Venous Stasis, Hypercoagulability, and Endothelial Lesions. Thrombophlebitis involves a clot involved with inflammation. If a clot occurs without inflammation, it is a phlebothrombosis.
 - **Clinical Manifestations**: Non-specific. Edema and swelling, tenderness, redness, and warmth.

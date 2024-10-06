@@ -13,28 +13,29 @@ ___
 # Perioperative Nursing
 **Perioperative nursing** is the identification of the physiological, psychological, social and spiritual needs of the client and the formulation of an individualized plan of care **before**, **during**, and **after surgery**. Surgeries are done to cure, to relieve pain, to prolong life, to maintain dynamic body equilibrium, to treat and prevent infection, or to correct deformities or defects. For this vast array of functions, surgeries take on various forms:
 
-| Classification                  | Types                                                                                                                                                              |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **According to Purpose**        | Curative: to cure<br>Diagnostic: to diagnose<br>Exploratory: to explore<br>Ablative: to remove<br>Palliative: to reduce symptoms<br>Transplant: to transfer organs |
-| **According to Location**       | External, e.g., a hysterectomy<br>Internal, e.g., skin grating                                                                                                     |
-| **According to Mode**           | Constructive: to create structures<br>Reconstructive: to restore structures                                                                                        |
-| **According to Degree of Risk** | Minor<br>Major                                                                                                                                                     |
-| **According to Urgency**        | Emergency<br>Urgent<br>Elective: may still be required, but can be scheduled/voluntary.                                                                            |
+| Classification                  | Types                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **According to Purpose**        | **Curative**: to repair or remove damaged tissue to cure disease<br>**Diagnostic**: to verify or establish a diagnosis<br>**Exploratory**: to explore the extent of disease or damage<br>**Ablative**: to remove non-functional tissue<br>**Palliative**: to reduce symptoms, without curing the disease process<br>**Transplant**: to transfer organs |
+| **According to Location**       | **External**, e.g., a hysterectomy<br>**Internal**, e.g., skin grating                                                                                                                                                                                                                                                                                 |
+| **According to Mode**           | **Constructive**: to create structures, especially in congenital defects<br>**Reconstructive**: to restore structures                                                                                                                                                                                                                                  |
+| **According to Degree of Risk** | **Minor**: non-life-threatening procedures<br>**Major**: involves vital signs or vasculature, or with the potential for bleeding.                                                                                                                                                                                                                      |
+| **According to Urgency**        | **Emergency**: immediately required procedures<br>**Urgent**: procedures that must be done within 24 to 48 hours.<br>**Elective**: may still be required, but can be scheduled within days to months.                                                                                                                                                  |
 
 >[!ERROR] Pathologic Conditions
 >There are four basic pathologic conditions that require surgery: **obstruction**, such as in a blocked bile duct; **perforation**, the rupture of an organ, artery, or bleb i.e. in aneurysms; **erosion**, a break in the continuity of tissue surfaces caused by irritation, infection, ulceration, or inflammation; and **tumors**, abnormal growths of tissue that serve no physiologic function in the body.
+
 ___
 # The Surgical Team
 The medical team handling an patient in the operating room is composed to a multidisciplinary set of members that all play their respective roles for providing holistic care. They are generally divided between **sterile** and **unsterile** members of the team:
 
 | Team      | Members                                                         |
 | --------- | --------------------------------------------------------------- |
-| Sterile   | 1. Operating Surgeon<br>2. Assisting Surgeons<br>3. Scrub Nurse |
-| Unsterile | 4. Anesthesiologist<br>5. Circulating Nurse                     |
+| **Sterile**   | 1. Operating Surgeon<br>2. Assisting Surgeons<br>3. Scrub Nurse |
+| **Unsterile** | 4. Anesthesiologist<br>5. Circulating Nurse                     |
 ## Scrub Nurse
 The scrub nurse is a sterile member, and assists the surgeon during the operation by providing sterile instruments and supplies, counting instruments, or sometimes even basic functions of assistant surgeons such as retracting, suctioning, and assisting in suturing (sponging, cutting).
 1. Receives patient from the surgical ward nurse.
-2. **Prepares and organizes the OR unit** based on the case.
+2. **Prepares and organizes the OR unit** based on the case. (*Another source says circulating nurses does this 1 hour prior to incision time*).
 3. Opens sterile packs and adds sterile supplies and instruments.
 4. Performs **surgical scrubbing, gowning, and gloving**.
 5. Organizes sterile fields and maintains its integrity, safety, and efficiency.
@@ -55,6 +56,12 @@ The circulating nurse provides assistance to any member of the OR team in any ma
 9. Help drape the patient.
 10. Handle, label, and send tissue samples for analysis.
 11. Record starting time, cutting time, closing time, etc.
+
+**Housekeeping** for the OR can be among the duties of a circulating nurse. This involves preparation of the room ~1 hour before incision time— removal of unnecessary equipment, dusting, lighting, disinfection of the floor, temperature control (air conditioning), preparing the bed, machines, kick buckets, then sterile instruments.
+## Others
+1. **Operating Surgeon**: pre-operative diagnosis and care; actual performance of operation; post-operative management and care. They assume full responsibility as the "*captain of the ship*", providing all medical acts of judgement and management.
+2. **Assisting Surgeons**: those who hold retractors, clamps bleeders, assists in sutures (especially for closure), and suctioning.
+3. **Anesthesiologist**: administers and maintains anesthesia and manages untoward reactions to anesthesia.
 ___
 # Surgical Landmarks and Positioning
 Many landmarks and subdivisions are used in surgery, used appropriately depending on the purpose of the surgery. Surgical incisions include:
@@ -83,17 +90,17 @@ The patient is positioned in whichever position is most ideal for the area being
 The **abdominal cavity** is occupied by many organs of the gastrointestinal system, renal system, reproductive systems (females), etc. There are two general subdivisions of the abdomen:
 1. **Nine-Region System**: this system divides the abdomen into nine areas using two horizontal and two vertical lines (midclavicular lines). The lowest region ends at the level of the highest part of the pelvic bone (transtubercular line), and the highest region ends at the end of the ribcage (subcostal line).
 
-|**Left**|**Middle**|**Right**|
-|---|---|---|
-|Left Hypochondriac|Epigastric|Right Hypochondriac|
-|Left Lumbar|Umbilical|Right Lumbar|
-|Left Iliac (Inguinal)|Hypogastric (Suprapubic)|Right Iliac (Inguinal)|
+| Left                  | Middle                   | Right                  |
+| --------------------- | ------------------------ | ---------------------- |
+| Left Hypochondriac    | Epigastric               | Right Hypochondriac    |
+| Left Lumbar           | Umbilical                | Right Lumbar           |
+| Left Iliac (Inguinal) | Hypogastric (Suprapubic) | Right Iliac (Inguinal) |
 2. **Four-Quadrant System**: this system divides the abdomen into four with the midline from the xiphoid to the symphysis pubis, and a transverse cut across the umbilicus.
 
-|Left|Right|
-|---|---|
-|Left Upper Quadrant|Right Upper Quadrant|
-|Left Lower Quadrant|Right Lower Quadrant|
+| Left                | Right                |
+| ------------------- | -------------------- |
+| Left Upper Quadrant | Right Upper Quadrant |
+| Left Lower Quadrant | Right Lower Quadrant |
 ___
 # Preoperative Phase
 The patient has to undergo preparations prior to surgery, with some requiring preparation days or weeks prior to surgery. Generally, these are the preoperative preparations to perform the day and night before the surgery:
