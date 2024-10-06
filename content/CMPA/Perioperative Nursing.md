@@ -134,13 +134,24 @@ ___
 The intraoperative phase includes the goals of care of asepsis, infection control, homeostasis, safe administration of anesthesia, and hemostasis.
 ## Asepsis
 **Asepsis**, **disinfection**, and **sterilization** are all varying ways to reduce or completely eliminate the presence of microorganisms on a field or body to produce an environment viable for surgical procedure.
-1. **Asepsis**: the elimination of microorganisms from **living tissue**.
-2. **Disinfection**: the elimination of microorganisms from **inanimate objects**, excluding spores.
-	- This may be done through **physical** or **chemical** methods. Physical methods include **boiling**, **steaming**, and **sunlight**. Chemical methods include **alcohol**, **chlorine**, **iodine**, and **phenol**.
+1. **Asepsis**: the elimination of microorganisms from **living tissue**. **Medical asepsis** (clean technique) *limits* microorganisms, while **surgical asepsis** (sterile technique) *eliminates* all microorganisms.
+2. **Disinfection**: the elimination of microorganisms from **inanimate objects**, **excluding spores**.
+	- This may be done through **physical** or **chemical** methods. Physical methods include **boiling** (5 to 10 minutes), **steaming**, and **sunlight**. Chemical methods include **alcohol**, **chlorine**, **iodine**, and **phenol** (esp. for AP).
 3. **Sterilization**: the elimination of microorganisms from **inanimate objects**, **including spores**.
-	- This may be done through **physical** or **chemical** methods. Physical methods include **autoclaving**, the main method of sterilization, **radiation**, and **gas**. Chemical methods mainly involve **soaking**/**immersion**.
+	- This may be done through **physical** or **chemical** methods. Physical methods include **autoclaving**, the main method of sterilization, **radiation**, and **gas** (ethylene oxide; ETO). Chemical methods mainly involve **soaking**/**immersion**.
+>[!INFO] Autoclave Sterility
+>In storage, packed autoclaved items can remain sterile for up to 28 days in a closed shelf, and up to 21 days on an open shelf.
+>- Packing materials:  linen (muslin), paper, or plastic. The most *ideal* material for use is plastic.
 
-// skipped "*Sample Sterilization and Level of Disinfection for Glutaradehyde*"
+| Solution          | Sterilization | High Level Disinfection | Intermediate Level Disinfection | Low Level Disinfection | Notes                                                 |
+| ----------------- | ------------- | ----------------------- | ------------------------------- | ---------------------- | ----------------------------------------------------- |
+| Cidex Activated   | 10 hours      | 45 mins                 | 15 to 45 mins                   | 5 to 15 mins           | Solution only used for 14 to 30 days                  |
+| Cidex OPA (0.55%) | -             | 12 mins                 | -                               | -                      | Solution only used for 14 days                        |
+| Cidex OPA (5.75%) | 32 hours      | 5 mins                  | -                               | -Intermediate Level    | Used for automatic endoscopic high level disinfection |
+1. **Low Level Disinfection**: kills fungi and viruses
+2. **Intermediate Level Disinfection**: kills fungi, viruses, and bacteria
+3. **High Level Disinfection**: kills all microorganisms except spores
+4. **Sterilization**: kills all microorganisms including spores
 
 **Earle Spaulding** created the **Spaulding Classification** to determine the level of disinfection required for items being used for 
 1. **Critical**: used for items that cut into intact skin and mucous membranes or items entering vascular areas of the body. This requires **sterilization**.
