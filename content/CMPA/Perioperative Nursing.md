@@ -16,7 +16,7 @@ ___
 | Classification                  | Types                                                                                                                                                              |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **According to Purpose**        | Curative: to cure<br>Diagnostic: to diagnose<br>Exploratory: to explore<br>Ablative: to remove<br>Palliative: to reduce symptoms<br>Transplant: to transfer organs |
-| **According to Location**       | External, e.g., a hysterectomy<br>Internal, e.g., skin grating                                                                                                     |
+| **According to Location**       | External, e.g., a hysterectomy<br>Internal, e.g., skin grafting                                                                                                     |
 | **According to Mode**           | Constructive: to create structures<br>Reconstructive: to restore structures                                                                                        |
 | **According to Degree of Risk** | Minor<br>Major                                                                                                                                                     |
 | **According to Urgency**        | Emergency<br>Urgent<br>Elective: may still be required, but can be scheduled/voluntary.                                                                            |
