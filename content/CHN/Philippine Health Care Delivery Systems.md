@@ -112,7 +112,7 @@ The **Sustainable Development Goals** (SDGs) are seventeen interlinked objective
 
 (mn. PEACE A(n)D JUSTICE FOR ALL GOOD PARTNERSHIPS) 1, 2, 3, 6, 4, 7, 8, 10, 9, 11, 12, 13, 14, 15, 16, 17
 
-![[Mnemonic-To-Learn-SDG-Goals.jpeg]]
+![[sdg_goals.jpeg]]
 ### Health Goals
 **Health Sector Reform Agenda**: health financing, health regulation, local health system, public health programs and hospital system. Their tagline is "**Boosting Universal Health Care**". It's framework is dubbed the **FOURmula One for Health Plus**:
 	- **Health Financing**: secure sustainable investments.

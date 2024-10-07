@@ -3,12 +3,12 @@ tags:
   - MS
   - CMPA
 title: Perioperative Nursing
-description: This page is lifted from **Sir V's handout on Perioperative Nursing**. He has a lot more to say than what is on the presentation, so don't expect this to be completely comprehensive in terms of content. This can be used as a content outline for further review. However, I did attempt to supplement information when possible to provide more context.
+description: This page is lifted from Sir V's handout on Perioperative Nursing. He has a lot more to say than what is on the presentation, so don't expect this to be completely comprehensive in terms of content. This can be used as a content outline for further review. However, I did attempt to supplement information when possible to provide more context.
 date: 2024-10-06
 ---
 This page is lifted from **Sir V's handout on Perioperative Nursing**. He has a lot more to say than what is on the presentation, so don't expect this to be completely comprehensive in terms of content. This can be used as a content outline for further review. However, I did attempt to supplement information when possible to provide more context.
 
-![[periop.pdf]]
+![[perioperative_nursing_vasquez.pdf]]
 
 When I have time, full lectures on perioperative nursing will be linked here. The sources I have for perioperative nursing are all pretty long, so they will have to wait.
 ___

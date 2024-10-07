@@ -3,6 +3,7 @@ title: Normal Values
 description: A collection of all of the normal values I've encountered in my notes. Affectations and considerations for each are also listed if applicable.
 tags:
   - XTRN
+draft: true
 ---
 # Thyroxine; Tetraiodothyronine (T<sub>4</sub>) (5.0 - 12.0 mcg/dL)
 Measured by a Thyroxine (T<sub>4</sub>) radioimmunoassay.

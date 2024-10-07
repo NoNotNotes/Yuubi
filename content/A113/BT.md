@@ -2,6 +2,7 @@
 tags:
   - A113
 title: Blood Transfusion
+date: 2024-10-04
 ---
 >[!WARNING] This discussion is lifted from Ma'am Tuiza's presentation on Blood Transfusion (1 and 2). It will be supplemented with Kozier and Erb's Fundamentals of Nursing sometime soon.
 

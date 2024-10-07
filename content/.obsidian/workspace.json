@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10d39a8ad0a77ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPA/CARDIO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d226baae17044fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPA/HEMA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b64e7e7b6604f0e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPA/CARDIO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c55b93c6b4895027",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/Perioperative Nursing.md",
+                "file": "A113/ADPIE.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 200
   },
   "right": {
     "id": "8a590d21f77c43b6",
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPA/CARDIO.md",
+                "file": "A113/ADPIE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPA/CARDIO.md",
+                "file": "A113/ADPIE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPA/CARDIO.md"
+                "file": "A113/ADPIE.md"
               }
             }
           }
@@ -184,35 +147,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b64e7e7b6604f0e7",
+  "active": "c55b93c6b4895027",
   "lastOpenFiles": [
-    "Untitled.md",
-    "CMPA/CARDIO.md",
-    "CMPA/RPS MNC/05.md",
-    "A113/O2.md",
-    "A113/Blood Transfusion.md",
-    "FUNDA/O2.md",
-    "FUNDA/Blood Transfusion.md",
-    "FUNDA",
-    "CMPA/d/09-10-2024 OB.md",
-    "CMPA/d/09-09-2024 OB.md",
-    "CMPA/d/08-26-2024 Total Quality Management.md",
-    "CMPA/d/06-30-2024 Immunology & Infection Control.md",
-    "CMPA/d/06-23-2024 Fundamentals of Nursing.md",
-    "CMPA/d/06-19-2024 Hematology.md",
-    "CMPA/d/05-05-2024 Family Planning and I&A of Labor.md",
-    "CMPA/d/04-02-2024 MS Sensory.md",
-    "CMPA/d/04-01-2024 MS Respiratory.md",
-    "CMPA/d/02-20-2024 Abnormal OB.md",
-    "B418/Electrocardiography.md",
-    "B418/08.md",
-    "attachments/Mnemonic-To-Learn-SDG-Goals.jpeg",
-    "A219/Newborn Screening.md",
-    "CMPA/RPS MNC/06.md",
-    "CMPA/RPS MNC/07.md",
-    "CMPA/RPS MNC/04.md",
     "CMPA/index.md",
-    "CMPA/PROF-AD/index.md",
-    "CMPA/PROF-AD/PALMER Reviewer.md"
+    "CMPA/MS1.md",
+    "A113/ADPIE.md",
+    "attachments/evaluation_checklist.png",
+    "A113/Elimination.md",
+    "B314/index.md",
+    "ANPH/index.md",
+    "A217/index.md",
+    "A217/08.md",
+    "A216/index.md",
+    "A215/Dietary Content.md",
+    "A215/index.md",
+    "A113/index.md",
+    "A110/index.md",
+    "A110/13.md",
+    "CMPA/d/09-10-2024 Normal OB.md",
+    "CMPA/d/09-10-2024 OB.md",
+    "CMPA/d/09-09-2024 Normal OB.md",
+    "CMPA/d/02-20-2024 Abnormal OB.md",
+    "CMPA/d/02-18-2024 Normal OB.md",
+    "CMPA/d/09-09-2024 OB.md",
+    "CMPA/d/09-05-2024 Normal Pediatrics.md",
+    "CMPA/d/08-30-2024 CHN.md",
+    "CMPA/d/08-29-2024 CHN.md",
+    "CMPA/d/08-27-2024 Normal OB.md",
+    "CMPA/d/08-26-2024 LM.md",
+    "CMPA/d/08-26-2024 Total Quality Management.md",
+    "attachments/lung_volumes.png",
+    "private",
+    "attachments/references/NCMB418 LEC Prelim Readings.pdf",
+    "attachments/references/NCMB418 LEC Final Readings.pdf",
+    "attachments/references/perioperative_nursing_vasquez.pdf",
+    "attachments/diabetes_mellitus_insulin_types.png",
+    "attachments/sdg_goals.jpeg",
+    "FUNDA"
   ]
 }

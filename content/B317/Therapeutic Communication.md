@@ -2,6 +2,7 @@
 tags:
   - B317
 title: Therapeutic Communication Tactics
+draft: true
 ---
 # Keep It Short and Simple (KISS)
 Utilizing short sentences with simple concepts and terminologies when talking with the patient.

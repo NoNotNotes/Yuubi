@@ -2,8 +2,11 @@
 title: Elimination
 tags:
   - A113
+  - INC
+date: 2024-10-05
 ---
 >[!WARNING] This discussion is lifted from Ma'am Tuiza's presentation on Elimination Patterns (UE and FE). It will be supplemented with Kozier and Erb's Fundamentals of Nursing sometime soon.
+
 ___
 # Urinary Elimination
 **Urinary elimination** is the removal of waste from the body through the urinary system, via the **urinary tract**. Here's a short review of the physiology of the urinary system:

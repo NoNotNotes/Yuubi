@@ -1,4 +1,6 @@
 {
   "showInlineTitle": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments"
 }

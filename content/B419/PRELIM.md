@@ -3,6 +3,7 @@ title: Preliminary Compilation
 tags:
   - B419
   - COMP
+draft: true
 ---
 The following notes were used for this compilation:
 - [[B419/01|Introduction to Nursing Leadership and Management]]

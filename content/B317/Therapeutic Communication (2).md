@@ -3,8 +3,8 @@ tags:
   - B317
   - COMP
 title: Preliminary Exam Reviewer
-aliases:
-  - PRELIMS
+aliases: 
+draft: true
 ---
 Content outline provided by **Ma'am Aida Bautista**
 ___

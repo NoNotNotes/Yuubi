@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Quantitative: Pearson Correlation
 ___
 # Experimental Research
