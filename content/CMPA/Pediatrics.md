@@ -2,6 +2,8 @@
 title: Pediatrics
 tags:
   - CMPA
+description: Pediatric Nursing as discussed by Ma'am Auri. Mostly based on her presentation, supplemented by her lectures.
+date: 2024-09-24
 ---
 This is basically lifted information of **Ma'am Aurisita Maganis Delos Reyes**'s presentation, revised into a web format/noted down using the outline method. If find it a good exercise to re-summarize this information as it was in the presentation, pointing out and organizing key points and information.
 
@@ -528,7 +530,7 @@ ___
 4. The four signs of infection are rubor, tumor, calor, and dolor; respectively, redness, swelling, heat, and pain.
 5. Colostrum may begin begin produced as early as 5 months of pregnancy.
 6. Milk expressed during breastfeeding may be divided into two categories: foremilk and hindmilk. Foremilk contains more water and nutrients, while hindmilk contains more fat and calories. This is why it is important to perform complete breastfeeding.
-%%
+
 ___
 # Fun Facts
 (*things the lecturer mentions, but is questionably within the scope of the presentation*)
@@ -537,4 +539,4 @@ ___
 3. Bilirubin is *not* produced by the liver; the liver produces glucuronyl transferase that converts indirect bilirubin to direct bilirubin. In newborns, this enzyme is not sufficient, which results in physiologic jaundice.
 4. The four signs of infection are rubor, tumor, calor, and dolor; respectively, redness, swelling, heat, and pain.
 5. Colostrum may begin begin produced as early as 5 months of pregnancy.
-6. Milk expressed during breastfeeding may be divided into two categories: foremilk and hindmilk. Foremilk contains more water and nutrients, while hindmilk contains more fat and calories. This is why it is important to perform complete breastfeeding.
+6. Milk expressed during breastfeeding may be divided into two categories: foremilk and hindmilk. Foremilk contains more water and nutrients, while hindmilk contains more fat and calories. This is why it is important to perform complete breastfeeding.%%

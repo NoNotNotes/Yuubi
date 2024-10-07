@@ -1,3 +1,11 @@
+---
+tags:
+  - CMPA
+  - CHN
+  - INC
+title: Community Health Nursing
+date: 2024-09-24
+---
 The following discussion is the complete summary of the following notes, based on the 2nd Philippine edition of *Nies* and *McEwen*'s [Community and Public Health Nursing](https://cebookshop.com/product/8043545) (*Famorca*) textbook.
 1. [[08-29-2024 CHN|CHN D1]]
 2. [[08-30-2024 CHN|CHN D2]] 
@@ -9,7 +17,7 @@ As discussed by **Ma'am Aida V. Garcia, RN, MAN** on 08-29-2024, 08-30-2024, and
 4. [[#Demography]]
 5. [[IYCF|Infant and Young Child Feeding]]
 6. [[MNCHN Services|Mother and Newborn Child Health Nursing]] (incomplete)
-7. [[Philippine Health Care Delivery Systems]] (old)
+7. [[Philippine Health Care Delivery Systems]]
 8. [[Field Health Services Information System]]
 9. [[Traditional and Complementary Medicines]]
 

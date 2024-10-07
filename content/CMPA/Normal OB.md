@@ -3,6 +3,8 @@ tags:
   - CMPA
   - A217
 title: Normal Obstetrics
+date: 2024-09-10
+description: A summary of Dr. RPS's book on Maternal and Newborn Care, with supplemental information from Sir Vasquez.
 ---
 The following discussion is the complete summary of the following notes, based on the 2nd edition of Dr. *Rosalinda Parado Salustiano*'s [Maternal and Newborn Care: A Comprehensive Review Guide](https://cebookshop.com/product/8057035) textbook, and the discussions of Sir Francis Vasquez.
 

@@ -4,6 +4,7 @@ tags:
   - CMPA
   - INC
 title: Cardiologic Disorders
+date: 2024-10-06
 ---
 This nursing domain was discussed along with the following:
 1. **Cardiologic Disorders** (You're here!)

@@ -3,7 +3,7 @@
 
 .ol-folder-icon {
   margin-right: 5px;
-  color: var(--secondary);
+  color: var(--tertiary);
   cursor: pointer;
   transition: transform 0.3s ease;
   backface-visibility: visible;
@@ -18,10 +18,14 @@
   display: grid;
   grid-template-rows: 0fr;
   transition: grid-template-rows 0.3s ease-in-out;
+  transition: 0.3s;
 }
 
 .ol-folder-outer.open {
   grid-template-rows: 1fr;
+  border-bottom: var(--gray) 2px solid;
+  margin-bottom: 0.6rem;
+  transition: 0.3s;
 }
 
 .ol-folder-outer > ul {
@@ -29,20 +33,21 @@
 }
 
 .ol-folder-entry {
-  flex-direction: row;
-  display: flex;
+  grid-auto-flow: column;
+  display: grid;
   align-items: center;
   user-select: none;
+  justify-content: start;
 }
 
 .ol-folder-button {
-  color: var(--dark);
   background-color: transparent;
   border: none;
   text-align: left;
   cursor: pointer;
   padding-left: 0;
   padding-right: 0;
+  padding-top: 2px;
   display: flex;
   align-items: center;
   font-family: var(--headerFont);
@@ -156,6 +161,7 @@ svg {
           color: var(--dark);
           opacity: 0.75;
           pointer-events: all;
+          ::before{ content: '→  '; }
         }
       }
     }

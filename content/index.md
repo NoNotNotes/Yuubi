@@ -18,6 +18,10 @@ title: No, Not Notes
 </script>
 
 Hopefully complete on or within the next <code class="countdown"></code>. The name saying "No Not Note(s)" is just a bit of wordplay I thought of. These are definitely notes.
+
+>[!FAQ] PDFs?
+> I'm avoiding formatting these notes as PDFs because I plan on updating, expanding, and polishing notes as I find more information on them. I'll probably keep updating these even after I graduate (for NCLEX and CPD purposes). If you really want a PDF, [ilovepdf](https://www.ilovepdf.com/html-to-pdf) has an HTML-to-PDF converter that I like, but it's not perfect. Some text can get cut off between pages.
+
 ___
 # Acknowledgements
 For the actual site, its components, and its styling:

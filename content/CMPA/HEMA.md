@@ -4,11 +4,12 @@ tags:
   - CMPA
   - INC
 title: Hematologic Disorders
+date: 2024-10-06
 ---
 This nursing domain was discussed along with the following:
 1. [[CARDIO|Cardiologic Disorders]]
 2. [[PULMO|Pulmonary Disorders]]
-3. [[HEMA|Hematologic Disorders]] (You're here!)
+3. **Hematologic Disorders** (You're here!)
 
 >[!WARNING] Work In Progress
 >These notes for MS1 are notes I made last year. Formatting may still be inconsistent. They are sourced from presentations, Aki's compilations, and course modules. After I find the time, I plan to make this more comprehensive with information from the Saunders Comprehensive Review book or other sources. Stay tuned.
@@ -147,8 +148,8 @@ Less likely to rupture, but still occur.
 - **Complications**: vasospasm, seizures, hydrocephalus, re-bleeding, hyponatremia.
 - **Nursing Interventions**:
 	- **Tissue Perfusion**: assess regularly, avoid clotting, avoid increases in intracranial pressure (elevate head, don't strain, no caffeine, etc.)
-## Venous Thrombosis, Thrombophlebitis, Phlebothrombosis, and Deep Vein Thrombosis
-Caused by Virchow's Triad: Venous Stasis, Hypercoagulability, and Endothelial Lesions. Thrombophlebitis involves a clot involved with inflammation. If a clot occurs without inflammation, it is a phlebothrombosis.
+## Venous Thrombosis
+Including **Deep Vein Thrombosis**. This is primarily caused by **Virchow's Triad**: venous stasis, hypercoagulability, and endothelial lesions. *Thrombophlebitis* involves a clot involved with inflammation. If a clot occurs without inflammation, it is a *phlebothrombosis*.
 - **Clinical Manifestations**: Non-specific. Edema and swelling, tenderness, redness, and warmth.
 - **Diagnostics**: Doppler ultrasonography, duplex ultrasonography, air plethysmography, contrast phlebography (venography)
 - **Medical Management**: prevent the thrombus from growing and fragmenting, resolving current thrombi, and prevent recurrence
