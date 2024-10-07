@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Light & Bright",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "accentColor": "#8e99c7",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "tables"
+  ],
+  "baseFontSize": 16,
+  "showViewHeader": false
+}
