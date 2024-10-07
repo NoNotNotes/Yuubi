@@ -18,11 +18,10 @@ ___
 | Classification                  | Types                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **According to Purpose**        | **Curative**: to repair or remove damaged tissue to cure disease<br>**Diagnostic**: to verify or establish a diagnosis<br>**Exploratory**: to explore the extent of disease or damage<br>**Ablative**: to remove non-functional tissue<br>**Palliative**: to reduce symptoms, without curing the disease process<br>**Transplant**: to transfer organs |
-| **According to Location**       | **External**, e.g., a hysterectomy<br>**Internal**, e.g., skin grating                                                                                                                                                                                                                                                                                 |
+| **According to Location**       | **External**, e.g., a hysterectomy<br>**Internal**, e.g., skin grafting                                                                                                                                                                                                                                                                                |
 | **According to Mode**           | **Constructive**: to create structures, especially in congenital defects<br>**Reconstructive**: to restore structures                                                                                                                                                                                                                                  |
-| **According to Degree of Risk** | **Minor**: non-life-threatening procedures<br>**Major**: involves vital signs or vasculature, or with the potential for bleeding.                                                                                                                                                                                                                      |
-| **According to Urgency**        | **Emergency**: immediately required procedures<br>**Urgent**: procedures that must be done within 24 to 48 hours.<br>**Elective**: may still be required, but can be scheduled within days to months.                                                                                                                                                  |
-
+| **According to Degree of Risk** | **Minor**: non-life-threatening procedures<br>**Major**: involves vital signs or vasculature, or with the potential for bleeding.<br><br>**Factors**: duration, expected blood loss, organs involved, type of anesthesia, age of patient, degree of trauma                                                                                             |
+| **According to Urgency**        | **Emergency**: immediately required procedures done within 24 hours.<br>**Urgent**: procedures that must be done within 48 hours.<br>**Elective**: may still be required, but can be scheduled within days to months.                                                                                                                                  |
 >[!ERROR] Pathologic Conditions
 >There are four basic pathologic conditions that require surgery: **obstruction**, such as in a blocked bile duct; **perforation**, the rupture of an organ, artery, or bleb i.e. in aneurysms; **erosion**, a break in the continuity of tissue surfaces caused by irritation, infection, ulceration, or inflammation; and **tumors**, abnormal growths of tissue that serve no physiologic function in the body.
 
@@ -30,10 +29,10 @@ ___
 # The Surgical Team
 The medical team handling an patient in the operating room is composed to a multidisciplinary set of members that all play their respective roles for providing holistic care. They are generally divided between **sterile** and **unsterile** members of the team:
 
-| Team      | Members                                                         |
-| --------- | --------------------------------------------------------------- |
+| Team          | Members                                                         |
+| ------------- | --------------------------------------------------------------- |
 | **Sterile**   | 1. Operating Surgeon<br>2. Assisting Surgeons<br>3. Scrub Nurse |
-| **Unsterile** | 4. Anesthesiologist<br>5. Circulating Nurse                     |
+| **Unsterile** | 4. Anesthesiologist<br>5. Circulating Nurse<br>6. Adjunct Personnel                     |
 ## Scrub Nurse
 The scrub nurse is a sterile member, and assists the surgeon during the operation by providing sterile instruments and supplies, counting instruments, or sometimes even basic functions of assistant surgeons such as retracting, suctioning, and assisting in suturing (sponging, cutting).
 1. Receives patient from the surgical ward nurse.
@@ -58,12 +57,11 @@ The circulating nurse provides assistance to any member of the OR team in any ma
 9. Help drape the patient.
 10. Handle, label, and send tissue samples for analysis.
 11. Record starting time, cutting time, closing time, etc.
-
-**Housekeeping** for the OR can be among the duties of a circulating nurse. This involves preparation of the room ~1 hour before incision time— removal of unnecessary equipment, dusting, lighting, disinfection of the floor, temperature control (air conditioning), preparing the bed, machines, kick buckets, then sterile instruments.
 ## Others
 1. **Operating Surgeon**: pre-operative diagnosis and care; actual performance of operation; post-operative management and care. They assume full responsibility as the "*captain of the ship*", providing all medical acts of judgement and management.
-2. **Assisting Surgeons**: those who hold retractors, clamps bleeders, assists in sutures (especially for closure), and suctioning.
+2. **Assisting Surgeons**: those who hold retractors, clamps bleeders, assists in sutures (especially for closure), and suctioning. These individuals may be physicians, non-physicians (clerks, interns, etc.), registered nurse first assistants (RNFA), or well-experienced OR nurses.
 3. **Anesthesiologist**: administers and maintains anesthesia and manages untoward reactions to anesthesia.
+4. **Adjunct Personnel**: additional specialists that may enter as unsterile members of indicated, e.g., a neonatologist for a premature baby born via C.S.
 ___
 # Surgical Landmarks and Positioning
 Many landmarks and subdivisions are used in surgery, used appropriately depending on the purpose of the surgery. Surgical incisions include:
@@ -127,7 +125,7 @@ On the morning of the surgery itself, the most important nursing actions include
 5. **Reviewing post-op exercises** like those previously mentioned.
 6. **Preoperative medications** are also given at this time. They are discussed later in this section.
 7. **Monitoring** of patient status, including their psychological state. Provide support as necessary.
-8. **Removal of dentures** as aspiration precautions.
+8. **Removal of dentures** as aspiration precautions, jewelry, wigs, prosthetics(of possible), etc.
 9. **Endorsement to the OR** from the surgical ward.
 
 Pre-operative medications are given to prepare the client for anesthesia and potentiate its effects, and to sedate the client to reduce anxiety levels. These include:
@@ -168,7 +166,7 @@ The intraoperative phase includes the goals of care of asepsis, infection contro
 3. **Non-Critical**: used for items coming into contact with intact skin and mucous membranes. This requires **intermediate-level to low-level disinfection**.
 ### Principles of Sterile Technique
 1. Only sterile items are used within the sterile field. If in doubt of integrity, consider an item unsterile.
-2. Sterile personnel are gowned and gloved. Gowns are only sterile from the **level of the shoulder to the waist**. The back is considered unsterile.
+2. Sterile personnel are gowned and gloved. Gowns are only sterile from the **level of the shoulder to the waist**. The back is considered unsterile. The sleeves are only considered sterile up to two inches above the elbow.
 3. Tables are sterile **only at table level**. The level of the table should not be changed too frequently.
 4. Sterile personnel touch only sterile items or areas; unsterile personnel touch only unsterile items or areas.
 5. Unsterile personnel **avoid reaching over** the sterile field and sterile personnel avoid leaning over an unsterile area.

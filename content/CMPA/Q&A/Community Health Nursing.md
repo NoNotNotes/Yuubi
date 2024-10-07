@@ -35,7 +35,7 @@ A definitive diagnosis was given by the physician. Which of the following medica
 >[!FAQ]- Rationalization
 >
 
-Your current hospital is a facility that provides all basic emergency maternal and neonatal care, with the addition of blood transfusions and caesarian deliveries to mothers. With your experience in the community, you know that this is the highest level in the four- tier service delivery model. Recalling, what is the first level in this delivery model used in the Philippines?
+Your current hospital is a facility that provides all basic emergency maternal and neonatal care, with the addition of blood transfusions and caesarian deliveries to mothers. With your experience in the community, you know that this is the highest level in the four-tier service delivery model. Recalling, what is the first level in this delivery model used in the Philippines?
 - [ ] Comprehensive Emergency Obstetric and Newborn Care (CEmONC)
 - [ ] Basic Emergency Obstetric and Newborn Care (BEmONC)
 - [ ] Basic Essential Obstetric and Newborn Care (BEONC)
@@ -92,9 +92,9 @@ With the alarming rise in the number of cases of the illness, you wanted to find
 >
 
 What is considered as fast breathing for a 6 months old.
-- [ ] >60 breaths / min
-- [ ] >50 breaths per/ min
-- [ ] >40 breaths/ min
+- [ ] \>60 breaths/min
+- [ ] \>50 breaths/min
+- [ ] \>40 breaths/min
 - [ ] None of the Above
 >[!FAQ]- Rationalization
 >

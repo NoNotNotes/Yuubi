@@ -1,7 +1,10 @@
 ---
 tags:
   - CHN
+  - INC
 title: Infant and Young Child Feeding
+aliases:
+  - Infant and Young Child Feeding
 ---
 # Legal Basis
 1. **A.O. 2005-0014**: "**National Policy on Infant and Young Child Feeding**", created on May 23, 2005

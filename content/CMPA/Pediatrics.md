@@ -530,7 +530,6 @@ ___
 4. The four signs of infection are rubor, tumor, calor, and dolor; respectively, redness, swelling, heat, and pain.
 5. Colostrum may begin begin produced as early as 5 months of pregnancy.
 6. Milk expressed during breastfeeding may be divided into two categories: foremilk and hindmilk. Foremilk contains more water and nutrients, while hindmilk contains more fat and calories. This is why it is important to perform complete breastfeeding.
-
 ___
 # Fun Facts
 (*things the lecturer mentions, but is questionably within the scope of the presentation*)
@@ -539,4 +538,122 @@ ___
 3. Bilirubin is *not* produced by the liver; the liver produces glucuronyl transferase that converts indirect bilirubin to direct bilirubin. In newborns, this enzyme is not sufficient, which results in physiologic jaundice.
 4. The four signs of infection are rubor, tumor, calor, and dolor; respectively, redness, swelling, heat, and pain.
 5. Colostrum may begin begin produced as early as 5 months of pregnancy.
-6. Milk expressed during breastfeeding may be divided into two categories: foremilk and hindmilk. Foremilk contains more water and nutrients, while hindmilk contains more fat and calories. This is why it is important to perform complete breastfeeding.%%
+6. Milk expressed during breastfeeding may be divided into two categories: foremilk and hindmilk. Foremilk contains more water and nutrients, while hindmilk contains more fat and calories. This is why it is important to perform complete breastfeeding.
+%%
+___
+# Growth and Development
+>[!TIP] High Value Content
+>This section can appear anywhere from NP1 to NP5 on the licensure exam. Memorizing most aspects of growth and development will be worthwhile in terms of board exam preparedness. This is based on Sir V's handouts on growth and development.
+
+Every individual is competent and equipped with the capacity for growth and development. It is a necessary process that individuals must undergo for prosperity. **Growth** is a regular, orderly, predictable (systematic and sequential) quantitative increase in **physical dimensions** of an individual. This includes size, height, and circumferential diameters. **Development**, on the other hand, involves a qualitative increase in **functional capacity**. This includes speech, language, body language, motor development, sensory development, and self-esteem.
+- Growth occurs in **the first ~20 years of life**, the rate of which is most rapid in infancy and during the adolescent growth spurt.
+- Development lasts **from birth to the time of death**.
+
+**Maturation** is a pattern of development that is genetically and organically programmed. Throughout the developmental stages of an individual, they must complete **developmental tasks**, which are specific tasks that arise at certain periods in life that they must overcome to reach the next stage of development. **Critical periods** arise, where certain environmental stimuli produce significant effects on the child's development.
+
+Many factors can affect growth and development:
+1. **Heredity**: sets the upper limit for growth
+2. **Environment**
+3. **Nutrition**
+4. **Socioeconomic Status**
+5. **Health and Illness**
+
+In further detail, **growth** does proceed in a systematic manner, but its rate occurs at an individualized pace. The manner by which growth occurs is generally:
+1. **Cephalocaudal**: from the head to the feet.
+2. **Proximodistal**: from the center of the body outward.
+3. **General to specific**
+4. **Simple to complex**: direct motions, which becomes more complex with coordination.
+5. **Gross to refined**: large motor movements that become refined to specific movements.
+>[!TIP] Important Principles of Psychosocial Development
+>- All human experiences have psychosocial as well as biological or organic contexts.
+>- The biologic equipment with which a child is born is modifiable.
+>- All behavior has meaning.
+>- No single psychosocial theory accounts adequately for all aspects of the development or behavior of children.
+## **Physical Age Assessment**
+One of the methods for assessing physical growth and development is **skeletal age**. It is the degree of development of the child's bone growth. It expresses the progression of physiological maturity. Bone age is determined through **x-ray**. It measures bone size, ossification, and morphological changes. It is generally based on the number and size of epiphyseal centres, and the size, shape, and density of bones.
+
+Another method is through **tooth eruption**; **dental age**. Generally, the milestones for tooth eruption are as follows:
+
+| Age                | Eruption                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------ |
+| 5th to 7th month   | Lower central incisors                                                               |
+| 6th to 8th month   | Upper central incisors                                                               |
+| 1st year           | Four sets of primary or deciduous (milk) teeth, including central and lateral teeth. |
+| 2.5 years          | Complete set of primary teeth (20 teeth; 10 pairs)                                   |
+| 6th year           | Eruption of permanent teeth (6th year molars)                                        |
+| 17th to 22nd years | Eruption of third molars                                                             |
+In an adult, there are generally 32 teeth. For the sequence of the eruption of permanent teeth, the mnemonic "*Mary is in pain, Peter can make medicine*" can be used: %%add image%%
+1. **First Molar**: 6 years
+2. **Central Incisor**: 7 years
+3. **Lateral Incisor**: 8 years
+4. **First Pre-molar**: 9 years
+5. **Second Pre-molar**: 10 years
+6. **Canine**: 11 years
+7. **Second Molar**: 12 years
+8. **Third Molar**: 18 years
+
+Progress through **puberty** can be monitored with the appearance of **secondary sexual characteristics**. (inc)
+## Developmental Stages and Related Theories
+
+| Developmental Stage | Age (y.o.) |             Psychosocial             | Psychosexual |      Cognitive       |          Moral           |
+| ------------------- | :--------: | :----------------------------------: | :----------: | :------------------: | :----------------------: |
+| **Infant**          |   0 to 1   |          Trust vs Mistrust           |     Oral     |    Sensory-Motor     |          Amoral          |
+| **Toddler**         |    to 3    |     Autonomy vs Shame and Doubt      |     Anal     |    Sensory-Motor     | Pre-conventional Stage 1 |
+| **Preschool**       |    to 6    |         Initiative vs Guilt          |   Phallic    |    Pre-conceptual    | Pre-conventional Stage 2 |
+| **School-age**      |   to 12    |       Industry vs Inferiority        |   Latency    | Concrete Operational |       Conventional       |
+| **Adolescent**      |   to 18    | Identity vs Role Confusion/Diffusion |   Genital    |  Formal Operational  |    Post-conventional     |
+
+| Developmental Stage | Significant Persons       | Type of Play                | Fears                               | Question | Behavioral Indicators                                     |
+| ------------------- | ------------------------- | --------------------------- | ----------------------------------- | :------: | --------------------------------------------------------- |
+| **Infant**          | Primary care giver/mother | Solitary                    | Stranger Anxiety                    |   None   | Observer                                                  |
+| **Toddler**         | Parents                   | Parallel                    | Separation Anxiety                  |   What   | Negativistic, Explorer, Manipulative, Selfish, Egocentric |
+| **Preschool**       | Family and Neighbours     | Associative/<br>Cooperative | Darkness, Ghosts, Witches, Monsters |   Why    | Imaginative, Boastful, Imitator                           |
+| **School-age**      | Peers                     | Competitive                 | Teacher, Academic Failure, Death    |   How    | Modest                                                    |
+| **Adolescent**      | Peer Group                | Competitive                 | Rejection, Lack of Privacy          | What If  | Independent                                               |
+### Psychosocial Stages of Development (Erik Erikson)
+(description pending)
+1. **Trust Vs. Mistrust**:
+	- Developmental task: **meet their needs** for safety and bonding.
+2. **Autonomy Vs. Shame and Doubt**:
+	- Developmental task: **allow the toddler to make simple decisions, and to explore**.
+3. **Initiative Vs. Guilt**: 
+	- Developmental task: **allow the child to perform simple tasks**.
+4. **Industry Vs. Inferiority**
+	- Developmental task: **motivate the child to perform in school**. **Allow them to participate in school activities**.
+5. **Identity Vs. Role Confusion/Diffusion**:
+	- Developmental task: **allow the adolescent to gain some degree of independence**.
+### Psychosexual Stages of Development (Sigmund Freud)
+1. **Oral Phase**
+2. **Anal Phase**
+3. **Phallic Phase**
+4. **Latent Phase**
+5. **Genital Phase**
+### Stages of Cognitive Development (Jean Piaget)
+1. **Sensory-Motor**
+2. **Pre-conceptual** or **Pre-operational**
+3. **Concrete Operational**
+4. **Formal Operational**
+### Stages of Moral Development (Lawrence Kohlberg)
+1. **Amoral**
+2. **Pre-conventional 1**
+3. **Pre-conventional 2**
+4. **Conventional**
+5. **Post-conventional**
+### Stages of Faith and Spiritual Development (James Fowler)
+1. **Primal or Undifferentiated Faith**
+2. **Stage 1: Intuitive-Projective Faith**
+3. **Stage 2**: **Mythical-Literal Faith**
+4. **Stage 3**: **Synthetic-Conventional Faith**\
+## Behavioral Distinctions
+1. **Infants** are generally **observers**.
+	- Most significant persons
+	- Sources of fear
+	- Type of play
+	- Examples of toys
+	- 
+1. **Toddlers**
+2. **Preschoolers**
+3. **School-aged Children**
+4. **Adolescents**
+
+>[!warning] work in progr

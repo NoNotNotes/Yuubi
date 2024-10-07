@@ -1,0 +1,134 @@
+---
+tags:
+  - CMPA
+---
+# Cataracts
+An increase in the opacity of the lens of the eyes. A progressive, painless loss of vision is the main characteristic of cataracts.
+## Risk Factors
+(mn. CARDDS)
+1. Corticosteroids
+2. Aging
+3. Retinal Detachment
+4. Diabetes Mellitus, Down Syndrome
+5. Smoking
+## Symptoms
+- Painless blurring of vision
+- White-colored or cloudy lens/pupil
+## Treatment
+- Cataracts are done primarily through **lens removal**. This may be done with ultrasound vibrations that breaks the lens into fragments.
+- Patients without lens are aphakic (has aphakia). Surgical management is through **lens replacement**, which uses **lens implants** or **corrective lenses**.
+## Nursing Intervention
+- Post-op: monitor vital signs, level of consciousness, and dressings.
+- Elevate the **head of the bed**.
+- Lie on the **unaffected side**.
+- **Eyeglasses** will be given for the patient when discharged. At night, an **eye shield** is used to prevent scratching.
+- Avoid activities that elevate the IOP: sneezing, coughing, straining or using the valsalva maneuver (utilize a papaya + high residue/fiber diet) To prevent constipation, **laxatives** may be given. **Antiemetics** may be given for vomiting patients. Increased IOP may cause hemorrhaging.
+- Priority after surgery: **safety**. Set siderails.
+___
+# Glaucoma
+**Increased IOP** (normal: 10 to 21 mmHg) due to an imbalance in the **production and drainage of aqueous humor**.
+## Symptoms
+1. **Open Angle Glaucoma**: loss of peripheral vision (tunnel vision), where halos are seen when around lights.
+2. **Closed Angle Glaucoma**: headache and eye pain present due to higher IOP compared to open angle.
+## Risk Factors
+1. **Smoking**, **Steroids**
+2. **Aging**
+3. **Diabetes Mellitus**
+## Diagnostic Examination
+1. **History**
+2. **Tonometry** through a tonometer, which measures IOP
+## Nursing Intervention
+1. Priority Nursing Diagnosis: **risk for injury** due to sensory impairment; ensure safety.
+2. Keep lights open to promote pupil constriction. Dark environments allow for dilation, and increase IOP.
+## **Treatment**
+1. **Miotics**: drugs that constrict the pupil. **Pilocarpine**
+2. **Topical Beta-Blockers** instilled at the lower conjunctiva; **betaxolol**, **timolol**. Always monitor heart rate to check for bradycardia. Trivia: only 7% of eye drops enter systemic circulation.
+3. **Prostaglandin Analogs**: **travoprost**, **latanoprost**
+4. **Surgical Management**: iridectomy, iridotomy used to facilitate aqueous drainage.
+___
+# Retinal Detachment
+The separation of the choroid from the retina, forming a retinal pigment epithelium (RPE) detached from the sensory layer.
+## Causes
+1. Diabetic retinopathy
+2. Aphakia
+3. Tumor of the eye
+4. Inflammation of the eye: uvitis (middle layer inflammation)
+5. High myopia
+## Symptoms
+1. **Flashes** of light and sight of **floaters** (light spots on the foreground of one's sight)
+2. Sense of a **curtain** being drawn over the eye.
+3. **Painless blurring** of vision.
+## Treatment
+1. **Scleral buckle**, which promote reattachment of the choroid to the senosry retina.
+2. **Pneumatic retinopexy**, where the retinal pigment epithelium (RPE) is pushed into the retina via the administration of gas bubbles or silicone oil into the vitreous cavity.
+	- Importantly, position the patient **PRONE** after surgery to position the gas bubble properly in pushing the RPE to the retina.
+	- Avoid activities that increases IOP: sneezing, coughing, straining/valsalva, vomiting (use antiemetics), constipation (use high fiber/high residue + papaya diet, or laxatives as ordered)
+___
+# Ear Disorders
+1. **External Ear**: ear canal
+	- Erythematous ear canal; **otitis externa**, inflammation of the ear canal.
+	- The ear canal is normally skin colored. If inflamed, it is erythematous.
+	- Aural tenderness occurs, where manipulation of the pinna, oracle, or canal causes pain.
+	- Treatment: **analgesics** (otic drops)
+2. **Middle Ear**: tympanic membrane, eustachian tube (connects the ear to the nasopharynx), malleus, indus, stapes.
+	- Problems with the external or middle ear that results in hearing loss is **conductive hearing loss**
+	- In **otitis media**, the tympanic membrane bulges and becomes erythematous (normally pearly grey).
+	- A consequence of **URTIs** travelling through the eustachian tube.
+3. **Inner Ear**: a.k.a. labyrinth; cochlea
+	- **Labyrinthitis**.
+	- Problems with the inner ear or labyrinth that results in hearing loss is **sensorineural hearing loss**. Often caused by (mn. LMP) **labyrinthitis**, **Meniere's syndrome**, and **presbycusis**.
+___
+# Otitis Externa
+Containing the ear canal and other external ear structures, otitis externa is the inflammation of the ear canal.
+## Symptoms
+1. Erythematous ear canal
+2. Aural Tenderness
+## Treatment
+1. **Antibiotics** for infection
+2. **Analgesia** with otic drugs (ear drops) for pain
+___
+# Otitis Media
+Associated with URTIs (cough or cold). This features a tympanic membrane that bulges and becomes erythematous. Hearing loss associated with this condition is **conductive hearing loss**. If untreated, this may also cause **mastoiditis**.
+## Symptoms
+1. **Fever**
+2. **Ear Pain** (Otalgia), a classic symptom of otitis media.
+3. **Ear Pressure**
+4. **Bulging Eardrum**
+5. **Ear Discharge**
+## Treatment
+1. **Tympanotomy** or **Myringotomy**: a surgical perforation of the tympanic membrane used to relieve otalgia and facilitate drainage.
+___
+# Mastoiditis
+A complication of **otitis media**.
+## Symptoms
+The tympanic membrane is described as (mn. DIRT) dull, immobile, red, and thick.
+## Treatment
+Surgery to remove infected mastoid ear cells: **mastoidectomy**.
+- If unsuccessful in removing infected cells, meningitis, dizziness, and damage to CN 6 (abducens) and 7 (facial).
+___
+# Otosclerosis
+Abnormal bone growth at the level of the **stapes**.
+## Symptoms
+1. Conductive hearing loss
+2. Normal tympanic membrane (pearly grey)
+3. Often occurs in pregnant patients.
+## Treatment
+1. **Stapedectomy**: removal of the stapes and abnormal bone growths.
+2. Application of **hearing aids**
+3. **Sodium fluoride** may prevent otosclerosis.
+___
+# Presbycusis
+A form of sensorineural hearing loss related to aging. Hearing is lost due to age because of degenerative changes (atrophy) of the cochlea. Irreversible.
+___
+# Meniere's Disease
+An inner ear (labyrinth) disorder, where there is an increased fluid (endolymphatic fluid) in the membranous labyrinth.
+## Symptoms
+- **Tinnitus**, ringing within the ears.
+- **Sensorineural Hearing Loss**
+- **Vertigo** (most common due to affectation of the cochlea)
+## Management
+1. **Risk for falls or injury** due to impaired vestibular function; ensure safety.
+2. **Low sodium diet** as episodes may be related to high sodium consumption.
+3. **Diuretics** to reduce fluid volume
+4. **Vestibular nerve resection** to remove vertigo.
+5. **Labyrinthectomy**, removal of the inner ear. Permanent deafness.

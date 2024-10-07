@@ -1,0 +1,211 @@
+---
+title: Total Quality Management
+tags:
+  - B419
+  - CMPA
+---
+The following discussion is based on a lecture by **Dean Maria Luisa T. Uayan, DHSc, MSN, RN**.
+# Quality Control
+"**Quality Control**" involves quality-related activities associated with the creation of *project deliverables*, i.e. the fulfillment of a contract or achievement of desired industry standards. **Deliverables** are expected to be of acceptable quality, are complete, and are correct.
+- Some examples of quality control processes include peer reviews and testing processes such as the nursing licensure exam.
+- Quality control also includes performance management and **maintenance**. It is a systematic method of ensuring conformance to a desired standard or norm.
+# Quality Assurance
+"**Quality Assurance**" is the **process used** to create the deliverables, and can be performed by a manager, client, or even a third-party reviewer. These are used to ensure that defects or problems do not arise, establishing a target degree of excellence.
+- Quality assurance attempts to **set a standard for nursing care delivery**, and to set **criteria as basis for evaluation** of said standards.
+- A **Q.A. Program** has various components:
+        - A clear and concise **written statement of purpose, philosophy, values, and objectives**.
+        - **Standards or indicators** for measuring quality of care.
+        - **Policies and procedures** for using such standards in *data gathering*.
+        - **Analysis and reporting of gathered data**, with **isolation of problems and variances**.
+        - **Using results to prioritize and correct** problems and variances.
+        - **Monitoring of clinical and managerial performance** and **on-going feedback**.
+        - **Evaluation of the Q.A. system itself**.
+# Quality Improvement
+"**Quality Improvement**" is continuous performance development fixing the "*now*" in order to **prevent future mistakes**. It involves skills, competencies, and human resource management. There are ten steps in quality improvement:
+1. **Commitment**: all members of the team must be committed to improving themselves and their department.
+2. **Improvement Teams**: a congregation of the committed individuals for improvement.
+3. **Education**
+4. **Measures, Display, and Review**: measurement of improvement against set standards to determine progress and effectivity.
+5. **Cost of Quality**: a balance between patient satisfaction and profit.
+6. **Communication** is a common problem, yet also a common solution.
+7. **Corrective/Preventive Actions**
+8. **Recognition**: provide recognition for employees
+9. **Event**: holding events for quality improvement
+10. **Goal Setting and Continuous Improvement**: set SMART goals for continuous improvement.
+
+"**Continuous Quality Improvement**" (CQI) is an on-going process of monitoring structure, process, and outcome indicators in order to identify signal events, significant trends, and opportunities for change.
+- All three of structure, process, and outcomes must be correct and complete. A good outcome does not necessarily require a good structure or process. For example, a skipped step to achieve a result may increase client risk for complication.
+- This is the integration of QC, QA, and QI; QA aims at maintaining care quality at the *present level*, while CQI is an on-going process that progressively enhances research, practice, and client welfare.
+- **Components of CQI**:
+        - **Customer Focus**: all clients and their relatives.
+        - **Continuous Improvement** (Process Focus)
+        - **Total Participation** (People Focus; refer to later discussion)
+        - **Integrated Management System**
+
+A method used for implementing CQI is the **Plan-Do-Check-Act** (PDCA) **Cycle**:
+1. **Plan**: what are the standards, current quality level, problems, and root cause of these problems? From these, what solutions can be planned?
+        - For these, quality problem solving tools may be used: brainstorming, check sheets, nominal group technique, Pareto charting, Flowcharting, Cause-effect diagrams (Ishikawa/Fishbone), Histograms, etc. Discussed [[#Tools of TQM|here]].
+2. **Do**: implement the chosen solutions.
+3. **Check**: have the solutions been successful?
+4. **Act**: if necessary, adjust the plan to ensure success, then standardize effective solutions.
+
+# Nursing Care Standards
+A standard is a desired quantity, quality, or level of performance that is established as a criterion against which worker performance will be measured. These are used to guide the provision of nursing care, provide the means by which personnel are evaluated, and by which end results of care (patient outcomes) are measured.
+
+These allow for nurses to conduct themselves **professionally** according to a **generally accepted and reasonable practice of care**, to practice **avoiding being found negligent**, and to **exercise good judgment, education, and training** to the best of their ability under any circumstances.
+
+Standards of care are currently being set by:
+1. **Nursing Law** (R.A. 9173)
+2. Professional Organizations
+3. **Code of Ethics** for Nurses
+4. Joint Commission on Accreditation of Healthcare Organizations
+5. Case Law and Published Opinions by Judges
+6. State Statuses and Administrative Codes
+7. Hospital Policies
+8. Authoritative Nursing Journals
+# Total Quality Management
+>[!CITE] The Objective of Total Quality Management
+>"*Do the right things right the first time, every time.*"
+
+**TQM** is a management philosophy that seeks to **integrate all organizational functions**, even outside of nursing areas such as marketing, security, housekeeping, etc. All aspects of the organization focuses on meeting customer needs to provide quality care. TQM **views an organization as a collection of processes**, and that these organizations must strive to *continuously improve* these processes by **incorporating the knowledge and experiences of workers**. TQM is therefore a generic management tool that can be infinitely variable and adaptable.
+
+TQM activities include:
+- Commitment by senior management and all employees
+- Meeting customer requirements
+- Reducing development cycle times
+- Just-In-Time/Demand Flow Manufacturing: develop business processes in response to customer needs and demands
+- Improvement teams
+- Reducing product and service costs
+- Systems to facilitate improvement
+- Line Management Ownership: line management is a direct line of authority and communication between managers and people working in their teams. "Ownership" indicates taking responsibility for the team's failures, successes, and clients.
+- Employee involvement and empowerment
+- Recognition and celebration
+- Challenging quantified goals and benchmarking
+- Focus on processes/improvement plans
+- Specific incorporation in strategic planning
+## Principles of TQM
+1. Quality can and must be managed.
+2. Everyone has a customer to delight.
+3. Processes, **not the people**, are the problem.
+4. Every employee is responsible for quality.
+5. Problems must be **prevented**, not just fixed.
+6. **Quality must be measured** so it can be controlled.
+7. Quality improvements must be **continuous**.
+8. **Quality goals** must be based on **customer requirements**.
+## Issues and Concerns of TQM
+- **Management Commitment**
+        - Plan (drive, direct)
+        - Do (deploy, support, participate)
+        - Check (review)
+        - Act (recognize, communicate, revise)
+- **Employee Empowerment**
+        - Training
+        - Suggestion Scheme
+        - Measurement and Recognition (awards)
+        - Excellence Teams (a model team)
+- **Fact-Based Decision Making**
+        - Statistical Process Control (SPC)
+        - Design of Experiment (DOE), FMEA (Failure Modes and Effect Analysis)
+        - Statistical Tools (SPSS, R, MatLab, MS Excel, SAS, GraphPad Prism, Minitab)
+        - TOPS (Ford 8D - Team Oriented Problem Solving)
+- **Continuous Improvement**: 
+        - Systematic measurement and focus on COQ (Cause on Quality)
+        - Excellence Teams
+        - Cross-Functional Process Management
+        - Attain, Maintain, and Improve Standards
+- **Customer Focus**
+        - Supplier partnership
+        - Service relationship with internal customers
+        - Never compromise quality
+        - Customer driven standards
+## Continuous Improvement
+In TQM, **all work** is involved in continuous improvement, from high-level strategic planning and decision-making to detailed execution of work elements in the clinical area. It stems from the belief that mistakes can be avoided, and defects can be prevented. This leads to continuously improving results in all aspects of work as a result of **continuously improving capabilities, people, processes, technology, and machine capabilities**.
+- This deals not only with improving results, but more importantly with improving capabilities to produce better results in the future.
+- A central principle of TQM is that mistakes may be made by people, but most of them are caused, or at least permitted, by faulty systems and processes; this means that the root cause of such mistakes can be identified and eliminated, and repetition can be prevented by changing the process.
+
+There are five major areas of focus for capability improvement:
+1. **Demand Generation**
+2. **Supply Generation**
+3. **Technology**
+4. **Operations**
+5. **People Capability**
+## Major Mechanisms of Prevention
+1. **Mistake-Proofing**: "*Poka-Yoke*"; preventing defects from occurring.
+2. **Inspection-at-Source or by the Next Operation**: early detection of mistakes if absolute prevention fails. This prevents it from escalating or from being passed onto the next operation.
+3. **Stop-In-Time**: if defects recur, stop production until the process may be corrected to prevent more defects.
+## Implementation Principles and Processes of TQM
+1. **Assessment** of the organization's *current reality* is the preliminary step in TQM implementation. If the current reality does not include important preconditions, implementation should be delayed until the organization is in a state that is likely to succeed.
+2. If an organization has a track record of effective responsiveness to the environment, and if it has been able to successfully change the way it operates when needed, **people need to feel a need for a change**. Kanter (1983) addresses this phenomenon by describing *building blocks* which are present in effective organizational change.
+3. **Managing Transition**: Beckhard and Pritchard (1992) outlines the basic steps in managing transition:
+        1. Identify the tasks to  be done
+        2. Create necessary management structures
+        3. Develop strategies for building commitment
+        4. Designing mechanisms to communicate the change
+        5. Assigning resources
+## Quality Teams/Circles
+These are a small group of voluntary employees who meet at regular times to identify, analyze, and solve quality and other problems in their working environment. They recommend and implement improvement strategies as a reserve of new ideas. Members face and share similar problems in their daily work lives and create a program to generate positive changes.
+- List the project name, goal, and rationale
+- Create an activity schedule
+- Decide what their specific goals are for measurement of data
+- Develop an action plan based on analysis and work with management to implement it
+- Evaluate the quality circle activity
+
+ This team process may utilize the Deming Cycle (FOCUS-PDCA)
+ 1. **Find a process to improve**
+ 2. **Organize a team** that knows a process
+ 3. **Clarify current knowledge** of the process
+ 4. **Understand causes of process variation**
+ 5. **Select the process improvement** method to utilize.
+ 6. **Plan-Do-Check-Act Cycle**: a cycle for continuous improvement which involves planning solutions for identified problems, implementing solutions, checking solution outcomes, and acting upon the outcome (whether to maintain, adjust, change, remove, etc.).
+## Tools of TQM
+1. **Flowchart**: an input and output is outlined in a directional chart
+	- Layout Flowchart, Data Flow Diagrams
+2. **Cause and Effect** (Fishbone/Ishikawa): a qualitative tool sometimes also called the 5M diagram, covering **Men**, **Machine**, **Materials**, **Measurement**, and **Methods**. What among of these five Ms are contributing to the effect?
+3. **Check Sheets**: a central tool for quality assurance programs specially used for operational procedures which may be derived from flowcharts or fishbone diagrams. An example of this is a Patient Transport Problem Sheet, which tallies how many types of equipment has been broken for a specific area and timeframe.
+4. **Pareto Charts**: a bar graph which evaluates the degree to which problems are the most significant; bars represent cost incurred or frequency of a problem. This is useful when **analyzing data about frequency of problems**/causes in a process, when **multiple problems exist** and **prioritization is required**, and **analyzing broad causes by looking at specific components**. An example of this is charting the types of customer complaints, seeing which aspect of care is most commonly complained about.
+	- Creating pareto charts requires a specific procedure: decide on categories, what measurements are appropriate (e.g., frequency, quantity, cost, time), what time period to consider, then collect and present (subtotal, scaling, labelling, percentages, visualizing) the data.
+5. **Process Decision Program Chart** (PDPC) is a simple tree diagram that identifies risks then countermeasures for a specific plan. For example, the first node focuses on a blood transfusion, and it is followed by the primary blood transfusion reactions, and each reaction is followed by their respective interventions.
+6. **Histograms**
+7. **Run Charts and Control Charts**
+# Clinical Practice Guidelines
+**Clinical Pathways** are standardized, evidence-based multidisciplinary management plans which identify an appropriate sequence of clinical interventions, timeframes, milestones, and expected outcomes for a homogenous patient group.
+
+**Nursing Audit** is a review of the patient record designed to identify, examine, or verify the performance of certain specified aspects of nursing care by using established criteria. This may be **concurrent**, performed during on-going nursing care, or **retrospective**, performed after discharge from the care facility using the patient's record. Often, a nursing audit and a medical audit are performed collaboratively as a **joint audit**.
+- This is used to (1) **evaluate nursing care given**, (2) **achieve deserved and feasible quality of nursing care**, (3) **stimulate better recording**, and (4) **evaluates care provided rather than care provider**.
+# Utilization Review
+A **health insurance company's opportunity to review a request for medical treatment**. The purpose of this review is to confirm that the plan provides coverage for medical services. It minimizes cost and determines if the recommended treatment is appropriate, giving opportunity to confirm that the client's health plan provides adequate coverage for their particular condition. This may also be done in a **concurrent** or **retrospective** manner.
+# Credentialing and Privileging
+**Credentialing** is the process of obtaining, verifying, and assessing the qualifications of a healthcare practitioner to provide patient care services in or for a healthcare entity. **Re-credentialing** is the process of obtaining and evaluating data to support the continued competence of the healthcare practitioner to provide patient care services in or for a healthcare organization.
+
+**Clinical Privileging** is the process used to identify, document, and approve the specific procedures and treatments that may be performed in a specific setting. These are granted based on the findings of the credentialing function and should only be granted for services that are currently offered by the hospital.
+
+Together, these increase patient safety, reduction of medical errors, and the provision of high quality health care services.
+# Complaint Analysis
+Complaints are comments and feedback coming from dissatisfied customers. These are blessing in disguise. A prompt resolution of a complaint often generates more customer loyalty than trouble-free service. These may be analyzed through **customer surveys**, **policy technicians**, and **customer complaint forms**. These allow management to consider: "*how could we have prevented this service problem?*", "*how could we have handled this differently?*", "*could we have responded better to the customer?*".
+- While the average client will not complain to the company, they will tell others about their problem.
+- A complaint identifies an area of your business that might need improvement. If several customers report the same complaint, then a functional problem that needs analysis, discussion, and correction may exist.
+- Complaints are a great tool to fine-tune customer service, to provide better care.
+# Morbidity and Mortality Review
+M&M reviews are a requirement for all medical departments within the hospital. These guidelines have been prepared to assist departments conduct effective meetings and set the minimum standard expected. It is done to discuss management decisions, provide a learning opportunity focused on system thinking, and identifying opportunities to improve patient safety and quality of care.
+- Case analysis with a standardized format is used for summary and review. Issues should be identified and, where appropriate, recommendations for system changes are made.
+# Sentinel Events Monitoring
+**Sentinel events** are defined as serious, adverse events that cause **death or severe injury** to the patient and results in a loss of trust in the healthcare system by clients or patients. The surveillance of sentinel events is an important role of public health; it is an indispensable tool for the prevention of such events and for the promotion of patient safety. Some examples include:
+1. Procedure performed to the wrong patient
+2. Surgery performed to the wrong part of the body (side, organ, part)
+3. Erroneous procedure to the correct patient
+4. Instruments or other materials retained within the surgical site requiring successive interventions or ulterior surgery
+5. Transfusion reaction consequent to ABO incompatibility
+6. Death, coma or severe harm originating error in pharmacologic therapy
+7. Maternal death or severe illness correlated to labor and/or childbirth
+8. Death or permanent disability in health newborn weighing >2,500 grams not correlated to congenital illness
+9. Death or severe bodily harm due to patient fall
+10. Suicide or attempted suicide by patient in hospital
+11. Acts of violence resulting in injury to healthcare workers
+12. Death or grievous bodily harm consequent to a malfunction with the transport system (intra- and extra-hospital)
+13. Death or severe injury consequent to the incorrect attribution of a triage code by emergency services department or by emergency telephone call center
+14. Sudden death or injury consequent to surgery
+15. All other adverse events that cause death or grievous bodily harm to patient
+# Variance Reporting and Analysis
+**Variance** is the difference from the norm or standard based on current records. Usually, it is associated with a manufacturer's product costs. In the health setting, variance analysis **attempts to identify the causes of the differences between services provided**.
+- **Price Variance** identifies whether the company paid too much for each unit of input, or if they paid more per actual input that it had planned.
+- **Quality Variance** identifies whether the health institution used too much of the input for the number of services it renders to the client.
