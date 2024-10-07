@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "c6d58e14e69f6a63",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2e138256b9658ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0115cf66501db2e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPA/CARDIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a11d9699b22d490",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9bf8f1f51c931f23",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a0564ff8f28624e4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "96bac852df02a99c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "492b6877baabba76",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fc729fc383698884",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5780c8e1b7a743e9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "CMPA/CARDIO.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "089fab884bed2ddc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "CMPA/CARDIO.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "214b37ac74e44628",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "CMPA/CARDIO.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0115cf66501db2e2",
+  "lastOpenFiles": []
+}

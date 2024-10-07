@@ -15,7 +15,7 @@ This nursing domain was discussed along with the following:
 >These notes for MS1 are notes I made last year. Formatting may still be inconsistent. They are sourced from presentations, Aki's compilations, and course modules. After I find the time, I plan to make this more comprehensive with information from the Saunders Comprehensive Review book or other sources. Stay tuned.
 
 ___
-# Inflammatory Diseases
+# Inflammatory Disease
 ## Pericarditis
 **Inflammation of the pericardium**, the thin outer covering of the heart. It is associated with malignant neoplasms, idiopathic causes, infective organisms, as a post-MI syndrome (Dressler's Syndrome), post-pericardiotomy syndrome, systemic connective tissue disease, and chronic renal failure (due to metabolites), chest trauma
 >[!INFO] Acute and Chronic Pericarditis
