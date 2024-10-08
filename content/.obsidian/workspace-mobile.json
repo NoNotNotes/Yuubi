@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "CMPA/PROF-AD/01.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "albuminur",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "CMPA/PROF-AD/01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "CMPA/PROF-AD/01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,12 +127,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "CMPA/PROF-AD/01.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +146,13 @@
   },
   "active": "f814b8b44cf0a47d",
   "lastOpenFiles": [
+    "B419/03.md",
+    "CMPA/PROF-AD/01.md",
+    "A113/Elimination.md",
+    "CMPA/CHN.md",
+    "CMPA/d/10-07-2024 MS.md",
     "CMPA/CARDIO.md",
+    "CMPA/PULMO.md",
     "Untitled.md"
   ]
 }

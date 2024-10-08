@@ -4,10 +4,10 @@
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "accentColor": "#8e99c7",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "tables"
   ],
-  "baseFontSize": 16,
+  "baseFontSize": 19,
   "showViewHeader": false
 }
