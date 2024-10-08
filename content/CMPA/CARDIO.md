@@ -21,23 +21,30 @@ ___
 >[!INFO] Acute and Chronic Pericarditis
 >- **Short-course Pericarditis**: <6 months.
 >- **Chronic Constrictive Pericarditis** leads to thickening of the pericardium by fibrous tissue formation, which leads to rigidity and subsequently inadequate ventricular filling, which results in heart failure.
-- **Clinical Manifestations**:
-	1. **Pain** radiating to the neck, shoulder and back aggravated by inspiration, coughing and swallowing, and is worst when supine (inversely, relieved by sitting up or leaning forward)
+1. **Clinical Manifestations**:
+	1. **Pain** radiating to the neck, shoulder and back aggravated by inspiration, coughing and swallowing, and is worst when supine (inversely, **relieved by sitting up or leaning forward**)
 	2. **Pericardial Friction Rub**: a scratchy, high-pitched sound produced by the visceral and parietal pericardium rubbing together.
 	3. **Signs of RSHF** when pericardial rigidity develops.
 	4. **Thickening of the Pericardium** as revealed by CXR or ECHO.
 	5. **Increased WBC** count
-	6. **Atrial Fibrillation** is also common
-2. **Intervention**
+	6. **Fever**, **malaise**
+	7. **Atrial Fibrillation** is also common
+	8. ECG shows **ST elevation**.
+2. **Nursing Diagnoses**:
+	- **Pain**
+	-  **Decreased Cardiac Output**
+	- **Risk of Ineffective Breathing Pattern** related to pain
+3. **Intervention**: determine the cause of the pericarditis. Treat accordingly:
 	- **NSAID**s (inhibition of prostaglandin, which causes pain) for pain management
 	- **Corticosteroids** if caused by an autoimmune disease.
 	- **Antibiotics** if caused by m.o.
 	- **Pericardial Drainage** (Pericardiocentesis, Pericardiostomy), the removed fluid may also be used for cultures and other studies.
 	- **Radiation** or **Chemotherapy** if caused by malignancy.
 	- **Hemodialysis** if caused by uremic pericarditis secondary to renal failure.
-	- Positioning for comfort.
+	- **Positioning** for comfort.
 	- **Pericardiectomy** for those with chronic constrictive pericarditis.
-	- Monitor for **Pericardial Effusion** (>50mL)
+	- **Dialysis** for uricemia from renal failure.
+	- Monitor for **Pericardial Effusion** (>50 mL)/**Cardiac Tamponade**.
 ## Pericardial Effusion
 The accumulation of fluid in the pericardial cavity, which may eventually result in **cardiac tamponade**.
 1. **Clinical Manifestations**:
@@ -47,7 +54,7 @@ The accumulation of fluid in the pericardial cavity, which may eventually result
 	- **Circulatory Collapse** as a result of decreased cardiac output.
 	- **Altered Perfusion** (brain: lethargy, stuporous; systematic: cool, clammy skin; kidneys: oliguria)
 2. **Intervention**
-3. **Emergency Care**: **Pericardiocentesis**
+3. **Emergency Care**: **Pericardiocentesis**, an invasive aspiration of the accumulated fluid.
 4. **Nursing Responsibilities**:
 	- Preparation of items such as PPE, skin prep., sterile field, etc.
 	- The patient is positioned in a semi/high-fowlers to allow gravity to help drain pericardial effusion.

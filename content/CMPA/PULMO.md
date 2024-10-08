@@ -15,6 +15,58 @@ This nursing domain was discussed along with the following:
 >These notes for MS1 are notes I made last year. Formatting may still be inconsistent. They are sourced from presentations, Aki's compilations, and course modules. After I find the time, I plan to make this more comprehensive with information from the Saunders Comprehensive Review book or other sources. Stay tuned.
 
 ___
+# Arterial Blood Gas Analysis
+<table>
+<tr>
+<th rowspan=2>Acid-Base Abnormality</th>
+<th colspan=3>Primary ABG Abnormalities</th>
+<th colspan=2>Compensated ABG Changes</th>
+</tr>
+<tr>
+<th style="text-align: center;">pH</th>
+<th style="text-align: center;">PaCO<sub>2</sub></th>
+<th style="text-align: center;">HCO<sup>-</sup><sub>3</sub></th>
+<th style="text-align: center;">Respiratory<br>(PaCO<sub>2</sub>)</th>
+<th style="text-align: center;">Metabolic<br>(HCO<sup>-</sup><sub>3</sup>)</th>
+</tr>
+<tr>
+<th colspan=6>Alkalemia</th>
+</tr>
+<tr>
+<td>Metabolic</td><td style="text-align: center;">⬆️</td><td style="text-align: center;">-</td><td style="text-align: center;">⬆️</td><td style="text-align: center;">⬆️</td><td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td>Respiratory</td><td style="text-align: center;">⬆️</td><td style="text-align: center;">⬇️</td><td style="text-align: center;">-</td><td style="text-align: center;">-</td><td style="text-align: center;">⬇️</td>
+</tr>
+<tr>
+<th colspan=6>Acidemia</th>
+</tr>
+<tr>
+<td>Metabolic</td><td style="text-align: center;">⬇️</td><td style="text-align: center;">-</td><td style="text-align: center;">⬇️</td><td style="text-align: center;">⬇️</td><td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td>Respiratory</td><td style="text-align: center;">⬇️</td><td style="text-align: center;">⬆️</td><td style="text-align: center;">-</td><td style="text-align: center;">-</td><td style="text-align: center;">⬆️</td>
+</tr>
+</table>
+
+1. **Metabolic Alkalemia**: there is either a primary increase in hydrogen ion (H<sup>+</sup>) loss or HCO<sup>-</sup><sub>3</sub> gain. The respiratory system attempts to compensate for the increased pH by decreasing the amount of CO<sub>2</sub> eliminated from the body (*alveolar hypoventilation*). This compensatory attempt by the respiratory system results in a change in pH, but rarely to a normal value.
+	- pH is above 7.45 and HCO<sup>-</sup><sub>3</sub> is more than 26 mEq/L.
+	- Clinical situations or conditions that cause metabolic alkalemia include: (a) **loss of body acids**, e.g. in nasogastric suctioning of HCl, vomiting, excessive diuretic therapy, steroids, hypokalemia) and (b) **ingestion of exogenous bicarbonate or citrate substances**.
+	- **Management** is directed at treating the underlying cause, decreasing or stopping the acid loss (e.g., antiemesis for vomiting), and replacing electrolytes.
+2. **Metabolic Acidemia**: there is excessive loss of HCO<sup>-</sup><sub>3</sub> from the body by the kidneys or there is an accumulation of acid. The respiratory system attempts to compensate for the decreased pH by increasing the amount of CO<sub>2</sub> eliminated (*alveolar hyperventilation*). This compensatory attempt by the respiratory system results in a change in pH toward normal.
+	- pH is less than 7.35 and HCO<sup>-</sup><sub>3</sub> is less than 22 mEq/L.
+	- Clinical situations or conditions that cause metabolic acidemia include (a) **increased metabolic formation of acids** ([[MS/25-4|diabetic ketoacidosis]], uremic acidosis, lactic acidosis), (b) **hyperkalemia**, (c) **toxins** (salicylates overdose, ethylene and propylene glycol, methanol, paraldehyde), and (d) **adrenal insufficiency**.
+	- **Management** is directed at treating the underlying cause, decreasing acid formation (e.g., decreasing lactic acid production by improving cardiac output during shock), decreasing bicarbonate losses (e.g., treatment of diarrhea), removal of toxins via dialysis or cathartics, or administering sodium bicarbonate (NaHCO<sub>3</sub>) in extreme metabolic acidemia states.
+3. **Respiratory Alkalemia**: there is an excessive amount of ventilation (*alveolar hyperventilation*) and removal of CO<sub>2</sub>. If these changes persist for 24 hours or more, the kidneys begin to compensate by increasing bicarbonate excretion until normal or near-normal pH levels return.
+	- pH is above 7.45 and PaCO<sub>2</sub> is less than 35 mm Hg.
+	- Clinical situations or conditions that cause respiratory alkalemia include (a) **neurogenic hyperventilation**, (b) **interstitial lung diseases**, (c) **pulmonary embolism**, (d) **asthma**, (e) **acute anxiety**/**stress**/**fear**, (f) **hyperventilation syndromes**, (g) **excessive mechanical ventilation**, and (h) **severe hypoxemia**.
+	- **Management** is directed at treating the underlying cause and decreasing excessive ventilation if possible.
+4. **Respiratory Acidemia**: there is an inadequate amount of ventilation (*alveolar hypoventilation*) and removal of CO<sub>2</sub>. If these changes persist for 24 hours or more, the kidneys begin to compensate by decreasing bicarbonate excretion until normal or near-normal pH levels return.
+	- pH is below 7.35 and PaCO<sub>2</sub> is more than 45 mm Hg.
+	- Clinical situations or conditions that cause respiratory acidemia include (a) **overall hypoventilation associated with respiratory failure** (e.g., acute respiratory distress syndrome, severe asthma, pneumonia, chronic obstructive pulmonary diseases, sleep apnea), (b) **pulmonary embolism**, (c) **pulmonary edema**, (d) **pneumothorax**, (e) **respiratory center depression**, (f) **neuromuscular disturbances in the presence of normal lungs**, and (g) **inadequate mechanical ventilation**.
+	- **Management** is directed at treating the underlying cause and improving ventilation.
+5. **Mixed (Combined) Disturbance** is a simultaneous development of a primary respiratory and metabolic acid-base disturbance; for example, metabolic acidosis may develop from diabetic ketoacidosis, with respiratory acidosis occurring from respiratory failure associated with aspiration pneumonia. These disturbances create a more complex picture when examining ABGs (and are beyond the scope of this text!)
+___
 # Chronic Obstructive Pulmonary Diseases
 These are also known as **obstructive disorders**, which restrict airflow along the airways. Many of these diseases restrict airflow by **constriction**, often because of excessive contraction of the smooth muscle itself. It is generally characterized by inflamed and easily collapsible airways, obstruction to airflow, problems exhaling, and frequent medical clinic visits and hospitalizations.
 - **Clinical Manifestations**: **chronic cough**, **sputum production**, **DOE**, (three primary symptoms) and progressive weight loss.

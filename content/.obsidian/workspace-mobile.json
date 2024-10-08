@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/CARDIO.md",
+                "file": "CMPA/d/10-08-2024 MS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/PROF-AD/01.md",
+                "file": "CMPA/d/04-01-2024 MS Respiratory.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "albuminur",
+            "query": "pulmonale",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fc729fc383698884",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CMPA/PROF-AD/01.md",
+            "file": "CMPA/d/04-01-2024 MS Respiratory.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CMPA/PROF-AD/01.md",
+            "file": "CMPA/d/04-01-2024 MS Respiratory.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CMPA/PROF-AD/01.md"
+            "file": "CMPA/d/04-01-2024 MS Respiratory.md"
           }
         }
       }
@@ -144,15 +144,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f814b8b44cf0a47d",
+  "active": "214b37ac74e44628",
   "lastOpenFiles": [
-    "B419/03.md",
+    "CMPA/d/04-02-2024 MS Sensory.md",
+    "CMPA/d/10-08-2024 MS.md",
+    "CMPA/d/06-19-2024 MS.md",
+    "CMPA/d/04-04-2024 MS.md",
+    "CMPA/d/04-03-2024 MS.md",
+    "CMPA/d/04-01-2024 MS.md",
+    "CMPA/d/04-02-2024 MS.md",
+    "CMPA/d/04-01-2024 MS Respiratory.md",
+    "CMPA/PULMO.md",
+    "B418/Airway and Ventilatory Management (Burns).md",
+    "B418/04-05.md",
+    "B418/01.md",
+    "B418/02-03.md",
+    "CMPA/CARDIO.md",
+    "CMPA/d/10-07-2024 MS.md",
     "CMPA/PROF-AD/01.md",
+    "B419/03.md",
     "A113/Elimination.md",
     "CMPA/CHN.md",
-    "CMPA/d/10-07-2024 MS.md",
-    "CMPA/CARDIO.md",
-    "CMPA/PULMO.md",
     "Untitled.md"
   ]
 }

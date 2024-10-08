@@ -38,7 +38,7 @@ Inflammation involving the lungs. Most commonly caused by *Streptococcus pneumon
 3. **Ventilator Acquired Pneumonia** (VAP)
 ___
 # Pulmonary Tuberculosis (Koch's Disease)
-Discovered by **Robert Koch**, caused by *Mycobacterium tuberculosis*
+Discovered by **Robert Koch**, caused by *Mycobacterium tuberculosis*. These are airborne
 ## Risk Factors
 (mn. MOA)
 1. **Malnutrition**
@@ -47,23 +47,24 @@ Discovered by **Robert Koch**, caused by *Mycobacterium tuberculosis*
 4. **Immunocompromised** or **Ingestion of Infected Unpasteurized Bovine Milk**
 ## Symptoms
 (mn. PLAN)
-1. **Productive Cough**
+1. **Productive Cough** for more than two weeks
 2. **Low Grade Afternoon Fever**, the pathognomonic sign of TB.
 3. **Anorexia**
 4. **Night Sweats**
+5. **Weight Loss**
 ## Diagnostic Examination
-1. **Screening**: **Mantoux Test**, a PPD sample injected intradermally (skin test). A positive result indicates exposure.
-	- Healthy individuals test positive if the skin test returns 10 mm or more.
-	- Immunocompromised individuals test positive for 5 mm or more.
+1. **Screening**: **Mantoux Test**, a purified protein derivative (PPD) sample injected intradermally (skin test via tuberculin). In two to three days, the result is observed. A positive result indicates exposure.
+	- Healthy individuals test positive if the skin test returns ≥10 mm of induration.
+	- Immunocompromised individuals (HIV) test positive with only ≥5 mm.
 2. **Confirmatory**: **Sputum Culture**, or **GeneXpert** (uses sputum sample)
 3. **Determine Extent of Lesions**: **CXR** (mild, moderately advanced, far advanced)
 ## Medical Management
 (mn. RIPES) used for 6 months.
 1. **Rifampicin**: red-orange secretions
 	- **Contact lenses** can be stained if worn by the patients. Recommend the use of eyeglasses.
-2. **Isoniazin**: results in numbness/paresthesia. Requires Pyridoxine (Vitamin B6) to offset numbness.
-3. **Pyrazinamide**: increases uric acid ergo avoided for patients with gouty arthritis
-4. **Ethambutol**: causes optic neuritis; blurring vision. Color discrimination is affected.
+2. **Isoniazin** (INH): results in peripheral neuritis, producing numbness or paresthesia. Requires **Pyridoxine** (Vitamin B6) to offset numbness.
+3. **Pyrazinamide**: increases **uric acid** ergo avoided for patients with gouty arthritis
+4. **Ethambutol**: causes **optic neuritis**; blurring vision. Color discrimination, especially green from orange, is affected.
 5. **Streptomycin**: IM ANST; (mn. SON) **sensorineural hearing loss**. The drug is **ototxic** and **nephrotoxic** (check creatinine).
 ___
 # Chronic Obstructive Pulmonary Diseases
@@ -73,8 +74,8 @@ Always teach the patient about **pursed lip breathing**, which prevents air trap
 ## Chronic Bronchitis
 **Chronic Bronchitis**: *blue boater*; problems with the constriction of airway due to inflammation, which also increases mucus production due to mucus gland growth.
 ### Symptoms
-- Coughing for more than three months for two consecutive years.
-- INC
+- **Coughing for more than three months for two consecutive years**.
+- 
 - **ABG**: respiratory acidosis
 - Nursing Management: **Low inflow O2** (less than 6) to prevent the loss of the hypoxic drive.
 ### Management
@@ -82,30 +83,31 @@ Always teach the patient about **pursed lip breathing**, which prevents air trap
 1. **Corticosteroids**
 2. **Antimicrobials**
 3. **Mucolytics/Expectorants**
-4. **Bronchodilators**: Salbutamol, Ventril; avoid stimulants because of palpitation as a side effect.
+4. **Bronchodilators**: Salbutamol, Ventril; avoid **stimulants** because of palpitation as a side effect.
 - **STOP SMOKING**
 ## Emphysema
 **Emphysema**: *pink puffer*; problems with (mn. IBA) **inelasticity of alveoli**, **barrel chest** (increased anteroposterior chest diameter due to air trapping), and **air trapping**. Highly related to smoking.
 ### Risk Factors
 1. Smoking
-2. Alpha-1 antitypsin deficiency
+2. Alpha-1 antitrypsin deficiency
 3. Air Pollution
 ### Signs and Symptoms
 1. **Productive Cough**
-2. **Dyspnea** at  rest
+2. **Dyspnea** at rest
 3. **Rales, Crackles, Rhonchi**
 4. **Barrel Chest** d/t **Air Trapping**
 ### Diagnostic Examination
 1. **ABG** (resp. acidosis)
 2. **CXR**
+3. Spirometry Testing
 ### Management
 (mn. FLA, CAMB)
 1. **Force Fluids**
-2. **Low Inflow O2** (prevent loss of hypoxic drive)
+2. **Low Inflow O2** (2 to 4 L/min, prevent loss of hypoxic drive)
 3. **Administer medications** as ordered
 4. **Corticosteroids**
-5. **Antibiotics**
-6. **Mucolytics**/**Expectorants**
+5. **Antibiotics** of pneumonia appears
+6. **Mucolytic**/**Expectorants**
 7. **Bronchodilators**
 ___
 # Bronchial Asthma
@@ -124,10 +126,11 @@ A reversible inflammatory lung condition due to hypersensitivity to allergens. B
 ___
 # Pneumothorax
 Pneumothorax is the accumulation of air in the pleural space. The normally negative pressure present in the space becomes positive and acts on the lungs, preventing it from expanding.
-# Causes
+## Causes
 1. **Spontaneous pneumothorax**
 2. **COPD** (Secondary pneumothorax)
 3. **Catamenial pneumothorax**
+4. **Tension pneumothorax** especially from ventilation
 ## Symptoms
 1. **Dyspnea**
 2. **Dullness**
@@ -137,11 +140,14 @@ Pneumothorax is the accumulation of air in the pleural space. The normally negat
 6. **Tension Pneumothorax**, where a hole is punctured by a mechanical ventilator into the pleural space.
 ## Diagnostic Examination
 1. **CXR** reveals hyperinflation of the lungs.
-2. **ABG**
+2. **ABG**, especially respiratory acidosis
 ## Management
 1. **Thoracentesis** may be the primary form of management if mild.
 2. If moderate to severe, a **CTT** (chest tube thoracostomy) may be required.
-	- **Nursing Management**: if a CTT is attached to a water-sealed drainage, monitor fluctuations (should fluctuate, otherwise obstruction or re-expansion of the lungs may have occurred) and bubbling (should be intermittent, an air leak may be present).
+	- **Nursing Management**: if a CTT is attached to a water-sealed drainage, monitor **fluctuations** (should fluctuate, otherwise obstruction or re-expansion of the lungs may have occurred) and **bubbling** (should be intermittent, otherwise an air leak may be present if bubbling is continuous).
+	- One-way: water sealed 
+	- Two-way: drainage then water-sealed
+	- Three-way: drainage then water-sealed, then suction system
 ___
 # Chest Injuries
 ## Rib Fractures
