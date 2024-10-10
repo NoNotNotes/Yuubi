@@ -5,6 +5,8 @@ tags:
 title: NCLEX-RN Exam Preparation
 sources:
   - CMPA_Saunders
+date: 2024-01-01
+draft: true
 ---
 # I: Clinical Judgment and the Next Generation NCLEX (NGN)-RN Examination
 ___

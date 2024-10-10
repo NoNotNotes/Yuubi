@@ -1,3 +1,7 @@
+---
+title: Normal Pediatrics
+date: 2024-09-05
+---
 
 As discussed by **Ma'am Aurisita Maganis Delos Reyes, MAN, RN**.
 ___

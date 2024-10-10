@@ -5,6 +5,7 @@ tags:
   - INC
 title: Medical-Surgical Nursing I
 draft: true
+date: 2024-10-09
 ---
 References: 
 Brunner & Suddarth's Textbook of Medical-Surgical Nursing

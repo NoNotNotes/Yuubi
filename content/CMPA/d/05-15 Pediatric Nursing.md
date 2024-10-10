@@ -1,3 +1,7 @@
+---
+title: Pediatric Disorders
+date: 2024-05-15
+---
 # Rheumatic Fever
 An infection involving the heart, CNS, joints, subcutaneous tissue, and the skin caused by Group A Beta-hemolytic Streptococcus.
 - Risk Factors: **children with dental caries** (check-up once every 6 months), those who have had **recent or recurrent strep throat**, immunocompromisation

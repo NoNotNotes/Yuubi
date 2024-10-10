@@ -8,6 +8,7 @@ date: 2024-07-19
 sources:
   - CMPA_Saunders
 progress: 85/122/233
+date: 2024-01-01
 ---
 # VIII: Fluids and Electrolytes
 **Electrolytes** are substances that, on dissolving in solution, ionizes; that is, some of its molecules split or dissociate into electrically charged atoms or ions. The metric system is used to measure volumes of fluids; liters (L) or milliliters (mL). The unit of measure that expresses the "combining activity" of an electrolyte is the milliequivalent (mEq). One mEq of any cation (positive ion) reacts chemically with one mEq of any anion (negative ion). They provide information about the number of anions or cations available to combine with other anions or cations.

@@ -7,6 +7,7 @@ sources:
   - CMPA_Saunders
 modified: 2024-07-05
 progress: 38/45/84
+date: 2024-01-01
 ---
 # V: Population Health Nursing
 Varying population groups require special attention, care, and sensitivity to ensure that their needs are met. Health care disparities exist between different groups of people. Some of the vulnerable groups that are at risk for health disparities include minority groups, uninsured groups, the impoverished or homeless, refugees, immigrants, disabled people, those with chronic health problems, those who are incarcerated, those with limited English proficiency, and members of the LGBTQIA community. They experience greater risk factors, a lack of necessary access to care, and increased morbidity and mortality as compared with the general population.

@@ -2,6 +2,7 @@
 tags:
   - CMPA
 title: PALMER Reviewer
+date: 2024-05-02
 ---
 A summary of **Professional Reviewer Dr./Atty. Glenn R. Luansing**'s Nursing Review Guide on **Professional Adjustment**, **Leadership and Management**, **Ethics**, and **Nursing Research**
 >[!CITE] 

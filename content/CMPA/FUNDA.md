@@ -4,7 +4,8 @@ tags:
   - INC
   - CMPA
 title: Fundamentals of Nursing
-draft: "true"
+draft: true
+date: 2024-01-01
 ---
 >[!WARNING] Work In Progress
 >The contents of this page is based on one of the Fundamentals of Nursing handouts used for CMPA. It was provided in PDF format, so I'm refurbishing it for this knowledgebase. Unfortunately, I do not know who made the handout, so I am unable to provide credit. It cites [Fundamentals of Nursing by Kozier and Erb](https://cebookshop.com/product/8045155) and [Fundamentals of Nursing by Potter and Perry](https://cebookshop.com/product/8029698) as its references.
