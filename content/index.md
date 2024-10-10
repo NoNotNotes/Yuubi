@@ -1,5 +1,6 @@
 ---
 title: No, Not Notes
+description: Everything I'll ever study
 ---
 <script type="text/javascript">
     function generateCountdown() {
