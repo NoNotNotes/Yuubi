@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A113/ADPIE.md",
+                "file": "CMPA/d/10-08-2024 MS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cheyne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 433.5
   },
   "right": {
     "id": "8a590d21f77c43b6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A113/ADPIE.md",
+                "file": "CMPA/d/10-08-2024 MS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A113/ADPIE.md",
+                "file": "CMPA/d/10-08-2024 MS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A113/ADPIE.md"
+                "file": "CMPA/d/10-08-2024 MS.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,9 +148,25 @@
   },
   "active": "c55b93c6b4895027",
   "lastOpenFiles": [
+    "CMPA/d/10-09-2024 MS.md",
+    "CMPA/d/10-08-2024 MS.md",
+    "CMPA/d/10-07-2024 MS.md",
+    "CMPA/HEMA.md",
+    "CMPA/FUNDA.md",
+    "CMPA/Normal OB.md",
+    "CMPA/PULMO.md",
+    "CMPA/d/06-23-2024 FUNDA.md",
+    "CMPA/d/04-03-2024 MS.md",
+    "CMPA/d/04-02-2024 MS.md",
+    "CMPA/d/04-01-2024 MS.md",
+    "CMPA/Perioperative Nursing.md",
+    "A113/O2.md",
+    "CMPA/d/04-04-2024 MS.md",
+    "CMPA/d/04-02-2024 MS Sensory.md",
+    "CMPA/d/04-01-2024 MS Respiratory.md",
+    "A113/ADPIE.md",
     "CMPA/index.md",
     "CMPA/MS1.md",
-    "A113/ADPIE.md",
     "attachments/evaluation_checklist.png",
     "A113/Elimination.md",
     "B314/index.md",
@@ -160,22 +175,6 @@
     "A217/08.md",
     "A216/index.md",
     "A215/Dietary Content.md",
-    "A215/index.md",
-    "A113/index.md",
-    "A110/index.md",
-    "A110/13.md",
-    "CMPA/d/09-10-2024 Normal OB.md",
-    "CMPA/d/09-10-2024 OB.md",
-    "CMPA/d/09-09-2024 Normal OB.md",
-    "CMPA/d/02-20-2024 Abnormal OB.md",
-    "CMPA/d/02-18-2024 Normal OB.md",
-    "CMPA/d/09-09-2024 OB.md",
-    "CMPA/d/09-05-2024 Normal Pediatrics.md",
-    "CMPA/d/08-30-2024 CHN.md",
-    "CMPA/d/08-29-2024 CHN.md",
-    "CMPA/d/08-27-2024 Normal OB.md",
-    "CMPA/d/08-26-2024 LM.md",
-    "CMPA/d/08-26-2024 Total Quality Management.md",
     "attachments/lung_volumes.png",
     "private",
     "attachments/references/NCMB418 LEC Prelim Readings.pdf",

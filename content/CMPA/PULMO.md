@@ -12,7 +12,12 @@ This nursing domain was discussed along with the following:
 3. [[HEMA|Hematologic Disorders]]
 
 >[!WARNING] Work In Progress
->These notes for MS1 are notes I made last year. Formatting may still be inconsistent. They are sourced from presentations, Aki's compilations, and course modules. After I find the time, I plan to make this more comprehensive with information from the Saunders Comprehensive Review book or other sources. Stay tuned.
+>These notes for MS1 are notes I made last year. They are sourced from presentations, Aki's compilations, course modules, and live discussions. After I find the time, I plan to make this more comprehensive with information from the Saunders Comprehensive Review book or other sources. Stay tuned.
+
+This discussion has been sourced from the following notes:
+1. [[10-08-2024 MS]], my note directly reflective of the CMPA discussion by Dr. Ferrer.
+2. [[Airway and Ventilatory Management (Burns)]] for the text on ABGs.
+3. Various notes from our lectures on Medical-Surgical nursing.
 
 ___
 # Arterial Blood Gas Analysis
@@ -140,7 +145,7 @@ Infection of the lungs. May come in various forms: acute, chronic, hospital-acqu
 - **Management**: ABX, Oxygenation, Force fluids, CPT, Nebulization, Semi-fowler's Position
 ## Pulmonary Tuberculosis
 Most commonly caused by the *Mycobacterium tuberculosis*, it may spread to any part of the body. It is a communicable disease.
-- **Clinical Manifestations**: low-grade fever, cough (persistent for two weeks, hemoptysis), night sweats, fatigue, and weight loss.
+- **Clinical Manifestations**: low-grade afternoon fever (pathognomonic), cough (persistent for two weeks, hemoptysis), night sweats, fatigue, and weight loss.
 - **Diagnostics**: Gene-Xpert sputum culture testing, TB Skin Test, CXR
 - **Medical Management**: Antituberculosis agents for 6 to 12 months
 - **Pharmacologic Therapy**: First-line include Isonizaid (INH; Nydrazid, often taken with Vitamin B (Pyridoxine)), Rifampin (Rifadin), Pyrazinamide, and Ethambutol (Myambutol) daily for 8 weeks and continuing for up to 4 to 7 months. Second-line include Capreomycin (Capastat), Ethionamid (Trecator), Para aminosalicylate Sodium, and Cycloserine (Seromycin)

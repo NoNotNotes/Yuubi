@@ -4,7 +4,7 @@ tags:
   - CMPA
   - INC
 title: Hematologic Disorders
-date: 2024-10-06
+date: 2024-10-10
 ---
 This nursing domain was discussed along with the following:
 1. [[CARDIO|Cardiologic Disorders]]
@@ -14,6 +14,9 @@ This nursing domain was discussed along with the following:
 >[!WARNING] Work In Progress
 >These notes for MS1 are notes I made last year. Formatting may still be inconsistent. They are sourced from presentations, Aki's compilations, and course modules. After I find the time, I plan to make this more comprehensive with information from the Saunders Comprehensive Review book or other sources. Stay tuned.
 
+This discussion has been sourced from the following notes:
+1. [[10-09-2024 MS]], my note directly reflective of the CMPA discussion by Dr. Ferrer.
+2. Various notes from our lectures on Medical-Surgical nursing.
 ___
 # Hematologic Disorders
 ## Anemia
