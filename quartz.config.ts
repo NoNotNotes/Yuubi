@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: { provider: 'google', tagId: 'G-9KBPBRNS0D' },
     locale: "en-US",
-    baseUrl: "nonotnotes.github.io/",
+    baseUrl: "nonotnotes.com",
     ignorePatterns: ["private", "templates", ".obsidian", "PRELIMS", "MIDTERMS", "FINALS"],
     defaultDateType: "created",
     theme: {
