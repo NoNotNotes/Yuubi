@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/index.md",
+                "file": "CMPA/d/10-08-2024 MS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPA/index.md",
+                "file": "CMPA/d/10-08-2024 MS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPA/index.md",
+                "file": "CMPA/d/10-08-2024 MS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPA/index.md"
+                "file": "CMPA/d/10-08-2024 MS.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "lastOpenFiles": [
     "CMPA/d/10-09-2024 MS.md",
     "CMPA/d/10-08-2024 MS.md",
+    "CMPA/index.md",
     "CMPA/d/10-07-2024 MS.md",
     "CMPA/HEMA.md",
     "CMPA/FUNDA.md",
@@ -165,7 +166,6 @@
     "CMPA/d/04-02-2024 MS Sensory.md",
     "CMPA/d/04-01-2024 MS Respiratory.md",
     "A113/ADPIE.md",
-    "CMPA/index.md",
     "CMPA/MS1.md",
     "attachments/evaluation_checklist.png",
     "A113/Elimination.md",
