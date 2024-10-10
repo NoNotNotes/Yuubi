@@ -5,6 +5,7 @@ tags:
 aliases:
   - EPI
   - NIP
+date: 2024-01-01
 ---
 >[!CITE] Reference
 >Nies, M., McEwen, M. (2020). National Immunization Program. In *Community and Public Health Nursing* (2nd Philippine ed., pp. 287-294). C&E Publishing, Inc.

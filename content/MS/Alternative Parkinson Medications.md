@@ -2,6 +2,7 @@
 tags:
   - MS
 title: Alternative Parkinson Medications
+date: 2024-01-01
 ---
 
 | Antiparkinsonian Agents | Indications and Therapeutic Effects                                              | Common Side Effects                                                                                                                    |

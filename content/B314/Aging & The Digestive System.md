@@ -3,6 +3,7 @@ title: Aging & The Digestive System
 tags:
   - B314
 description: One of the major systems highly involved in the care of older adults is the digestive system. It loses its ability to provide nutrition for the elderly, among other changes.
+date: 2024-01-01
 ---
 Also Read: [[ANPH/13|The Gastrointestinal Tract]], [[19|Assessment of the Gastrointestinal System]]
 # GIT Changes in Older Adults

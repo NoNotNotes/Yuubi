@@ -5,6 +5,7 @@ tags:
   - INC
 description: 
 title: Disruptive Behavior Disorders
+date: 2024-01-01
 ---
 1. Intermittent Explosive Disorder (IED)
 2. Oppositional Defiant Disorder (ODD)

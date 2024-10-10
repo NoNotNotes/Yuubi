@@ -5,6 +5,7 @@ tags:
 title: Midterms Examination Reviewer
 aliases:
   - MIDTERMS
+date: 2024-01-01
 ---
 ## Pointers to Review
 - **Diabetes Mellitus**: pp. 1488 - 1530

@@ -2,6 +2,7 @@
 title: Demography
 tags:
   - CHN
+date: 2024-01-01
 ---
 This page is not sourced from the book, but is directly from a handout for CMPA by Ma'am Dang.  I believe this is a topic found in Maglaya's Community Nursing book, which I am not in possession of.
 ___

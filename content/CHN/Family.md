@@ -2,6 +2,7 @@
 title: The Individual and the Family as Clients
 tags:
   - CHN
+date: 2024-01-01
 ---
 >[!CITE] Reference
 >Nies, M., McEwen, M. (2020). The individual and the family as clients in community and public health nursing. In *Community and Public Health Nursing* (2nd Philippine ed., pp. 81-106). C&E Publishing, Inc.

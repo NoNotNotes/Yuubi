@@ -3,6 +3,7 @@ title: Zollinger-Ellison Syndrome (ZES)
 tags:
   - XTRN
   - MS
+date: 2024-01-01
 ---
 **Zollinger-Ellison Syndrome** (ZES) is a rare digestive disorder which results in excessive activity of stomach acid, which can result in peptic ulcers along the stomach and intestinal linings. It is likely that this is caused by **gastrinomas**, which are endocrine tumors that produce the hormone **gastrin**, which is a stimulant for gastric juice production. These tumors are typically not cancerous tumors.
 # Risk Factors

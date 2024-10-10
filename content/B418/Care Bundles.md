@@ -2,6 +2,7 @@
 tags:
   - B418
 title: Care Bundles for Quality and Safety
+date: 2024-01-01
 ---
 **Care Bundles** are structures ways for improving care with small, straight-forward sets of [[B418/02-03#Evidence-Based Practice (EBP)|evidence-based practices]]. Often, it consists of only three to five elements to prevent morbidity and mortality. In this discussion, five common bundles will be discussed: the ventilator bundle, central line bundle, sepsis resuscitation bundle, sepsis management bundle, and catheter-associated urinary tract infection bundle.
 ___

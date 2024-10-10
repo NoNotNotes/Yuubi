@@ -4,6 +4,7 @@ description: A collection of all of the normal values I've encountered in my not
 tags:
   - XTRN
 draft: true
+date: 2024-01-01
 ---
 # Thyroxine; Tetraiodothyronine (T<sub>4</sub>) (5.0 - 12.0 mcg/dL)
 Measured by a Thyroxine (T<sub>4</sub>) radioimmunoassay.

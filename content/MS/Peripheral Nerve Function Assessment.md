@@ -5,6 +5,7 @@ title: Peripheral Nerve Function Assessment
 aliases:
   - Peripheral Neurovascular Dysfunction
   - CMS Assessment
+date: 2024-01-01
 ---
 Frequent neurovascular assessment is required for musculoskeletal disorders, especially from [[MS/33-07|fractures]] due to the risk of nerve and muscle anoxia and necrosis. 
 # Indicators of Peripheral Neurovascular Dysfunction

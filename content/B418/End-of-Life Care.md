@@ -4,6 +4,7 @@ tags:
 title: End-of-Life Care
 aliases:
   - Death and Dying
+date: 2024-01-01
 ---
 Many deaths occur in hospitals. Most deaths are expected; ~75% of deaths in the hospital setting are expected or foreseeable. The remaining are sudden, unexpected deaths. During this period, patients require on-going care which may include end-of-life care. **End-of-life** is the final stage where death is imminent. It can be unpredictable, lasting minutes or weeks. Care during this period handles physical, psychosocial, and spiritual care addressing issues related to death and dying. The main goals of care during this period are:
 - **Relieve suffering**

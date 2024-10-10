@@ -1,3 +1,8 @@
+---
+title: Applying Casts
+draft: true
+date: 2024-01-01
+---
 A cast is a device made of layers of plaster, bandages, fiberglass, or other non-plaster materials. It is used to:
 1. Prevent and correct deformities
 2. Reduce muscle pain, spasm, and swelling

@@ -4,6 +4,7 @@ tags:
   - MS
   - INC
 description: The preoperative phase extends from the time the client is admitted to the surgical unit, to the time he/she is prepared physically, psychosocially, spiritually and legally for the surgical procedure, until he/she is transported into the operating room.
+date: 2024-10-05
 ---
 This is the beginning of a series of three notes spanning perioperative nursing:
 1. **Preoperative Nursing** (You're here!)

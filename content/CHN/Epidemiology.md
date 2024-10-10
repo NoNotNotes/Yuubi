@@ -2,6 +2,7 @@
 title: Epidemiology
 tags:
   - CHN
+date: 2024-01-01
 ---
 >[!CITE] Reference
 >Nies, M., McEwen, M. (2020). Epidemiology. In *Community and Public Health Nursing* (2nd Philippine ed., pp. 139-166). C&E Publishing, Inc.

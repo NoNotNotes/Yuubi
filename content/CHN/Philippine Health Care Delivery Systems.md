@@ -3,6 +3,7 @@ title: Philippine Health Care Delivery Systems
 tags:
   - CHN
 description: Exploring the various systems in place to provide all levels of care for the archipelagic country of the Philippines, and health goals of the various institutions related to public health.
+date: 2024-01-01
 ---
 The Philippines is an archipelagic country composed over ~7,100 islands. Geographically, it is divided into three main islands: Luzon, Visayas, and Mindanao. Divided into 17 regions, 82 provinces, 135 cities, and 1,493 municipalities. The provision of health care for the country is divided into the private and public sectors.
 - The **Private Sector** is responsible for the production and provision of health goods and services e.g. private clinics, hospitals, laboratories, drugstores, and other facilities.

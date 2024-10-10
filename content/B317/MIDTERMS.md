@@ -5,6 +5,7 @@ tags:
 title: Midterms Examination Reviewer
 aliases: 
 draft: true
+date: 2024-01-01
 ---
 ## Major Depressive Disorder
 - **Definition**: two or more weeks of a sad mood or a lack of interest in activities with at least four other symptoms of depression. This is the leading cause for worldwide disability, followed by [[#Bipolar Disorder]].

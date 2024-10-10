@@ -5,6 +5,7 @@ tags:
 title: Preliminary Exam Reviewer
 aliases:
   - PRELIMS
+date: 2024-01-01
 ---
 Content outline provided by **Dr. Maroma Potenciana**
 ___

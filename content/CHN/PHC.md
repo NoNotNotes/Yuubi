@@ -6,6 +6,7 @@ aliases:
   - Traditional and Complementary Medicines
   - Primary Health Care
 description: Primary Health Care is an over-all approach to providing people access to basic healthcare and ultimately improve the health of communities.
+date: 2024-01-01
 ---
 >[!CITE] Reference
 >Nies, M., McEwen, M. (2020). Primary Health Care. In *Community and Public Health Nursing* (2nd Philippine ed., pp. 191-204). C&E Publishing, Inc.

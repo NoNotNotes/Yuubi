@@ -4,6 +4,7 @@ tags:
 title: Airway and Ventilatory Management (Burns)
 sources:
   - CCN_AACN
+date: 2024-01-01
 ---
 >[!CITE] Reference
 >The following discussion is a summary of the American Association of Critical-Care Nurses' Essentials of Critical Care Nursing (Burns), Chapter V: Airway and Ventilatory Management (Robert E. St. John and Maureen A. Seckel)

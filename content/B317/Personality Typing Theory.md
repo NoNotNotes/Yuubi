@@ -4,6 +4,7 @@ tags:
   - B317
 title: Type A and Type B Personality Theory
 description: Type A and Type B personality hypothesis describes two contrasting personality types. In this hypothesis, personalities that are more competitive, highly organized, ambitious, impatient, highly aware of time management, or aggressive are labeled Type A, while more relaxed, "receptive", less "neurotic" and "frantic" personalities are labeled Type B.
+date: 2024-01-01
 ---
 **Type A and Type B personality hypothesis** describes two contrasting personality types. In this hypothesis, personalities that are more competitive, highly organized, ambitious, impatient, highly aware of time management, or aggressive are labeled Type A, while more relaxed, "receptive", less "neurotic" and "frantic" personalities are labeled Type B.
 ___

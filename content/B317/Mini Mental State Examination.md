@@ -3,6 +3,7 @@ tags:
   - B317
 title: Mini Mental State Examination
 description: A brief screening tool used to assess cognitive function and detect cognitive impairment. It quickly evaluates an individual's cognitive abilities, especially in the context of aging or suspected neurological disorders.
+date: 2024-01-01
 ---
 A brief screening tool used to assess cognitive function and detect cognitive impairment. It quickly evaluates an individual's cognitive abilities, especially in the context of aging or suspected neurological disorders.
 # Procedure
