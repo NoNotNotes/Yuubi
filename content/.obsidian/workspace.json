@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 200
   },
   "right": {
     "id": "8a590d21f77c43b6",
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,9 +149,10 @@
   },
   "active": "c55b93c6b4895027",
   "lastOpenFiles": [
-    "CMPA/d/10-08-2024 MS.md",
     "CMPA/d/10-09-2024 MS.md",
     "CMPA/index.md",
+    "index.md",
+    "CMPA/d/10-08-2024 MS.md",
     "CMPA/d/10-07-2024 MS.md",
     "CMPA/HEMA.md",
     "CMPA/FUNDA.md",
@@ -174,7 +176,6 @@
     "A217/index.md",
     "A217/08.md",
     "A216/index.md",
-    "A215/Dietary Content.md",
     "attachments/lung_volumes.png",
     "private",
     "attachments/references/NCMB418 LEC Prelim Readings.pdf",

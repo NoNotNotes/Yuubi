@@ -199,6 +199,7 @@ export default ((userOpts?: Partial<OlOptions>) => {
         <div id="overlay-explorer-container">
           <div id="overlay-explorer-space">
             <div id="overlay-explorer-content">
+              <hr style="margin: 0; margin-top: .6rem;" />
               <ul id="overlay-explorer-ul">
                 <OverlayExplorerNode node={fileTree} opts={opts} fileData={fileData} />
               </ul>
