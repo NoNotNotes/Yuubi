@@ -3,11 +3,11 @@
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "accentColor": "#8e99c7",
+  "accentColor": "",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "tables"
   ],
-  "baseFontSize": 23,
+  "baseFontSize": 16,
   "showViewHeader": false
 }

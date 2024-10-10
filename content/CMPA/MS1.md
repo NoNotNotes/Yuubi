@@ -6,458 +6,173 @@ tags:
 title: Medical-Surgical Nursing I
 draft: true
 ---
-**MEDICAL SURGICAL NURSING 1**
-
 References: 
-
 Brunner & Suddarth's Textbook of Medical-Surgical Nursing
-
 Saunder's Comprehensive Review for NCLEX-RN Examination by Linda Anne Silvestri
+___
+# Fluids
+In adults, 50-60% of body weight is water. It is stored in various components, generally bring divided  into ​​intracellular, extracellular, and interstitial spaces. The bodily proportion of fluid in the body and in each location varies with age and sex.
+* **Age**: infants have higher proportion of body water than adults. There is rapid growth and metabolism, and infants have higher fluid turn-over due to immature kidney and rapid respiratory rate. The water content of the body decreases with age.
+- **Gender and body size**: lean body has higher water content. As such, men have more water content than women, because they have more lean mass. Inversely, women have higher body fat content, with lesser water content.
+## Fluid Intake and Output
+The average oral fluid intake in a healthy adult is 2,500 mL/day, ranging from 1,500 to 3,000 mL/day. By weight, the standard formula for calculating necessary fluid intake is:
+- 100 mL/kg (1 – 10 kg) +
+- 50 mL/kg (11 – 20 kg) +
+- 15 mL/kg (remaining weight)
 
- 
+In normal equilibrium, the fluid loss of an individual must equal their fluid intake. Therefore, in average, this 2,500 mL/day counterbalancing the input to maintain equilibrium. Fluid loss can occur from various medium of the body, with most fluid being removed through the urinary system. The are fluid loss which cannot be measured or seen, known as insensible losses. These occur through perspiration and breathing.
 
- 
-
-**Fluid & Electrolytes**
-
-FLUIDS
-
-* 50-60% of body weight is water  
-* Location:  
-  * Within the cells \- intracellular  
-  * Outside the cells – extracellular  
-* The volume of fluid in each location varies with age and sex  
-  * Infants have higher proportion of body water than adults  
-    * There is rapid growth and metabolism  
-  * Infants have higher fluid turn-over due to immature kidney and rapid RR  
-  * Water content of the body decreases with age.
-
- 
-
-Gender and Body Size
-
-* Lean body has higher water content (male has more water than women, because they have more lean mass.)  
-* Women have higher body fat content by lesser water content
-
- 
-
-Fluid Intake
-
-* Average oral fluid intake in a healthy adult: 2, 500 ml/day (1 500-3000 ml/day)  
-* Daily fluid intake standard formula:  
-  * 100 ml/kg fo)r the 1st10 kg of wt, plus  
-  * 50 ml/kg for the next 10 kg of wt, plus  
-  * 15 ml/kg per remaining kg of wt.
-
- 
-
-**Fluid Output**
-
-* Average fluid loss amounts to 2 500 mL/day counterbalancing the input to maintain equilibrium.
-
-Routes:
-
-* Urination (1500 ml/da: 30-50 ml/hr), bowel elimination (200 ml), perspiration and breathing  
-  * Sensible loss  
-  * Insensible loss \= unnoticeable, unmeasurable
-
- 
-
-Functions of the Body fluids
-
-* Transporter of nutrients, etc.  
-* Medium or milieu for metabolic processes  
-* Body temperature regulation  
-* Lubricant of musculoskeletal joints  
-* Insulator and shock absorber
-
- 
-
-Composition of body fluids
-
-* Composed of solute, solvents, electrolytes, proteins, etc.  
-* Plasma and interstitial fluids contain essentially the same electrolytes and solutes, but plasma has a higher protein content.  
-* The major ICF electrolytes are Potassium K+ (3.5-5 or 5.5), phosphate PO-4 (2.5-3.5), and magnesium Mg++  
-* The major ECF electrolytes are sodium Na (135-145), bicarbonate HCO3 (22-26) and chloride Cl (96-106).
-
-**Translocation**
-
-* Movement back and forth pf fluid and exchange of chemicals from one location to another.  
-* A continuous process in and among all areas where water is located.  
-* Chemicals involved:  
-  * Electrolytes – substances that when dissolved in fluid carry an electrical charge  
-  * Acids – substances that release H+ into fluid  
-  * Bases – substances that bind with H+
-
-The delicate balance of fluid, electrolyte, acids and bases is ensured by an:
-
+| Intake              | Amount           | Output                  | Amount           |
+| ------------------- | ---------------- | ----------------------- | ---------------- |
+| Ingested Water      | 1,200 – 1,500 mL | Kidneys (Urine)         | 1,500 mL         |
+| Ingested Food       | 800 – 1,100 mL   | Insensible Loss (Skin)  | 600 – 800 mL     |
+| Metabolic Oxidation | 300 mL           | Insensible Loss (Lungs) | 400 – 600 mL     |
+|                     |                  | GI Tract (Stool)        | 100 mL           |
+| Total               | 2,300 – 2,900 mL | Total                   | 2,600 – 3,000 mL |
+The delicate balance of fluid, electrolyte, and [[#Acid-Base Balance|acid-base balance]] is ensured by an:
 * Adequate intake of water and nutrients  
 * Physiologic mechanisms that regulate fluid volume  
-  * Brain and excretory system  
-* Chemical processes that buffer the blood to keep its pH nearly neutral.
-
- 
-
-Tonicity of Body fluids
-
-* Refers to the concentration of particles in a solution  
-* Body fluids are **ISOTONIC**comparable with 0.9% NaCl  
-* **HYPERTONIC**fluids have a higher or greater concentration of solutes (usually sodium) compared with plasma; ex. Is 3% NaCl  
-* **HYPOTONIC**fluids have a lesser or lower solute concentration than plasma; ex. Is 0.45%, 0.33% NaCL solution
-
- 
-
-Fluid and Electrolyte Regulation
-
-* Under normal conditions, the following mechanisms regulate normal fluid volume and electrolyte concentrations  
-1. Osmoreceptors  
-* Specialized neurons in the hypothalamus  
-* Highly sensitive to serum osmolality  
-  * Increased osmolality – osmoreceptors stimulates hypothalamus to synthesize ADH (from hypothalamus, posterior pituitary gland)  
-  * Decreased osmolality – ADH is inhibited  
-* Triggers thirst promoting increased fluid intake  
-  * Thirsty when ECF volume decreases by approximately 700 mL (2% of body weight)  
-* Also sensitive to change in BV & BP through the info relayed by baroreceptors (stretch)  
-* Osmoreceptors:  
-  * A decreased in BV by 10%  
-  * Systolic BP falls below 90 mmHg  
-  * Right Atrium (RA) is underfilled – low venous return  
-1. Renin-Angiotensin-Aldosterone System (RAAS)  
-* ↓ECF (BV), ↓BP àRenin release from juxtaglomerular cell àAngiotensin àAngiotensin I àAngiotensin II àtargets Adrenal gland (which then produces Aldosterone) and Blood vessel (vasoconstriction)àincreased BP  
-* Aldosteroneàincreased sodium and water reabsorption or retentionàincreased blood volume àincreased BP.  
-1. Natriuretic Peptides  
-* Hormone-like substance that act in opposition to the RAAS  
-* 3 Types:  
-  * Atrial NP (heart’s atrial muscle)  
-  * Brain NP (ventricles of the heart)  
-  * C-type NP (brain)  
-* Overstretching (atrial & ventricular walls) from increased venous returnàANP & BNP are released  
-* ANP & BNP inhibit the release of RENIN, ALDOSTERONE, and ADH \= ↓ Blood volume  
-  * “POTENT diuretic”  
-  * “Na-wasting”  
-  * (-) thirst  
-1. Gastro-intestinal Regulation  
-* The GIT digests food and absorbs water  
-* **Passive and active transport of electrolytes, water and solutions**  
-* Maintain the fluid balance in the body
-
- 
-
-**OSMOSIS**
-
-* Movement of water/liquid/solventacross a semipermeable membrane from a lesser concentration to a higher concentration  
-* **Osmotic pressure**– the power of a solution to draw water toward an area of greater concentration  
-* **Colloidal osmotic pressure**(or oncotic pressure)– the osmotic pull exerted by plasma proteins (eg. Albumin, globulin, fibrinogen)
-
- 
-
-**FILTRATION**                                                                             
-
-* Movement of both solute and solventacross a semipermeable membrane from an area of higher pressure to lower pressure  
-* **Hydrostatic pressure**– the pressure exerted by the fluids within the closed system; pushes water out  
-* If HP \> OP \= filtration
-
- 
-
-**DIFFUSION**
-
-* Movement of particles, solutes, moleculesfrom an area of higher concentration to an area of a lower concentrationthrough a semipermeable membrane  
-* Factors affecting rate of diffusion:  
-  * SIZEof the molecules – larger size moves slower than smaller size  
-  * CONCENTRATIONof solution – wide difference in concentration has a faster rate in diffusion  
-  * TEMPERATURE– ↑ in Temp. \= ↑ rate of diffusion
-
- 
-
-**FACILITATED  DIFFUSION**
-
-**ACTIVE TRANSPORT**“uphill movement”
-
-* Movement of solute from lower concentration to higher concentration using energy(ATP)  
-* Na-K pump
-
- 
-
-ELECTROLYTES
-
-* Substances present on ICF and ECF that carry electrical charge  
-  * Cations  
-  * Anions
-
- 
-
-| ELECTROLYTES | NORMAL SERUM RANGE |
-| :---- | :---- |
-| Sodium | 135 – 145 |
-| Potassium | 3.5 \- 5.0 |
-| Calcium | 9.0 \- 10.5    |
-| chloride | 98 – 106 |
-| Magnesium | 1.3 – 2.1 |
-| Phosphorus | 3.0 – 4.5 |
-
- 
-
-**Source of Electrolytes:**
-
-* Food intake/ ingested fluids  
-* Medications  
-* IVF, TPN solutions
-
- 
-
-**Dynamics of Electrolyte Balance**
-
-* Distribution  
-  * Na, Ca, Cl concentration are higher in ECF  
-  * K, Mg, PO4 concentrations are higher in ICF  
-* Excretion  
-  * Urine, feces, surgical/wound drainage,  
-  * Pathological conditions  
-* Regulation  
-  * Kidneys, GIT, hormones (aldosterone, ANF, PTH, calcitonin)
-
- 
-
-SODIUM
-
-1 tsp of table salt is 2000 mg
-
-1 tsp soy sauce \= 1029 mg
-
-Average dietary intake of sodium is about 6-14 g/day
-
-* Major cation in ECF; major contributor of plasma osmolality  
-* ECF Na+ level determines whether water is retained, excreted or translocated  
-* Regulated by kidney (aldosterone, ADH, NP)  
-  * ↑ serum Na \= (-) aldosterone, (+) ADH & NP  
-  * ↓ serum Na \= (+) aldosterone, (-) ADH & NP  
-* Functions:  
-  * Skeletal/heart muscle contraction, nerve impulse transmission, normal ECF osmolality, normal ECF volume
-
- 
-
-**POTASSIUM**(ECF: 3.5-5.0 mEq/L or mmol/L);(ICF: 140\)
-
-1097 mg of potassium – 1 medium avocado
-
-451 mg of K+ \- 1 medium banana
-
-* Major ICF cation  
-* Functions:  
-  * Regulates CHON synthesis, glucose use & storage maintains action potentials in excitable membranes  
-* Any change in blood K+ seriously affects physiologic activities (a decrease of 1 meq/L \= 25% difference in total ECF K+ concentration)  
-* ECF K+ level is regulated by Na-K pump (3 Na+ : 2 K+) despite heavy intake (2-20 g/day)
-
- 
-
-**CALCIUM** 9-10.5 mg/dL (2.25-2.75 mmol/L)
-
-* 2 forms: bound and unbound (ionized)  
-  * Bound – attached to CHON (Albumin)  
-* Functions:  
-  * Bone strength and density, activation of enzymes or reactions, skeletal/cardiac muscle contraction, nerve impulse transmission, blood clotting.  
-* Regulated by: Vitamin D, PTH, Thyrocalcitonin
-
- 
-
-**PHOSPHORUS (P)**3-4.5 mg/dL (0.65-1.05 mmol/L)
-
-* Major anion in ICF (80% is in bones)  
-* Functions:  
-  * Activating B-complex vitamins, ATP, acid-base balance, calcium homeostasis; balanced reciprocal relationship with Ca++  
-* regulated by PTH: **↑PTH \= ↓P**; **↓PTH \= ↑P**
-
- 
-
-MAGNESIUM 1.3-2.1 mEq/L (0.65-1.05 mmol/L)
-
-* 60% stored in bones & cartilages; much more is stored in ICF (heart, liver, skeletal muscles)  
-* Functions:  
-  * ICF – skeletal muscle contraction, CHO metabolism, ATP formation, Vit-B complex activation, DNA synthesis, CHON synthesis  
-  * ECF – regulates blood coagulation & skeletal muscle contractility  
-* Regulated by the kidney & GIT (exact mechanism are not known)
-
- 
-
-**CHLORIDE**98-106 mEq/L
-
-* Major ECF anion; work with Na+ to maintain ECF osmotic pressure  
-* Important in the formation of HCL in the stomach  
-* Participates in chloride shift (exchange between Cl- and HCO3-)
-
- 
-
-***FLUID IMBALANCES***
-
-**Fluid Imbalances:**
-
-* Hypovolemia  
-* Hypervolemia  
-* Third spacing – can be in the cavity or joint
-
- 
-
-**HYPOVOLEMIA**(Fluid Volume Deficit)
-
-* Hypovolemia \= low volume of ECF  
-* Dehydration \= ↓body fluid volume in both ECF & ICF  
-* **Etiology:**  
-  * Inadequate fluid intake  
-  * Hemorrhage  
-  * Prolonged vomiting and diarrhea  
-  * Wound loss (burn injury)  
-  * profuse urination or perspiration  
-  * Translocation of fluid (abdominal cavity)  
-* ***Pathophysiology:***  
-  * ↑ HR to maintain adequate CO  
-  * BP falls with postural changes, or it may become severely lowered when blood is rapidly lost  
-  * Hemoconcentration occurs \= ↑ potential for blood clots, urinary stones (compromises kidney’s function to excrete nitrogen wastes)  
-  * Eventually it depletes ICF which can affect cellular functions \= change in mentation  
-* ***Assessment findings:***  
-  * Thirst \= one of the earliest symptoms  
-  * Weight loss \> or \= 2lbs/24 hr  
-  * ↓BP, inc. Temp, rapid & weak thread pulse, rapid and shallow respiration, scant and dark yellow urine, dry & small volume stool, warm & flushed dry skin, poor skin turgor “tents”, sunken eyes, clear lungs, effortless breathing, weakness, flat jugular veins, reduced cognition, sleepy
-
-***Medical management:***
-
-* Fluid deficit is restores by:  
-  * Treating its etiology  
-  * Increasing the volume of oral intake  
-  * Administering IVF replacement  
-  * Controlling fluid losses
-
-***Health teaching***
-
-* Respond to THIRST because it is an early indication of reduced fluid volume  
-* Consume at least 8-10 (8 ounces) glasses of fluid each day, and more during hot, humid weather  
-* Drink water as an inexpensive means to meet fluid requirements.  
-* Avoid beverages with alcohol and caffeine  
-* Include a moderate amount of table salt or foods containing sodium each day  
-* Rise slowly from a sitting position or lying position to avoid dizziness and potential injury
-
- 
-
-**HYPERVOLEMIA**(Overhydration)
-
-* High volume of water in the IV compartment  
-* ***Etiology***  
-  * Excessive oral intake .  
-  * Heart failure  
-  * Kidney disease  
-  * Excessive salt intake  
-  * Adrenal gland dysfunction  
-  * Administration of corticosteroids (prednisolone)
-
-***Assessment findings***
-
-* Signs and symptoms:  
-  * Early signs: weight gain, elevated BP, increased breathing effort  
-  * Dependent edema (feet, ankles, sacrum, buttocks)  
-  * Rings, shoes & stockings leave marks in the skin  
-  * Prominent jugular vein when sitting  
-  * Moist breath sounds (fluid congestion in the lungs)
-
-***Diagnostic Findings***
-
-* Hemodilution (↓blood cell count, ↓ hematocrit)  
-* Low urine SG  
-* CVP (\>10 cm H2O) (\<4 cm H2O in FVD)
-
-***Medical Management***
-
-* Treat the underlying cause  
-* Restriction of oral & parenteral fluid intake
-
-***Nursing Management***
-
-* Implements prescribed interventions (limiting Na+ & water intake)  
-* Administering ordered medications  
-* Elevates client head, legs, change position q2°, apply elastic stockings.
-
- 
-
-Third Spacing
-
-* Translocation of fluid from the IV or intercellular space to tissue compartments & becomes trapped & useless  
-* Associated with  
-  * Loss of colloids (hypoalbuminemia)  
-  * Burns  
-  * Severe allergic reaction that alter capillary & cellular membrane permeability  
-* It can lead to hypotension, shock & circulatory failure
-
-***Assessment findings:***
-
-* S/sx of hypovolemia *except weight loss*  
-* Enlargement of organ cavities (Ascites)  
-* Anasarca “brawny edema” – generalized edema
-
-***Management:***
-
-* Restoration of colloidal osmotic pressure (albumin), then diuretics  
-* Nursing care combines the assessment techniques for detecting both hypovolemia & hypervolemia.  
-* For patient undergoing paracentesis – obtain consent, prepare special equipment (paracentesis set), skin test for anesthesia, then set for skin preparation; also, allow the patient to void because needle will be inserted 3 fingerbreadths under the umbilicus)
-
-ELECTROLYTE IMBALANCES
-
-SODIUM
-
-* Aldosterone, ADH, NP – hormones that regulate.  
-* Rich in ECF.
-
-***HYPONATREMIA:***
-
-* *Causes:*  
-  * Profuse diaphoresis and diuresis  
-  * Excessive ingestion of plain water (sodium becomes diluted)  
-  * Administration of electrolyte-free solution (Ex. D5W)  
-  * Prolonged vomiting (potassium and chloride also lost), GI suctioning  
-  * Chronic Renal Failure – hemodilutional hyponatremia  
-  * SIADHàwater is retained and sodium is diluted (Hemodilutional hyponatremia)  
-* *Manifestations:*  
-  * Mental confusion, personality changes (from area of lower to higher concentration àcellular edema àcerebral edema)  
-  * Muscular weakness  
-  * Anorexia, restlessness  
-  * Elevated BP, tachycardia, N\&V  
-  * Severe: convulsions & coma  
-* *Management:*  
-  * Underlying cause is corrected  
-  * Mild deficits: oral administration of Na+  
-  * Severe deficits: IV solutions  
-  * If Renal failure – limit fluid intake (Caution the administration of high-salt diet in this case)  
-  * Monitor intake and output, level of consciousness
-
-***HYPERNATREMIA***
-
-* Causes:  
-  * Profuse watery diarrhea  
-  * Excessive salt intake without sufficient water intake  
-  * Decreased water intake (elderly, debilitated, unconscious clients)  
-  * Excessive administration of solutions containing Na+  
-  * Excessive water loss without accompanying loss of sodium (Ex. Diabetes Insipidus – can be 5-25 Liters of water lost)  
-* *Results in*  
-  * Thirst (\*\* stimulation of Osmoreceptors)  
-  * Dry, sticky mucous membranes  
-  * Decreased UO  
-  * Fever  
-  * Rough, dry tongue  
-  * Lethargy – altered level of consciousness  
-  * Coma if severe  
-* *Treatment:*  
-  * Depends on the cause (Ex. DI – give ADH like: Vasopressin, Pitressin, Tannate)  
-  * Oral administration of plain water  
-  * IV administration of hypotonic solution  
-* *Nursing management:*  
-  * Early detection  
-  * Maintain accurate I\&O measurements  
-  * Assess VS q1-4 hr  
-  * Closely monitor IV fluid infusion  
-  * Implements prescribed dietary restrictions or supplements  
-  * Gathers data that indicate increased or decreased symptoms & notify the physician
-
-POTASSIUM
-
-***HYPOKALEMIA***
-
+* Brain and excretory system
+* Chemical processes that **buffer the blood** to keep its pH nearly neutral
+## Components and Functions of the Body Fluids
+Body fluids are composed of **solutes**, **solvents**, **electrolytes**, **proteins**, and many more. **Plasma and interstitial fluids** contain essentially the same electrolytes and solutes, but plasma has a higher protein content. The two main divisions of fluid compartments contain differing electrolyte concentrations:
+1. The **major ICF electrolytes** are Potassium (3.5 – 5 or 5.5), Phosphate (2.5 – 3.5), and Magnesium  
+2. The **major ECF electrolytes** are Sodium (135 – 145), Bicarbonate (22 – 26), and Chloride (96 – 106).
+
+The presence of these components, or their functions include:
+- **Transport** nutrients, waste products, immune agents, etc.
+* **Medium** or milieu for metabolic processes
+* **Body temperature regulation**
+* **Lubricant of musculoskeletal joints**
+* **Insulator** and **shock absorber**
+## Movement of Fluids
+**Translocation** is the **movement of fluid** back and forth, and **exchange of chemicals** from one location to another. It is a continuous process in and among all areas where water is located. The components that move along with the fluid include **electrolytes**, substances that when dissolved in fluid carry an electrical charge; **acids**, substances that release H<sup>+</sup> into fluid; and **bases**, substances that bind with H<sup>+</sup>.
+1. **Diffusion**: a **solute** spreads through a solution or solvent, **moving from higher concentration to lower concentration**. A permeable membrane allows substances to pass through without restriction. A selectively permeable membrane allows some solutes to pass through without restriction, but prevents other solutes from passing freely. This occurs **within and between fluid compartments** if the membranes are permeable with the diffusing substances.
+2. **Osmosis**
+3. **Filtration**: the movement of solutes and solvents through hydrostatic pressure, moving from an area of higher pressure to an area of lower pressure.
+4. **Hydrostatic Pressure**: a force exerted by the weight of a solution. This is the driving force for filtration, where high pressure compartments "push" solutes and solvents into lower pressure compartments.
+	- A prime example of hydrostatic pressure is at the arterial end of capillaries, where hydrostatic pressure exceeds osmotic pressure and fluids and diffusible solutes move out of the capillary (e.g. oxygen from hemoglobin fuels cells) and the venous end of capillaries, where osmotic pressure exceeds hydrostatic pressure and pulls solutes and fluids into the capillary (e.g. waste products exit cells and enter the blood). 
+5. **Osmolality**: the number of osmotically active particles per kilogram of water; it is the concentration of a solution. In the body, osmotic pressure is measured in milliosmoles (mOsm). The normal osmolality of plasma is 275 to 295 mOsm/kg (275 to 295 mmol/kg). This is the reference point for isotonicity of IV solutions.
+## Serum Tonicity
+Cell membranes and capillary walls separate body compartments. Cell membranes are selectively permeable, and permit the movement of water and solutes through several forces. Higher concentrations of solutes produce more forces that move fluid and solutes from the compartment. %%For example, in diarrhea, more electrolytes are lost than water, resulting in decreased electrolyte levels in extracellular fluid. This results in fluid shifting from ECF to ICF through osmosis.%%
+1. In the case of **isotonic solutions**, both sides of a selectively permeable membrane have equal in concentration. Very little osmosis occurs as both sides have the same osmolality.
+2. In the case of **hypotonic solutions**: a solution, if lower in osmolality than another, is hypotonic to that solution; for example, IV solutions with an osmolality of less than 275 mOsm/L is considered hypotonic. Osmosis occurs, "hydrating" the cells.
+3. In the case of **hypertonic solutions**: a solution, if higher in osmolality than another, is hypotonic to that solution; for example, IV solutions with an osmolality of more than 295 mOsm/L is considered hypertonic. Osmosis occurs, "dehydrating" the cells.
+4. **Osmotic pressure** is produced by the concentration of solutes in a solution. These are the "fighting" pressures across a semipermeable membranes.
+5. **Active transport** is utilized by the body when moving electrolytes **against** the concentration gradient or osmosis. Metabolic processes in the cell utilize energy to allow this transport to occur. This includes sodium, potassium, calcium, iron, and hydrogen; some of the sugars, and the amino acids.
+## Regulatory Systems
+Under normal conditions, the following mechanisms regulate normal fluid volume and electrolyte concentrations:
+1. **Osmoreceptors**: specialized neurons in the hypothalamus that are highly sensitive to **serum osmolality** (decrease in blood volume by 10%, systolic blood pressure below 90 mm Hg, and underfilling of the right atrium). These neurons stimulate the hypothalamus when osmolality becomes increased, producing:
+	- **ADH** and releasing them through the posterior pituitary gland to increase serum dilution. When decreased, ADH is inhibited to reduce serum volume.
+	- **Thirst** to promote increased fluid intake. It generally triggers once ECF volume decreases by approximately 700 mL (2% of body weight). It is also sensitive to changes in blood volume and blood pressure through the info relayed by **baroreceptors** (stretch receptors in the right atrium).
+2. **Renin-Angiotensin-Aldosterone System** (RAAS): a sequence of enzyme production
+```mermaid
+flowchart TD
+A-->B-->C-->D-->E
+A("↓ECF (BV), ↓BP")
+B(Renin release from juxtaglomerular cell)
+C(Angiotensin)
+D(Angiotensin I)
+E("Angiotensin II")
+
+E-->G-->H-->I-->J
+G(Aldosterone)
+H(Increased sodium and water reabsorption or retention)
+I(Increased Blood Volume)
+J(Increased Blood Pressure)
+
+E-->K
+K(Vasoconstriction)
+K-->J
+```
+3. **Natriuretic Peptides**: hormone-like substances that act in opposition to the RAAS. These are released from the overstretching of atrial and ventricular walls depending on venous return. Its effects act to reduce fluid volume: (a) **potent diuresis**, (b) **sodium wasting**, (c) **thirst inhibition**, and (d) **inhibition of renin, aldosterone, and ADH**. There are three types of NPs:
+	* **Atrial NP**: released when the heart’s atrial muscle distend.
+	* **Brain NP**: released when the ventricles of the heart distend.
+	* **C-type NP**: brain (?).
+4. **Gastrointestinal Regulation**: the GIT absorbs food and water through passive and active transport of electrolytes, water, and solutions. These aid in the fluid balance for the body.
+5. **Osmosis**: the movement of **liquid or solvent** across a semipermeable membrane from a **lesser concentration to a higher concentration**. The force a solution produces for this to occur is called its **osmotic pressure**. A specific type of osmotic pressure, **colloidal osmotic pressure** (**onctic pressure**) is medically relevant as the pressure produced by the presence of **albumin and other plasma proteins**, as it is one of the main forces that retain vascular fluid volume.
+6. **Filtration**: the movement of both solute and solvent across a semipermeable membrane from an area of **higher pressure to lower pressure**. This pressure is mainly from **hydrostatic pressure**– the pressure exerted by the fluids within the closed system. Filtration in the vascular system only occurs once hydrostatic pressure (outward force) exceeds osmotic pressure (inward force).
+7. **Diffusion**: the movement of **particles, solutes, molecules** from an area of **higher concentration to an area of a lower concentration** through a semipermeable membrane. Its rate depends on the size of the molecules (larger particles are slower), concentration (wider difference in concentration diffuses faster), and temperature (higher temperature permits faster diffusion).
+8. **Active Transport** is a form of **facilitated diffusion**, which is an “*uphill movement*” of solutes from **lower concentration to higher concentration** using energy (ATP).
+___
+# Electrolytes
+**Electrolytes** are substances present on ICF and ECF that carry electrical charge. Depending on the energy charge of the ion, they may be categorized as **cations** (positive ions) and **anions** (negative ions). In a human, electrolytes are obtained from food, fluids, medications, intravenous fluids, and TPN solutions.
+
+| Electrolytes | Reference Serum Range |
+| :----------- | :-------------------- |
+| Sodium       | 135 – 145             |
+| Potassium    | 3.5 – 5.0             |
+| Calcium      | 9.0 – 10.5            |
+| Chloride     | 98 – 106              |
+| Magnesium    | 1.3 – 2.1             |
+| Phosphorus   | 3.0 – 4.5             |
+## Dynamics of Electrolyte Balance
+1. **Distribution**:
+	- **Sodium**, **Calcium**, **Chloride** concentration are higher in ECF.
+	- **Potassium**, **Magnesium**, **Potassium** concentrations are higher in ICF.
+2. **Excretion**: urine, feces, surgical/wound drainage, pathological conditions  
+3. **Regulation**: **kidneys**, GIT, **hormones** (aldosterone, ANF, PTH, calcitonin)
+## Sodium
+**Sodium** (Na<sup>+</sup>, 135 – 145 mEq/L) is the major cation in ECF, and the major contributor of plasma osmolality. Sodium essentially determines the degree of water retention, excreted, or translocated (ECF osmolality and volume). It also plays a role in skeletal/heart muscle contraction and nerve impulse transmission.
+
+The **kidneys** are major regulators of sodium, whose function is altered with aldosterone (the salt-saving hormone), ADH, and NP. These hormones are produced it inhibited in response to changes in serum sodium:
+- ↑ Serum sodium results in ( - ) aldosterone, ( + ) ADH & NP  
+- ↓ Serum sodium results in ( + ) aldosterone, ( - ) ADH & NP
+
+>[!TIP] Dietary References
+>The average dietary intake of sodium is about 6-14 g/day
+>- 1 teaspoon of **table salt** contains approximately 2000 mg of sodium.
+>- 1 teaspoon of **soy sauce** contains approximately 1029 mg of sodium.
+### Hyponatremia
+1. **Etiology**: two main causes of hyponatremia is the **loss of** (fluids containing) **sodium** and/or **excessive introduction of fluid**, reducing the concentration of sodium (*hemodilutional hyponatremia*).
+	* Profuse diaphoresis and diuresis (loss of electrolytes)
+	* Excessive ingestion of plain water (dilution)
+	* Administration of electrolyte-free solution (dilution)
+	* Prolonged vomiting, GI suctioning (loss of electrolytes)
+	* Chronic Renal Failure (dilution)
+	* Syndrome of Inappropriate Antidiuretic Hormone (dilution)
+2. **Manifestations**:  
+	* **Mental confusion**, personality changes result from cerebral edema. This occurs because the loss of serum sodium results in cerebral cells having a higher sodium concentration, pulling fluid towards them.  
+	* Muscular weakness, as sodium plays a part in skeletal muscle contraction.
+	* Anorexia, restlessness  
+	* Elevated BP, tachycardia, N\&V  
+	* Severe: convulsions & coma  
+3. **Management**:
+	* Underlying cause is corrected  
+	* Mild deficits: **oral administration of Na<sup>+</sup>**
+	* Severe deficits: **IV therapy**
+	* Monitor **I&O*** and **level of consciousness**
+### Hypernatremia
+1. **Etiology**: two main causes of hyponatremia is the **introduction of** (fluids containing) **sodium** and/or **excessive loss of fluid**, increasing the concentration of sodium (*hemoconcentrational hypernatremia*).
+	* Profuse watery diarrhea (concentration)
+	* Excessive salt intake without sufficient water intake (sodium intake)
+	* Decreased water intake, e.g., in elderly, debilitated, or unconscious clients (concentration)
+	* Excessive administration of solutions containing Na+ (sodium intake)
+	* Excessive water loss without accompanying loss of sodium (concentration)
+2. **Manifestations**:
+	* Thirst (increased osmolality stimulates osmoreceptors)
+	* Dry, sticky mucous membranes  
+	* Decreased UO
+	* Fever  
+	* Rough, dry tongue  
+	* Lethargy; altered level of consciousness that becomes a coma if severe.
+3. **Treatment**:
+	* Depends on the cause, e.g., give ADH-like drugs (Vasopressin, Pitressin, Tannate) for patients with DI.
+	* Oral administration of plain water to counter hemoconcentration.
+	* IV administration of hypotonic solution
+4. **Nursing Management**:  
+	* **Early detection**; monitor **I&O** (including infusion rates), **VS** (q1° – q4°), and signs/symptoms. Notify the physician if warranted.
+	* Implements prescribed **dietary restrictions** or supplementation.  
+## Potassium
+**Potassium** (K<sup>+</sup>, 3.5 – 5.0 mEq/L) is the major ICF cation (~140 mEq/L in ICF). It regulates protein synthesis, glucose use and storage, and **maintains action potentials in excitable membranes**. Because of its low serum concentration, changes in serum potassium seriously affects physiologic activities; a decrease of 1 mEq/L is a ~25% alteration in total concentration.
+
+The **Sodium-Potassium Pump** maintains normal serum potassium levels by moving potassium into cells to retain normal levels despite heavy dietary intake (2 – 20 g/day).
+
+>[!TIP] Common Dietary References
+>- One medium **avocado** contains approximately 1097 mg of potassium.
+>- One medium **banana** contains approximately 451 mg of potassium.
+
+## Hypokalemia
 * *Causes:*  
   * K+ wasting diuretics (Furosemide \[Lasix\], Ethacrynic acid \[Edecrin\], Hydrochlorothiazide \[HydroDIURIL\])  
   * Severe vomiting & diarrhea, prolonged suctioning  
@@ -483,7 +198,7 @@ POTASSIUM
   * Increased oral intake of K-rich foods/K supplements (mild cases)  
   * KCL (severe cases)
 
-***HYPERKALEMIA***
+## Hyperkalemia
 
 * *Causes:*  
   * Renal failure – never hypokalemia\!  
@@ -508,22 +223,17 @@ POTASSIUM
     * Decrease K-rich food intake, d/c oral potassium replacement until laboratory values are normal (mild cases)  
     * Administration of cation-exchange resin like sodium polystyrene sulfonate (kayexalate—given ORAL or ENEMA) or combination of IV regular insulin & glucose (severe cases)  
     * Peritoneal dialysis/hemodialysis
-
- 
-
 * *Nursing management:*  
   * Assess clients for conditions with potential to cause potassium imbalances  
   * Identify signs and symptoms  
   * Monitor laboratory findings  
   * Administer medications  
     * KCl – diluted in an IV solution & administered at a rate below 10 mEq/hr
+## Calcium
+**Calcium** (Ca<sup>+</sup>, 9 – 10.5 mg/dL) is important for **bone strength and density**, activation of enzymes or reactions, **skeletal/cardiac muscle contraction**, nerve impulse transmission, and blood clotting. It exists in two forms when in the serum: **bound** and **unbound** calcium. Those bound are unable to exert their effects, as their are attached to proteins (albumin).
 
- 
-
-*CALCIUM*
-
-***HYPOCALCEMIA***
-
+The **parathyroid glands** are major contributors in regulating calcium through the hormones **PTH** (mobilizes calcium, promoting demineralization of the bone) and **Thyrocalcitonin** (increases deposition of calcium into bone, inhibits calcium resorption). Additionally, **Vitamin D** aids in gastrointestinal absorption of calcium.
+## Hypocalcemia
 * *Causes:*  
   * D deficiency  
   * Hypoparathyroidism  
@@ -546,11 +256,7 @@ POTASSIUM
 * *Treatment:*  
   * Administration of oral Calcium & vitamin D (mild cases)  
   * IV administration of Ca++ salts (calcium gluconate) – severe cases
-
- 
-
-***HYPERCALCEMIA***
-
+## Hypercalcemia
 * *Associated with*  
   * Parathyroid gland tumors  
   * Multiple fractures  
@@ -582,21 +288,22 @@ POTASSIUM
 * Collaborates with dietitians to limits food sources of Ca++  
 * Ambulation as tolerated\!  
 * Provide assistance; avoid falls
-
- 
-
 * **Heath Teaching for Calcium Imbalances**  
   * Follow the physician’s recommendations regarding the addition or restriction of Ca++ to the diet  
     * Milk and dairy products, turnips, mustard greens, collards, kale, broccoli, canned fish with bones, Calcium-fortified orange juice  
   * Lactose-free milk and nonprescription lactase enzymes are available for lactose-intolerant clients.  
   * Take prescribed or physician-recommended drugs as directed; do not exceed or omit a dose
+## Phosphorus
+**Phosphorus** (3 – 4.5 mg/dL) is the major anion in ICF. Most of it (80%) is stored in the bones. It plays a role in activating B-complex vitamins, in ATP, in acid-base balance, and calcium homeostasis (it has a balanced reciprocal relationship with calcium).
 
- 
+Phosphorus is also regulated by **PTH**, because of its reciprocal relationship with calcium. An increase in PTH increases calcium, thus decreasing phosphorus, and vice versa.
+## Magnesium
+**Magnesium** (Mg, 1.3 – 2.1 mEq/L) plays important roles both in its intracellular form and extracellular form. 60% of magnesium is stored in bones and cartilage, and more is stored in intracellular fluid for the heart, liver, and skeletal muscles. This distribution is related to its functions:
+- **ICF** – skeletal muscle contraction, protein metabolism and synthesis, Vitamin B complex activation, and ATP and DNA synthesis.  
+- **ECF** – regulates blood coagulation and **skeletal muscle contractility**.
 
-**MAGNESIUM**
-
-***HYPOMAGNESEMIA***
-
+Magnesium is regulated by the **kidneys** and **GIT** though its exact mechanism is not known.
+## Hypomagnesemia
 * *Causes:*  
   * Chronic alcoholism  
   * Diabetic ketoacidosis  
@@ -621,10 +328,7 @@ POTASSIUM
 * *Management:*  
   * Oral magnesium salts/magnesium rich foods  
   * Iv magnesium administration
-
- 
-
-***HYPERMAGNESEMIA***
+## Hypermagnesemia
 
 * *Causes:*  
   * Renal failure, Addison’s disease, excessive use of antacids or laxatives, hyperaldosteronism  
@@ -640,12 +344,90 @@ POTASSIUM
     * Antidote: Calcium gluconate (kept available)  
   * Monitor vital signs  
   * Provide health teaching
+## Chloride
+**Chloride** (Cl, 98 - 106 mEq/L) is the major ECF anion. It works with sodium to maintain osmotic pressure. It is an important component of **hydrochloric acid** (HCl) produced in the stomach (and is therefore implicated in vomiting). It is an important aspect of [[Unit III#Regulatory Systems|chloride shifting]], an acid-base regulatory system.
+___
+# Fluid Imbalance
+| Fluid Volume Imbalance | Definition                                                                  |
+| ---------------------- | --------------------------------------------------------------------------- |
+| Hypovolemia            | A low volume of fluids in ECF.                                              |
+| Hypervolemia           | A high volume of fluids in ECF.                                             |
+| Third Spacing          | The movement of fluids into interstitial faces, such as cavities or joints. |
+| Dehydration            | A low volume of fluids in both ECF and ICF.                                 |
+## Hypovolemia (Fluid Volume Deficit)
+**Hypovolemia** is a low volume of ECF. The term may be confused with **dehydration**, which is a low volume of fluid in both ECF & ICF.
+1. **Etiology**: a deficit is produced by an inequality between patient intake (lower) and output (higher).
+	* Inadequate fluid intake
+	- Hemorrhage
+	- Prolonged vomiting and diarrhea
+	* Wound loss (especially in [[#Burn Injury]])
+	* Profuse urination or perspiration
+	* [[#Movement of Fluids|Translocation]] of fluid (abdominal cavity)
+2. **Pathophysiology**:  
+	* ↑ HR to maintain adequate CO  
+	* BP falls with postural changes, or it may become severely lowered when blood is rapidly lost  
+	* Hemoconcentration occurs \= ↑ potential for blood clots, urinary stones (compromises kidney’s function to excrete nitrogen wastes)  
+	* Eventually it depletes ICF which can affect cellular functions \= change in mentation  
+3. **Assessment findings**:
+	- Thirst is one of the earliest symptoms of hypovolemia.
+	- ​Weight loss ≥ 2 lbs within 24 hours
+	- ↓BP, inc. Temp, rapid & weak thread pulse, rapid and shallow respiration, scant and dark yellow urine, dry & small volume stool, warm & flushed dry skin, poor skin turgor “tents”, sunken eyes, clear lungs, effortless breathing, weakness, flat jugular veins, reduced cognition, sleepy
+4. **Medical management**: treatment is front by restoring fluid volume and preventing further losses
+    - Treating its etiology
+    * Increasing the volume of oral intake
+    * Administering IVF replacement
+    * Controlling fluid losses
+5. **Health Teaching**:
+	* **Respond to THIRST** because it is an early indication of reduced fluid volume.
+	* Consume at least 8 – 10 (8 ounces) glasses of fluid each day, and more during hot, humid weather.
+	* Drink water as an inexpensive means to meet fluid requirements.
+	* Avoid beverages with alcohol and caffeine. These impose a diuretic effect on the body.
+	* Include a moderate amount of table salt or foods containing sodium each day. Maintaining serum sodium also entails maintaining serum volume.
+	* Rise slowly from a sitting position or lying position to avoid dizziness and potential injury.
+## Hypervolemia (Fluid Volume Excess)
+Hypervolemia is an **excessive volume of water** in the IV compartment.
+1. **Etiology**: an excess is produced by an inequality between patient intake (higher) and output (lower).
+	* Excessive oral intake
+	* Heart failure
+	* Kidney disease
+	* Excessive salt intake
+	* Adrenal gland dysfunction
+	* Administration of corticosteroids (prednisolone)
+2. **Assessment Findings**
+	* Early signs: weight gain, elevated BP, increased breathing effort  
+	* Dependent edema (feet, ankles, sacrum, buttocks)  
+	* Rings, shoes & stockings leave marks in the skin  
+	* Prominent jugular vein when sitting  
+	* Moist breath sounds (fluid congestion in the lungs)
+3. **Diagnostic Findings**
+	* Hemodilution (↓ blood cell count, ↓ hematocrit)  
+	* Low urine SG  
+	* CVP (\>10 cm H<sub>2</sub>O) (\<4 cm H<sub>2</sub>O in FVD)
+4. **Medical Management**
+	* Treat the underlying cause  
+	* Restriction of oral & parenteral fluid intake
+5. **Nursing Management**
+	* Implements prescribed interventions (limiting Na+ & water intake)  
+	* Administering ordered medications  
+	* Elevates client head, legs, change position q2°, apply elastic stockings.
+## Third Spacing
+Translocation of fluid from the IV or intercellular space to tissue compartments, becoming trapped and nonfunctional. It can lead to hypotension, shock, and circulatory failure.
+1. **Etiology**:
+	- ​Loss of colloids (hypoalbuminemia)
+	* Burns
+	* Severe allergic reaction that alter capillary & cellular membrane permeability
+2. **Assessment Findings**:
+	- S/sx of hypovolemia *except weight loss*  
+	* Enlargement of organ cavities (Ascites)  
+	* Anasarca “brawny edema” – generalized edema
+3. **Management**:
+	* Restoration of colloidal osmotic pressure (albumin), then diuretics
+	* Nursing care combines the assessment techniques for detecting both hypovolemia & hypervolemia.  
+	* For patient undergoing **paracentesis**, obtain consent, prepare special equipment (paracentesis set), skin test for anesthesia, then set for skin preparation. Also, allow the patient to void because the needle will be inserted 3 fingerbreadths under the umbilicus, in close proximity to the bladder.
+___
+# Acid-Base Balance
 
- 
-
-**ACID-BASE BALANCE**
-
-* Body fluids contain ACIDS \&BASES aside from electrolytes  
+* Body fluids contain ACIDS \&BASES aside from electrolytes
   * H2CO3  
   * HCO3  
 * Acid and base content influence the pH of the body (amount of H+ in a solution)  
@@ -746,11 +528,9 @@ Respiratory Alkalosis
   * ↑ RR  
   * Lightheadedness, numbness & tingling of the fingers & the toes, circumoral paresthesias, sweating, panic dry mouth, convulsions (severe cases)  
 * ABG: ↑ pH, ↓PaCo2 (normal to low HCO3)  
-* 
-
-**BURN INJURY**
-
-* Traumatic injury to the skin and underlying tissues caused by heat, chemical, & electrical injuries (most severe\!\!\!)  
+___
+# Burn Injury
+* Traumatic injury to the skin and underlying tissues caused by heat, chemical, & electrical injuries (most severe!!!)
   * Thermal burn –most common  
   * Chemical burn, secondary to acids and alkali  
   * Electrical burn– most serious  
@@ -1022,15 +802,9 @@ Monitor serum electrolyte.
 * *Wound care*  
 * *Helps the client & family to cope with the change in body image*  
 * *Health teaching (pressure garments, skin care, etc.)*
-
- 
-
-**Renal Disorders**
-
- 
-
+___
+# Renal Disorders
 Diagnostic tests
-
 1. Urinalysis  
 2. **Urine Culture and Sensitivity test**  
 3. **24° urine collection**  
@@ -1519,9 +1293,8 @@ Peritoneal Dialysis
 * Peritoneum acts as the semi-permeable membrane.
 
  
-
-**Disturbances in Oxygenation**
-
+___
+# Disturbances in Oxygenation
 Components involved in Oxygenation:
 
 * Heart  
@@ -1744,10 +1517,8 @@ Methods:
   * \> 25 – pulmonaryedema  
   * Left sided failure: PCWP and CVP ↑  
   * Right sided failure: CVP ↑, PCWP ↓
-
- 
-
-**Heart Disorders**
+___
+# Heart Disorders
 
 Pericarditis
 
@@ -2223,10 +1994,8 @@ Pulmonary Edema
 * Critically ill: may have pulmonary catheter inserted to measure the pressure readings in the heart chambers & estimates cardiac output  
 * Urinary catheter is inserted to monitor UO  
 * Give proper oxygenation.
-
- 
-
-**Pulmonary Disorders**
+___
+# Pulmonary Disorders
 
 Chronic Airflow Limitations (CAL)
 
@@ -2767,11 +2536,8 @@ Et Tube – insert 8-10 inches of the suction catheter.
 * Teach patient deep breathing and cough exercises pre-op.  
 * POSITION: turn to the unaffected side (segmentectomy, Lobectomy) while to the affected side if Pneumonectomy.  
 * CTT inserted. Pneumonectomy least likely to need chest tube.
-
- 
-
-**Blood and Blood Disorders**
-
+___
+# Blood and Blood Disorders
 * To transport oxygen  
 * Blood formation in the bone marrow à  
 * WBC – body soldiers  
@@ -3252,9 +3018,8 @@ Adrenal cortex – aldosteroneàincreased sodium and water retention
   * **Aldosterone receptor antagonist**  
   * **Beta blockers**“olol”  
     * DOC for hypertensive clients with ischemic heart disease because the heart is the most common target of end-organ damage with hypertension
-
- 
-
+___
+# Vascular Disorders
 Aneurysm
 
 * A permanent localized dilation of an artery, which enlarges the artery to at least 2 times its normal diameter  
@@ -3508,7 +3273,6 @@ Varicosities
   * Venography
 
 **Medical Management:**
-
 * MILD varicose veins  
   * Exercise (walking swimming)  
   * Losing weight  

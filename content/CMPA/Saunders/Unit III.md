@@ -165,7 +165,7 @@ Hypokalemia is a **serum potassium deficiency**, dropping below the lower thresh
 4. **Dilution of serum potassium**:
 	- Water intoxication
 	- IV therapy with potassium-deficient solutions
-### Assessment Data
+### Assessment
 1. **Cardiovascular**:
 	- Thready, weak, irregular pulse; weak peripheral pulses
 	- Orthostatic hypotension
