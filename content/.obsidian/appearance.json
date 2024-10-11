@@ -1,10 +1,10 @@
 {
   "cssTheme": "Light & Bright",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Georgia",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "accentColor": "",
-  "theme": "obsidian",
+  "accentColor": "#3d6c82",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "tables"
   ],
