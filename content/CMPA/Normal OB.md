@@ -8,7 +8,7 @@ description: A summary of Dr. RPS's book on Maternal and Newborn Care, with supp
 ---
 The following discussion is the complete summary of the following notes, based on the 2nd edition of Dr. *Rosalinda Parado Salustiano*'s [Maternal and Newborn Care: A Comprehensive Review Guide](https://cebookshop.com/product/8057035) textbook, and the discussions of Sir Francis Vasquez.
 
-These are the fragmented notes combined into this page:
+These are the notes combined into this page:
 - [[02-18-2024 Normal OB]] (Fertilization, Fetal Development, Discomforts)
 - [[05-05-2024 Normal OB]] (Family Planning and Induction/Augmentation of Labor)
 - [[08-27-2024 Normal OB]] (Anatomy)

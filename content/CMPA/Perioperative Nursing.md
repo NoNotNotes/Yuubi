@@ -58,7 +58,7 @@ The circulating nurse provides assistance to any member of the OR team in any ma
 10. Handle, label, and send tissue samples for analysis.
 11. Record starting time, cutting time, closing time, etc.
 ## Others
-1. **Operating Surgeon**: pre-operative diagnosis and care; actual performance of operation; post-operative management and care. They assume full responsibility as the "*captain of the ship*", providing all medical acts of judgement and management.
+1. **Operating Surgeon**: pre-operative diagnosis and care; actual performance of operation; post-operative management and care. They assume full responsibility as the "*captain of the ship*", providing all medical acts of judgment and management.
 2. **Assisting Surgeons**: those who hold retractors, clamps bleeders, assists in sutures (especially for closure), and suctioning. These individuals may be physicians, non-physicians (clerks, interns, etc.), registered nurse first assistants (RNFA), or well-experienced OR nurses.
 3. **Anesthesiologist**: administers and maintains anesthesia and manages untoward reactions to anesthesia.
 4. **Adjunct Personnel**: additional specialists that may enter as unsterile members of indicated, e.g., a neonatologist for a premature baby born via C.S.

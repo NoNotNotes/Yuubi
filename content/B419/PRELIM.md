@@ -595,8 +595,8 @@ The following is a summary of legal procedures a nurse may become involved in. A
 	- **Subpoena duces tecum**: a subpoena requiring the addition of **records**, **papers**, and the like which may be in their possession and will be pertinent to the issue.
 	- **Testimony of opinion**: the opinion of **expert witnesses** qualified to testify based on special knowledge, skill, experience, and training.
 	- **Ante-mortem statements** or **dying declarations** are considered **hearsay**, except when stated by a victim of a crime.
-7. **Appeals**: if an appeal against a complaint is desired, an **appellate court** reviews the case and forms a final judgement, and the matter is ended.
-8. **Execution of Judgement**: generally, lawsuits against hospitals or healthcare workers involve monetary reimbursement for damages. The defendant is compelled to execute the judgement, or is held in contempt of court if they are not to comply. In such a case, a fine or imprisonment may be imposed.
+7. **Appeals**: if an appeal against a complaint is desired, an **appellate court** reviews the case and forms a final judgment, and the matter is ended.
+8. **Execution of Judgment**: generally, lawsuits against hospitals or healthcare workers involve monetary reimbursement for damages. The defendant is compelled to execute the judgment, or is held in contempt of court if they are not to comply. In such a case, a fine or imprisonment may be imposed.
 >[!ERROR] Telephone Orders
 >Telephone orders are **only to be used in extreme emergency** when there is no alternative. The use of telephones for orders can lead to serious errors and border on malpractice. Confirmation and double-checking if a received order is correct is done and written on the patient's chart, with the nurse's signature and the physician's name to be countersigned by the physician at the next visit within 24 hours.
 ## Consent in Health Care
@@ -630,7 +630,7 @@ A **standard** is the level of performance or quality against which actual pract
 4. **Incompetence**: a lack of ability or legal qualification to be fit to discharge required duties. This is a ground for revocation and suspension of the certificate of registration.
 The nature of crime is further discussed later in this page.
 
-**Nurses**, **nurse trainees**, and **nurse volunteers** are expected to be accountable for their practice, and should exercise utmost caution, critical thinking, and independent judgement to prevent incurring liabilities. **Nursing aides** must be supervised and limited in scope of responsibility as delegated by the nurse.
+**Nurses**, **nurse trainees**, and **nurse volunteers** are expected to be accountable for their practice, and should exercise utmost caution, critical thinking, and independent judgment to prevent incurring liabilities. **Nursing aides** must be supervised and limited in scope of responsibility as delegated by the nurse.
 
 **Nursing students** are not permitted to perform professional nursing duties. They must be supervised, and are only given assignments at their level of training experience and competency. Guidance, orientation, and assessment is required to minimize errors.
 ### Negligence

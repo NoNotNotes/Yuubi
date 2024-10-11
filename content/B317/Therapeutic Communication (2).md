@@ -268,7 +268,7 @@ The nurse's ability to **establish effective communication** in nursing is **imp
 4. [[B317/03-2|Others (read more)]]
 ## Non-therapeutic Communication Techniques (COWARD)
 - **Changing Topics**, **Challenging**, Testing, and Defending
-- Giving **Opinions**, **Advice**, **Value Judgement**, **False Reassurance**
+- Giving **Opinions**, **Advice**, **Value Judgment**, **False Reassurance**
 - "**Why?**" Questions
 - **Asking Yes or No Questions**
 - **Refusing to Listen or Pay Attention**
@@ -283,7 +283,7 @@ The nurse's ability to **establish effective communication** in nursing is **imp
 	- N: "*I'm sure **the doctor has your best interests in mind**.*"
 4. **Testing**: appraisal of the client's degree of insight; **acknowledgement of the client's lack of insight is not helpful**.
 	- "***Do you know what kind of hospital this is?***"
-5. **Opinions and Value Judgement**: these are **opinionated or moral feedback** from the nurse that limit the patient's decision-making, thinking, analysis, and independence.
+5. **Opinions and Value Judgment**: these are **opinionated or moral feedback** from the nurse that limit the patient's decision-making, thinking, analysis, and independence.
 	- "***That's unfair.***"
 6. **Advising**: telling the client **what or how to do things**, which imply that only the nurse know the best for the client.
 	- "***I think you should**...*"
