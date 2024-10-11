@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/d/10-08-2024 MS.md",
+                "file": "CMPA/d/10-09-2024 MS.md",
                 "mode": "preview",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "pneumothorax",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CMPA/d/10-08-2024 MS.md",
+            "file": "CMPA/d/10-09-2024 MS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CMPA/d/10-08-2024 MS.md",
+            "file": "CMPA/d/10-09-2024 MS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CMPA/d/10-08-2024 MS.md"
+            "file": "CMPA/d/10-09-2024 MS.md"
           }
         }
       }
@@ -133,9 +133,12 @@
   },
   "active": "f814b8b44cf0a47d",
   "lastOpenFiles": [
+    "A113/ADPIE.md",
     "CMPA/d/10-09-2024 MS.md",
-    "CMPA/d/10-08-2024 MS.md",
     "CMPA/d/10-07-2024 MS.md",
+    "MS/05.md",
+    "CMPA/d/10-08-2024 MS.md",
+    "MS/RLE/03.md",
     "CMPA/MS1.md",
     "CMPA/d/04-01-2024 MS.md",
     "CMPA/PULMO.md",
@@ -155,9 +158,6 @@
     "CMPA/d/04-02-2024 MS Sensory.md",
     "CMPA/d/04-02-2024 MS.md",
     "B418/Airway and Ventilatory Management (Burns).md",
-    "B418/04-05.md",
-    "B418/01.md",
-    "B418/02-03.md",
-    "CMPA/PROF-AD/01.md"
+    "B418/04-05.md"
   ]
 }
