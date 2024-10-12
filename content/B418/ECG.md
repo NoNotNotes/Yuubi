@@ -3,7 +3,7 @@ tags:
   - B418
   - INC
 title: Electrocardiography
-draft: true
+draft: false
 date: 2024-10-05
 ---
  Electrocardiography (ECG/EKG) is the **graphic recording of the electrical activity (electric potentials) of the heart**. It is a noninvasive and affordable method of monitoring, often readily available in health care facilities. It uses **metal electrodes** attached to the extremities and chest wall to measure electric potential, which is then visualized by the ECG machine.

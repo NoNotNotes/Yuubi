@@ -6,7 +6,8 @@
   "accentColor": "#3d6c82",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "tables"
+    "tables",
+    "drug-callout"
   ],
   "baseFontSize": 16,
   "showViewHeader": false

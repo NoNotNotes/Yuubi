@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "judgement",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 200
   },
   "right": {
     "id": "8a590d21f77c43b6",
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 348.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,8 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9ebabd5c09a2c1d",
+  "active": "5cd6eef0fc1b854f",
   "lastOpenFiles": [
+    "CMPA/d/10-09-2024 MS.md",
+    "CMPA/MS1-Ferrer-1.md",
+    "CMPA/PULMO.md",
+    "CMPA/TFN.md",
+    "CMPA/d/10-07-2024 MS.md",
+    "CMPA/HEMA.md",
+    "CMPA/MS1-Handout.md",
+    "CMPA/d/10-08-2024 MS.md",
+    "CMPA/CARDIO.md",
+    "Untitled.md",
+    "attachments/st_elevation.png",
+    "attachments/die.png",
+    "B418/ECG.md",
     "index.md",
     "A113/O2.md",
     "A113/Elimination.md",
@@ -156,13 +169,7 @@
     "A113/BT.md",
     "CMPA/d/06-23-2024 FUNDA.md",
     "CMPA/d/06-30-2024 FUNDA.md",
-    "CMPA/d/10-07-2024 MS.md",
-    "CMPA/d/10-08-2024 MS.md",
-    "CMPA/d/10-09-2024 MS.md",
-    "CMPA/TFN.md",
-    "CMPA/PULMO.md",
     "Untitled 1.md",
-    "Untitled.md",
     "B317/Therapeutic Communication (2).md",
     "B419/PRELIM.md",
     "CMPA/Perioperative Nursing.md",
@@ -170,11 +177,6 @@
     "B317/03-2.md",
     "B317/02-3.md",
     "B418/02-03.md",
-    "B418/Airway and Ventilatory Management (Burns).md",
-    "B418/08.md",
-    "B418/09.md",
-    "2024-01-01.md",
-    "MS/20-1.md",
     "attachments/references/Pediatrics PPT (Ma'am Aurisita).pdf",
     "attachments/evaluation_checklist.png",
     "attachments/lung_volumes.png",
