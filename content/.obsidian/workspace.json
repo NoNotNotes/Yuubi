@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A113/BT.md",
+                "file": "CMPA/d/10-07-2024 MS.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "right": {
     "id": "8a590d21f77c43b6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A113/BT.md",
+                "file": "CMPA/d/10-07-2024 MS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A113/BT.md",
+                "file": "CMPA/d/10-07-2024 MS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A113/BT.md"
+                "file": "CMPA/d/10-07-2024 MS.md"
               }
             }
           }
@@ -147,14 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cd6eef0fc1b854f",
+  "active": "c9ebabd5c09a2c1d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
-    "CMPA/TFN.md",
+    "index.md",
     "A113/O2.md",
-    "A113/BT.md",
+    "A113/Elimination.md",
     "A113/ADPIE.md",
+    "A113/BT.md",
+    "CMPA/d/06-23-2024 FUNDA.md",
+    "CMPA/d/06-30-2024 FUNDA.md",
+    "CMPA/d/10-07-2024 MS.md",
+    "CMPA/d/10-08-2024 MS.md",
+    "CMPA/d/10-09-2024 MS.md",
+    "CMPA/TFN.md",
+    "CMPA/PULMO.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "B317/Therapeutic Communication (2).md",
     "B419/PRELIM.md",
     "CMPA/Perioperative Nursing.md",
@@ -167,14 +175,6 @@
     "B418/09.md",
     "2024-01-01.md",
     "MS/20-1.md",
-    "MS/21-1.md",
-    "MS/22-6.md",
-    "MS/20-4.md",
-    "MS/19.md",
-    "MS/20-2.md",
-    "MS/20-3.md",
-    "MS/22-4.md",
-    "MS/22-5.md",
     "attachments/references/Pediatrics PPT (Ma'am Aurisita).pdf",
     "attachments/evaluation_checklist.png",
     "attachments/lung_volumes.png",

@@ -1,6 +1,6 @@
 ---
 title: No, Not Notes
-description: Everything I'll ever study
+description: A collection of all of my notes and studies. My second brain, basically. Everything will be for available basically forever for free.
 ---
 <script type="text/javascript">
     function generateCountdown() {

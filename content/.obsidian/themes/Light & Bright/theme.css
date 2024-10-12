@@ -99,6 +99,9 @@ body{
   --h6-size: 1em;
   --h2-font: 'Poppins';
   --h3-font: 'Poppins';
+  --h4-font: 'Poppins';
+  --h5-font: 'Poppins';
+  --h6-font: 'Poppins';
   --h2-weight: 400;
   --h3-weight: 400;
   --h4-weight: 400;
