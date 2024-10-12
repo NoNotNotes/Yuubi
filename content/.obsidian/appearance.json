@@ -4,7 +4,7 @@
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "accentColor": "#3d6c82",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "tables"
   ],
