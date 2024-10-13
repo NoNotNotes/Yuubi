@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fc729fc383698884",
@@ -131,17 +131,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f814b8b44cf0a47d",
+  "active": "a0564ff8f28624e4",
   "lastOpenFiles": [
-    "CMPA/d/06-23-2024 FUNDA.md",
+    "A113/ADPIE.md",
     "CMPA/10-13-2024 FUNDA.md",
+    "attachments/st_elevation.png",
+    "CMPA/MS1-Handout.md",
+    "CMPA/MS1-Ferrer-1.md",
+    "CMPA/d/06-23-2024 FUNDA.md",
     "CMPA/d/08-26-2024 LM.md",
     "CMPA/d/05-19-2024 FEDN.md",
     "CMPA/d/06-30-2024 FUNDA.md",
     "CMPA/d/10-07-2024 MS.md",
     "CMPA/d/10-08-2024 MS.md",
     "CMPA/d/10-09-2024 MS.md",
-    "A113/ADPIE.md",
     "MS/05.md",
     "MS/RLE/03.md",
     "CMPA/MS1.md",
@@ -155,9 +158,6 @@
     "CMPA/d/04-04-2024 MS.md",
     "CMPA/CARDIO.md",
     "CMPA/Saunders/Unit III.md",
-    "MS/33-01.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "CMPA/HEMA.md"
+    "MS/33-01.md"
   ]
 }
