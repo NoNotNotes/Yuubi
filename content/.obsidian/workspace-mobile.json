@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/10-13-2024 FUNDA.md",
+                "file": "CMPA/MS1-Handout.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "trypsin",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CMPA/10-13-2024 FUNDA.md",
+            "file": "CMPA/MS1-Handout.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CMPA/10-13-2024 FUNDA.md",
+            "file": "CMPA/MS1-Handout.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CMPA/10-13-2024 FUNDA.md"
+            "file": "CMPA/MS1-Handout.md"
           }
         }
       }
@@ -131,12 +131,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0564ff8f28624e4",
+  "active": "f814b8b44cf0a47d",
   "lastOpenFiles": [
+    "MS/RLE/01.md",
+    "CMPA/MS1-Handout.md",
     "A113/ADPIE.md",
     "CMPA/10-13-2024 FUNDA.md",
+    "CMPA/RPS MNC/03.md",
+    "CMPA/Normal OB.md",
+    "CMPA/CHN.md",
     "attachments/st_elevation.png",
-    "CMPA/MS1-Handout.md",
     "CMPA/MS1-Ferrer-1.md",
     "CMPA/d/06-23-2024 FUNDA.md",
     "CMPA/d/08-26-2024 LM.md",
@@ -155,9 +159,6 @@
     "CMPA/d/06-19-2024 MS.md",
     "CMPA/d/02-20-2024 Abnormal OB.md",
     "CMPA/d/04-03-2024 MS.md",
-    "CMPA/d/04-04-2024 MS.md",
-    "CMPA/CARDIO.md",
-    "CMPA/Saunders/Unit III.md",
-    "MS/33-01.md"
+    "CMPA/d/04-04-2024 MS.md"
   ]
 }

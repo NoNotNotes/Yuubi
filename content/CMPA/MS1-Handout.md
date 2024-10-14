@@ -173,127 +173,126 @@ The **Sodium-Potassium Pump** maintains normal serum potassium levels by moving 
 >- One medium **avocado** contains approximately 1097 mg of potassium.
 >- One medium **banana** contains approximately 451 mg of potassium.
 
-## Hypokalemia
-* *Causes:*  
-  * K+ wasting diuretics (Furosemide \[Lasix\], Ethacrynic acid \[Edecrin\], Hydrochlorothiazide \[HydroDIURIL\])  
-  * Severe vomiting & diarrhea, prolonged suctioning  
-  * Large doses of corticosteroids  
-  * IV administration of insulin & glucose  
-  * Prolonged administration of nonelectrolyte parenteral fluids  
-  * Severe dieting or starvation  
-* *Signs and symptoms:*  
-  * Fatigue  
-  * Weakness  
-  * Anorexia  
-  * N\&V  
-  * Cardiac dysrhythmias  
-  * Muscle weakness, paresthesia  
-  * Severe: hypotension, flaccid paralysis, DEATH from cardiac arrest/ respiratory arrest  
-* *ECG changes*  
-  * ST-segment depression  
-  * Flat or inverted T wave  
-  * Increased U wave –\!  
-* *Treatment:*  
-  * Elimination of the cause  
-  * Substitute K-wasting with K-Sparing diuretics (Spironolactone \[Aldactone\])  
-  * Increased oral intake of K-rich foods/K supplements (mild cases)  
-  * KCL (severe cases)
-
-## Hyperkalemia
-
-* *Causes:*  
-  * Renal failure – never hypokalemia\!  
-  * Severe burns (during first 24-48 hours àthe damaged cells releases potassium)  
-  * Administration of K-sparing diuretics  
-  * Overuse of K supplements, salt substitutes (which contain K instead of Na), potassium rich foods  
-  * Crushing injuries  
-  * Addison’s disease  
-  * Rapid administration of parenteral K salts  
-* *Signs and symptoms:*  
-  * Diarrhea  
-  * Nausea  
-  * Muscle weakness  
-  * Paresthesia  
-  * Cardiac dysrhythmias  
-    * Peak T waves – Most telling sign\!  
-    * Prolonged PR intervals  
-    * Flat or absent P wave  
-    * Wide QRS complex  
-  * *Management:*  
-    * Treatment: depends on the cause  
+### Hypokalemia
+1. **Etiology**:
+	* K+ wasting diuretics (Furosemide \[Lasix\], Ethacrynic acid \[Edecrin\], Hydrochlorothiazide \[HydroDIURIL\])
+	* Severe vomiting & diarrhea, prolonged suctioning  
+	* Large doses of corticosteroids  
+	* IV administration of insulin & glucose  
+	* Prolonged administration of nonelectrolyte parenteral fluids  
+	* Severe dieting or starvation  
+2. **Manifestations**:
+	* Fatigue  
+	* Weakness  
+	* Anorexia  
+	* N&V  
+	* Cardiac dysrhythmias  
+	* Muscle weakness, paresthesia  
+	* Severe: hypotension, flaccid paralysis, DEATH from cardiac arrest/respiratory arrest  
+3. **ECG Changes**
+	* ST-segment depression  
+	* Flat or inverted T wave  
+	* **Increased U wave** (distinct— remember "*hypukalemia*")
+4. **Treatment**:
+	* Elimination of the cause  
+	* Substitute K-wasting with K-Sparing diuretics (Spironolactone \[Aldactone\])  
+	* Increased oral intake of K-rich foods/K supplements (mild cases)  
+	* KCl (severe cases)
+### Hyperkalemia
+1. ​**Causes**:  
+	* Renal failure – never hypokalemia\!
+	* Severe burns (during the first 24-48 hours, the damaged cells releases potassium)  
+	* Administration of K-sparing diuretics  
+	* Overuse of K supplements, salt substitutes (which contain K instead of Na), potassium rich foods  
+	* Crushing injuries  
+	* Addison’s disease  
+	* Rapid administration of parenteral K salts  
+2. **Manifestations**:
+	* Diarrhea  
+	* Nausea  
+	* Muscle weakness  
+	* Paresthesia  
+	* Cardiac dysrhythmias  
+		* Peak T waves – Most telling sign\!  
+		* Prolonged PR intervals  
+		* Flat or absent P wave  
+		* Wide QRS complex  
+3. **Management**:  
+    * Treatment: depends on the cause
     * Decrease K-rich food intake, d/c oral potassium replacement until laboratory values are normal (mild cases)  
     * Administration of cation-exchange resin like sodium polystyrene sulfonate (kayexalate—given ORAL or ENEMA) or combination of IV regular insulin & glucose (severe cases)  
     * Peritoneal dialysis/hemodialysis
-* *Nursing management:*  
-  * Assess clients for conditions with potential to cause potassium imbalances  
-  * Identify signs and symptoms  
-  * Monitor laboratory findings  
-  * Administer medications  
-    * KCl – diluted in an IV solution & administered at a rate below 10 mEq/hr
+4. **Nursing Management**:  
+	* Assess clients for conditions with potential to cause potassium imbalances  
+	* Identify signs and symptoms  
+	* Monitor laboratory findings  
+	* Administer medications  
+		* KCl – diluted in an IV solution & administered at a rate below 10 mEq/hr
 ## Calcium
 **Calcium** (Ca<sup>+</sup>, 9 – 10.5 mg/dL) is important for **bone strength and density**, activation of enzymes or reactions, **skeletal/cardiac muscle contraction**, nerve impulse transmission, and blood clotting. It exists in two forms when in the serum: **bound** and **unbound** calcium. Those bound are unable to exert their effects, as their are attached to proteins (albumin).
 
 The **parathyroid glands** are major contributors in regulating calcium through the hormones **PTH** (mobilizes calcium, promoting demineralization of the bone) and **Thyrocalcitonin** (increases deposition of calcium into bone, inhibits calcium resorption). Additionally, **Vitamin D** aids in gastrointestinal absorption of calcium.
-## Hypocalcemia
-* *Causes:*  
-  * D deficiency  
-  * Hypoparathyroidism  
-  * Acute pancreatitis  
-  * Corticosteroids  
-  * Rapid administration of multiple units of blood that contain an anticalcium additive blood that contain an anticalcium additive  
-  * Intestinal malabsorption \--  
-  * Accidental removal of parathyroid glands  
-* *Signs and symptoms*  
-  * Tingling sensations (extremities, around the mouth)  
-  * Muscle and abdominal cramps  
-  * Carpopedal spasms (+Trousseau’s sign)  
-  * Mental changes  
-  * \+ Chvostek’s sign (spasm of facial muscle)  
-  * Laryngeal spasms  
-  * Tetany (muscle twitching)  
-  * Seizures  
-  * Bleeding  
-  * Cardiac dysrhythmias  
-* *Treatment:*  
-  * Administration of oral Calcium & vitamin D (mild cases)  
-  * IV administration of Ca++ salts (calcium gluconate) – severe cases
-## Hypercalcemia
-* *Associated with*  
-  * Parathyroid gland tumors  
-  * Multiple fractures  
-  * Paget’s disease  
-  * Hyperparathyroidism  
-  * Excessive doses of vitamin D  
-  * Prolonged immobilization  
-  * Certain malignant diseases (multiple myeloma, acute leukemia, lymphomas)  
-* *Signs and symptoms:*  
-  * Deep bone pain  
-  * Constipation, anorexia, N\&V  
-  * Polyuria, Thirst  
-  * Pathologic fractures  
-  * Mental changes (decreased memory and attention span)  
-  * Kidney stones (calciuriaàpresence of calcium in urine, precipitates kidney stone)  
-* *Management:*  
-  * Determining & correcting the cause  
-  * Increase fluid intake and limit calcium consumption (mild cases)  
-  * 45% or 0.9% NaCl (acute cases) and diuretics: furosemide (Lasix); oral phosphates; calcitonin (Cibacalcin)  
-  * Corticosteroids or plicamycin (Mithracin)– used for malignant diseases that do not respondto other forms of therapy  
-* *Nursing management*for **Hypocalcemia**:  
-* Closely monitor for neurologic manifestations (tetany, seizures, spasms)  
-  * Seizure precautions  
-  * Provide bed rest for comfort, avoid falls  
-* Cardiac dysrhythmias & airway obstructions  
-* Check for signs of bruising or bleeding  
-* *Nursing Management*for **Hypercalcemia:**  
-* Encourage increased fluid intake  
-* Collaborates with dietitians to limits food sources of Ca++  
-* Ambulation as tolerated\!  
-* Provide assistance; avoid falls
-* **Heath Teaching for Calcium Imbalances**  
-  * Follow the physician’s recommendations regarding the addition or restriction of Ca++ to the diet  
-    * Milk and dairy products, turnips, mustard greens, collards, kale, broccoli, canned fish with bones, Calcium-fortified orange juice  
-  * Lactose-free milk and nonprescription lactase enzymes are available for lactose-intolerant clients.  
-  * Take prescribed or physician-recommended drugs as directed; do not exceed or omit a dose
+### Hypocalcemia
+1. **Etiology**:  
+	* Vitamin D deficiency
+	* Hypoparathyroidism  
+	* Acute pancreatitis  
+	* Corticosteroids  
+	* Rapid administration of multiple units of blood that contain an anticalcium additive blood that contain an anticalcium additive  
+	* Intestinal malabsorption
+	* Accidental removal of parathyroid glands  
+2. **Manifestations**:  
+	* Tingling sensations (extremities, around the mouth)  
+	* Muscle and abdominal cramps  
+	* Carpopedal spasms (Positive Trousseau’s sign)  
+	* Mental changes  
+	* Positive Chvostek’s sign (spasm of facial muscle)  
+	* Laryngeal spasms  
+	* Tetany (muscle twitching)  
+	* Seizures  
+	* Bleeding  
+	* Cardiac dysrhythmias  
+3. **Management**:
+	* Administration of oral Calcium & vitamin D (mild cases)
+	* IV administration of Ca++ salts (calcium gluconate) – severe cases
+4. **Nursing Management**:
+	* Closely monitor for neurologic manifestations (tetany, seizures, spasms)  
+	* Seizure precautions  
+	* Provide bed rest for comfort, avoid falls  
+	* Cardiac dysrhythmias & airway obstructions  
+	* Check for signs of bruising or bleeding
+### Hypercalcemia
+1. **Etiology**:
+	* Parathyroid gland tumors  
+	* Multiple fractures  
+	* Paget’s disease  
+	* Hyperparathyroidism  
+	* Excessive doses of vitamin D  
+	* Prolonged immobilization  
+	* Certain malignant diseases (multiple myeloma, acute leukemia, lymphomas)  
+2. **Manifestations**:
+	* Deep bone pain  
+	* Constipation, anorexia, N\&V  
+	* Polyuria, Thirst  
+	* Pathologic fractures  
+	* Mental changes (decreased memory and attention span)  
+	* Kidney stones (calciuria = presence of calcium in urine, precipitates kidney stone)  
+3. **Management**:
+	* Determining & correcting the cause  
+	* Increase fluid intake and limit calcium consumption (mild cases)  
+	* 45% or 0.9% NaCl (acute cases) and diuretics: furosemide (Lasix); oral phosphates; calcitonin (Cibacalcin)  
+	* Corticosteroids or plicamycin (Mithracin)– used for malignant diseases that do not respondto other forms of therapy    
+4. **Nursing Management**:
+	* Encourage increased fluid intake  
+	* Collaborates with dietitians to limits food sources of Ca++  
+	* Ambulation as tolerated\!  
+	* Provide assistance; avoid falls
+
+>[!INFO] Heath Teaching for Calcium Imbalances
+>* Follow the physician’s recommendations regarding the addition or restriction of Ca++ to the diet
+>* Milk and dairy products, turnips, mustard greens, collards, kale, broccoli, canned fish with bones, Calcium-fortified orange juice  
+>* Lactose-free milk and nonprescription lactase enzymes are available for lactose-intolerant clients.  
+>* Take prescribed or physician-recommended drugs as directed; do not exceed or omit a dose
 ## Phosphorus
 **Phosphorus** (3 – 4.5 mg/dL) is the major anion in ICF. Most of it (80%) is stored in the bones. It plays a role in activating B-complex vitamins, in ATP, in acid-base balance, and calcium homeostasis (it has a balanced reciprocal relationship with calcium).
 
@@ -305,46 +304,48 @@ Phosphorus is also regulated by **PTH**, because of its reciprocal relationship 
 
 Magnesium is regulated by the **kidneys** and **GIT** though its exact mechanism is not known.
 ## Hypomagnesemia
-* *Causes:*  
-  * Chronic alcoholism  
-  * Diabetic ketoacidosis  
-  * Severe renal disease (polyuric phase)  
-  * Severe burns  
-  * Severe malnutrition  
-  * PIH  
-  * Intestinal malabsorption syndromes  
-  * Excessive diuresis (drug induced)  
-  * Hyperaldosteronism  
-  * Prolonged gastric suction  
-* *Signs and symptoms*  
-  * Tachycardia and other dysrhythmias  
-  * Increased neuromuscular irritability  
-  * Paresthesia of the extremities  
-  * Leg and foot cramps  
-  * Hypertension  
-  * Mental changes  
-  * (+) Chvostek’s and Trousseau’s sign  
-  * Dysphagia  
-  * Seizures  
-* *Management:*  
-  * Oral magnesium salts/magnesium rich foods  
-  * Iv magnesium administration
-## Hypermagnesemia
-
-* *Causes:*  
-  * Renal failure, Addison’s disease, excessive use of antacids or laxatives, hyperaldosteronism  
-* *Signs and symptoms:*  
-  * Flushing, warmth, hypotension, lethargy, drowsiness, bradycardia, muscle weakness, depressed respirations, coma  
-* *Management:*  
-  * Decreased oral magnesium intake  
-  * Discontinue parenteral replacement  
-  * Hemodialysis (severe cases)  
-* **Nursing management for Magnesium Imbalances**  
-  * Closely observe for dysrhythmias and early signs of neuromuscular irritability  
-  * If giving MgSO4, always check the BP\!\!\! (vasodilation)  
-    * Antidote: Calcium gluconate (kept available)  
-  * Monitor vital signs  
-  * Provide health teaching
+1. **Etiology**:
+	* Chronic alcoholism  
+	* Diabetic ketoacidosis  
+	* Severe renal disease (polyuric phase)  
+	* Severe burns  
+	* Severe malnutrition  
+	* PIH  
+	* Intestinal malabsorption syndromes  
+	* Excessive diuresis (drug induced)  
+	* Hyperaldosteronism  
+	* Prolonged gastric suction  
+2. **Manifestations**:
+	* Tachycardia and other dysrhythmias  
+	* Increased neuromuscular irritability  
+	* Paresthesia of the extremities  
+	* Leg and foot cramps  
+	* Hypertension  
+	* Mental changes  
+	* (+) Chvostek’s and Trousseau’s sign  
+	* Dysphagia  
+	* Seizures  
+3. **Management**:
+	* Oral magnesium salts/magnesium rich foods  
+	* IV magnesium administration
+### Hypermagnesemia
+1. **Etiology**:
+	* Renal failure
+	* Addison’s disease
+	* Excessive use of antacids or laxatives
+	* Hyperaldosteronism  
+2. **Manifestations**:
+	* Flushing, warmth, hypotension, lethargy, drowsiness, bradycardia, muscle weakness, depressed respirations, coma  
+3. **Management**:  
+	* Decreased oral magnesium intake  
+	* Discontinue parenteral replacement  
+	* Hemodialysis (severe cases)  
+4. **Nursing management for Magnesium Imbalances**:
+	* Closely observe for dysrhythmias and early signs of neuromuscular irritability  
+	* If giving MgSO4, always check the BP\!\!\! (vasodilation)  
+		* Antidote: Calcium gluconate (kept available)
+	* Monitor vital signs  
+	* Provide health teaching
 ## Chloride
 **Chloride** (Cl, 98 - 106 mEq/L) is the major ECF anion. It works with sodium to maintain osmotic pressure. It is an important component of **hydrochloric acid** (HCl) produced in the stomach (and is therefore implicated in vomiting). It is an important aspect of [[Unit III#Regulatory Systems|chloride shifting]], an acid-base regulatory system.
 ___
@@ -429,292 +430,216 @@ ___
 # Acid-Base Balance
 
 * Body fluids contain ACIDS \&BASES aside from electrolytes
-  * H2CO3  
-  * HCO3  
+	* H2CO3  
+	* HCO3  
 * Acid and base content influence the pH of the body (amount of H+ in a solution)  
 * Normal plasma pH is maintained by  
-  * Chemical regulation(bicarbonate-carbonic acid buffer system) 20:1  
-    * Adding/removing H+ ions  
-  * Respiratory & renal regulation  
-    * Releasing & conserving CO2  
-    * Retaining or excreting HCO3
-
-*Respiratory mechanism:*
-
-*Renal Mechanism:*
-
-1. Reabsorption of bicarbonate  
-2. Production of ammonia  
-3. Net secretion of H+
-
- 
-
-Metabolic Acidosis
-
+	* Chemical regulation (bicarbonate-carbonic acid buffer system) 20:1
+		* Adding/removing H+ ions
+	* Respiratory regulation: releasing & conserving CO2
+	* Renal regulation: retaining or excreting HCO3, production of ammonia, and net section of H+
+## Metabolic Acidosis
 * There is increased organic acids (other than carbonic acid) or decreased bicarbonate)  
-* Causes:  
-  * Anaerobic metabolism (formation of byproduct lactic acid) \= shock and cardiac arrest  
-  * Starvation, diabetic ketoacidosis (more common in type 1 DM) \= fatty acids accumulation  
-  * Kidney failure (cannot reabsorption HCO3)  
-  * Aspirin (overdose, profuse diarrhea (potassium and bicarbonate lost), intestinal wound drainage  
-* Assessment findings:  
-  * Kussmaul’s breathing (deep and rapid breathing)  
-  * Anorexia, nausea and vomiting, headache, confusion, flushing, lethargy, malaise, drowsiness, abdominal pain or discomfort, weakness  
-  * Cardiac dysrhythmias can develop, force of cardiac contraction can be weakened  
-  * Stupor & coma (severe cases)  
-* ABG: ↓pH, ↓HCO3 (Normal to low PaCO2)  
-* Medical management:  
-  * Treating the cause & replacing F\&E that may have been lost  
-    * Digoxin/digitalis – CHF  
-    * Antibiotic – septic shock  
-    * Fluid replacement – hypovolemic shock  
-    * Epinephrine \+ atropine sulfate – cardiac arrest  
-    * Insulin (esp. fast-acting) – if DKA  
-  * IV bicarbonate (severe cases)
-
- 
-
-Metabolic Alkalosis
-
-* There is increased bicarbonate or decreased H+ ion concentrations  
-  * Excessive oral or parenteral use of bicarbonate-containing drugs or alkaline salts  
-  * Rapid decrease in ECF (Diuretic therapy)  
-  * Vomiting, prolonged gastric suctioning, hypokalemia, hyperaldosteronism (retention of sodium bicarbonate)  
-* Assessment findings:
-
-\*\* CNS irritability
-
-* Anorexia, nausea and vomiting, circumoral paresthesias, confusion, carpopedal spasm, hypertonic reflexes, tetany  
-* ↓RR (compensatory effort)  
-* ABG: ↑pH, ↑HCO3 (Normal to ↑ PaCO2)  
-* Medical management:  
-  * Eliminating the cause  
-  * Prescribing potassium (K+) to correct hypokalemia  
-  * NaCl if there is rapid ECF volume depletion
-
- 
-
-Respiratory Acidosis (Acute/Chronic)
-
-* Causes:  
-  * Pneumothorax – air, because of chest trauma  
-  * Hemothorax \- blood  
-  * Pulmonary edema  
-  * Acute bronchial asthma – bronchospasm, with secretion  
-  * Atelectasis  
-  * Pneumonia  
-  * Drug overdose – narcotics  
-  * Head injuries – s/t vehicular accident, GSW, falls  
-  * Chronic – emphysema, bronchiectasis, bronchial asthma  
-* Assessment findings:  
-  * Client may breathe slowly or irregularly, or stop breathing  
-  * Decreased respiratory volumes  
-  * Tachycardia (dysrhythmias), cyanosis  
-  * Behavioral changes – mental cloudiness, confusion, disorientation, hallucinations (accumulation of CO2)  
-  * Tremors, muscle twitching, flushed skin, headache, weakness, stupor, coma  
-* ABG: ↓ pH, ↑PaCo2 (Normal to ↑ HCO3)  
-* Medical management:  
-  * Treatment is individualized depending on the cause of imbalance  
-  * Mechanical ventilation (may be necessary to support respiratory function)  
-  * IV NaHCO3 if venti\`lation efforts do not adequately restore a balanced pH  
-  * Bronchodilators, antibiotics, airway suctioning
-
- 
-
-Respiratory Alkalosis
-
-* Results from carbonic acid deficit  
-  * Anxiety, high fever, thyrotoxicosis, early salicylate (aspirin) poisoning, mechanical ventilation  
-* Assessment findings:  
-  * ↑ RR  
-  * Lightheadedness, numbness & tingling of the fingers & the toes, circumoral paresthesias, sweating, panic dry mouth, convulsions (severe cases)  
-* ABG: ↑ pH, ↓PaCo2 (normal to low HCO3)  
+1. **Etiology**:  
+	* Anaerobic metabolism (formation of byproduct lactic acid) \= shock and cardiac arrest  
+	* Starvation, diabetic ketoacidosis (more common in type 1 DM) \= fatty acids accumulation  
+	* Kidney failure (cannot reabsorption HCO3)  
+	* Aspirin (overdose, profuse diarrhea (potassium and bicarbonate lost), intestinal wound drainage  
+2. **Manifestations**:
+	* Kussmaul’s breathing (deep and rapid breathing)  
+	* Anorexia, nausea and vomiting, headache, confusion, flushing, lethargy, malaise, drowsiness, abdominal pain or discomfort, weakness  
+	* Cardiac dysrhythmias can develop, force of cardiac contraction can be weakened  
+	* Stupor & coma (severe cases)  
+	* **ABG**: ↓ pH, ↓ HCO3 (Normal to low PaCO2)  
+3. **Medical Management**:  
+	* Treating the cause & replacing F\&E that may have been lost  
+		* Digoxin/digitalis – CHF  
+		* Antibiotic – septic shock  
+		* Fluid replacement – hypovolemic shock  
+		* Epinephrine \+ atropine sulfate – cardiac arrest  
+		* Insulin (esp. fast-acting) – if DKA  
+	* IV bicarbonate (severe cases)
+## Metabolic Alkalosis
+There is increased bicarbonate or decreased H+ ion concentrations
+1. **Etiology**:
+	* Excessive oral or parenteral use of bicarbonate-containing drugs or alkaline salts  
+	* Rapid decrease in ECF (Diuretic therapy)  
+	* Vomiting, prolonged gastric suctioning, hypokalemia, hyperaldosteronism (retention of sodium bicarbonate)  
+2. **Manifestations**:
+	* CNS irritability
+	* Anorexia, nausea and vomiting, circumoral paresthesias, confusion, carpopedal spasm, hypertonic reflexes, tetany  
+	* ↓RR (compensatory effort)  
+	* ABG: ↑pH, ↑HCO3 (Normal to ↑ PaCO2)  
+3. **Medical Management**:  
+	* Eliminating the cause  
+	* Prescribing potassium (K+) to correct hypokalemia  
+	* NaCl if there is rapid ECF volume depletion
+## Respiratory Acidosis (Acute/Chronic)
+1. **Etiology**:  
+	* Pneumothorax – air, because of chest trauma  
+	* Hemothorax \- blood  
+	* Pulmonary edema  
+	* Acute bronchial asthma – bronchospasm, with secretion  
+	* Atelectasis  
+	* Pneumonia  
+	* Drug overdose – narcotics  
+	* Head injuries – s/t vehicular accident, GSW, falls  
+	* Chronic – emphysema, bronchiectasis, bronchial asthma  
+2. **Manifestations**:  
+	* Client may breathe slowly or irregularly, or stop breathing  
+	* Decreased respiratory volumes  
+	* Tachycardia (dysrhythmias), cyanosis  
+	* Behavioral changes – mental cloudiness, confusion, disorientation, hallucinations (accumulation of CO2)  
+	* Tremors, muscle twitching, flushed skin, headache, weakness, stupor, coma  
+	* ABG: ↓ pH, ↑ PaCo2 (Normal to ↑ HCO3)  
+3. **Medical Management**:  
+	* Treatment is individualized depending on the cause of imbalance  
+	* Mechanical ventilation (may be necessary to support respiratory function)  
+	* IV NaHCO3 if venti\`lation efforts do not adequately restore a balanced pH  
+	* Bronchodilators, antibiotics, airway suctioning
+## Respiratory Alkalosis
+1. **Etiology**: results from carbonic acid deficit
+	* Anxiety, high fever, thyrotoxicosis, early salicylate (aspirin) poisoning, mechanical ventilation 
+2. **Manifestations**:  
+	* ↑ RR  
+	* Lightheadedness, numbness & tingling of the fingers & the toes, circumoral paresthesias, sweating, panic dry mouth, convulsions (severe cases)  
+	* **ABG**: ↑ pH, ↓PaCo2 (normal to low HCO3)  
 ___
 # Burn Injury
-* Traumatic injury to the skin and underlying tissues caused by heat, chemical, & electrical injuries (most severe!!!)
-  * Thermal burn –most common  
-  * Chemical burn, secondary to acids and alkali  
-  * Electrical burn– most serious  
-  * Radiation burn – least common  
-* Degree of tissue damage is related to:  
-  * What agentcaused the burn  
-  * Temperatureof the burning agent  
-  * Durationof contact with the agent  
-  * Thicknessof the skin  
+Traumatic injury to the skin and underlying tissues caused by heat, chemical, & electrical injuries (most severe!!!)
+* Thermal burn –most common  
+* Chemical burn, secondary to acids and alkali  
+* Electrical burn– most serious  
+* Radiation burn – least common  
+
+Degree of tissue damage is related to:  
+* What agent caused the burn  
+* Temperature of the burning agent  
+* Duration of contact with the agent  
+* Thickness of the skin
+
 * Immediate initial cause of cell damage is heat  
-  * Coagulation of CHONs in the cells  
-  * Tissue liquefaction  
-  * Electrical burn: internal damage (cardiac dysrhythmias, CNS complications)
-
- 
-
-Pathophysiology
-
-* Serious burns cause various neuroendocrine changes within the 1st24 hr  
-  * ACTH & ADH (released in response to hypovolemia)  
-    * Mineralocorticoid (aldosterone) \= Na+ retention, peripheral edema, oliguria  
-    * Glucocorticoids \= causes hyperglycemia  
-  * Client eventually enters hypermetabolic state to compensate for the accelerated tissue catabolism (increased O2 & nutrition demand)  
-  * Intravascular fluid deficit:  
-  * After a burn, fluid from the body moves toward the burn area \= edema at the burn site  
-  * Fluid lost (water vapor & seepage)
-
- 
-
-* Affects fluid and electrolyte status  
-* Fluid shifting, electrolyte deficit, loss of extracellular CHONs
-
-\*\* 1st24 hours àhyperkalemia, hyponatremia
-
-* Anemia (RBC destruction)à\*\* Hemolytic anemia, increased bilirubin àicteric sclera  
-* Hemoconcentrationàinadequate nutrition to healthy body cells & organs
+* Coagulation of CHONs in the cells  
+* Tissue liquefaction  
+* Electrical burn: internal damage (cardiac dysrhythmias, CNS complications)
+## Pathophysiology
+1. Within the first 24 hours:
+	- **Neuroendocrine changes**:
+		* ACTH & ADH (released in response to hypovolemia)  
+			* Mineralocorticoid (aldosterone) \= Na+ retention, peripheral edema, oliguria  
+			* Glucocorticoids \= causes hyperglycemia  
+		* Client eventually enters hypermetabolic state to compensate for the accelerated tissue catabolism (increased O2 & nutrition demand)  
+	* **Intravascular fluid deficit**:  after a burn, fluid from the body moves toward the burn area \= edema at the burn site. Fluid lost is lost through water vapor & seepage.
+	- Ultimately, this affects **fluid and electrolyte status**: fluid shifting, electrolyte deficit, loss of extracellular CHONs.
+	- **Hyperkalemia**, **hyponatremia**
+	* Anemia (**RBC destruction**): Hemolytic anemia, increased bilirubin, manifesting as icteric sclera  
+	* **Hemoconcentration** results in inadequate nutrition for body cells & organs
 
 **The physiologic action of the sympathetic nervous system compensatory in a burn injury (early phase):**
 
 * Risk for mortality: 90%  
   * \>60 y/o  
   * \>40% of TBSA  
-  * Presence of inhalation injury – inhale superheated smoke and particles of smoke (ex. Carbon monoxide) àedematous airways àpulmonary edema
-
- 
-
-Depth of Burn Injury
-
-* ***Superficial-thickness wounds (1st degree)***  
-  * Epidermis is the only part injured  
-  * Desquamation occurs for 2-3 days after the burn & heals in 3-5 days without a scar or complications  
-    * Sunburn, short (flash) exposure to a high intensity heat  
-  * ***Partial-thickness wound (2nddegree)***  
-    * Entire epidermis & varying depths of the dermis  
+  * Presence of **inhalation injury** – the inhalation of superheated smoke and particles of smoke (ex. carbon monoxide) results in pulmonary edema and edematous airways.
+## Depth of Burn Injury
+1. **First Degree Burn**: superficial-thickness wounds
+	* Epidermis is the only part injured
+	* Desquamation occurs for 2-3 days after the burn & heals in 3-5 days without a scar or complications
+    * Ex. sunburn, short (flash) exposure to a high intensity heat
+ 2. **Second Degree Burn**: partial-thickness wounds
+    * Entire epidermis & varying depths of the dermis
     * 2 types:  
-      * Superficial partial-thickness – dermis \+ upper third of dermis  
-      * Deep partial thickness – dermis \+ 2/3 of dermis  
-1. ***Superficial partial-thickness wound***  
-   * There is involvement of the upper 3rdof the dermis leaving a good blood supply; wounds are **red, moist**, & blanch (whiten) when pressure is applied  
-   * **Blister formation**(leakage of large amount of plasma from the injured small vessels lifting off the destroyed epidermis)  
-   * **Intense pain**due to exposed nerve endings especially when stimulated by touch & temperature changes  
-   * With standard care, heals in 10-21 days with no scar, but some minor pigment changes may occur  
-1. ***Deep partial-thickness wound***  
-* Wounds that extend **deeper into the skin, dermis**and fewer healthy cells remain; wounds are **red and dry**(because of fewer BC are patent)  
-* **NoBlister**formation because deep tissue layer is so thick & sticks to underlying viable dermis that it does not readily lift off the surface  
-* **Lesser degree of pain** (more nerve endings have been destroyed), moderate edema is present  
-* Generally heals in 3-6 weeks with scar formation  
-* ***Full-thickness wound(3rddegree)***  
-  * **Destruction of the entire epidermis & dermis**, leaving no residual epidermal cells to repopulate; wound may be waxy, white, deep red, yellow, brown or black, **hard, dry, leathery eschar**(burn crust) *\[eschar is a dead tissue; it must slough off or can be removed from the burn wound before healing can occur\]*  
-  * **Avascular, no sensation**, healing can take from weeks to months depending on the establishment of a good blood supply to the injured areas.  
-* ***Deep Full-thickness wound (4th degree)***  
-  * Wounds that extend beyond the skin into underlying fascia & tissues  
-  * Damages the muscle, bone, and tendons & leave them exposed  
-  * Wound is blackened and depressed, and sensation is completely absent
-
- 
-
-Extent of Burn Injury
-
-* How big an area of the body is involved  
-* % of burn injury  
-  * Rule of Nines  
-    * Quick initial method  
-    * Disadvantage: overestimation
-
- 
-
-* Special charts & graph (Berkow Method)  
-  * More accurate for evaluating the size of the injury  
-  * Uses a diagram of the body divided into sections, with the representative % of the TBSA for all ages  
-* Palm Method  
-  * Most practical method employed in patients with scattered burns  
-  * The size of the palm of the PATIENT (not the examiner’s) is approximately 1% of the TBSA)
-
- 
-
-Factors Determining Inhalation Injury or Airway Obstruction
-
+		* **Superficial partial-thickness** – dermis + upper third of dermis  
+		* **Deep partial thickness** – dermis + 2/3 of dermis
+	- **Superficial partial-thickness wound
+		* There is involvement of the upper 3rd of the dermis leaving a good blood supply; wounds are **red, moist**, & **blanched** (whiten) when pressure is applied  
+		* **Blister formation**: leakage of large amount of plasma from the injured small vessels lifting off the destroyed epidermis
+		* **Intense pain** due to exposed nerve endings especially when stimulated by touch & temperature changes  
+		* With standard care, heals in 10-21 days with no scar, but some minor pigment changes may occur  
+	- **Deep partial-thickness wound**
+		* Wounds that extend **deeper into the skin, dermis** and fewer healthy cells remain; wounds are **red and dry** (because of fewer BC are patent)  
+		* **No Blister** formation because deep tissue layer is so thick & sticks to underlying viable dermis that it does not readily lift off the surface  
+		* **Lesser degree of pain** (more nerve endings have been destroyed), moderate edema is present  
+		* Generally heals in 3-6 weeks with scar formation
+3. **Third Degree Burn**: full-thickness wound
+	* **Destruction of the entire epidermis & dermis**, leaving no residual epidermal cells to repopulate; wound may be waxy, white, deep red, yellow, brown or black, **hard, dry, leathery eschar** (burn crust). **Eschar** is a dead tissue; it must slough off or can be removed from the burn wound before healing can occur.
+	* **Avascular, no sensation**, healing can take from weeks to months depending on the establishment of a good blood supply to the injured areas.
+4. **Fourth Degree Burn**: deep full-thickness wound
+	* Wounds that extend beyond the skin into underlying fascia & tissues  
+	* Damages the muscle, bone, and tendons & leave them exposed  
+	* Wound is blackened and depressed, and sensation is completely absent
+## Extent of Burn Injury
+How big an area of the body is involved, measured in % of body surface area (%TBSA)
+1. **Rule of Nines**: a quick initial method for determining. Its main disadvantage is an overestimation.
+2. Special charts & graph (**Berkow Method**)  
+	* More accurate for evaluating the size of the injury  
+	* Uses a diagram of the body divided into sections, with the representative % of the TBSA for all ages  
+3. **Palm Method**: the most practical method employed in patients with scattered burns. The size of the patient's palm is approximately 1% of their TBSA.
+## Factors Determining Inhalation Injury or Airway Obstruction
 * Individuals who were injured in a closed space  
 * Clients with extensive burns or with burns of the face  
 * Intra-oral charcoal, especially teeth and gums  
 * Clients who were unconscious at the time of injury  
 * Clients with singed hairs, nasal hairs, eyelids, or eyelashes  
 * Clients who are coughing up carbonaceous sputum  
-* Changes in voice such as hoarseness or brassy cough  
+* Changes in voice such as hoarseness or brassy cough
 * Use of accessory muscles or stridor  
 * Poor oxygenation or ventilation  
 * Edema, erythema, and ulceration of airway mucosa  
 * Wheezing, bronchospasm
+## Medical Management
+Patient outcome depends on the initial first aid provided and the subsequent treatment in the hospital or burn center. Note the life-threatening complications of burn injury: inhalation injury, hypovolemic shock, and infection
+1. **First Goal: Promote Patent Airway**
+	* Initial 1st aid  
+	* Prevent further injury (at the scene of the fire)  
+		* Thermal and chemical burns – running water*to neutralize the heat*  
+		* Burning/on fire – stop, drop, roll
+	- Observe closely for respiratory difficulty (inhalation injury) during transport.
+		* O2 is administered, IV fluid (in ambulance/hospital)  
+	* Quick assessment (extent of burn injury, additional trauma – fractures, head injuries, lacerations)  
+	* Maintain adequate ventilation  
+		* Bronchoscopy (assess internal airway)  
+		* Warmed humidified O2  
+		* ET should be available for insertion (\*\*or Tracheostomy Tube, if with burns on the neck; to improve circulation and ventilation)  
+		* Eschar (a hard leathery crust of dehydrated skin) in the neck area \= tracheostomy  
+		* Monitor VS, ABG, O2 Sat  
+		* vent  
+		* Hyperbaric O2 treatment (100% O2, 3x greater than atmospheric pressure in a specifically designed chamber)
 
- 
+2. **Second Goal: Initiate Fluid Resuscitation**; to restore IVF, prevent tissue and cellular ischemia, and maintain vital organ function. The parameter for success of this phase is a urine output of 0.3 – 0.5 ml/kg/hr.
+	* Fluid replacement regimen is calculated from the time the burn injury occurred.  
+	* Lactated Ringers: alkalinizing sol’n; Na+, Cl-, K+, Ca++ plus Lactate w/c is converted to HCO3in the liver (met. acidosis)  
+	* Assist in CVP insertion
 
-Medical management:
+>[!TIP] Phases of a Burn Injury
+>1. **Shock Phase**
+>	* First 24-48 hours  
+>	* ↑K+, ↓Na+  
+>	* Fluid shift is from intravascular to interstitial  
+>	* Hypotension, hypovolemia  
+>2. **Remobilization Phase**  
+>	* 3rd to 5th day  
+>	* Fluid shift from interstitial to intravascular (shifting back)  
+>	* Px at risk for hypervolemia  
+>	* Slow drip, monitor VS, auscultate lungs, Urine output  
+>	* Most telling sign of adequate fluid replacement: **Hct returns to normal\!**  
+>3. **Wound Healing Phase**
+  >    * 5th day to wound closure
 
-* Outcome depends on the initial 1staid provided and the subsequent treatment in the hospital or burn cancer  
-  * Life threatening:  
-    * Inhalation injury  
-    * Hypovolemic shock  
-    * Infection
-
-**1stgoal: Promote patent airway\!**
-
-* Initial 1staid  
-  * prevent further injury (at the scene of the fire)  
-    * Thermal and chemical burns – running water*to neutralize the heat*  
-    * Burning/on fire – stop, drop, roll  
-  * observed closely for respiratory difficulty closely for respiratory difficulty (inhalation injury) during transport  
-    * O2 is administered, IV fluid (in ambulance/hospital)  
-  * Quick assessment (extent of burn injury, additional trauma – fractures, head injuries, lacerations)  
-  * Maintain adequate ventilation  
-    * Bronchoscopy (assess internal airway)  
-    * Warmed humidified O2  
-    * ET should be available for insertion (\*\*or Tracheostomy Tube, if with burns on the neck; to improve circulation and ventilation)  
-    * Eschar (a hard leathery crust of dehydrated skin) in the neck area \= tracheostomy  
-    * Monitor VS, ABG, O2 Sat  
-    * vent  
-    * Hyperbaric O2 treatment (100% O2, 3x greater than atmospheric pressure in a specifically designed chamber)
-
-**2ndgoal: Initiate fluid resuscitation\!**
-
-* Goal:  
-  * To restore IVF, prevent tissue & cellular ischemia , & maintenance of vital organ function  
-  * UO: 0.3 – 0.5 ml/kg/hr \= successful\!\!\!  
-* Fluid replacement regimen is calculated from the time the burn injury occurred.  
-* Lactated Ringers: alkalinizing sol’n; Na+, Cl-, K+, Ca++ plus Lactate w/c is converted to HCO3in the liver (met. acidosis)  
-* Assist in CVP insertion
-
-*Phases during burn injury:*
-
-1. **Shock Phase**  
-   * First 24-48 hours  
-   * ↑K+, ↓Na+  
-   * Fluid shift is from intravascular to interstitial  
-   * Hypotension, hypovolemia  
-2. **Remobilization Phase**  
-   * 3rdto 5thday  
-   * Fluid shift from interstitial to intravascular (shifting back)  
-   * Px at risk for hypervolemia  
-   * Slow drip, monitor VS, auscultate lungs, Urine output  
-   * Most telling sign of adequate fluid replacement: **Hct returns to normal\!**  
-3. **Wound Healing Phase**  
-   * 5thday to wound closure
-
-**3rd goal: Relieve pain\!**
-
-* Pain  
-  * Morphineis generally the DOC  
-  * Severe: 50 mg/hr  
-  * If respiratory depression occurs: naloxone (Narcan) – narcotic antagonist  
-  * Tetanus Immunization is also administered
-
-**4th goal: Prevent infection\!**
-
+3. **Third Goal: Relieve Pain**
+	* Morphine is generally the DOC  
+	* Severe: 50 mg/hr  
+	* If respiratory depression occurs: naloxone (Narcan) – narcotic antagonist  
+	* Tetanus Immunization is also administered
+4. **Fourth Goal: Prevent Infection**
 * Wound Management  
-  * Wear powder-free sterile glove  
-  * Body hair around the perimeter of the burns is shaved  
-  * Blisters that have ruptured are removed with scissors  
-  * Clean the burned areas to remove the debris  
-    * Open method  
-      * Wound is left uncovered  
-    * Closed method  
-      * Wound is covered  
-    * Open Method (exposed method) àcradle nursing  
+* Wear powder-free sterile glove  
+* Body hair around the perimeter of the burns is shaved  
+* Blisters that have ruptured are removed with scissors  
+* Clean the burned areas to remove the debris  
+    * Open method: wound is left uncovered  
+    * Closed method: wound is covered  
+    * Open Method (exposed method) -> cradle nursing  
       * Abandoned already (except in face & perineum)  
     * Closed Method – current preferred method  
       * Covered first with nonadherent & absorbent dressings (gauze impregnated w/ petroleum jelly or ointment-based antimicrobials)  
