@@ -35,28 +35,38 @@ The medical team handling an patient in the operating room is composed to a mult
 | **Unsterile** | 4. Anesthesiologist<br>5. Circulating Nurse<br>6. Adjunct Personnel                     |
 ## Scrub Nurse
 The scrub nurse is a sterile member, and assists the surgeon during the operation by providing sterile instruments and supplies, counting instruments, or sometimes even basic functions of assistant surgeons such as retracting, suctioning, and assisting in suturing (sponging, cutting).
-1. Receives patient from the surgical ward nurse.
+1. Receives patient from the surgical ward nurse (if circu is busy).
 2. **Prepares and organizes the OR unit** based on the case. (*Another source says circulating nurses does this 1 hour prior to incision time*).
-3. Opens sterile packs and adds sterile supplies and instruments.
-4. Performs **surgical scrubbing, gowning, and gloving**.
-5. Organizes sterile fields and maintains its integrity, safety, and efficiency.
-6. Serves gowns and gloves to surgeons.
-7. Counting of instruments.
-8. Draping.
-9. Announcing cutting time.
+	- Back table
+	- Mayo table
+	- Extra table
+	- OR Table + attachments (arm board, foot board, straps, anesthetic monitor, donut to prevent head from moving)
+	- Equipment for anesthesia, IV
+	- Spinal set
+	- Skin preparation set
+2. Opens sterile packs and adds sterile supplies and instruments.
+3. Performs **surgical scrubbing, gowning, and (closed) gloving**.
+	1. OR attire (scrub suit, shoes, mask, cap)
+	2. Skin integrity, short fingernails, no nail polish
+	3. No persistent cough
+4. Organizes sterile fields and maintains its integrity, safety, and efficiency.
+5. Serves gowns and gloves to surgeons.
+6. Counting of instruments.
+7. Draping.
+8. Announcing cutting time.
 ## Circulating Nurse
 The circulating nurse provides assistance to any member of the OR team in any manner they are qualified for. Circulating nurses are crucial in communication, direction, and safety.
 1. Receives patient from the surgical ward nurse. Endorsement during transfer includes **confirmation of patient identity**, **schedule**, and securing **[[#Consent|informed consent]]**. Discussed later: [[#Preoperative Preparation]]
 2. Establishes rapport with the client.
 3. Places the patient on the OR table and remains with them.
-4. **Position the patient for [[#Sedation|anesthesia]]**. This may be supine or quasi-fetal position depending on the anesthesia being used.
-5. Perform lumbar preparation for spinal or epidural anesthesia.
-6. Catheterize the patient if necessary.
-7. Skin preparation.
+4. **Position the patient for [[#Sedation|anesthesia]]**. This may be supine or quasi-fetal position depending on the anesthesia being used. Relative to the patient, the nurse maintains the fetal position by holding their knees and shoulders from in front of the patient.
+5. Perform lumbar preparation for spinal or epidural anesthesia. The solution used is directly 10% Betadine. 
+6. Catheterize the patient if necessary. For women, use the dorsal recumbent position. For men, supine is sufficient.
+7. Skin preparation. The area prepared must be larger than the area bring operated on. For example, the skin prep for a caesarean section starts from the nipple line to the knees. The umbilicus then abdomen is cleaned thrice, and the legs are also cleaned thrice. 
 8. Position the patient for surgery.
 9. Help drape the patient.
 10. Handle, label, and send tissue samples for analysis.
-11. Record starting time, cutting time, closing time, etc.
+11. Record starting time, cutting time, closing time, etc. After cutting time, the circulating nurse mainly handles **charting and charging** (counting used instruments and other equipment).
 ## Others
 1. **Operating Surgeon**: pre-operative diagnosis and care; actual performance of operation; post-operative management and care. They assume full responsibility as the "*captain of the ship*", providing all medical acts of judgment and management.
 2. **Assisting Surgeons**: those who hold retractors, clamps bleeders, assists in sutures (especially for closure), and suctioning. These individuals may be physicians, non-physicians (clerks, interns, etc.), registered nurse first assistants (RNFA), or well-experienced OR nurses.
@@ -67,24 +77,25 @@ ___
 Many landmarks and subdivisions are used in surgery, used appropriately depending on the purpose of the surgery. Surgical incisions include:
 1. **Upper Midline Incision**: midline incision above the umbilicus
 2. **Lower Midline Incision**: midline incision below the umbilicus
-3. **Longitudinal Midline Incision**: midline incision above, around, and below the umbilicus. Not through the umbilicus directly.
+3. **Longitudinal Midline Incision**: midline incision above, around, and below the umbilicus. Not through the umbilicus directly. This is the longest incision on the abdominal surface.
 4. **Paramedian Incision**: meaning "*adjacent to the midline*". It is a longitudinal incision performed in one or more of the four quadrants of the abdomen.
 5. **Mid-abdominal Transverse Incisions**: same as paramedian incisions, but perpendicular to the long axis of the body.
-6. **Thoracolumbar Incisions** (*no clue...*)
+6. **Thoracolumbar Incisions**: an incision perpendicular to the long axis of the body. This incision may be flat or oblique, and extends to the back. This is used for nephrectomy.
 7. **Oblique Incisions**: incisions similar to paramedian incisions, but at oblique angles.
 8. **McBurney's Incisions**: an incision at **McBurney's point**, the midpoint between the umbilicus and the right anterosuperior iliac spine. This is used to locate the position of the appendix, and is the **most common site of maximum tenderness in acute appendicitis**.
 9. **Pfannenstiel Incisions**: the most common method for performing caesarian sections in present day. It is a slightly curved transverse incision between the symphysis pubis and umbilicus.
 ![[incision_areas.png]]
 
-The patient is positioned in whichever position is most ideal for the area being operated on. This includes:
-1. **Prone Position**: the patient lies on their stomach with their head turned to one side. This is used for spinal, rectal, or perianal procedures.
-2. **Lithotomy Position**: the patient is supine with their hips and knees flexed, with the legs elevated and supported by stirrups. This is used for gynecological, urological, and colorectal  procedures.
-3. **Semi-Fowler's Position**: supine, with the head of the bed elevated at 30° to 45°. This is used for head, neck, or chest procedures.
-4. **Kraske**/**Jackknife Position**: the patient is positioned prone, with the operating table set to flex at the hip. This elevates the pelvis above the rest of the body. This is used for rectal and some spinal procedures.
-5. **Lateral Position**: the patient is positioned on their side (side-lying). This is used for thoracic, renal, and hip procedures. Proper padding and positioning aids is required for proper alignment and stability.
-6. **Trendelenburg Position**: a normal supine position, with the head of the bed lowered and foot of the bed raised. The body maintains a neutral and straight posture. 
-7. **Reverse Trendelenburg Position**: the Trendelenburg position with the head elevated. 
-8. **Kidney Position**: an amalgamation of the jackknife position and the lateral position. The patient is side-lying, bent at the level of the kidney (around the costovertebral angle) to make it protrude above the rest of the body.
+The patient is positioned in whichever position is most ideal for the area being operated on for both the **surgeon** (access and view of surgical site) and **anesthesiologist** (no pressure on major blood vessels and will not impede circulation). This includes:
+1. **Supine Position**
+2. **Prone Position**: the patient lies on their stomach with their head turned to one side. This is used for spinal, rectal, or perianal procedures.
+3. **Lithotomy Position**: the patient is supine with their hips and knees flexed, with the legs elevated and supported by stirrups. This is used for gynecological, urological, and colorectal  procedures.
+4. **Semi-Fowler's/Fowler's Position**: supine, with the head of the bed elevated at 30° to 45°. This is used for head, neck, or chest procedures e.g. CTT, Paracentesis
+5. **Kraske**/**Jackknife Position**: the patient is positioned prone, with the operating table set to flex at the hip. This elevates the pelvis above the rest of the body. This is used for rectal (e.g. hemorrhoidectomy) and some spinal procedures.
+6. **Lateral Position**: the patient is positioned on their side (side-lying). This is used for thoracic, renal, and hip procedures. Proper padding and positioning aids is required for proper alignment and stability. This is used for endoscopy, bronchoscopy, and colonoscopy
+7. **Trendelenburg Position**: a normal supine position, with the head of the bed lowered and foot of the bed raised. The body maintains a neutral and straight posture. This is rarely used as the position impairs breathing.
+8. **Reverse Trendelenburg Position**: the Trendelenburg position with the head elevated. 
+9. **Kidney Position**: an amalgamation of the jackknife position and the lateral position. The patient is side-lying, bent at the level of the kidney (around the costovertebral angle) to make it protrude above the rest of the body.
 ![[surgical_positions.png]]
 
 The **abdominal cavity** is occupied by many organs of the gastrointestinal system, renal system, reproductive systems (females), etc. There are two general subdivisions of the abdomen:
@@ -184,19 +195,19 @@ The intraoperative phase includes the goals of care of asepsis, infection contro
 | **Arm**     |   1 minute   |   1 minute   |     None     |
 | **Elbow**   |  30 seconds  |     None     |     None     |
 
-| Brush-Stroke Method | 1st (5 min.) | 2nd (4 min.) | 3rd (1 min.) |
-| ------------------- | :----------: | :----------: | :----------: |
-| **Fingertips**      |     10/3     |     5/3      |      3       |
-| **Hand**            |      10      |      5       |      3       |
-| **Arm**             |      6       |      3       |      0       |
-| **Elbow**           |      6       |      0       |      0       |
+| Brush-Stroke Method |       1st (5 min.)       |      2nd (4 min.)       | 3rd (1 min.) |
+| ------------------- | :----------------------: | :---------------------: | :----------: |
+| **Fingertips**      | 10, 3 (sides of fingers) | 5, 3 (sides of fingers) |      3       |
+| **Hand**            |            10            |            5            |      3       |
+| **Arm**             |            6             |            3            |      0       |
+| **Elbow**           |            6             |            0            |      0       |
 ## Surgical Instrumentation
 Instruments used during surgeries are generally divided between **sharps** to cut, **graspers** to hold, **clamps** to occlude, and **retractors** to reveal.
 
 *I really can't be bothered to add images for all of these. Use Google if you're not familiar with them.*
 ### Sharps
 Equipment used for cutting, dissecting, or piercing tissues.
-1. **Knives**: the primary cutting tool for membranes. These come in differing sizes for varying tissues. Blades from **20 to 25** are paired with handle #4, and is used to cut **tough tissues**. Blades from **10 to 15** are paired with handle #3, and is used to cut **delicate tissues**.
+1. **Knives**: the primary cutting tool for membranes. These come in differing sizes for varying tissues. Blades from **20 to 25** are paired with handle #4, and is used to cut **tough tissues** (skin, fascia layers; tendons, ligaments, and bones). Blades from **10 to 15** are paired with handle #3, and is used to cut **delicate tissues** (subcutaneous, muscular, peritoneum layers; uterus).
 	- **Handles**: the handle for knives. These are either **#4** for blades 20, 21, 22, 23 and 25, or **#3** for blades 10, 11, 12, 13, and 15.
 	- Only when a knife is placed on a handle is a **scalpel** formed.
 2. **Scissors**:
@@ -207,10 +218,16 @@ Equipment used for cutting, dissecting, or piercing tissues.
 	- **Steven's Scissors**: cutting off eyelashes
 3. **Needles**: straight or curved (cutting or round) needles used for puncturing the skin to create stitches. These are paired with ties for suturing.
 	- **Sutures** are surgical-use threads used for closing wounds/creating stitches. They may be **absorbable** (dissolves by itself within the body), or **non-absorbable**.
-		- **Absorbable**: non-synthetic— catgut, chromic, plain sutures or synthetic— Dexon, Vicryl, PDS
-		- **Non-Absorbable**: non-synthetic— silk, cotton, or synthetic— nylon.
+		- **Absorbable**:
+			- Non-synthetic— **Catgut** as either **chromic** (brown; absorbed in 90 days, used in all tissue except subcutaneous) or **plain** (light yellow; absorbed in 70 days, used for subcutaneous) sutures. These absorb water, and their should not be soaked.
+			- Synthetic— **Dexon** (green, 90 days), **Vicryl** (violet, 120 days), PDS. These should not be wet.
+		- **Non-Absorbable**:
+			- Non-synthetic— silk (black, actually navy blue, should not be wet, used for 7 days over the skin), cotton (white, actually light pink, should be wet)
+			- Synthetic— nylon (absorbed 25% every year; total of four years)
+>[!info] Suture Sizing
+>Sutures are sized by number, with the largest being `1`. Appendage of `-0` i.e. `1-0` makes it smaller. The next smaller size is `2`, and so on.
 ### Graspers
-"*Grasps*" tissues.
+"*Grasps*" tissues. They hold tissue of the patient.
 1. **Thumb Forceps**: used to hold delicate tissues. The tip of these are toothless.
 2. **Tissue Forceps**: visually the same as thumb forceps, but feature a tooth at the end of the forceps.
 3. **Babcock Forceps**: forceps with a cylindrical cavity used to handle tubular, delicate tissues.
@@ -218,6 +235,13 @@ Equipment used for cutting, dissecting, or piercing tissues.
 5. **Adson Forceps**: toothed forceps used for tougher tissues.
 6. **Pennington Forceps**: triangular forceps used for perineal or rectal surgery.
 7. **Ovum Forceps**: used for delicate forceps. These are also used as pick-up forceps.
+
+The sharps, graspers, and needles are classified according to their use for you or delicate tissue. When working on their respective tissues, they are paired accordingly. When dissecting, the sharps and graspers are used. When during, the graspers and needles are used.
+
+| Class    | Sharps | Graspers                  | Needle  |
+| -------- | ------ | ------------------------- | ------- |
+| Tough    | Mayo   | Allis<br>Tissue           | Cutting |
+| Delicate | Metz   | Thumb<br>Babcock<br>Kelly | Round   |
 ### Clamps
 Tools used for **occluding** vessels or to produce **hemostasis**. Each of these have straight and curved variants.
 1. **Mosquito**: the shortest clamp; used for minor surgery, pediatrics, and handling superficial layers.
@@ -226,11 +250,11 @@ Tools used for **occluding** vessels or to produce **hemostasis**. Each of these
 4. **Ochsner**: strong, fully-serrated clamp with a tooth at the end that crushes tissue to prevent bleeding. It is commonly used for hysterectomies.
 5. **Mixter**: a forcep that curves at the end, used to maneuver around structures to reach hard places.
 ### Retractors
-These are further specified as **self-retaining** (does not require manual application of force) or **non-self-retaining** (requires handling).
+These are **exposing** instruments. These are further specified as **self-retaining** (does not require manual application of force) or **non-self-retaining** (requires handling).
 
 **Self-Retaining**
 1. **Balfour Abdominal Retractor**: a large self-retaining retractor primarily used in abdominal surgeries. Two lateral blades and a central blade can be adjusted to keep the abdominal wall open.
-2. **Weitlaner Retractor**: a small self-retaining retractor with two arms ending in outward-pointing, curved prongs.
+2. **Weitlaner Retractor**: a small self-retaining retractor with two arms ending in outward-pointing, curved prongs. This is used for a thyroidectomy.
 3. **Mastoid Self-Retaining Retractor**: a scissor-like tool with rake-like ends used for small operative areas.
 4. **Gelpi**: a scissor-like tool with pointed tips used for perineal surgery.
 
@@ -241,7 +265,7 @@ These are further specified as **self-retaining** (does not require manual appli
 4. **Bladder Retractor**: a specialized handheld retractor that gently moves and holds the bladder or other pelvic organs away from the surgical site.
 5. **Murphy/Rake Retractor**: a rake-like retractor with varying number of teeth.
 6. **Senn Retractor**: also a rake-like retractor, used for superficial/skin retraction. It can be double-ended, or have one end that is curved and concave.
-7. **Malleable Retractor**: a softer retractor that can be shaped as necessary.
+7. **Malleable/Ribbon Retractor**: a softer retractor that can be shaped as necessary.
 ## Sedation
 **Anesthesia** is the loss of sensibility to pain. In administration, there are four stages of anesthesia:
 1. **Induction**: the patient feels drowsy or dizzy. Sensation of pain begins to dull.

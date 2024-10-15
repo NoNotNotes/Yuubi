@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/MS1-Handout.md",
+                "file": "CMPA/Perioperative Nursing.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "fc729fc383698884",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CMPA/MS1-Handout.md",
+            "file": "CMPA/Perioperative Nursing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CMPA/MS1-Handout.md",
+            "file": "CMPA/Perioperative Nursing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CMPA/MS1-Handout.md"
+            "file": "CMPA/Perioperative Nursing.md"
           }
         }
       }
@@ -131,10 +131,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f814b8b44cf0a47d",
+  "active": "214b37ac74e44628",
   "lastOpenFiles": [
-    "MS/RLE/01.md",
+    "CMPA/Pediatrics.md",
+    "CMPA/d/10-15-2024 Psych.md",
     "CMPA/MS1-Handout.md",
+    "B317/07-1.md",
+    "B317/10.md",
+    "B317/09.md",
+    "B317/16-1.md",
+    "B317/15.md",
+    "B317/13-2.md",
+    "B317/13-1.md",
+    "B418/Airway and Ventilatory Management (Burns).md",
+    "MS/RLE/01.md",
     "A113/ADPIE.md",
     "CMPA/10-13-2024 FUNDA.md",
     "CMPA/RPS MNC/03.md",
@@ -149,16 +159,6 @@
     "CMPA/d/10-07-2024 MS.md",
     "CMPA/d/10-08-2024 MS.md",
     "CMPA/d/10-09-2024 MS.md",
-    "MS/05.md",
-    "MS/RLE/03.md",
-    "CMPA/MS1.md",
-    "CMPA/d/04-01-2024 MS.md",
-    "CMPA/PULMO.md",
-    "A113/O2.md",
-    "CMPA/d/04-01-2024 MS Respiratory.md",
-    "CMPA/d/06-19-2024 MS.md",
-    "CMPA/d/02-20-2024 Abnormal OB.md",
-    "CMPA/d/04-03-2024 MS.md",
-    "CMPA/d/04-04-2024 MS.md"
+    "MS/05.md"
   ]
 }
