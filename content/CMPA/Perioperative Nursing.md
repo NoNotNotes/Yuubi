@@ -6,6 +6,8 @@ title: Perioperative Nursing
 description: This page is lifted from Sir V's handout on Perioperative Nursing. He has a lot more to say than what is on the presentation, so don't expect this to be completely comprehensive in terms of content. This can be used as a content outline for further review. However, I did attempt to supplement information when possible to provide more context.
 date: 2024-10-06
 ---
+Updated on Oct. 16, 2024, expanding on [[#Sedation]], [[#Hemostasis]], [[#Postoperative Discomforts]], and [[#Postoperative Complications]]
+
 This page is lifted from **Sir V's handout on Perioperative Nursing**. He has a lot more to say than what is on the presentation, so don't expect this to be completely comprehensive in terms of content. This can be used as a content outline for further review. However, I did attempt to supplement information when possible to provide more context.
 
 ![[perioperative_nursing_vasquez.pdf]]
@@ -59,7 +61,7 @@ The circulating nurse provides assistance to any member of the OR team in any ma
 1. Receives patient from the surgical ward nurse. Endorsement during transfer includes **confirmation of patient identity**, **schedule**, and securing **[[#Consent|informed consent]]**. Discussed later: [[#Preoperative Preparation]]
 2. Establishes rapport with the client.
 3. Places the patient on the OR table and remains with them.
-4. **Position the patient for [[#Sedation|anesthesia]]**. This may be supine or quasi-fetal position depending on the anesthesia being used. Relative to the patient, the nurse maintains the fetal position by holding their knees and shoulders from in front of the patient.
+4. **Position the patient for [[#Sedation|anesthesia]]**. This may be supine or quasi-fetal position depending on the anesthesia being used. Relative to the patient, the nurse maintains the fetal position by holding their knees and nape from in front of the patient.
 5. Perform lumbar preparation for spinal or epidural anesthesia. The solution used is directly 10% Betadine. 
 6. Catheterize the patient if necessary. For women, use the dorsal recumbent position. For men, supine is sufficient.
 7. Skin preparation. The area prepared must be larger than the area bring operated on. For example, the skin prep for a caesarean section starts from the nipple line to the knees. The umbilicus then abdomen is cleaned thrice, and the legs are also cleaned thrice. 
@@ -139,10 +141,10 @@ On the morning of the surgery itself, the most important nursing actions include
 8. **Removal of dentures** as aspiration precautions, jewelry, wigs, prosthetics(of possible), etc.
 9. **Endorsement to the OR** from the surgical ward.
 
-Pre-operative medications are given to prepare the client for anesthesia and potentiate its effects, and to sedate the client to reduce anxiety levels. These include:
-1. **Narcotic Analgesia**
-2. **Sedatives**
-3. **Anticholinergics**
+Pre-operative medications are given to prepare the client for anesthesia and potentiate its effects, and to sedate the client to reduce anxiety levels. The anesthesiologist prepares the cocktail and the medication is given to the patient **at least 30 to 60 minutes before the surgery**. These include:
+1. **Narcotic Analgesia**: nubain (least potent), demerol, morphine (most potent)
+2. **Sedatives**: often phenergen
+3. **Anticholinergics**: to reduce the production of secretions. A common example is **atrophine sulfate**.
 ## Consent
 **Informed Consent** is a condition of understanding and willingness to undergo a procedure. The distinction of "*Informed*" specifies that the patient understands all pertinent information related to the procedure, such as purpose, risks, benefits, alternatives, side effects, cost, among others. For this, the patient is required to be **of sound mind** and **of age**.
 
@@ -268,33 +270,63 @@ These are **exposing** instruments. These are further specified as **self-retain
 7. **Malleable/Ribbon Retractor**: a softer retractor that can be shaped as necessary.
 ## Sedation
 **Anesthesia** is the loss of sensibility to pain. In administration, there are four stages of anesthesia:
-1. **Induction**: the patient feels drowsy or dizzy. Sensation of pain begins to dull.
-2. **Excitement**: breathing becomes irregular, and involuntary motor movements may appear.
-3. **Surgical Anesthesia**: the period appropriate for surgery; muscles are relaxed, pupils are constricted, and the pupil reflex is absent.
-4. **Medullary Depression**: *oversedation*; depression of the medulla, which can cause respiratory cessation and potentially death. 
+1. **Induction**: the preparatory phase of anesthesia; the patient feels drowsy or dizzy. Sensation of pain begins to dull.
+2. **Excitement**: breathing becomes irregular, and **involuntary motor movements** may appear. This may be viewed as the patient *struggling*. This appears as the patient loses sensation in the anesthetized region.
+3. **Surgical Anesthesia**: the period appropriate for surgery when pain is no longer felt; muscles are relaxed, pupils are constricted, and the pupil reflex is absent.
+4. **Medullary Depression**: *oversedation*/overdose; depression of the medulla oblongata, which can cause respiratory cessation and potentially death.
+>[!ERROR] Signs of Complication
+>**Cyanosis**. At Time Out, the patient's fingers (nail beds), face (lips) are checked for cyanosis, which can act as a result of respiratory compromise. Spontaneous breathing is checked (disabled anesthetic ventilator).
+>- If CPR is required, the mayo table and back table is the scrub nurse's priority. They maintain sterility while the circulating nurse and assistant surgeon perform CPR and prepare medications. Afterwards, the surgery can be continued after re-draping and re-gowning.
 
-Depending on the scope of the anesthesia, it can be considered as **general anesthesia** (IV, inhalation) that produces sensory, motor, reflex, and mental blocks. For anesthesia that only affects one area of the body, they are considered as **regional anesthesia** (spinal, epidural, nerve blocks, infiltration, application, spray). The following are commonly used anesthetics:
-1. **Non-Halogenated Inhalants**:
-	- Nitrous Oxide (Blue) used for initial restlessness
+Depending on the scope of the anesthesia, it can be considered as **general anesthesia** (IV, inhalation) that produces sensory, motor, reflex, and mental blocks. For anesthesia that only affects one area of the body, they are considered as **regional anesthesia** (spinal, epidural, nerve blocks, infiltration, application, spray). The following are commonly used anesthetics (I've highlighted the ones mentioned during the review):
+1. **Non-Halogenated Inhalants**: gas delivered through an ET/mask
+	- **==Nitrous Oxide==** (Blue) used for initial restlessness. This is the most common inhaled gas.
 	- Cyclopropane (Orange) used for short procedures
-2. **Halogenated Fluid Inhalants**:
-	- Halothane (Red) used for hypotension
+2. **Halogenated Fluid/Liquid Inhalants**:
+	- ==Halothane== (Red) used for hypotension
+	- ==Forane==
+	- ==Ethrane==
 	- Enflurane (Yellow) used for muscle relaxation
 	- Sevoflurane (Sweet-tasting) used for pediatric patients
-3. **Intravenous Barbiturates**: **Thiopental**
+>[!TIP] ET Sizing is approximately the same diameter as the patient's pinky finger.
+>The insertion of an ET utilizes a laryngoscope for guidance. When meeting the esophagus, Sellick's Maneuver is used to depress the cartilage for the esophagus. In nurses, training is required to be able to perform this task. 
+
+3. **Intravenous Barbiturates**: **==Thiopental Sodium==** (==Sodium Penthotal==), ==Ketamine== (Ketalar)
 4. **Neuroleptic Agents**: Fentanyl, which decreases motor activity
 5. **Dissociative Agents**: Ketamine, which can cause hallucinations
 
-**Local anesthesia** is a class of anesthesia which function at a narrower scope than even regional anesthesia. These do not produce a change in the level of consciousness. These also take on different forms:
-1. **Topical**: applied over the surgical site, e.g., Lidocaine, Prilocaine (EMLA Cream)
-2. **Field**/**Nerve Block**: injected into subcutaneous or perineural spaces near or around the desired anesthesia site, blocking pain impulses from being felt.
-3. **Spinal**: anesthesia injected directly into the subarachnoid space (inside the arachnoid).
-4. **Epidural**: anesthesia injected into the epidural space (outside of the arachnoid), commonly used in obstetrics.
+**Local anesthesia** is a class of regional anesthesia which function at a narrower scope than even regional anesthesia. These are applied through ==injection, spray, or topical application==. These do not produce a change in the level of consciousness. These also take on different forms:
+1. **Topical**: applied over the surgical site, e.g.:
+	- Prilocaine (Euthetic Mixture of Local Anesthesia \[EMLA\] Cream)
+	- ==Xylocaine== (via syringe or spray)
+	- ==Lidocaine==
+	- ==Lignocaine==
+2. **Field**/**Nerve Block**: injected into subcutaneous or perineural spaces near or around the desired anesthesia site, blocking pain impulses from passing through plexuses ("*main terminals of pain*"). Examples of this include brachial plexus block for the upper extremities, "*Saddle Block*" for the sacral/perineal area.
+3. **Spinal**: anesthesia injected intrathecally directly into the subarachnoid space (inside the arachnoid). Contrastingly, this affects both sensory and motor function, while epidural does not block motor function. The needle used is long and large-bore.
+4. **Epidural**: anesthesia injected intrathecally into the epidural space (outside of the arachnoid), commonly used in obstetrics. Motor function is not blocked, hence this is used for delivery to maintain uterine contractions while blocking pain. The syringe used is short but large-bore, containing a passageway to be used for administration.
+	- Anesthetic agents (also for spinal) include: sensorcaine, bupivacaine, pontocaine, and tetracaine.
+>[!ERROR] Spinal and Epidural Administration
+>1. The vertebral bones are made prominent by the quasi-fetal position of the patient. This is injected between L3 and L4, which targets the lower abdomen. If the space that receives anesthesia is higher (e.g. L1, L2), the diaphragm may become affected, which results in respiratory arrest.
+>2. Post-operatively, the patient is laid flat without a pillow to avoid a **spinal headache**. They are weaned into an upright angle to prevent dizziness and vomiting.
 ## Hemostasis
 Hemostasis is the cessation of hemorrhaging from an injured blood vessel. In a normal wound, this occurs in three stages: **vasoconstriction**, **platelet plug formation**, and **coagulation**. However, in a surgery, artificial methods can be used to induce hemostasis:
-1. **Mechanical** Pressure: manual, digital, dressing, clamping, gel foam, Penrose drain
-2. **Chemical**: tissue adhesion
-3. **Thermal**: cautery
+1. **Mechanical**:
+	- **Pressure** via manual or digital pressure
+	- **Suture** (free tie, stick tie, SutLig) for ligation or suturing. The sutlig, short for suture-ligature, consists of a line, needle, and needle holder. The needle used may be of two types: (1) **eyed needle**, which is atraumatic and reusable; and (2) **eyeless needle**, which may be single-armed, or double-armed depending on the number of needles connected to the line.
+	- Dressing
+	- Clamping
+	- **Gel Foam**: used for light bleeders that make it past suturing in the abdominal layers. The foam covers and absorbs the blood that leaks, which then swells and produces pressure to stop the bleeder. This is made of protein, and is absorbable within one month.
+	- **Drains** (**Penrose drain**) do not directly stop bleeding, but stops further trauma or infection.
+3. **Chemical**: tissue adhesion
+	- **Coagulant medications**, most commonly tranexamic acid (Hemostan) for surgical use.
+	- **Oxytocic drugs** prevent postpartum uterine atony and subsequent bleeding by enhancing uterine contraction.
+	- **Bone wax**, a wax-like substance that is rubbed onto bleeding bone tissue to attempt to stop bleeding, especially during open reduction.
+4. **Thermal**:
+	- **Heat**: electrocautery, the use of a cautery line (tool used by surgeon) and a ground (pad placed under the patient with KY jelly)
+	- **Cold**: liquid nitrogen used in cryosurgery, a surgery where the site of surgery is frozen.
+>[!INFO] Nursing Activities
+>**Watch for bleeders**; the nurse may remind the surgeon to use hemostasis if any bleeders are present.
+
 ___
 # Postoperative Phase
 ## Immediate Care
@@ -304,7 +336,7 @@ This is care provided while the patient remains in the **recovery room**.
 	- **Check vital signs** every 15 minutes until stable, then every 30 minutes.
 	- **Check skin color, temperature, drainage, and dressings**. These are among the overt signs of infection or failing circulation, among other complications.
 2. **Monitor Level of Consciousness**: reorient the client. Sedation can last for a few hours and affect cognition.
-3. **Discharge**: once the patient is awake and responsive, with easy breathing and acceptable CP clearance, they may be discharged from the recovery room.
+3. **Discharge**: once the patient is awake and responsive with easy breathing and acceptable CP clearance, they may be discharged from the recovery room.
 ## Continuing Care
 Care for the postoperative client can continue in the ward. The primary concern is to promote optimal functioning, reducing pain, and wound care:
 1. **Optimal Respiration**: coughing, deep breathing, incision splinting, early ambulation, and turning in the bed are all potential exercises for maintaining and improving respiration by the patient.
@@ -314,6 +346,26 @@ Care for the postoperative client can continue in the ward. The primary concern 
 5. **Pain Control**: analgesics and comfort measures
 6. **Wound Care**
 ## Postoperative Discomforts
-1. **Pain**
-2. **Urinary Retention**, often from the use of an indwelling catheter.
-3. **Hiccups** can be a result of pathogenesis.
+1. **Pain** appears as the most prevalent postoperative discomfort once anesthesia begins to dissipate. The anesthesiologist handles pharmacologic pain management given initially via IV, moved to IM prn, then oral analgesia prn. The nurse offers **diversional activities** (television, etc.), avoids undue pressure to the operative side (client teaching about turning, splinting, coughing, etc.)
+2. **Urinary Retention** from **anesthesia**, **anticholinergic drugs**, and the use of urinary catheters. This predisposes the patient to UTI, marked by the presence of dysuria and fever.
+3. **Paralytic Ileus**, a temporary paralysis of the large intestine due to **organ manipulation** and anesthesia. The nurse identifies the presence or relief of paralytic ileus through the auscultation of bowel sounds. Diet is only resumed once bowel activity has resumed.
+	- **Diet progression**: NPO, clear liquid, general liquid, soft, then diet as tolerated or therapeutic diet (if prescribed)
+4. **Hiccups** can be a result of pathogenesis. This appears due to **hyperventilation**, increasing oxygen and decreasing carbon dioxide. This is corrected via re-breathing techniques, such as cupped hands or paper bags.
+## Postoperative Complications
+1. **Hemorrhage**: blood loss of more than 1,000 mL of blood. Cumulatively, this is determined by weighing used sponges, checking the suction bottle, pads, drains, etc. Hemorrhaging may occur from:
+	- Undue pressure on the operative site, especially during the transfer from the operative table to the stretcher, then from the stretcher to the patient bed.
+	- Improper ligation of blood vessels during surgery.
+	- **Management**: **coagulants** (Hemostan), **pressure**, **monitoring** (VS, I&O), possible **blood transfusion**
+>[!INFO] Arterial bleeding results in fast drops in blood pressure. Return to the operating room is required.
+
+2. **Infection**: the invasion of pathogenic microorganisms. This manifests as inflammation, redness, pain, and exudates.
+	- **Factors affecting infection rate**:
+		- Age (extremes of age)
+		- Nature of injury
+		- Duration of surgery
+		- Break in the sterile technique
+		- Improper wound dressing: start with the inside of the drain (if applicable), then the outside, then the wound.
+	- **Management**: antibiotics, antiinflammatory, analgesia, antipyretic, gram-staining/culture sensitivity (GSCS)
+3. **Urinary Tract Infection** due to urinary retention; results in urinary frequency, dysuria, flank pain, and possible fever.
+	- **Management**: GSCS, antibiotic, analgesic, antipyretic
+	- **Nursing Actions**: increase oral intake, change catheters, monitor VS and I&O
