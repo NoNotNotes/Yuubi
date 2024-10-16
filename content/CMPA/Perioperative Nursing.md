@@ -4,9 +4,9 @@ tags:
   - CMPA
 title: Perioperative Nursing
 description: This page is lifted from Sir V's handout on Perioperative Nursing. He has a lot more to say than what is on the presentation, so don't expect this to be completely comprehensive in terms of content. This can be used as a content outline for further review. However, I did attempt to supplement information when possible to provide more context.
-date: 2024-10-06
+date: 2024-10-16
 ---
-Updated on Oct. 16, 2024, expanding on [[#Sedation]], [[#Hemostasis]], [[#Postoperative Discomforts]], and [[#Postoperative Complications]]
+Updated on Oct. 16, 2024, expanding on Preoperative Medications, [[#Sedation]], [[#Hemostasis]], [[#Postoperative Discomforts]], and [[#Postoperative Complications]]
 
 This page is lifted from **Sir V's handout on Perioperative Nursing**. He has a lot more to say than what is on the presentation, so don't expect this to be completely comprehensive in terms of content. This can be used as a content outline for further review. However, I did attempt to supplement information when possible to provide more context.
 
@@ -220,12 +220,19 @@ Equipment used for cutting, dissecting, or piercing tissues.
 	- **Steven's Scissors**: cutting off eyelashes
 3. **Needles**: straight or curved (cutting or round) needles used for puncturing the skin to create stitches. These are paired with ties for suturing.
 	- **Sutures** are surgical-use threads used for closing wounds/creating stitches. They may be **absorbable** (dissolves by itself within the body), or **non-absorbable**.
-		- **Absorbable**:
-			- Non-synthetic— **Catgut** as either **chromic** (brown; absorbed in 90 days, used in all tissue except subcutaneous) or **plain** (light yellow; absorbed in 70 days, used for subcutaneous) sutures. These absorb water, and their should not be soaked.
-			- Synthetic— **Dexon** (green, 90 days), **Vicryl** (violet, 120 days), PDS. These should not be wet.
-		- **Non-Absorbable**:
-			- Non-synthetic— silk (black, actually navy blue, should not be wet, used for 7 days over the skin), cotton (white, actually light pink, should be wet)
-			- Synthetic— nylon (absorbed 25% every year; total of four years)
+
+| Absorbable<br>Sutures | Synthesis     | Description                                         | Absorption | Handling<br>Char. |
+| --------------------- | ------------- | --------------------------------------------------- | ---------- | ----------------- |
+| Catgut (Chromic)      | Non-synthetic | Brown; used in all tissue except subcutaneous layer | 90 days    | Do not soak       |
+| Catgut (Plain)        | Non-synthetic | Light Yellow; used for subcutaneous layer           | 70 days    | Do not soak       |
+| Dexon                 | Synthetic     | Green                                               | 90 days    | Do not wet        |
+| Vicryl                | Synthetic     | Violet                                              | 120 days   | Do not wet        |
+
+| Non-absorbable<br>Sutures | Synthesis     | Description                                                                                   | Handling<br>Char. |
+| ------------------------- | ------------- | --------------------------------------------------------------------------------------------- | ----------------- |
+| Silk                      | Non-synthetic | Appears black, actually navy blue                                                             | Do not wet        |
+| Cotton                    | Non-synthetic | Appears white, actually light pink                                                            | Should be wet     |
+| Nylon                     | Synthetic     | Black or blue. Despite its category, nylon is actually absorbed in four years (25% per year). | Can be wet        |
 >[!info] Suture Sizing
 >Sutures are sized by number, with the largest being `1`. Appendage of `-0` i.e. `1-0` makes it smaller. The next smaller size is `2`, and so on.
 ### Graspers
@@ -238,9 +245,9 @@ Equipment used for cutting, dissecting, or piercing tissues.
 6. **Pennington Forceps**: triangular forceps used for perineal or rectal surgery.
 7. **Ovum Forceps**: used for delicate forceps. These are also used as pick-up forceps.
 
-The sharps, graspers, and needles are classified according to their use for you or delicate tissue. When working on their respective tissues, they are paired accordingly. When dissecting, the sharps and graspers are used. When during, the graspers and needles are used.
+The sharps, graspers, and needles are classified according to their use for you or delicate tissue. When working on their respective tissues, they are paired accordingly. When dissecting, the sharps and graspers are used. When suturing, the graspers and needles are used.
 
-| Class    | Sharps | Graspers                  | Needle  |
+| Class    | Sharps | Graspers                  | Needles |
 | -------- | ------ | ------------------------- | ------- |
 | Tough    | Mayo   | Allis<br>Tissue           | Cutting |
 | Delicate | Metz   | Thumb<br>Babcock<br>Kelly | Round   |
@@ -275,10 +282,11 @@ These are **exposing** instruments. These are further specified as **self-retain
 3. **Surgical Anesthesia**: the period appropriate for surgery when pain is no longer felt; muscles are relaxed, pupils are constricted, and the pupil reflex is absent.
 4. **Medullary Depression**: *oversedation*/overdose; depression of the medulla oblongata, which can cause respiratory cessation and potentially death.
 >[!ERROR] Signs of Complication
->**Cyanosis**. At Time Out, the patient's fingers (nail beds), face (lips) are checked for cyanosis, which can act as a result of respiratory compromise. Spontaneous breathing is checked (disabled anesthetic ventilator).
->- If CPR is required, the mayo table and back table is the scrub nurse's priority. They maintain sterility while the circulating nurse and assistant surgeon perform CPR and prepare medications. Afterwards, the surgery can be continued after re-draping and re-gowning.
+>**Cyanosis**. At *Time Out*, the patient's fingers (nail beds), and face (lips) are checked for cyanosis, which can act as a result of respiratory compromise. Spontaneous breathing is checked (disable the anesthetic ventilator).
+>
+>Furthermore, if CPR is required, the scrub nurse prioritizes the sterility of the mayo and back table. The circulating nurse and assistant surgeon perform CPR and prepare medications. Afterwards, the surgery can be continued after re-draping and re-gowning.
 
-Depending on the scope of the anesthesia, it can be considered as **general anesthesia** (IV, inhalation) that produces sensory, motor, reflex, and mental blocks. For anesthesia that only affects one area of the body, they are considered as **regional anesthesia** (spinal, epidural, nerve blocks, infiltration, application, spray). The following are commonly used anesthetics (I've highlighted the ones mentioned during the review):
+Depending on the scope of the anesthesia, it can be considered as **general anesthesia** (IV, inhalation) that produces sensory, motor, reflex, and mental blocks; or anesthesia that only affects one area of the body— **regional anesthesia** (spinal, epidural, nerve blocks, infiltration, application, spray). The following are commonly used anesthetics (I've highlighted the ones mentioned during the review):
 1. **Non-Halogenated Inhalants**: gas delivered through an ET/mask
 	- **==Nitrous Oxide==** (Blue) used for initial restlessness. This is the most common inhaled gas.
 	- Cyclopropane (Orange) used for short procedures

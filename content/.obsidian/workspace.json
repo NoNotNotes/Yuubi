@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/MS1-Handout.md",
+                "file": "CMPA/Perioperative Nursing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "8a590d21f77c43b6",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPA/MS1-Handout.md",
+                "file": "CMPA/Perioperative Nursing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPA/MS1-Handout.md",
+                "file": "CMPA/Perioperative Nursing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPA/MS1-Handout.md"
+                "file": "CMPA/Perioperative Nursing.md"
               }
             }
           }
@@ -135,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,11 +149,12 @@
   },
   "active": "22d9680125bcd311",
   "lastOpenFiles": [
+    "CMPA/MS1-Handout.md",
+    "CMPA/d/10-15-2024 Psych.md",
     "CMPA/Normal OB.md",
     "CMPA/HEMA.md",
     "CMPA/index.md",
     "CMPA/MS1-Ferrer-1.md",
-    "CMPA/MS1-Handout.md",
     "CMPA/d/10-13-2024 FUNDA.md",
     "swng a bat.canvas",
     "attachments/private/Pasted image 20241014152536.png",
@@ -186,7 +187,6 @@
     "B317/Therapeutic Communication (2).md",
     "B419/PRELIM.md",
     "CMPA/Perioperative Nursing.md",
-    "B419/04.md",
     "attachments/references/Pediatrics PPT (Ma'am Aurisita).pdf",
     "private",
     "attachments/references/NCMB418 LEC Prelim Readings.pdf",

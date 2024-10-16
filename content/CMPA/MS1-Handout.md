@@ -8,8 +8,8 @@ draft: false
 date: 2024-10-09
 ---
 References: 
-Brunner & Suddarth's Textbook of Medical-Surgical Nursing
-Saunder's Comprehensive Review for NCLEX-RN Examination by Linda Anne Silvestri
+1. **Brunner & Suddarth's Textbook of Medical-Surgical Nursing**
+2. **Saunder's Comprehensive Review for NCLEX-RN Examination** by Linda Anne Silvestri
 ___
 # Fluids
 In adults, 50-60% of body weight is water. It is stored in various components, generally bring divided  into ​​intracellular, extracellular, and interstitial spaces. The bodily proportion of fluid in the body and in each location varies with age and sex.
