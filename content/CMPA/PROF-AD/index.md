@@ -3,6 +3,7 @@ title: Professional Nursing Practice, Ethics, and Jurisprudence
 tags:
   - CMPA
 description: Written by Dr./Arry. Glenn Reyes Luansing.
+date: 2024-06-10
 ---
 Notes within this folder contain my summary of **Professional Reviewer Dr./Atty. Glenn R. Luansing**'s **Professional Nursing Practice, Ethics, and Jurisprudence**
 >[!CITE] 

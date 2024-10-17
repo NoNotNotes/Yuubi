@@ -4,6 +4,7 @@ tags:
   - B316
 aliases:
   - MS2
+date: 2024-06-10
 ---
 # Course Syllabus
 <center>
