@@ -9,20 +9,21 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        // from data-repo
         repo: 'nonotnotes/nonotnotes.github.io',
-        // from data-repo-id
         repoId: 'R_kgDOLAjZSQ',
-        // from data-category
         category: 'Announcements',
-        // from data-category-id
         categoryId: 'DIC_kwDOLAjZSc4CjcmW',
         reactionsEnabled: false,
       }
     }),
     Component.OnlyFor(
       { titles: ["No, Not Notes"] },
-      Component.RecentNotes({ showTags: false, title: "New Additions and Edits", showDate: false, limit: 10})
+      Component.RecentNotes({
+        showTags: false,
+        title: "New/Updated Notes",
+        showDate: false,
+        limit: 5
+      })
     ),
   ],
   footer: Component.Footer({
