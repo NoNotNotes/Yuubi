@@ -46,5 +46,6 @@ export {
   NotFound,
   Breadcrumbs,
   OverlayExplorer,
-  OnlyFor
+  OnlyFor,
+  Comments,
 }

@@ -1,3 +1,8 @@
+const giscusThemeMap: { [key: string]: string } = {
+  light: "noborder_light",
+  dark: "noborder_dark",
+}
+
 const changeTheme = (e: CustomEventMap["themechange"]) => {
   const theme = e.detail.theme
   const iframe = document.querySelector("iframe.giscus-frame") as HTMLIFrameElement
@@ -9,11 +14,13 @@ const changeTheme = (e: CustomEventMap["themechange"]) => {
     return
   }
 
+  const giscusTheme = giscusThemeMap[theme] || "light"
+
   iframe.contentWindow.postMessage(
     {
       giscus: {
         setConfig: {
-          theme: theme,
+          theme: giscusTheme,
         },
       },
     },
@@ -56,9 +63,8 @@ document.addEventListener("nav", () => {
   giscusScript.setAttribute("data-input-position", giscusContainer.dataset.inputPosition)
 
   const theme = document.documentElement.getAttribute("saved-theme")
-  if (theme) {
-    giscusScript.setAttribute("data-theme", theme)
-  }
+  const giscusTheme = theme ? giscusThemeMap[theme] || "light" : "light"
+  giscusScript.setAttribute("data-theme", giscusTheme)
 
   giscusContainer.appendChild(giscusScript)
 
