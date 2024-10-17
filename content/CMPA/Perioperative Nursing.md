@@ -42,19 +42,23 @@ The scrub nurse is a sterile member, and assists the surgeon during the operatio
 	- Back table
 	- Mayo table
 	- Extra table
-	- OR Table + attachments (arm board, foot board, straps, anesthetic monitor, donut to prevent head from moving)
+	- OR Table + attachments (arm board, foot board, straps, anesthetic monitor, anesthesia screen, donut to prevent head from moving)
 	- Equipment for anesthesia, IV
 	- Spinal set
 	- Skin preparation set
 2. Opens sterile packs and adds sterile supplies and instruments.
-3. Performs **surgical scrubbing, gowning, and (closed) gloving**.
-	1. OR attire (scrub suit, shoes, mask, cap)
-	2. Skin integrity, short fingernails, no nail polish
+3. Performs **surgical scrubbing, gowning, and (closed) gloving**. Before doing so, the prerequisites include:
+	1. OR attire (scrub suit, shoes, mask, cap), rolled sleeves if long
+	2. Skin integrity, short fingernails, no nail polish, no jewelry
 	3. No persistent cough
 4. Organizes sterile fields and maintains its integrity, safety, and efficiency.
-5. Serves gowns and gloves to surgeons.
-6. Counting of instruments.
-7. Draping.
+5. Serves gowns and gloves to surgeons
+6. Counting of instruments
+7. Draping
+	- Mayo Cover, Mayo Towel
+	- 4 OR Towels used to outline the operative site, on the left, right, top, and bottom margins. These are secured with towel clips.
+	- Foot Drape
+	- Lap Sheet, a sheet with a fenestration (hole) that is aligned with the surgical site.
 8. Announcing cutting time.
 ## Circulating Nurse
 The circulating nurse provides assistance to any member of the OR team in any manner they are qualified for. Circulating nurses are crucial in communication, direction, and safety.
@@ -82,22 +86,22 @@ Many landmarks and subdivisions are used in surgery, used appropriately dependin
 3. **Longitudinal Midline Incision**: midline incision above, around, and below the umbilicus. Not through the umbilicus directly. This is the longest incision on the abdominal surface.
 4. **Paramedian Incision**: meaning "*adjacent to the midline*". It is a longitudinal incision performed in one or more of the four quadrants of the abdomen.
 5. **Mid-abdominal Transverse Incisions**: same as paramedian incisions, but perpendicular to the long axis of the body.
-6. **Thoracolumbar Incisions**: an incision perpendicular to the long axis of the body. This incision may be flat or oblique, and extends to the back. This is used for nephrectomy.
-7. **Oblique Incisions**: incisions similar to paramedian incisions, but at oblique angles.
-8. **McBurney's Incisions**: an incision at **McBurney's point**, the midpoint between the umbilicus and the right anterosuperior iliac spine. This is used to locate the position of the appendix, and is the **most common site of maximum tenderness in acute appendicitis**.
+6. **Thoracolumbar Incisions**: an incision perpendicular to the long axis of the body. This incision may be flat or oblique, and extends to the back. The incision is aligned with the kidney, and is used for nephrectomy.
+7. **Oblique Incisions**: incisions similar to paramedian incisions, but at oblique angles. These may also be called as **subcostal** (upper oblique) incisions, or **inguinal** (lower oblique) incisions.
+8. **McBurney's Incisions**: an incision at **McBurney's point**, the midpoint between the umbilicus and the right anterosuperior iliac spine. This is used to locate the position of the appendix, and is the **most common site of maximum tenderness in acute appendicitis**. However, in ruptured appendicitis, a right lower paramedian incision is used for exploration and lavage.
 9. **Pfannenstiel Incisions**: the most common method for performing caesarian sections in present day. It is a slightly curved transverse incision between the symphysis pubis and umbilicus.
 ![[incision_areas.png]]
 
 The patient is positioned in whichever position is most ideal for the area being operated on for both the **surgeon** (access and view of surgical site) and **anesthesiologist** (no pressure on major blood vessels and will not impede circulation). This includes:
-1. **Supine Position**
-2. **Prone Position**: the patient lies on their stomach with their head turned to one side. This is used for spinal, rectal, or perianal procedures.
+1. **Supine Position**, also known as the **Dorsal** position.
+2. **Prone Position**: the patient lies on their stomach with their head turned to one side. This is used for spinal, rectal, or perianal procedures. It can lose problems with respiration, making it one of the more difficult positions.
 3. **Lithotomy Position**: the patient is supine with their hips and knees flexed, with the legs elevated and supported by stirrups. This is used for gynecological, urological, and colorectal  procedures.
-4. **Semi-Fowler's/Fowler's Position**: supine, with the head of the bed elevated at 30° to 45°. This is used for head, neck, or chest procedures e.g. CTT, Paracentesis
+4. **Semi-Fowler's/Fowler's Position**: supine, with the head of the bed elevated at 30° to 45°. This is used for head, neck, or chest procedures e.g. CTT, Paracentesis, bronchoscopy
 5. **Kraske**/**Jackknife Position**: the patient is positioned prone, with the operating table set to flex at the hip. This elevates the pelvis above the rest of the body. This is used for rectal (e.g. hemorrhoidectomy) and some spinal procedures.
 6. **Lateral Position**: the patient is positioned on their side (side-lying). This is used for thoracic, renal, and hip procedures. Proper padding and positioning aids is required for proper alignment and stability. This is used for endoscopy, bronchoscopy, and colonoscopy
-7. **Trendelenburg Position**: a normal supine position, with the head of the bed lowered and foot of the bed raised. The body maintains a neutral and straight posture. This is rarely used as the position impairs breathing.
-8. **Reverse Trendelenburg Position**: the Trendelenburg position with the head elevated. 
-9. **Kidney Position**: an amalgamation of the jackknife position and the lateral position. The patient is side-lying, bent at the level of the kidney (around the costovertebral angle) to make it protrude above the rest of the body.
+7. **Trendelenburg Position**: a normal supine position, with the head of the bed lowered and foot of the bed raised. The body maintains a neutral and straight posture. This is rarely used as the position impairs breathing from the abdominal organs placing pressure on the diaphragm. This is normally temporarily used to locate organs.
+8. **Reverse Trendelenburg Position**: the Trendelenburg position with the head elevated.  Used for nose and neck surgery to avoid aspiration.
+9. **Kidney Position**: an amalgamation of the jackknife position and the lateral position. The patient is side-lying, bent at the level of the kidney (around the costovertebral angle) to make it protrude above the rest of the body. By naming convention, this is labeled as left or right kidney based on which kidney is exposed, i.e., right kidney position exposes the right kidney, and is equivalent to the left lateral jackknife position.
 ![[surgical_positions.png]]
 
 The **abdominal cavity** is occupied by many organs of the gastrointestinal system, renal system, reproductive systems (females), etc. There are two general subdivisions of the abdomen:
