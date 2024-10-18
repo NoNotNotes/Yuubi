@@ -229,3 +229,33 @@
     }
   }
 }
+
+.search-404 > .search {
+max-width: unset;
+
+  & > .search-button {
+      display: none;
+  }
+  
+  & > #search-container {
+      display: block;
+      position: revert;
+      width: 100%;
+      max-width: $pageWidth;
+      height: auto;
+  
+      & > #search-space {
+          width: 95%;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 1em;
+        & > input {
+          background: var(--darkgray);
+          color: var(--lightgray);
+        }
+        & > #search-layout > div {
+          height: unset;
+        }
+      }
+  }
+}

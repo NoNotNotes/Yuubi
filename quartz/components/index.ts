@@ -22,6 +22,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import OverlayExplorer from "./OverlayExplorer"
 import OnlyFor from "./OnlyFor"
+import NotFor from "./NotFor"
 
 export {
   ArticleTitle,
@@ -48,4 +49,5 @@ export {
   OverlayExplorer,
   OnlyFor,
   Comments,
+  NotFor,
 }

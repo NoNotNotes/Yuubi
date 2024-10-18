@@ -6,16 +6,19 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        repo: 'nonotnotes/nonotnotes.github.io',
-        repoId: 'R_kgDOLAjZSQ',
-        category: 'Announcements',
-        categoryId: 'DIC_kwDOLAjZSc4CjcmW',
-        reactionsEnabled: false,
-      }
-    }),
+    Component.NotFor(
+      { titles: ["Note Not Found"] },
+      Component.Comments({
+        provider: 'giscus',
+        options: {
+          repo: 'nonotnotes/nonotnotes.github.io',
+          repoId: 'R_kgDOLAjZSQ',
+          category: 'Announcements',
+          categoryId: 'DIC_kwDOLAjZSc4CjcmW',
+          reactionsEnabled: false,
+        }
+      })
+    ),
     Component.OnlyFor(
       { titles: ["No, Not Notes"] },
       Component.RecentNotes({
