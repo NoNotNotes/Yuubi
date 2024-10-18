@@ -11,17 +11,14 @@
             "id": "22d9680125bcd311",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "swng a bat.canvas",
-                "viewState": {
-                  "x": -320,
-                  "y": -192,
-                  "zoom": -1.3188332884644969
-                }
+                "file": "CMPA/d/10-18-2024 MS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "swng a bat"
+              "icon": "lucide-file",
+              "title": "10-18-2024 MS"
             }
           }
         ]
@@ -168,6 +165,8 @@
   },
   "active": "22d9680125bcd311",
   "lastOpenFiles": [
+    "swng a bat.canvas",
+    "CMPA/d/10-18-2024 MS.md",
     "index.md",
     "CMPA/index.md",
     "CHN/index.md",
@@ -192,9 +191,6 @@
     "CMPA/d/10-15-2024 Psych.md",
     "MS/index.md",
     "CMPA/d/04-03-2024 MS.md",
-    "CMPA/d/04-04-2024 MS.md",
-    "CMPA/d/06-30-2024 FUNDA.md",
-    "swng a bat.canvas",
     "attachments/private/Pasted image 20241014152536.png",
     "attachments/private",
     "attachments/private/Pasted image 20241014153400.png",
