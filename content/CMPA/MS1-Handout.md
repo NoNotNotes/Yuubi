@@ -1798,16 +1798,14 @@ ___
 # Pulmonary Disorders
 
 ## Chronic Airflow Limitations (CAL)
-
-* A group if chronic lung diseases that includes:
-  * Asthma – related to allergy
-    * Wheezing
-  * Chronic Bronchitis
-  * Emphysema – one can have this even if not a smoker, has a familial predisposition
-    * Initially has normal ABG
-    * The only one which affects the alveoli (The other three affects the lower airway)
-  * Bronchiectasis
-* COPD
+A group of chronic lung diseases that includes:
+* **Asthma**, a hypersensitivity disorder. This is characterized by wheezes upon inspiration.
+* **Chronic Bronchitis**, inflammation of the bronchi limiting airflow and trapping air.
+* **Emphysema**, an abnormal distention of alveoli in an inelastic state. One can have this even if not a smoker, has a familial predisposition
+	* Initially has normal ABG
+	* The only one which affects the alveoli (The other three affects the lower airway)
+* **Bronchiectasis**, 
+* **COPD**
 
  
 
