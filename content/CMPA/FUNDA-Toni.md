@@ -30,21 +30,22 @@ The first six rights of medication listed are most important, but otherwise not 
 	- **IV Calculation**: `Total Volume / Hrs. to Infuse * Drop Factor / 60 Minutes` DF may be defined as macro (20) or micro (60).
 4. **Right Frequency**: the usage of correct intervals between dosages. This is written on the order, with standardized abbreviations. Depending on the institution, the timings of non-specific frequencies can vary.
 
-| Notation         | Meaning                                                                                               | Example (depending on Institution) |
-| ---------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| od               | Once a day                                                                                            | 8 AM                               |
-| bid              | Twice a day                                                                                           | 8 AM, 6 PM                         |
-| tid              | Three times a day                                                                                     | 8 AM, 1 PM, 6 PM                   |
-| qid              | Four times a day                                                                                      | 8 AM, 12 NN, 4 PM, 8 PM            |
-| hs               | Hours of sleep; at bed-time                                                                           | 9 PM                               |
-| q                | "Every", as in "Every four hours" for q4.                                                             | Done around the clock              |
-| qod              | Every other day                                                                                       |                                    |
-| qh               | Every hour                                                                                            |                                    |
-| ac               | Before meals                                                                                          |                                    |
-| pc, postprandial | After meals                                                                                           |                                    |
-| prn              | As necessary                                                                                          |                                    |
-| stat             | Now; Immediately                                                                                      |                                    |
-| c and s          | these are written with overhead bars. c is "with", s is "without", as in "with pillow" for "c pillow" |                                    |
+| Notation         | Meaning                                   | Example (depending on institution) |
+| ---------------- | ----------------------------------------- | ---------------------------------- |
+| od               | Once a day                                | 8 AM                               |
+| bid              | Twice a day                               | 8 AM, 6 PM                         |
+| tid              | Three times a day                         | 8 AM, 1 PM, 6 PM                   |
+| qid              | Four times a day                          | 8 AM, 12 NN, 4 PM, 8 PM            |
+| hs               | Hours of sleep; at bed-time               | 9 PM                               |
+| q                | "Every", as in "Every four hours" for q4. | Done around the clock              |
+| qod              | Every other day                           |                                    |
+| qh               | Every hour                                |                                    |
+| ac               | Before meals                              |                                    |
+| pc, postprandial | After meals                               |                                    |
+| prn              | As necessary                              |                                    |
+| stat             | Now; Immediately                          |                                    |
+| c̄               | c̄ stands for *cum*, as in "with".        | "c̄ pillow" → "with pillow"        |
+| s̄               | s̄ stands for *sine*, as in "without".    | "s̄ pillow" → "without pillow"     |
 5. **Right Route**: the administration of drugs through the correct medium and passageway
 
 | Notation          | Meaning                                                                                                                                                                                                                                   |
@@ -74,7 +75,6 @@ The first six rights of medication listed are most important, but otherwise not 
 8. **Right Assessment**
 9. **Right Evaluation**
 10. **Right to Refuse**
-
 >[!DRUG] Medication Order (MO) vs. Telephone Order (TO).
 >A **medication order** contains the name of the patient, the name of the drug, its dose, frequency, and route; the first five rights listed, along with the signature of the prescribing physician. All elements must be present for the validity of a prescription.
 >
@@ -82,8 +82,6 @@ The first six rights of medication listed are most important, but otherwise not 
 >- However, the prescribing physician should **countersign the order** based on institutional policies, within 24 hours, or by the next shift.
 >- It may also be accepted for **emergency cases**.
 >- Additionally, a **registered nurse** must be present to serve as a witness and for verification of the drug. Any unclear info provided should be inquired upon, such as the spelling of an uncommon drug.
-
-
 ## Parenteral Administration
 Syringe-based administration. An invasive procedure that can be classified as ID, SC, IM, or IV. Because of its nature, it is considered as the most dangerous and the fastest method of administration. Apply **universal precautions**.
 >[!ERROR] Universal Precaution
@@ -93,9 +91,9 @@ Syringe-based administration. An invasive procedure that can be classified as ID
 
 | Parameter | Intradermal | Subcutaneous | Intramuscular                    |
 | --------- | ----------- | ------------ | -------------------------------- |
-| Length    | 3/8 - 5/8   | 5/8 - 1/2    | 1 1/2                            |
-| Gauge     | 26 - 27     | 25 - 26      | Child: 24 - 25<br>Adult: 23 - 24 |
-| Angle     | 10 to 15    | 45           | 90                               |
+| Length    | 3/8 – 5/8"  | 5/8 – 1/2"   | 1/2 – 1 1/2"                     |
+| Gauge     | 26 – 27     | 25 – 26      | Child: 24 – 25<br>Adult: 23 – 24 |
+| Angle     | 10° – 15°   | 45°          | 90°                              |
 
 Administration through parenteral means, given its potential risks, should following these principles:
 1. **ID**: **Bevel Up**. The bevel of the needle should be facing up, away from the skin. This facilitates the formation of a **wheal** or **bleb**. **No red ink** when marking the site. No massaging.
