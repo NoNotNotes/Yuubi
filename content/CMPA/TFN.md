@@ -5,6 +5,7 @@ tags:
   - CMPA
 title: Theoretical Foundations of Nursing
 description: Nursing theory is a major theme in modern nursing, being the basis of nursing practice, literature, and education around the world.
+date: 2024-10-11
 ---
 
 | Nursing Theorist                                                       | Theory Developed                                                   |

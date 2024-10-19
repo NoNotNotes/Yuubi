@@ -6,7 +6,7 @@ title: Nursing Leadership and Management (Luansing)
 description: A nurse is a leader in the health care system. Leadership is the process of persuasion and example of an individual to influence a group to take action in accordance with their common goals, and achieve desired objectives. Management is a process of the accomplishment of organizational objects using both interpersonal and technical aspects, and using resources efficiently and effectively. A manager coordinates actions and resources available to achieve organizational goals and outcomes.
 date: 2024-01-01
 ---
-This can also be found under my [[PALMER Reviewer|summary of Luansing's PALMER review book]].
+This can also be found under my [[PALMER-Luansing|summary of Luansing's PALMER review book]].
 # Nursing Leadership
 **Leadership** is the process of persuasion and example-setting of an individual to influence a group to take action in accordance with their common goals, and achieve desired objectives. This process may be **formal** or **informal** based on appointment or status of the leader or de-facto leader. This process may be achieved through:
 1. **Rationalization**

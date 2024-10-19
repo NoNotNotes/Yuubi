@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0646df3d219b83c9",
+        "id": "25cea7945e2d9ec9",
         "type": "tabs",
         "children": [
           {
-            "id": "22d9680125bcd311",
+            "id": "93a185e1cbd66ac9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/d/10-18-2024 MS.md",
+                "file": "CMPA/FUNDA-Toni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-18-2024 MS"
+              "title": "FUNDA-Toni"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "8a590d21f77c43b6",
@@ -163,12 +163,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22d9680125bcd311",
+  "active": "93a185e1cbd66ac9",
   "lastOpenFiles": [
-    "swng a bat.canvas",
+    "CMPA/FUNDA-Handout.md",
+    "2024-10-13.md",
+    "CMPA/FUNDA-Toni.md",
+    "CMPA/d/10-13-2024 FUNDA.md",
+    "CMPA/PROF-AD/PALMER-Pentagon.md",
+    "CMPA/PROF-AD/PALMER-Luansing.md",
+    "CMPA/PROF-AD/index.md",
+    "CMPA/PROF-AD/01.md",
     "CMPA/d/10-18-2024 MS.md",
-    "index.md",
+    "CMPA/Perioperative Nursing.md",
+    "CMPA/d/10-15-2024 Psych.md",
     "CMPA/index.md",
+    "CMPA/HEMA.md",
+    "CMPA/TFN.md",
+    "A110/index.md",
+    "swng a bat.canvas",
+    "index.md",
     "CHN/index.md",
     "CHN/MNCHN Services.md",
     "CHN/IYCF.md",
@@ -179,18 +192,6 @@
     "B315/Chapter 4 (Analytic Phase).md",
     "B314/index.md",
     "ANPH/index.md",
-    "A217/index.md",
-    "A216/index.md",
-    "A215/index.md",
-    "A113/index.md",
-    "A113/O2.md",
-    "A110/index.md",
-    "CMPA/Saunders/index.md",
-    "CMPA/RPS MNC/index.md",
-    "CMPA/PROF-AD/index.md",
-    "CMPA/d/10-15-2024 Psych.md",
-    "MS/index.md",
-    "CMPA/d/04-03-2024 MS.md",
     "attachments/private/Pasted image 20241014152536.png",
     "attachments/private",
     "attachments/private/Pasted image 20241014153400.png",
