@@ -4,6 +4,9 @@ tags:
 title: PALMER Reviewer by Pentagon
 date: 2024-10-19
 ---
+>[!WARNING] Work in Progress
+
+___
 # Nursing Research
 According to **Kerlinger**, **research** is the systematic, empirical, controlled and critical investigation of a hypothetical proposition in relation to a natural phenomena or problem conducted to **affirm or deny a hypothesis**.
 - **Phenomenon**: everyday phenomenon that affects the nurse, e.g., bacteria, drugs, physician. This, in combination with a hypothesis about it, can form a **research problem**.
