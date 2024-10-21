@@ -116,7 +116,10 @@ ___
 	3. **Humidifier**: increases moisture of delivered air to prevent drying.
 ## Delivery Systems
 1. **Low Flow**: entry level oxygenation, potentially even usable as an independent nursing intervention in emergencies.
-2. **High Flow**: used for COPD, including the use of CPAP, CPEP, and BiPAP
+>[!WARNING] Refractory Hypoxia in COPD
+>The use of high flow oxygen is **not done for patients with COPD**. These patients do not require the SpO<sub>2</sub> of a normal individual. Their breathing reflex may mainly depend on oxygen levels rather than carbon dioxide levels; a high oxygen flow can deplete this **hypoxic drive**, inhibiting the patient's breathing.
+
+2. **High Flow**: including the use of CPAP, CPEP, and BiPAP
 
 | Delivery                          | Rate        |
 | --------------------------------- | ----------- |
