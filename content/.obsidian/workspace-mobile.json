@@ -83,7 +83,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "fc729fc383698884",
@@ -149,15 +149,17 @@
   },
   "active": "f814b8b44cf0a47d",
   "lastOpenFiles": [
-    "CMPA/d/09-05-2024 Normal Pediatrics.md",
+    "CMPA/d/04-02-2024 MS.md",
+    "CMPA/d/04-02-2024 MS 1.md",
     "CMPA/d/10-21-2024 Normal OB.md",
+    "CMPA/d/10-20-2024 FUNDA.md",
+    "CMPA/d/09-05-2024 Normal Pediatrics.md",
     "CMPA/d/02-18-2024 Normal OB.md",
     "CMPA/d/09-10-2024 Normal OB.md",
     "CMPA/d/09-09-2024 Normal OB.md",
     "CMPA/d/08-27-2024 Normal OB.md",
     "CMPA/d/05-05-2024 Normal OB.md",
     "CMPA/d/02-20-2024 OB.md",
-    "CMPA/d/10-20-2024 FUNDA.md",
     "CMPA/FUNDA-Toni.md",
     "CMPA/MS1-Ferrer-1.md",
     "CMPA/FUNDA.md",
@@ -165,7 +167,6 @@
     "CMPA/PROF-AD/PALMER-Luansing.md",
     "CMPA/FUNDA-Handout.md",
     "MS/19.md",
-    "CMPA/d/04-02-2024 MS.md",
     "CMPA/d/04-03-2024 MS.md",
     "CMPA/MS1-Handout.md",
     "CMPA/Saunders/Unit III.md",
@@ -174,7 +175,6 @@
     "CMPA/d/10-09-2024 MS.md",
     "CMPA/d/10-07-2024 MS.md",
     "CMPA/HEMA.md",
-    "MS/31-3.md",
     "attachments/st_elevation.png"
   ]
 }
