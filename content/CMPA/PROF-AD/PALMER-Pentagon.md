@@ -2,7 +2,7 @@
 tags:
   - CMPA
 title: PALMER Reviewer by Pentagon
-date: 2024-10-19
+date: 2024-10-21
 ---
 >[!WARNING] Work in Progress
 
@@ -23,4 +23,56 @@ Purpose of Research in Nursing Profession (*mn. DEED*)
 2. **Exploratory**: **explore to those areas that are unknown**. This is used if a nurse does not completely understand a phenomenon.
 3. **Experimental**: an active intervention or manipulation to determine a **cause-and-effect relationship**; a controlled change is created before observing results to determine changes attributable to said change.
 4. **Developmental**: to **improve the system of care** for the your patient. Conducting research is for the benefit of the patient, their care, or patient focus.
+## Ethics of a Researcher
+**mn. SCIENTIFIC**
+1. **Scientific Objective**: the research is done for a good purpose or object with your patient.
+2. **Cooperation and Consent**: obtain all necessary consent and cooperation of all patients involved in the research.
+3. **Integrity**: the adherence to ethical principles and conscience of a researcher.
+4. **Equitable**: acknowledging the works or contributions of others.
+5. **Nobility**: the protection of rights of the subject.
+>[!INFO] Patient Rights
+>- **Right not to be Harmed**: safety from physical, mental, or moral harm.
+>>[!FAIL] Harmful Acts to Patients
+>>1. **Physical Harm**, often from **negligence**. This may be done through commission (actual performance of harmful act) or through omission (failure to perform a preventive act).
+>>2. **Moral Harm**:
+>>	- **Assault**: induction of threat
+>>	- **Battery**: physical harm to the patient. A common case for battery is the unnecessary application of **restraint**, either physically or chemically (with psychotropics, etc.)
+>>	- **Slander**: oral defamation
+>>	- **Libel**: written defamation
+>
+>- **Right to Self-determination**: the principle that an individual has the right to decide on all relevant healthcare symptoms.
+>- **Right to Privacy**: **anonymity** (protect identity) and **confidentiality** (protect the information obtained).
 
+6. **Truthfulness**: the use of data only verifiable to and obtained by the researcher.
+7. **Important**: the research done is of positive effect to the nursing profession.
+8. **Factual**: the use of facts; empirical, reliable data.
+9. **Ideal**: follow the eleven steps of research.
+10. **Courageous**
+## Steps of the Nursing Research Process
+1. **Identification/Formulation of a Research Problem**: anything that may be solved through a scientific investigation.
+	- **Sources of a Research Problem** (mn. CLIENT):
+		- **Concepts** (Cancer, Pulmonary Tuberculosis, Myocardial Infarction, etc.)
+		- **Literature** (essays, books, journals)
+		- **Issues**
+		- **Experience**
+		- **Nursing Problems**
+		- **Theories**
+	 - **Characteristics of a Research Problem** (mn. GREFINS)
+		 - **General** applicability and use
+		 - **Researchable**
+		 - **Feasible** and measurable: in time, money, experience (of the researcher), instruments, and population.
+		 - **Important** to the nursing profession
+		 - **Novel** and original, especially important against **plagiarism**.
+		 - **Significant** to the nursing profession
+	- **Types of Research Problems**:
+		- **Basic/Pure Research**: research done to research; done for personal necessity or to answer one's question and no more.
+		- **Applied Research**: research done to resolve an issue; to solve a problem.
+
+>[!INFO] Variables
+>Variables are the **elements of a research problem** subject to change and observation. Depending on their nature or place in the research,  they may be defined as:
+>1. **Independent Variable**: 
+>2. **Dependent Variable/Effectual Variable**: 
+>3. **Intervening Variable**: 
+>4. **Extraneous Variable**: 
+>5. **Dichotomous Variable**: 
+>6. **Polychotomous Variable**: 
