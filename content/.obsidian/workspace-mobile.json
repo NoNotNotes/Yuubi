@@ -48,7 +48,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "unang",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -149,6 +149,8 @@
   },
   "active": "f814b8b44cf0a47d",
   "lastOpenFiles": [
+    "MS/MIDTERMS.md",
+    "CMPA/FUNDA-Toni.md",
     "CMPA/PROF-AD/PALMER-Pentagon.md",
     "CMPA/PROF-AD/PALMER-Luansing.md",
     "CMPA/d/10-20-2024 FUNDA.md",
@@ -164,7 +166,6 @@
     "CMPA/d/08-27-2024 Normal OB.md",
     "CMPA/d/05-05-2024 Normal OB.md",
     "CMPA/d/02-20-2024 OB.md",
-    "CMPA/FUNDA-Toni.md",
     "CMPA/MS1-Ferrer-1.md",
     "CMPA/FUNDA.md",
     "CMPA/FUNDA-Handout.md",
@@ -174,7 +175,6 @@
     "CMPA/Saunders/Unit III.md",
     "CMPA/RPS MNC/01.md",
     "CMPA/d/10-09-2024 MS.md",
-    "CMPA/HEMA.md",
     "attachments/st_elevation.png"
   ]
 }
