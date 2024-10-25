@@ -3,7 +3,7 @@ tags:
   - MS
   - CMPA
 title: Perioperative Nursing
-description: This page is lifted from Sir V's handout on Perioperative Nursing. He has a lot more to say than what is on the presentation, so don't expect this to be completely comprehensive in terms of content. This can be used as a content outline for further review. However, I did attempt to supplement information when possible to provide more context.
+description: Perioperative nursing is the identification of the physiological, psychological, social and spiritual needs of the client and the formulation of an individualized plan of care before, during, and after surgery. This page is lifted from Sir V's discussions on Perioperative Nursing.
 date: 2024-10-16
 ---
 Updated on Oct. 16, 2024, expanding on Preoperative Medications, [[#Sedation]], [[#Hemostasis]], [[#Postoperative Discomforts]], and [[#Postoperative Complications]]

@@ -105,8 +105,6 @@ The pericardial sac normally only contains ~20 mL of fluid. In cases of inflamma
 ## Coronary Artery Diseases
 The aorta branches off into the **right coronary artery** and **left coronary artery**. The main problem involved with coronary artery diseases is **atherosclerosis**. It is the hardening or stenosis of vasculatures as a result of the build-up of plaque, and results in decreased perfusion. An imbalance between oxygen demand and supply produces **ischemia**, which can be visualized as ST depression in an ECG, which can eventually result in **myocardial infarction**, which can be visualized as ST elevation in an ECG.
 
-![[ECG#Lead Placement]]
-
 >[!INFO] Read more about ECGs and their leads: [[B418/ECG|Electrocardiography]]
 ### Angina Pectoris
 **Angina pectoris** is chest pain caused by hypoxia of the cardiac muscles. The pain is a substernal pain radiating to the left arm. There are different types of angina:
