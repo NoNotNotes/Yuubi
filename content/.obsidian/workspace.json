@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/MS1-Handout.md",
+                "file": "B418/GI Dysfunction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MS1-Handout"
+              "title": "GI Dysfunction"
+            }
+          },
+          {
+            "id": "475730f74f13ee11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANPH/13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13"
             }
           }
         ]
@@ -139,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPA/MS1-Handout.md"
+                "file": "B418/GI Dysfunction.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MS1-Handout"
+              "title": "Outline of GI Dysfunction"
             }
           }
         ],
@@ -165,43 +179,43 @@
   },
   "active": "93a185e1cbd66ac9",
   "lastOpenFiles": [
-    "CMPA/Normal OB.md",
-    "CMPA/Pediatrics.md",
-    "CMPA/Perioperative Nursing.md",
-    "CMPA/MS1-Ferrer-1.md",
-    "CMPA/d/10-21-2024 MS.md",
+    "attachments/Pasted image 20241026004823.png",
+    "ANPH/13.md",
+    "B418/GI Dysfunction.md",
+    "B418/ECG.md",
+    "B418/End-of-Life Care.md",
+    "B418/Unconscious Patients.md",
+    "B418/MIDTERMs Compilation.md",
+    "B418/index.md",
+    "attachments/ecg_heart-block-third-degree.png",
+    "attachments/ecg_heart-block-second-degree-mobitz-2.png",
+    "attachments/ecg_heart-block-second-degree-mobitz-1.png",
+    "attachments/ecg_heart-block-first-degree.png",
+    "attachments/ecg_ventricular-fibrillation.png",
+    "attachments/ecg_ventricular-tachycardia.png",
+    "attachments/ecg_ventricular_premature_complex.png",
+    "attachments/ecg_junctional-rhythm.png",
+    "attachments/ecg_atrial-fibrillation.png",
+    "attachments/ecg_atrial-flutter.png",
     "CMPA/d/10-21-2024 Normal OB.md",
+    "CMPA/MS1-Ferrer-1.md",
+    "CMPA/Perioperative Nursing.md",
+    "CMPA/PULMO.md",
+    "CMPA/Normal OB.md",
+    "CMPA/d/10-21-2024 MS.md",
+    "CMPA/TFN.md",
+    "CMPA/Pediatrics.md",
+    "CMPA/Saunders/Unit III.md",
+    "CMPA/Saunders/Unit II.md",
+    "CMPA/MS1-Handout.md",
     "CMPA/d/10-13-2024 FUNDA.md",
     "CMPA/d/10-15-2024 Psych.md",
     "CMPA/d/10-09-2024 MS.md",
     "CMPA/d/10-08-2024 MS.md",
-    "CMPA/PULMO.md",
     "MS/33-04.md",
     "MS/33-06.md",
     "MS/33-08.md",
-    "MS/33-09.md",
-    "MS/33-10.md",
-    "MS/34.md",
-    "MS/35.md",
-    "B418/ECG.md",
-    "attachments/ecg_premature-atrial-complex.png",
-    "attachments/Pasted image 20241024185909.png",
-    "attachments/ecg_sinus-arrhythmia.png",
-    "attachments/ecg_sinus-tachycardia.png",
-    "attachments/Pasted image 20241024185315 1.png",
-    "B418/index.md",
-    "attachments/ecg_sinus-bradycardia.png",
-    "attachments/ecg_sinus-rhythm.png",
-    "B418/MIDTERMs Compilation.md",
-    "attachments/heart_conduction_system.png",
-    "attachments/lead_placement1.png",
-    "attachments/lead_placement2.png",
-    "private/Q&A/Community Health Nursing.md",
-    "private/Q&A/Saunders/Physiological Integrity.md",
-    "private/Q&A/Saunders/Safe and Effective Care Environment.md",
-    "private/Q&A/Medical-Surgical Nursing/Endocrine Nursing.md",
     "private/Q&A/Saunders",
-    "private/Q&A/Medical-Surgical Nursing/Cardiologic Nursing.md",
     "swng a bat.canvas",
     "attachments/COMPOSITE-WHO-PARTOGRAPH-1.pdf",
     "attachments/private",
