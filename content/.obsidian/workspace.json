@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B418/GI Dysfunction.md",
+                "file": "B418/ECG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GI Dysfunction"
+              "title": "ECG"
             }
           },
           {
@@ -179,10 +179,10 @@
   },
   "active": "93a185e1cbd66ac9",
   "lastOpenFiles": [
-    "attachments/Pasted image 20241026004823.png",
-    "ANPH/13.md",
     "B418/GI Dysfunction.md",
     "B418/ECG.md",
+    "attachments/Pasted image 20241026004823.png",
+    "ANPH/13.md",
     "B418/End-of-Life Care.md",
     "B418/Unconscious Patients.md",
     "B418/MIDTERMs Compilation.md",
@@ -196,7 +196,6 @@
     "attachments/ecg_ventricular_premature_complex.png",
     "attachments/ecg_junctional-rhythm.png",
     "attachments/ecg_atrial-fibrillation.png",
-    "attachments/ecg_atrial-flutter.png",
     "CMPA/d/10-21-2024 Normal OB.md",
     "CMPA/MS1-Ferrer-1.md",
     "CMPA/Perioperative Nursing.md",

@@ -89,25 +89,37 @@ There are multiple parameters that an ECG reading depends on. These include the 
 $\text{HR}=300/\text{\# of big squares}$  can be used to determine the heart rate of an individual from an ECG reading.
 
 1. **Sinus Rhythm**: the **normal** rhythm, with a **P** wave followed by **QRST** with no narrowing or widening. The normal heart rate is dictated by the **sinus** (SA) **node**, the heart's **primary pacemaker**. In an adult, the resting heart rate ranges from **60 – 100 beats/min**.
+
 ![[ecg_sinus-rhythm.png]]
 2. **Sinus Bradycardia**: a **normal waveform** but with **a slow heart rate**, **less than 60 beats/min**.
+
 ![[ecg_sinus-bradycardia.png]]
 3. **Sinus Tachycardia**: a **normal waveform** but with **a fast heart rate**, **more than 100 beats/min**.
+
 ![[ecg_sinus-tachycardia.png]]
 4. **Sinus Arrhythmia**: a **normal waveform** occurring in **irregular intervals**; with the longest PP interval or RR interval being larger by the shortest by **0.16 seconds or more**.
-![[ecg_sinus-arrhythmia.png]]5. **Premature Atrial Complex**: a **prematurely occurring PQRST complex**. The P wave appears outside of the normal sinus beat, resulting in a long PR interval and a narrow QRS complex.
+
+![[ecg_sinus-arrhythmia.png]]
+5. **Premature Atrial Complex**: a **prematurely occurring PQRST complex**. The P wave appears outside of the normal sinus beat, resulting in a long PR interval and a narrow QRS complex.
+
 ![[ecg_premature-atrial-complex.png]]
 6. **Atrial Flutter**: an atrial rate of 220 to 300 beats/min, with only the P section of the waveform (atrial depolarization) appearing as flutter waves.
+
 ![[ecg_atrial-flutter.png]]
 7. **Atrial Fibrillation**: the atrium is rapidly triggered, resulting in **no discernible P waves**, with an **irregular RR interval**.
+
 ![[ecg_atrial-fibrillation.png]]
 8. **Junctional Rhythm**: once the primary pacemaker (SA node) fails to lead the heart's impulses, the **AV Node** takes over, but produces a lower normal heart rate. The **P wave becomes inverted or buried within or follows the QRS complex**, and the **QRS complex itself is narrow**.
+
 ![[ecg_junctional-rhythm.png]]
 9. **Premature Ventricular Complex**: a **prematurely occurring complex**; the QRS complex ends up looking **wide** and **bizarre**, with **no preceding P wave**. The following **T wave becomes inverted** in defection to the QRS complex. After each PVC, a **compensatory pause** occurs for the heart to reorient its signals.
+
 ![[ecg_ventricular_premature_complex.png]]
 10. **Ventricular Tachycardia**: a series of **at least three consecutive PVCs** that display **rapid**, **bizarre**, **wide QRS complexes** (>0.10s). As previously mentioned, PVCs **do not have a preceding P wave**, which normally act as the origin of ventricular impulses.
+
 ![[ecg_ventricular-tachycardia.png]]
 11. **Ventricular Fibrillation**: the **complete loss of discernible P, QRS, and ST segments** as the ventricle loses its ability to contract as a unit. This is **the most common mechanism of cardiac arrest** in myocardial ischemia and infarction.
+
 ![[ecg_ventricular-fibrillation.png]]
 ## Heart Blocks
 **Atrioventricular  blocks** are a dysfunction of the conductive system of the heart where the time between the activation of the atrium and the ventricles (PR segment) become prolonged.
