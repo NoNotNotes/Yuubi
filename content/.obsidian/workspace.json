@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/d/10-20-2024 FUNDA.md",
+                "file": "CMPA/FUNDA-Acuna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-20-2024 FUNDA"
+              "title": "FUNDA-Acuna"
             }
           }
         ]
@@ -163,11 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b608ab30a2372a6b",
+  "active": "c9ebabd5c09a2c1d",
   "lastOpenFiles": [
     "CMPA/d/10-21-2024 Normal OB.md",
     "2024-10-20.md",
-    "CMPA/d/10-20-2024 FUNDA.md",
+    "CMPA/FUNDA-Acuna.md",
     "attachments/travis_illness-wellness-continuum.png",
     "ANPH/13.md",
     "attachments/Pasted image 20241026004823.png",
