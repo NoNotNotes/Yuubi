@@ -72,9 +72,18 @@ The abdominal areas may be subdivided into four quadrants or nine regions:
 >|**RLQ**|Crohn's Disease, Appendicitis|
 >|**Epigastric Region**| Gastritis, Peptic Ulcer Disease|
 ## Non-inflammatory Disorders
-1. **Irritable Bowel Syndrome** (IBS): 
-2. **Hiatal Hernia**: 
-3. **Liver Cirrhosis**: 
+1. **Irritable Bowel Syndrome** (IBS): a **functional** (no causative structural defects) disorder with an unknown cause— an **idiopathic** disorder. However, this has been theorized to be caused by neural or hormonal defects in gastrointestinal regulation.
+	- **Risk Factors**: stress, family history
+	- **Signs and Symptoms**: IBS is classified as **IBS-c** (results in **constipation**), **IBS-d** (results in **mucoid diarrhea**), or IBS-m/**IBS-a** (results in **mixed** or **alternating diarrhea and constipation**). Additionally the following also occur:
+		- Indigestion (dyspepsia)
+		- Abdominal pain
+	- **Diagnostic Evaluation**: mainly *exclusionary*, as there is no test specific to IBS. These include **colonoscopy**, **CBC**, **ESR** (elevated in inflammation), **imaging** (UTZ)
+	- **Management** is palliative; symptom-based:
+		- **Diarrhea**: high protein, low residue, high fiber and fluid diet with **fluid replacement** (Oresol).
+		- **Constipation**: low fat, high fiber diet with increased fluid intake. Laxatives may be prescribed.
+		- **Control symptoms** and exacerbations: low residue, high fiber diet.
+2. **Hiatal Hernia**: the protrusion of the stomach upwards through the **diaphragmatic hiatus**.
+2. **Liver Cirrhosis**: 
 ___
 # Sample Questions
 ## Gastrointestinal System
