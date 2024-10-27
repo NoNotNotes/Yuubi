@@ -5,7 +5,7 @@ tags:
 title: Fundamentals of Nursing (Ritchel Acuna)
 draft: false
 date: 2024-10-27
-description: A collection of lecture contents from three discussions by Sir Ritchel Acuña of East Avenue Medical Center on 10-20, 10-27, and 11-03 (?) for the Fundamentals of Nursing course.
+description: A collection of lecture contents from three discussions by Sir Ritchel Acuña of East Avenue Medical Center on 10-20, 10-27, and 11-03? for the Fundamentals of Nursing course.
 ---
 **Nursing** is the diagnosis of human responses to actual and potential problems (American Nurses Association).
 - The act of fulfilling the environment of the patient to assist him in his recovery (Florence Nightingale)
@@ -214,3 +214,292 @@ Diseases may be classified depending on their nature:
 1. **Primary Prevention**: used in healthy individuals for the prevention of disease by reducing risk factors. This mainly comes in the form of **health teaching**.
 2. **Secondary Prevention**: used in potentially sick individuals (with S/S) for the early detection of disease. This mainly comes in the form of **screening** and **testing**.
 3. **Tertiary Prevention**: used in patients with disease (chronic, debilitative). The primary focus is on **rehabilitation**.
+___
+# Communication
+**Communication** is a process of transferring information and feelings between parties that can take the form of **verbal** (spoken, written) or **nonverbal** (gestured, paralanguage, etc.) communication. It consists of five basic components:
+1. **Sender**: the one to encode and deliver a message
+2. **Message**: the content of the communication
+3. **Channel**: the medium used for sending the message
+4. **Receiver**: the recipient of the message, and the one to decode the meaning of the message
+5. **Response/Feedback**: the reaction elicited by the message received.
+
+As a quintessential element of nursing, communication requires specific characteristics in order to be considered effective and useful. These characteristics include:
+1. **Simplicity**: the message delivered is understandable to all parties involved, and uses simple straightforward delivery to concisely and efficiently convey its meaning.
+2. **Clarity**: the message spoken, written, or otherwise delivered, is clear, cohesive, and well understood. A message with conflicting meanings or appearance, or messages poorly written or enunciated are poor communicators of meaning.
+3. **Timing and Relevance**: messages are send in their appropriate time and should consider the client's concerns and interests.
+4. **Adaptability**: the ability to adjust communication to consider circumstances and behavior.
+5. **Credibility**: the message transmitted is reliable and believed.
+
+**Organizational communication** takes varying forms and methods based on the hierarchy employed in its delivery, and the context that it occurs in:
+1. **Downward communication**: managers transmit message down through the levels of management; **traditional** line of communication.
+2. **Upward communication**: employees provide input to their managers, who can pass it further up the administration hierarchy for decision.
+3. **Lateral communication**: "*horizontal communication*"; communication between departments on the same level of hierarchy. This is most frequently used to **coordinate** activities.
+4. **Diagonal communication**: communication between individuals or departments that are separate and not on the same level of hierarchy.
+5. **Grapevine communication**: an **informal method** of communication that naturally occurs (*as if a vine growing*) as clusters of individuals spend time together. This occurs outside of formal channels, such as the break room, through social media, etc.
+___
+# The Nursing Process
+Also read: [[ADPIE|The Nursing Process]] (by Ma'am Tuiza)
+
+All activities of nurses follow the principles of the nursing process. It is the framework which allows nurses to use their knowledge and skills to provide care and help clients meet their needs. It is a **systematic**, **rational** method of planning and providing care using the process of ADPIE. It is characterized as:
+1. **Systematic**
+2. **Skills and Knowledge-based**
+3. **Cyclical**: the nursing process ends with evaluation, which evaluates both the interventions used and the outcomes achieved. This data can be used to stop, continue, or alter a care plan for patient care.
+4. **Dynamic**
+5. **Client-centered**
+6. **Interpersonal and Collaborative**: despite it being named the "Nursing Process", it can be used to collaborate with other disciplines in delivering efficient, effective care.
+7. **Universal**
+8. **Goal-oriented**: the planning phase of the nursing process establishes goals and objectives of care that must be met for successful care.
+9. **Priority-based**: a patient can experience several or multiple health needs, and the nurse determines priorities to immediate needs in clients using the **ABCs of Life**, **Maslow's Hierarchy of Needs**, and **Client Preference**.
+## Assessment
+The process of **collecting**, **organizing**, **validating**, and **recording data** about a client's health status. The data collected may be divided between **subjective** and **objective assessment cues**, depending on if the data collected is validated only by the patient (subjective) or if the data collected is observable or measurable.
+>[!INFO] Data Sources
+>Data may be collected from the **primary** (patient) and **secondary** (laboratory results, family statements, etc.) 
+
+1. **Initial Assessment**: assessment done upon admission of the patient, including history-taking and assessment worksheets.
+2. **Problem-Focused/Ongoing Assessment**: continuing assessment done after admission for identified problems and risks of the patient, e.g., assessment done every four hours in the ward.
+3. **Emergency Assessment**: rapid (ABC) assessment during times of physiologic or psychologic crisis.
+4. **Time-Lapse Assessment**: assessment performed over two periods of time.
+
+In an assessment, the nurse uses various methods for gathering data:
+1. **Observation**: the use of the five senses of the nurse to identify cues medically relevant.
+2. **Interview**: a planned and purposive conversation between the nurse and the client.
+	- **Directive Interview** (Structured Interview): a style of interview with optioned answers to elicit specific answers. These types of structures may be time-bound.
+	- **Non-directive Interview** (Semistructured/Unstructured Interview): a style of interview with no specific answers, best for allowing the client to verbalize their thoughts and feelings, letting the patient lead the conversation.
+3. **Physical Examination**: the implementation of IPPA, the four techniques of assessment.
+	- **Inspection**: visual inspection of affected body systems for abnormalities.
+	- **Palpation**: using the sense of touch to identify potential abnormalities.
+	- **Percussion**: the use of tapping to elicit a sound which may be heard as dull, resonant, hyperresonant, etc.
+	- **Auscultation**: auditory inspection of affected body systems (heart, blood flow in vessels, breath sounds, bowel sounds)
+>[!TIP] Distinctly, abdominal assessment utilizes **IAPePa**, as percussion and palpation may alter bowel sounds heard during auscultation.
+## Diagnosis
+(a) **Clustering** and (b) **analysis** of data in order to (c) **formulate a nursing diagnosis**. Depending on the nature of the diagnosis, this may be
+1. **Actual Diagnosis**: a diagnosis signified by the presence of associated signs and symptoms about the client's response to their health status.
+2. **Risk Diagnosis**: a diagnosis tackling the presence of risk factors or providing prophylaxis against future potential problems of the patient.
+3. **Possible Diagnosis**: an indication for the need of further assessment and data to determine the presence of a *possible* diagnosis.
+4. **Wellness Diagnosis**: a clinical judgment about the potential transition from one level of health to a higher level of health.
+
+>[!WARNING] vs. Medical Diagnoses
+>Medical diagnoses identify the disease at hand, its pathology, and does not describe *human responses*. As long as the disease remains, this diagnosis does not change. In contrast, **nursing diagnoses describe human responses** to the disease *process* or health problem. These change throughout the disease process and can change frequently, and are limited to the scope of the nursing profession.
+
+A nursing diagnosis can be composed of three components:
+1. **Problem**: the actual problem presented. This may be presented with **quantifiers** such as "*Ineffective*", and "*Risk for*" that contextualize the patient.
+2. **Etiology**: the factors or causes related to the problem
+3. **Signs and Symptoms**: manifestations of the problem on the patient
+## Planning
+A deliberate, systematic phase of the nursing process that involves (a) **decision-making** and (b) **problem-solving** skills. In involves:
+1. Establishing priorities
+2. Writing goals and outcomes and developing an evaluation strategy for the plan of care
+3. Selecting health care strategies/interventions
+4. Developing health care plans
+5. Communicating the plan of health care
+
+| Type of Planning       | Description                                                                                                                                                                                                                                                                              |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Initial Planning**   | **Admission** assessment that develops the initial comprehensive plan of care that is **initiated as soon as possible*                                                                                                                                                                   |
+| **Ongoing Planning**   | Occurs at the beginning of **every shift or daily** for determining required care for a nurse's shift. It determines:<br>- Changes in health status<br>- Set priorities and decide problems to focus on<br>- Coordinate the nurse's activit                                              |
+| **Discharge Planning** | The anticipation and planning for **client needs after discharge**. **==Effective discharge planning begins at first client contact or admission==**.<br>- Simple/Basic Discharge Plan: patient is sent home<br>- Complex Discharge Plan: patient is referred to another institution an: |
+
+>[!INFO] Priority Setting
+>The process of establishing the **preferential sequence or rank of interventions** in accordance to the client's most immediate needs.
+
+**Goals and Objectives** are determined in the planning phase. The nurse declares the purposes and intentions that determines which interventions are relevant and used in the plan of care. These may be **short-term** (hours, days) or **long-term** (weeks, months) and follow the guidelines of:
+1. **Client-centered**: the goals must pertain to the client
+2. **Realistic**
+3. **Collaborative**: the interventions are compatible with the therapies of other disciplines providing care to the patient.
+4. **Specific**
+5. **Behavior-focused**: behavioral terms are used to pertain to the patient, rather than through purely physiologic goals of care.
+6. **Measurable**
+7. **Time-bound**
+
+Once goals and objectives are established, **interventions are planned**. These interventions follow the directives of the goals set, and are classified according to the primary decision-makers:
+1. **Independent Interventions**: actions that the nurse is able to perform with their own discretion and clinical judgment.
+2. **Dependent Interventions**: actions dependent on the decisions of other healthcare professionals such as physicians.
+3. **Collaborative Interventions**: overlapping, shared function and responsibility among members of the healthcare team.
+## Implementation
+Implementation is the phase of the nursing process where **the health care plan is put into action**. Before the actual performance of the planned interventions, the nurse:
+1. **Reassesses the client** to ensure that the interventions are still necessary, and to establish baseline data against which the effects of intervention is measured against.
+2. **Set priorities** for which interventions are to be performed immediately.
+3. **The interventions can then be carried out** and the procedures done, pertinent data obtained, patient status, and all other necessary information are **documented**.
+>[!ERROR] What was not documented, was not done.
+
+In carrying out interventions, **delegation** is an important method of increasing efficiency of care. It is the transfer of **responsibility** to a subordinate of the nurse (orderlies, nursing aides) to **perform a task on behalf of the nurse**. However, because of the specialized requirements of nursing responsibilities, strict guidelines are put in place to ensure that delegation will not result in error. The following segment is pulled from Atty. Luansing's review on delegation:
+
+![[PALMER-Luansing#Directing/Delegation]]
+## Evaluation
+**Reassessment** after the implementation of interventions to determine the acquisition of predetermined standards or outcome criteria. This phase **appraises the extent to which goals and outcome criteria of nursing care have been achieved**. The final judgment of the care provided can be summarized as:
+1. **Goal Met**, in which case, the cessation of the care plan or start of a secondary priority is done, and
+2. **Goal Partially Met** or **Goal Not Met**, in which case, alterations or extension of the care plan may be done
+
+Evaluation does not only occur in after caregiving, but rather in three routines:
+1. **Ongoing Evaluation**: the patient is evaluated every day after procedures done.
+2. **Intermittent**: the patient is evaluated in a periodic, regular manner.
+3. **Terminal**: evaluation is done prior to discharge.
+## Quality Assurance
+Evaluation of the provision of care is called **quality assurance**. It is a system put in place in order to assess routine care provided to maintain standards, and to increase the quality, efficiency, or effectivity where possible. This is targeted towards:
+1. **Structure Evaluation**: physical settings; the conditions wherein care is provided.
+2. **Process Evaluation**: technique; the manner utilized to provide care.
+3. **Outcome Evaluation**: consequence; the actual resulting health status as a result of the intervention.
+___
+# Vital Signs
+**Vital signs** are cardinal signs of the body that are assessed to provide a clinical picture of body functions.
+## Body Temperature
+**Body temperature** is body heat resulting from heat production (primarily metabolism) and heat loss (conduction, convection, radiation, evaporation) in the body. This is measured in **°C** or **°F** ( $°\text{F} = °\text{C}\times1.8+32$,  $°\text{C} = °\text{F}\div1.8-32$).
+- **Core temperature** refers to body temperature deep within the body, which remains relatively constant at around ~37°C. **Surface temperature** (commonly via axilla) refers to temperature of the skin down to the level of subcutaneous tissue. This fluctuates in response to the environment, ranging from 20°C to 40°C.
+- **Axillary Temperature**: temperature taken from the axilla. Temperature readings **normally range from 36°C to 37°C**. The axilla should be dry (pat dry if necessary; do not rub as friction will elevate findings) and the bulb of the thermometer should sit in the center of the axilla.
+	- Clean the thermometer before and after use: remember the clean-to-dirty principle.
+	- Secure the thermometer in place— ask the patient to place their hand across the chest.
+
+An **abnormal elevation in body temperature** is referred to as a fever; a febrile patient. A temperature higher than 37°C is called **pyrexia**, and a temperature higher than 40°C is called **hyperpyrexia**. Fevers can display a pattern in the appearance of fever:
+1. **Intermittent**: appearance and disappearance of a fever over the span of hours.
+2. **Relapsing**: appearance and disappearance of a fever over the span of days.
+3. **Constant**: a constant, minimally fluctuating fever.
+4. **Remittent**: a constant, widely fluctuating (≥2°C) fever.
+
+A febrile patient must bring their temperature down *gradually*— through **lysis**. This is a normal drop in temperature associated with a better health status. However, a sudden drop of temperature to normal levels is known as a **crisis** (sudden defervescence) and can be an indication of hypothalamic impairment, as it is the thermoregulating center of the brain.
+
+An **abnormal decrease in body temperature** is referred to as **hypothermia**. The processes involved in heat loss include **radiation** (no-contact transmission of heat), **conduction** (with-contact transmission of heat), **convection** (dissipation by air currents), and **evaporation** (evaporating water carry heat away from the body).
+>[!EXAMPLE] Factors Affecting Body Temperature
+>1. **Age**: younger individuals have higher body temperatures; older individuals have lower body temperatures.
+>2. **Diurnal Variations**: body heat during the day is higher than in the evening or early morning.
+>3. **Exercise**: muscle activity increases body heat.
+>4. **Hormones**: T₃, T₄, epinephrine, norepinephrine, and progesterone increase body heat. Estrogen decreases body heat.
+>5. **Stress**: sympathetic nervous system stimulation increases hormonal activity (item 4) resulting in increased body heat.
+## Pulse
+A **pulse** is a wave of blood created by the contraction of the left ventricle of the heart. It is detected in an individual through:
+1. **Light to moderate palpation** of **arterial sites** with two or three median fingers (not the thumb); strong pressure will obliterate the pulse.
+2. **Auscultation** at the point of maximal impulse (PMI); the **apical pulse** heard using a stethoscope.
+
+>[!IMPORTANT] Warm the hands before palpating the patient! The patient should rest for 15 minutes prior to assessment to ensure accurate findings.
+
+An individual's pulse is graded with many parameters on the different aspects of a pulse:
+1. **Pulse Rate**: the frequency of pulsation; the number of pulses in 60 seconds.
+	- This can be read as **tachycardia**, an abnormally increased pulse rate, or as **bradycardia**, an abnormally decreased pulse rate.
+	- Pulse rate is affected by many factors: **age** (see table below), **sex** (↑ in men), **exercise** (↑ PR), **fever, hemorrhage, stress** (↑ PR), **postural changes** (↑ PR), and **medications** (increase or decrease depending on medication given)
+
+| Age Group   | Bradycardia | Normal | Tachycardia |
+| ----------- | ----------- | ------ | ----------- |
+| **Infant**      | <100        | 120    | >140        |
+| **Toddler**     | <90         | 110    | >130        |
+| **Preschooler** | <80         | 100    | >120        |
+| **School-age**  | <70         | 90     | >110        |
+| **Adult**       | <60         | 80     | >100        |
+
+2. **Peripheral Pulses**: pulses auscultated or palpated from peripheral sites of the body
+3. **Apical Pulse**: the strongest pulse found at the 4th to 5th intercostal space on the left midclavicular line
+	- This is more reliable in determining heart rate because of its proximity to the heart;  a peripheral pulse may display a **pulse deficit**, a difference between peripheral pulse rate than an apical pulse rate.
+
+![[assessment_pulse-points.png]]
+
+4. **Amplitude**: the strength of the pulse graded qualitatively:
+	- **0**: **absent**
+	- **1**: **weak and thready**
+	- **2**: **normal**
+	- **3**: **bounding**
+5. **Pulse Rhythm**: the interval between pulses. In a normal individual, rhythm remains constant and continuous; an abnormal rhythm is found in irregular beating patterns of the heart called **arrhythmia**.
+## Respiration
+The **act of breathing**. The primary respiratory center is the **medulla oblongata**, which maintains breathing at a respiratory rate (RR) of around **16 to 24 breaths per minute**.
+1. **Costal/Thoracic Breathing**: breathing that expands the chest, common in adult clients
+2. **Diaphragmatic/Abdominal Breathing**: breathing that expands the abdomen
+
+Descriptors or aspects of respiration:
+1. **Inhalation**: inflow of air
+2. **Exhalation**: outflow of air
+3. **Ventilation**: physical movement of air in and out of the lungs
+4. **Hyperventilation**: deep, rapid breathing
+5. **Hypoventilation**: slow, shallow breathing
+6. **Hypoxia**: decreased oxygen in tissues
+7. **Hypoxemia**: decreased oxygen in the blood
+8. **Asphyxia**: inability to breath with an intact respiratory system
+9. **Eupnea**: normal breathing; quiet and effortless
+10. **Apnea**: cessation of breathing
+11. **Tachypnea**: rapid breathing (>24 breaths/min)
+12. **Bradypnea**: slow breathing (<12 breaths/min)
+13. **Dyspnea**: difficult, labored breathing
+14. **Orthopnea**: breathing is difficult in non-upright positions
+
+>[!EXAMPLE] Factors Affecting Respiration
+>1. **Exercise** (↑ RR)
+>2. **Stress or emotional arousal** (↑ RR)
+>3. **Environmental factors** (e.g., higher temperature raises RR, higher altitudes raises RR)
+>4. **Medications**. Notably, **narcotics depress respiration**; oversedation can result in respiratory arrest such as in medullary anesthesia.
+### Breath Rhythms
+Similar to pulse rates, breathing also has **rhythms** that occur in normal and abnormal breathing:
+1. **Cheyne-Stokes Breathing**: waxing and waning from very deep to very shallow breathing with periods of apnea.
+2. **Biot's Breathing**: shallow breathing with periods of apnea.
+3. **Kussmaul's Breathing**: deep, rapid breathing associated with acidosis (the body attempts to expel carbon dioxide to regulate pH)
+### Breath Sounds
+| Normal Breath Sound  | Description                                                                          | Found At                              |
+| -------------------- | ------------------------------------------------------------------------------------ | ------------------------------------- |
+| **Tracheal**         | Harsh breath sounds                                                                  | Level of the trachea                  |
+| **Bronchial**        | High-pitched breath sounds                                                           | Level of the bronchi                  |
+| **Bronchovesicular** | Medium-pitched breath sounds, a *blowing* sound of air moving through larger airways | Level of the scapula (mid-lung field) |
+| **Vesicular**        | Low-pitched breath sounds, a *gentle sighing sound*.                                 | Level of the lower lobes of the lung  |
+
+| Abnormal Breath Sound     | Description                                                                                |
+| ------------------------- | ------------------------------------------------------------------------------------------ |
+| **Crackles/Rales**        | Popping sounds heard from fluid filling the alveoli; crackles are a coarser form of rales. |
+| **Stridor**               | Harsh sounds (wheezing) heard upon inhalation                                              |
+| **Wheezes**               | High-pitched, whistling sounds as air passes through narrowed airways upon exhalation      |
+| **Pleural Friction Rubs** | Grating, scratching sounds heard from friction between inflamed pleura.                    |
+## Blood Pressure
+The **pressure exerted by the blood** as it pulsates through the arteries. It is measured in millimeters of mercury (mm Hg) and is measured as two values: **systolic** (contractile) pressure and **diastolic** (relaxed) pressure:
+1. **Systolic pressure** is the pressure of blood during contraction of the ventricles.
+2. **Diastolic pressure** is the pressure of blood in between heartbeats; at rest.
+3. **Pulse pressure** is the difference between diastolic and systolic pressure. This is normally 30 to 40 mm Hg.
+
+>[!IMPORTANT] Procedure
+>1. **Prepare the client** for assessment. They should be at rest for at least 30 minutes. At assessment, the patient is positioned neutrally in a **standing**, **sitting**, **supine**, or **Fowler's**, with the arm at the level of the heart. The left arm is preferred due to its proximity to the heart, but contraindications may be in place, such as: extremities with intravascular infusion, blood transfusion, **arteriovenous fistula**, burns, trauma, casting, bandaging, or the arm on the side of a mastectomy or lymphadenectomy are all contraindications for blood pressure assessment.
+>2. **Prepare the equipment** for assessment.
+>	- The **cuff** should be fit just right; not too tight (will give high readings) or too loose (will give low readings); it should cover at least two-thirds of the limb circumference. When placed, the cuff is positioned one inch (2.5 cm, two fingerbreadths) above the antecubital space.
+>	- Fully deflated; calibrated to 0 when not in use. No leaks should be present.
+>	- Non-disposable cuffs may become significantly contaminated— clean cuffs according to institutional standards.
+>3. **In initial examination**, perform a **palpatory determination of systolic pressure** to give an estimate of systolic pressure:
+>	- The brachial artery is palpated for a thrill
+>	- Inflate the cuff until a thrill is no longer palpable— this is the estimated systolic pressure, and guides the initial pressure used when inflating the cuff.
+>	- Deflate the cuff. Further assessments should be done after one to two minutes.
+>4. **Position the stethoscope** above the brachial pulse. The preferred side used is the bell for listening to the Korotkoff sounds that dictate the systolic and diastolic readings.
+>5. **Inflate the cuff** until 30 mm Hg above the palpated systolic blood pressure, then **deflate the cuff** at a rate of 2 to 3 mm Hg/s.
+>6. **Watch the sphygmomanometer** for the reading, and **listen** for the **reappearance of a bruit** (mark as systolic blood pressure) and the **disappearance of the pulsating sound** (mark as diastolic blood pressure).
+>7. If abnormal, both arms should be checked and compared. The higher blood pressure is recorded. A difference of no less than 100 mm Hg should be present.
+## Pain
+**Pain** is an unpleasant sensory and emotional experience associated with the actual or potential tissue damage, or described in terms of such damage or both.
+
+![[assessment_pain.png]]
+
+Pain comes in many presentations, and is highly subjective. Sources of pain for one person may not be a source of pain for another. Pain may be described as:
+1. **Acute**: pain lasting for up to six months, appearing suddenly or slowly. Severity covers all level of pain from mild to severe.
+2. **Chronic**: pain lasting for six months or longer. These individuals adapt and lose the behaviors associated with patients in pain.
+3. **Radiating**: pain extending from the damaged tissues to other parts of the body.
+4. **Referred**: pain felt in a body part disconnected from the damaged tissues producing pain.
+5. **Intractable**: pain highly resistant to relief, e.g., in acute compartment syndrome.
+6. **Phantom**: a painful sensation perceived in a missing body part.
+### Pain Guide Questions (PQRST)
+1. **Precipitating or Palliative**: what causes or relieves the presenting symptoms?
+2. **Quality or Quantity**: How severe are the symptoms? How does it look, feel, or sound?
+3. **Region or Radiation**: where is pain found? Does the pain spread or radiate anywhere?
+4. **Severity Scale**: how bad is the pain on a scale from 1 to 10?
+5. **Timing**: when was the onset, what is the duration, and how often does pain occur?
+___
+# Infection
+An **infection** is a disease state that results from the presence of pathogens in or on the body. The **chain of infection** is a series of components that are necessary in the spread of infection across hosts:
+1. **Infectious Agent**: the pathogen itself. This consists of bacteria, viruses, parasites, or fungi.
+2. **Reservoir**: an environment where a pathogen thrives; organisms, soil, water, etc. where microorganisms are free to grow and multiply.
+3. **Portal of Exit**: a method by which the infectious agent leaves its reservoir such as in feces, blood, mucus, etc.
+4. **Mode of Transmission**: a medium by which the free infectious agent is dispersed. This is classified as:
+	- **Contact Transmission**: transfer from person-to-person by contact such as touching, kissing, and sexual intercourse. This may also be indirect, involving a **fomite** (inanimate object) touched by the infected person then a susceptible host.
+	- **Vehicle Transmission**: water, food, air contamination
+	- **Vector Transmission**: mechanical or biological vectors
+5. **Portal of Entry**: a passage by which an infectious agent enters another organism. This is commonly in the form of a break in the skin, nose, mouth, or mucus membranes.
+6. **Susceptible Host**: an organism susceptible to pathogenesis by the infectious agent. In humans, this includes those in the extremes of age and those who are immunocompromised due to a disease or as a condition.
+
+![[chain-of-infection.png]]
+## Stages of Infection
+1. **Incubation Period**: the interval between the invasion of a pathogen to the appearance of symptoms. The pathogen is incubated— it grows and multiplies.
+2. **Prodromal Stage**: the onset and experience of symptoms, lasting from several hours to days. Signs and symptoms are often **vague** and **non-specific**, such as fatigue, malaise, and a low-grade fever. This is **the most infective stage**.
+3. **Full Stage of Illness**: **specific** signs and symptoms appear; the illness produces full-blown disease.
+4. **Convalescent Stage**: the **recovery period** from infection, where signs and symptoms disappear and the person results to a pre-disease or otherwise healthy state.
+
+![[stages-of-disease.png]]
+## Disinfection and Asepsis
+
+>[!WARNING] To be continued
