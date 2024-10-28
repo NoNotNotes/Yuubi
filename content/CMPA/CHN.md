@@ -42,7 +42,7 @@ Colloquially known as "*Botika sa Paso*" (literally "Pot Pharmacy"), it is defin
 	- Preparation: **Decoction**
 5. **Niyog-niyogan**:
 	- Use: **Anthelminthic**; *not for children less than 4 years old*
-	- Preparation: **Seeds are used**
+	- Preparation: **Seeds** (~2) **are used**
 6. **Bayabas**: *antiseptic, antiinflammatory*
 	- Use: **Washing wounds**, **diarrhea**, gargle, **toothache**
 	- Preparation: **Decoction**
@@ -58,6 +58,8 @@ Colloquially known as "*Botika sa Paso*" (literally "Pot Pharmacy"), it is defin
 10. **Ampalaya**:
 	- Use: **Mild Diabetes Mellitus Type 2**, *increases insulin sensitivity*
 	- Preparation: **Decoction or Steamed Baby Leaves**
+
+%%Only herbal medicines not prepared with decoction: niyog-niyogan, akapulko, bawang%%
 
 | Preparation   | Procedure                                                                                                                                                 |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -136,7 +138,7 @@ These are **NOT CONTRAINDICATIONS**:
 | **Hepatitis B Vaccine** (HBV)            | Hepatitis B<br>*Liver Cancer*                                                | At birth                                 |      0.5 mL       |  IM   | Vastus Lateralis        |
 | **Pentavalent** (DPT-HepB-Hib)           | Diphtheria<br>Pertussis<br>Tetanus<br>Hepatitis B<br>Pneumonia<br>Meningitis | 6, 10, 14 weeks; *not given if >5 years* |      0.5 mL       |  IM   | Vastus Lateralis        |
 | **Oral Polio Vaccine** (OPV)             | Poliomyelitis                                                                | 6, 10, 14 weeks                          | 0.5 mL; 2-3 drops |  PO   | Mouth                   |
-| **Inactivated Polio** Vaccine (IPV)      | Poliomyelitis                                                                | 14 weeks, *9 months*                     |      0.5 mL       |  IM   | Vastus Lateralis        |
+| **Inactivated Polio Vaccine** (IPV)      | Poliomyelitis                                                                | 14 weeks, *9 months*                     |      0.5 mL       |  IM   | Vastus Lateralis        |
 | **Pneumococcal Conjugate Vaccine** (PCV) | Pneumonia<br>Meningitis                                                      | 6, 10, 14 weeks                          |      0.5 mL       |  IM   | Vastus Lateralis        |
 | **Mumps Measles Rubella** (MMR)          | Mumps<br>Measles<br>Rubella                                                  | 9, 12-15 months                          |      0.5 mL       |  SC   | Outer arm               |
 Appearances:
@@ -206,7 +208,8 @@ Recommended Duration of Storage for Biologicals (*only the 1 month limit was rea
 | 5    | 1 year after DT4                                                  | 99%        | Lifetime |
 ___
 # Demography
-This section is not sourced from the book, but is directly from a handout for CMPA by Ma'am Dang.  I believe this is a topic found in Maglaya's Community Nursing book, which I am not in possession of.
+>[!Warning] Reference
+>This section is not sourced from the book, but rather is directly from a handout for CMPA by Ma'am Dang.  I believe this is a topic found in Maglaya's Community Nursing book, which I am not in possession of.
 
 **Demography** is the study of the size, territorial distribution, and composition of population and the changes therein (Duncan & Hauser, 1972). Literally translated from Greek, it means "*description of the people*". A **Population** is defined as group of individuals of the same species living and interbreeding within a given area. There are several general parameters in studying the population:
 1. **Population Size**: the number of people in a given place at a given time.
@@ -225,7 +228,7 @@ B---C
 ```
 ## Sources of Data
 1. **Census**: conducted by a national government and attempts to enumerate every person in a country. It may be done in two ways:
-	- **De Jure**: individuals are recorded based on legal residence
+	- **De Jure**: individuals are recorded based on legal residence.
 	- **De Facto**: individuals are recorded based on their location at a specific time.
 2. **Sample Survey**: data gathered from a subset of the population proportionate to the general population.
 3. **Registration System**: deals with recording of vital events such as birth, marriage, and death.
