@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: { provider: 'google', tagId: 'G-9KBPBRNS0D' },
     locale: "en-US",
     baseUrl: "nonotnotes.com",
-    ignorePatterns: ["private", "templates", ".obsidian", "/content/.tmp.driveupload"],
+    ignorePatterns: ["private", "templates", ".obsidian", "/content/.tmp.driveupload", "Untitled*"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

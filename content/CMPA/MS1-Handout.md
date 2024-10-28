@@ -651,8 +651,8 @@ Patient outcome depends on the initial first aid provided and the subsequent tre
 		* Application of a skin substitute
 		* Application of culture skin
 5. **Fifth Goal: Support GI Function**. In burn patients, bowel function is impaired, resulting in ischemia, and ulceration (Curling's ulcer). This occurs in conjunction with the reduced fluid volume in burn patients.
-	* Local GIT effect: ↓BF àlocal GIT ischemia àUlcer (Curling’s Ulcer)
-	* (severe): paralytic ileus àno peristalsis àabdominal distention
+	* Local GIT effect: ↓BF → local GIT ischemia → Ulcer (Curling’s Ulcer)
+	* (severe): paralytic ileus → no peristalsis → abdominal distention
 	* Management of the GIT:
 		1. The patient maintains **NPO until bowel sounds return**. **Flatulence** is a sign of restored bowel function.
 		2. An NGT is inserted for decompression.
@@ -731,7 +731,7 @@ ___
 Acute or chronic bacterial infection of the kidney and the lining of the collecting system (kidney pelvis).
 * Acute pyelonephritis
 	* Moderate to severe symptoms that usually last 1-2 weeks
-	* If treatment is unsuccessful & infection recurs àchronic pyelonephritis
+	* If treatment is unsuccessful & infection recurs → chronic pyelonephritis
 ### Pathophysiology
 Bacteria ascend to the kidney and kidney pelvis by way of the bladder and urethra: *Escherichia coli* (85%), *K. pneumoniae*, *P. mirabilis*, *Strep. Fecalis*, *P. aeruginosa*, *S. aureus*. These often reach the kidney through **ascending infection**, or **through the blood stream** (hematogenous). These are also known as a high UTI. This results in inflammation, with the kidney grossly enlarged.
 ### Risk Factors:
@@ -818,10 +818,10 @@ Bacteria ascend to the kidney and kidney pelvis by way of the bladder and urethr
 * Oral iron supplements (anemia)
 * **Corticosteroids**(\*\* Prednisone: DOC)& immunosuppressive agents
 	* Cause sodium and water retention, hypokalemia – edema, can be a side effect of the medication (if the BUN is under control) or disease process.
-	* Promotes gluconeogenesis àhyperglycemia
+	* Promotes gluconeogenesis → hyperglycemia
 		* Patient is given OHA (oral hyperglycemic agents)
 	* Hypocalcemia
-	* Immunocompromised àreverse isolation
+	* Immunocompromised → reverse isolation
 		* Client is not considered cured until the urine is free of protein and RBCs for 6 months
 		* Return to full activity usually is not permitted until the urine is free of protein for 1 month
 * **Nursing Management**:
@@ -841,16 +841,16 @@ Bacteria ascend to the kidney and kidney pelvis by way of the bladder and urethr
 * Most common cause: Immune or inflammatory process
 * **Key features of Nephrotic Syndrome:**
   * Massive proteinuria (\>3.5 g in 24 hr)
-    * Moderate to severe proteinuria àfoamy urine
+    * Moderate to severe proteinuria → foamy urine
   * Hypoalbuminemia (\<3 g/dl)
     * Normal serum albumin: 3-5 g/dL
   * Edema
   * HPN
   * Lipiduria
   * Hyperlipidemia
-    * Statins/Antihyperlipidemia – hepatotoxic àcheck liver function test (SGPT/ALT)
+    * Statins/Antihyperlipidemia – hepatotoxic → check liver function test (SGPT/ALT)
       * Normal ALT: 5-30 units
-      * Increased ALT àhepatitis (non-viral)
+      * Increased ALT → hepatitis (non-viral)
     * Increased coagulation
     * Renal insufficiency
   * ***Treatment***: depends on the cause
@@ -863,13 +863,14 @@ Bacteria ascend to the kidney and kidney pelvis by way of the bladder and urethr
     * Mild diuretics & Na restriction – edema & HPN
     * Assess hydration: vascular dehydration
 ## Urolithiasis
-* Presence of calculus/calculi (stone) in the urinary tract
-* **Nephrolithiasis**(kidney)
-* **Pyelolithiasis**
-* **Ureterolithiasis**(ureter)
-* **Cystolithiasis**(bladder)
-* **Urethrolithiasis**(Urethra)
-* ***Predisposing factors:***
+The presence of calculus/calculi (stone) in the urinary tract:
+* **Nephrolithiasis** (kidney)
+* **Pyelolithiasis** (renal pelvis)
+* **Ureterolithiasis** (ureter)
+* **Cystolithiasis** (bladder)
+* **Urethrolithiasis** (urethra)
+
+**Predisposing Factors**:
   * Calciuria, hyperparathyroidism, calcium-based antacids, excessive vit. D intake
   * Dehydration
   * UTI esp. if caused by P. mirabilis (makes urine alkaline & Ca \++ ppt.)
@@ -877,10 +878,8 @@ Bacteria ascend to the kidney and kidney pelvis by way of the bladder and urethr
   * Gout (UA crystallizes)
   * Osteoporosis
   * Prolonged immobility (sluggish emptying of urine)
-* ***Assessment Findings:***
 
 **Signs and symptoms:**
-
 * Sudden, sharp, severe flank **PAIN** that travels to the suprapubic region & external genitalia (Renal colic, painful spasm)
 * Severity of pain causes nausea, vomiting, shock (\*\*neurogenic)
 * Chills, fever, hypotension (if infection develops)
@@ -894,39 +893,36 @@ Bacteria ascend to the kidney and kidney pelvis by way of the bladder and urethr
 * Radiography (KUB)
 * IVP
 * Ultrasonography
-* ***Medical management:***
+
+**Medical  Management:***
   * Small calculi
     * Passed naturally with no specific interventions
     * Pain is tolerable of the stone is 5 mm or less in diameter and moving
     * Vigorous hydration
-
-\*\* also promote movement
-
+* also promote movement
 * Analgesics (opioids and NSAIDs)
 * Antimicrobials
 * Larger calculi
   * ESWL (extracorporeal shock wave lithotripsy)
   * Laser lithotripsy
-* ***Surgical management:***
-* Indicated for large of complicated by obstruction, ongoing UTI, kidney damage or constant bleeding
+
+**Surgical Management**: indicated for stones that are **large or complicated** by obstruction, ongoing UTI, kidney damage or constant bleeding.
   * Percutaneous nephrolithotomy
     * Nephrostomy tube/Ureterostomy/ Cystostomy – place the drainage bag below the hypogastrium
   * Ureterolithotomy
   * Pyelolithotomy
   * Nephrolithotomy
-* ***Nursing Process:***
-  * Assessment:
-    * History
-    * Pain intensity & location, N & V
-    * Vital signs
-    * Urine (strain)
-  * Diagnosis, planning, interventions
 
-3 MAIN GOALS:
-
-* Improve urinary output
-* Relieve pain
-* Prevent infection
+**Nursing Process**:
+* Assessment:
+	* History
+	* Pain intensity & location, N & V
+	* Vital signs
+	* Urine (strain)
+* Diagnosis, planning, interventions focus on three main goals:
+	* Improve urinary output
+	* Relieve pain
+	* Prevent infection
 ## Renal Failure
 * Inability of the nephrons in the kidneys to maintain F\&E, Acid-base balance, excrete nitrogen waste products & perform regulatory function
 * 2 types:
@@ -955,7 +951,7 @@ Bacteria ascend to the kidney and kidney pelvis by way of the bladder and urethr
 * **Intrarenal**– direct damage to the kidneys by inflammation, toxins, drugs, infection, or reduced blood supply
   * Ischemia
   * Nephrotoxicity 2° to drugs (aminoglycosides – like gentamycin; antibiotics)
-  * Acute & chronic glomerulonephritisànephrotic syndrome (protein is wasting away); **Cardinal signs:**proteinuria, hypoproteinemia, edema, hyperlipidemia
+  * Acute & chronic glomerulonephritis→ nephrotic syndrome (protein is wasting away); **Cardinal signs:**proteinuria, hypoproteinemia, edema, hyperlipidemia
   * Polycystic disease – congenital, grape-like formation in the kidney; Malaki ang tiyan. Water inside the cysts
   * Untreated pre & post renal disorders
 * **Postrenal**– sudden obstruction of urine flow due to enlarged prostate, kidney stones, bladder tumor, or injury
@@ -966,14 +962,14 @@ Bacteria ascend to the kidney and kidney pelvis by way of the bladder and urethr
 * *Four phases:*
   * **Initiation phase**
     * Begins with the onset of the contributing event
-    * Reduced blood flow àATN
+    * Reduced blood flow → ATN
 ## Acute Tubular Necrosis
 
 * Death of cells in the collecting tubules
 * **Oliguric phase (less UO)**
   * Begins within 48 hrs after the initial cellular insult (10-14 days or longer)
   * FVE develops (edema, HPN, cardiopulmonary complications)
-  * **AZOTEMIA**(accumulation of urea & nitrogenous waste in the blood) àneurologic changes, seizure, coma, death
+  * **AZOTEMIA**(accumulation of urea & nitrogenous waste in the blood) → neurologic changes, seizure, coma, death
   * Hyperkalemia, metabolic acidosis, **UREMIA**develops (uremic syndrome)
 * **Diuretic phase**
   * Diuresis begins as the nephrons recover
@@ -994,19 +990,19 @@ Bacteria ascend to the kidney and kidney pelvis by way of the bladder and urethr
 
 \*\* Signs and symptoms:
 
-* Increased BUN, crea, UA àUremic syndrome, Uremic encephalopathy (if brain)
+* Increased BUN, crea, UA → Uremic syndrome, Uremic encephalopathy (if brain)
   * Altered LOC
   * Seizure – cerebral edema, hyponatremia and hypocalcemia
-* Edemaàpulmonary congestion, pulmonary edema, pleural effusion, ascites àDifficulty of breathing
+* Edema→ pulmonary congestion, pulmonary edema, pleural effusion, ascites → Difficulty of breathing
   * Management can be paracentesis or thoracentesis, dialysis
 * Hypertensive
 * Metabolic acidosis
 * Hyponatremia, hyperkalemia, hypocalcemia, hypermagnesemia, hyperphosphatemia
-* Anemia, thrombocytopenia (increased risk for bleeding àerythema), pallor, activity intolerance
-* Because of uremia àexcreted in the skin through the urine crystals àgray/ashen color \+ pruritus
-* HyperkalemiaàIncreased bowel activity àAbdominal pain, Diarrhea
+* Anemia, thrombocytopenia (increased risk for bleeding → erythema), pallor, activity intolerance
+* Because of uremia → excreted in the skin through the urine crystals → gray/ashen color \+ pruritus
+* Hyperkalemia→ Increased bowel activity → Abdominal pain, Diarrhea
 * Gingivitis, esophagitis, Ulcer formation, hematemesis, melena, hematochezia
-* Osteoporosisàcan lead to fractures
+* Osteoporosis→ can lead to fractures
 * Reproductive: male and female (decreased libido)
 * Suicidal tendencies, irritability
 * ***Assessment Findings:***
@@ -1067,279 +1063,210 @@ Vague symptoms (lethargy, headache, anorexia, dry mouth)
     * Give immunosuppressant (Imuran)& corticosteroids (high dose).
   * Immunosuppression (Increased risk to develop infection)
 ## Hemodialysis
-Hemodialysis filters blood when the kidneys can no longer do so. Blood is channeled through a dialysis machine to remove waste. The filtered blood returns to the body.
-
-**Blood Access**
-
-1. Arteriovenous (AV) Fistula – takes 1-2 months to mature
-   * Direct anastomosis of artery and vein
-   * Internal fistula
-   * Auscultate for bruits
-   * Palpate for thrills
-   * Complication: Thrombus formation
-2. AV Shunt – silastic cannula (U-shaped shunt)
-   * 2 Clamps should be available at bedside
-   * External
-   * Can be used right away
-
- 
-
-3. AV Graft – artificial graft; usually used if the blood vessels are smaller; more expensive than AV fistula
-
-Peritoneal Dialysis
-
-* Complication:
-  * Peritonitis (cloudy dialysate, abdominal distention, hypoactive bowel sounds)
-* Peritoneum acts as the semi-permeable membrane.
-
- 
+Hemodialysis filters blood when the kidneys can no longer do so. Blood is channeled through a dialysis machine to remove waste. The filtered blood returns to the body. Access points for hemodialysis can be in the form of:
+1. **Arteriovenous** (AV) **Fistula** – takes 1 to 2 months to mature
+	* Direct anastomosis of artery and vein
+	* Internal fistula
+	* Auscultate for bruits
+	* Palpate for thrills
+	* Complication: **thrombus formation**
+2. **AV Shunt** – silastic cannula (U-shaped shunt)
+	* 2 Clamps should be available at bedside
+	* External
+	* Can be used right away
+3. **AV Graft** – artificial graft; usually used if the blood vessels are smaller; more expensive than AV fistula
+## Peritoneal Dialysis
+Dialysate is instilled then removed from the peritoneum, which acts as the semi-permeable membrane, to remove the necessary waste products from the blood. 
+* **Complication**:
+	* **Peritonitis** (cloudy dialysate, abdominal distention, hypoactive bowel sounds) 
 ___
 # Disturbances in Oxygenation
-Components involved in Oxygenation:
-
-* Heart
-  * Pumps blood
+Components involved in oxygenation:
+* Heart: pumps blood
 * Lungs
-* Red blood cells
-  * Hemoglobin carry the oxygen
+* Red blood cells: hemoglobin carries oxygen
 * Blood vessels
-
- 
-
-**Assessment Techniques**
-
-* History (Focus: obtaining information about client’s risk factors & symptoms of cardiovascular disease)
-  * Demographic data – age, gender, ethnic origin
+## Assessment Techniques
+* **History** (Focus: obtaining information about client’s risk factors & symptoms of cardiovascular disease)
+	* **Modifiable** risk factors
+		* Cigarette smoking – vasospasm
+		* Physical inactivity – slow blood flow, increases risk of thrombus formation
+		* Obesity – heart enlarges, fatty liver, increased risk of hypertension and diabetes mellitus
+		* Psychological variables – stress (increases blood pressure, increased release of epinephrine)
+		* Chronic diseases – hypertension, DM
+	* **Non-modifiable** risk factors
+		* Age, gender, ethnic background, family history
+			* When female reach menopause, risk increases
+		* Cigarette smoking – major risk factor for the development of CAD and PVD
+		* Obesity – strong indicator of CVD especially when abdominal obesity is present
+  * **Demographic data** – age, gender, ethnic origin
     * Usually middle age and elderly (beginning 40 y/o), usually male (due to lifestyle: smoker and alcohol drinkers)
-  * Family history & genetic risk
-  * Personal history
-  * Diet history
-    * Especially high fat and high salt
-  * Socioeconomic status
-    * Usually rich people
-  * History
-    * Modifiable
-      * Cigarette smoking – vasospasm
-      * Physical inactivity – slow blood flow, increases risk of thrombus formation
-      * Obesity – heart enlarges, fatty liver, increased risk of hypertension and diabetes mellitus
-      * Psychological variables – stress (increases blood pressure, increased release of epinephrine)
-      * Chronic diseases – hypertension, DM
-    * Non-modifiable risk factors
-      * Age, gender, ethnic background, family history
-        * When female reach menopause, risk increases
-      * Cigarette smoking – major risk factor for the development of CAD and PVD
-      * Obesity – strong indicator of CVD especially when abdominal obesity is present
-      * Physical assessment
-        * Major symptoms cardiovascular disease (CVD)
-          * Pain or discomfort (specifically chest pain; secondary to inadequate blood supply; chemical in nature: *Lactic acid production*)
-            * Give vasodilators, nitroglycerin
-          * Dyspnea (DOE \[dyspnea on exertion\], Orthopnea \[difficulty of breathing when supine, but relieved upon sitting up\], paroxysmal nocturnal dyspnea \[dyspnea while sleeping, typical of pulmonary edema and congestion\])
-          * Fatigue – activity intolerance, because of decreased internal respiration/altered tissue perfusion
-          * Palpitations – when you are aware of your own heartbeat; secondary to arrhythmias (Best drug: xylocaine/lidocaine)
-          * Weight gain – best indicator of fluid retention (edema); secondary accumulation of fluids \[typical of Congestive Heart Failure\]
-          * Syncope – transient loss of consciousness (↓ cerebral perfusion)
-          * Extremity pain – due to ischemia & venous insufficiency
-        * Skin color – pallor (anemia), cyanosis (late sign of decreased perfusion)
-        * ↓ skin temperature – due to ↓ blood flow
-        * Clubbing of finger – chronic tissue hypoxia
-          * Schamroth method – using the ring fingers, they should have a diamond shape
-            * Normal angle is 160 degrees.
-          * Edema
-          * BP changes
-            * Hypertension
-            * Postural hypotension
-              * Change position of the client slowly.
-            * Pulse pressure – (30-40 mmHg) the difference between systolic and diastolic pressure
-
- 
-
-Precordium (area over the heart)
-
-**Assessment Involves:**
-
-* Inspection
-  * Apical pulse – movement in the heart area (thrills); this is normal, especially on thin individuals. Can also be assessed through palpation.
-  * Symmetry, depression of sternum
-* **Palpation**
-* **Percussion**– percuss for dullness
-* Auscultation
-  * Normal heart sounds – best heard at the apex, at the 5thintercostal space at the midclavicular line (or below the nipple), left side
-    * S1 – closure of atrioventricular (AV) valves
-      * Low pitch, long; best heard at the apex of the heart
-      * Palpate the carotid pulse while listening
-      * Marks the beginning of ventricular systole
-    * S2 – closure of the semilunar valves
-      * High pitch, short
-      * best heard at the base of the heart
-    * Auscultatory areas:
-      * Aortic area (2ndICS, **right**sternal area/border)
-      * Pulmonic area (2ndICS, **left**sternal area/border)
-      * Tricuspid area (4th\-5thICS, right sternal border)
-      * Mitral area (5thICS, midclavicular line) – point of maximal impulse
-    * Abnormal heart sounds
-      * Murmurs
-        * Reflection of turbulence of blood flow through the normal or abnormal valves
-        * May indicate stenosis, diseased valves, insufficiency, or congenital disease
-      * Pericardial friction rub
-        * Harsh, grating sound
-        * Sign of inflammation, infection or infiltration of visceral/parietal layers
-      * Laboratory tests
-        * Serum markers of myocardial damage (cardiac markers)
-          * Troponin (T \= \< 0.2 ng/mL, I \= \< 0.03 ng/mL)
-            * Onset: 3-6 hours; duration: 1-2 weeks
-            * Most reliable test to confirm MI
-          * Creatine Kinase (CK-MB)
-            * only found in the heart
-            * Onset: 3-6 hours; Duration: 3-6 days
-            * Chest specific, isoenzyme of the heart
-          * Myoglobin (\<90 mcg/L)
-            * First to be release, in 1 to 3 hours after the onset of chest pain, but returns to normal in \< 24 hours.
-            * Early diagnosis
-          * Serum Lipids
-            * Cholesterol (122-200 mg/dL) ; TGL (M 40-160, F 35-135 mg/dL)
-            * HDL (M 45-50, F 55-60 mg/dL) ; LDL (M\&F 60-180 mg/dL)
-            * HDL:LDL ratio (3:1)
-          * Low cholesterol diet
-            * “—statins” – for about one month
-          * C-reactive protein
-          * Blood Coagulation Tests (ability of the blood to clot thrombi)
-            * Prothrombin time (PT) – evaluates the efficiency of Coumadin; 11-16 seconds on patients not undergoing therapy.
-            * Partial Thromboplastin time (PTT) – evaluates the effectiveness of Heparin; 60-70 secs
-            * Goal: 1.5-2 times that of normal.
-            * NDx: *Risk for Bleeding*
-              * Ready the antidote:
-                * **Coumadin – Vitamin K**
-                * **Heparin – Protamine sulfate**
-              * Gentle handling of patient.
-              * Use soft bristle toothbrush.
-              * Caution when doing shaving.
-            * ABG
-            * Serum electrolytes (K, Ca, Na, Magnesium)
-            * CBC – note especially the hemoglobin
-            * Fasting Blood Sugar (70-110 mg/dL)
-              * NPO for about 8 hours (or 8-10 hours)
-            * Glycosylated Hemoglobin (HBA1c) – gives an idea of blood sugar for the past 2-3 months
-              * 3-6 mcg%
-            * Radiographic examinations
-              * Chest radiography
-                * Determines the size, silhouette & position of the heart
-
-\*\*Should be done at least once a year
-
-* Angiography (arteriography)
-  * Invasive procedure involving fluoroscopy & the use of contrast media
-  * Assess for allergy
-  * Angiography in action: The beating heart and its surrounding blood vessels can be watched and recorded in extraordinary detail as a catheter injects a contrast dye into a patient’s coronary arteries.
-* Cardiac catheterization
-  * Most definitive, most invasive test used in the diagnosis of heart disease
-  * Right-sided heart catheterization (catheter inserted in arm vein or femoral vein – goes together with the flow of unoxygenated blood)
-  * Left-sided heart catheterization (femoral artery àabdominal aorta àmain aorta àaortic valve àleft ventricle àmitral valve àleft atrium àpulmonary vein)
-
-\*\* **Purpose:**
-
-1. To evaluate the function of the valves;
-2. To determine the oxygen saturation;
-3. To determine the pressures in the different chambers of the heart;
-4. To evaluate the patency of the coronary artery
-
-\*\* **Nursing responsibilities:**
-
-1. Local anesthesia, sedate the patient
-2. Shave the groin.
-3. Bath the night before the exam.
-4. Must be done under strict aseptic technique.
-
-\*\* **Possible complications:**
-
-1. MI
-2. Thromboembolism
-   * Cardiac arteriography
-     * Technique is the same for left-sided heart catheterization
-     * Complications: MI, Stroke, Arterial bleeding, Thromboembolism, lethal dysrhythmias, death.
-
-**Nursing Responsibilities:**
-
-1. Apply pressure dressing *to prevent bleeding*.
-2. Apply plaster and anchor with elastic bandage.
-3. Monitor the site, the dressing, the bottom sheet, the VS (BP q 15 mins, 30 mins, then hourly until stable; PP).
-4. There can be some instances where sandbag can be used; put on top of the site.
-5. Position client in supine to low back rest, without flexing the legs *in order to promote good circulationby not compressing the femoral artery.*
-6. Observe for pulse (popliteal or posterior tibial pulse), color, and temperature.
-   * Electrocardiography
-     * Gold standard test
-     * Graphically measures& records the electrical current travelling through the conduction system generated by the heart
-     * Measured by electrodes placed on the skin & connected to an amplifier & strip chart recorder
-     * In a standard 12-lead ECG:
-       * Five electrodes attached to the arms, legs& chest
-       * Measures electrical current from 12 different views and leads
-
-**Characteristic of Normal Rhythms**
-
-* HR is 60-100 bpm
-* P waves are found BEFORE the QRS complex
-* PR interval is 0.12 to 0.20 seconds duration
-* QRS complex is 0.04 to 0.10 seconds duration
-* Conduction is forward and cyclical
-* The rhythm is regular with no delay
-
-**Various forms of ECG**
-
-* Resting ECG
-* Ambulatory ECG (Holter Monitoring) – 24 hours
-* Exercise ECG (Stress Test) – treadmill
-  * Purposes:
-    * To determine the myocardial oxygen demand during exercise.
-    * To confirm the diagnosis of CAD
-    * Evaluate the effectiveness of the treatment.
-    * A basis for cardiac rehabilitation program.
-
-**Assessment:**
-
-* Echocardiography
-  * Uses sound waves to assess cardiac structure and mobility, particularly at the valves
-* Hemodynamic monitoring
-  * Use to assess the volume & pressure of blood in the heart & vascular system by means of a surgically inserted catheter
-
-Methods:
-
-* Direct BP monitoring
-  * Artery used: radial, brachial, femoral
-  * Catheter tip contains sensor that measures & transmits the fluid pressure to a transducer
-* CVP monitoring
-  * Pressure produced by venous blood in the RA
-  * NV: 2-7 mmHg or 4-10 cm H2O
-  * Function of the right side of the heart
-* Pulmonary artery pressure monitoring
-  * 2 pressures: Pulmonary Capillary Pressure and Pulmonary Artery Wedge pressure
-  * 4-12 mmHg for both
-  * Gives us an idea of the function of the left side of the heart
-  * \> 20 – pulmonarycongestion
-  * \> 25 – pulmonaryedema
-  * Left sided failure: PCWP and CVP ↑
-  * Right sided failure: CVP ↑, PCWP ↓
+  * **Family history** & **genetic risk**
+  * **Personal history**
+  * **Diet history**: especially high fat and high salt
+  * **Socioeconomic status**: usually rich people
+* **Physical assessment**
+	* **Pain or discomfort** (specifically chest pain; secondary to inadequate blood supply; chemical in nature: *Lactic acid production*). **Give vasodilators** (nitroglycerin)
+	* **Dyspnea**:
+		* **DOE** (dyspnea on exertion)
+		* **Orthopnea** (difficulty of breathing when supine, but relieved upon sitting up)
+		* **Paroxysmal nocturnal dyspnea** (dyspnea while sleeping, typical of pulmonary edema and congestion)
+	* **Fatigue**: activity intolerance, because of decreased internal respiration/altered tissue perfusion
+	* **Palpitations**: when you are aware of your own heartbeat; secondary to arrhythmias (Best drug: xylocaine/lidocaine)
+	* **Weight gain**: the best indicator of **fluid retention** (edema); secondary accumulation of fluids (typical of Congestive Heart Failure)
+	* **Syncope**: transient loss of consciousness from decreased cerebral perfusion
+	* **Extremity pain** due to ischemia & venous insufficiency
+	* **Skin**: pallor (anemia), cyanosis (late sign of decreased perfusion), and cool/clammy (↓ blood flow)
+	* **Clubbing of finger**: chronic tissue hypoxia; the **Schamroth method** is a test that uses the back of each ring finger placed against each other, they should have a diamond-shaped window with a normal angle of ~160°.
+	* **Edema**
+	* BP changes
+		* Hypertension
+		* Postural hypotension
+		* Change position of the client slowly.
+		* Pulse pressure – (30-40 mmHg) the difference between systolic and diastolic pressure
+	* **Inspection**
+		* Apical pulse – movement in the heart area (thrills); this is normal, especially on thin individuals. Can also be assessed through palpation.
+		* Symmetry, depression of sternum
+	* **Palpation**
+	* **Percussion**: percuss for **dullness**
+	* **Auscultation** for **normal heart sounds** – best heard at the apex, at the 5th intercostal space at the midclavicular line (or below the nipple), left side
+		1. **S1** – closure of atrioventricular (AV) valves
+			* Low pitch, long; best heard at the apex of the heart
+			* Palpate the carotid pulse while listening
+			* Marks the beginning of ventricular systole
+	    2. **S2** – closure of the semilunar valves
+			* High pitch, short
+			* best heard at the base of the heart
+	    3. **Auscultatory areas**:
+			* Aortic area (2ndICS, **right**sternal area/border)
+			* Pulmonic area (2ndICS, **left**sternal area/border)
+			* Tricuspid area (4th\-5thICS, right sternal border)
+			* Mitral area (5thICS, midclavicular line) – point of maximal impulse
+		4. **Abnormal heart sounds**
+			* **Murmurs**: audible **turbulence of blood flow** through the normal or abnormal valves. This may indicate stenosis, diseased valves, insufficiency, or congenital disease.
+			* **Pericardial friction rub**: a harsh, grating sound found as a sign of inflammation, infection or infiltration of visceral/parietal layers.
+* **Laboratory tests**
+	* **Serum markers** of myocardial damage (cardiac markers)
+		* **Troponin** (T \= \< 0.2 ng/mL, I \= \< 0.03 ng/mL)
+			* Onset: 3-6 hours; duration: 1-2 weeks
+			* **Most reliable** test to confirm MI
+		* **Creatine Kinase** (CK-MB)
+			* only found in the heart
+			* Onset: 3-6 hours; Duration: 3-6 days
+			* Chest specific, isoenzyme of the heart
+		* **Myoglobin** (\<90 mcg/L)
+			* First to be release, in 1 to 3 hours after the onset of chest pain, but returns to normal in \< 24 hours.
+			* **Early diagnosis**
+	* **Serum Lipids**
+		* Cholesterol (122-200 mg/dL) ; TGL (M 40-160, F 35-135 mg/dL)
+		* HDL (M 45-50, F 55-60 mg/dL) ; LDL (M\&F 60-180 mg/dL)
+		* HDL:LDL ratio (3:1)
+		* If elevated, a low cholesterol diet is indicated— potential use of **anticholesterolemic** (-statins) **drugs** for about one month.
+	* **C-reactive protein** (CRP)
+	* **Blood Coagulation Tests** (ability of the blood to clot thrombi)
+		* Prothrombin time (PT) – evaluates the efficiency of Coumadin; 11-16 seconds on patients not undergoing therapy.
+		* Partial Thromboplastin time (PTT) – evaluates the effectiveness of Heparin; 60-70 secs
+		* Goal: 1.5-2 times that of normal.
+		* NDx: *Risk for Bleeding*
+			* Prepare **Coumadin – Vitamin K**
+			* Prepare **Heparin – Protamine sulfate**
+			* Gentle handling of patient.
+			* Use soft bristle toothbrush.
+			* Caution when doing shaving.
+	* **Arterial Blood Gases**
+		* Serum electrolytes (K, Ca, Na, Magnesium)
+		* CBC – note especially the hemoglobin
+		* Fasting Blood Sugar (70-110 mg/dL); blood sugar after NPO for about 8 to 10 hours.
+		* Glycosylated Hemoglobin (HBA1c) – gives an idea of blood sugar control for the **past 2 to 3 months**. This is normally 3 to 6 mcg%
+* **Radiographic examinations**
+	* Chest radiography: determines the size, silhouette & position of the heart. Should be done at least once a year
+	* **Angiography** (arteriography)
+		* Invasive procedure involving fluoroscopy & the use of contrast media
+		* Assess for allergy
+		* Angiography in action: The beating heart and its surrounding blood vessels can be watched and recorded in extraordinary detail as a catheter injects a contrast dye into a patient’s coronary arteries.
+* **Cardiac catheterization**
+	* Most definitive, most invasive test used in the diagnosis of heart disease
+	* Right-sided heart catheterization (catheter inserted in arm vein or femoral vein – goes together with the flow of unoxygenated blood)
+	* Left-sided heart catheterization (femoral artery → abdominal aorta → main aorta → aortic valve → left ventricle → mitral valve → left atrium → pulmonary vein)
+	- **Purpose:**
+		1. To evaluate the function of the valves;
+		2. To determine the oxygen saturation;
+		3. To determine the pressures in the different chambers of the heart;
+		4. To evaluate the patency of the coronary artery
+	- **Nursing responsibilities**:
+		1. Local anesthesia, sedate the patient
+		2. Shave the groin.
+		3. Bath the night before the exam.
+		4. Must be done under strict aseptic technique.
+	- **Possible complications:**
+		1. MI
+		2. Thromboembolism
+* **Cardiac arteriography**
+	* Technique is the same for left-sided heart catheterization
+	* Complications: MI, Stroke, Arterial bleeding, Thromboembolism, lethal dysrhythmias, death.
+	- **Nursing Responsibilities:**
+		1. Apply pressure dressing *to prevent bleeding*.
+		2. Apply plaster and anchor with elastic bandage.
+		3. Monitor the site, the dressing, the bottom sheet, the VS (BP q 15 mins, 30 mins, then hourly until stable; PP).
+		4. There can be some instances where sandbag can be used; put on top of the site.
+		5. Position client in supine to low back rest, without flexing the legs *in order to promote good circulationby not compressing the femoral artery.*
+		6. Observe for pulse (popliteal or posterior tibial pulse), color, and temperature.
+- **Electrocardiography**
+	* Gold standard test
+	* Graphically measures& records the electrical current travelling through the conduction system generated by the heart
+	* Measured by electrodes placed on the skin & connected to an amplifier & strip chart recorder
+	* In a standard 12-lead ECG:
+		* Five electrodes attached to the arms, legs and chest
+		* Measures electrical current from 12 different views and leads
+	- **Characteristic of Normal Rhythms**
+		* HR is 60-100 bpm
+		* P waves are found BEFORE the QRS complex
+		* PR interval is 0.12 to 0.20 seconds duration
+		* QRS complex is 0.04 to 0.10 seconds duration
+		* Conduction is forward and cyclical
+		* The rhythm is regular with no delay
+	- **Various forms of ECG**
+		* Resting ECG
+		* Ambulatory ECG (Holter Monitoring) – 24 hours
+		* Exercise ECG (Stress Test) – treadmill
+		* Purposes:
+			* To determine the myocardial oxygen demand during exercise.
+			* To confirm the diagnosis of CAD
+			* Evaluate the effectiveness of the treatment.
+			* A basis for cardiac rehabilitation program.
+* **Echocardiography**: uses sound waves to assess cardiac structure and mobility, particularly at the valves.
+* **Hemodynamic monitoring**: used to assess the volume and pressure of blood in the heart and vascular system by means of a surgically inserted catheter.
+	* Direct BP monitoring
+		* Artery used: radial, brachial, femoral
+		* Catheter tip contains sensor that measures & transmits the fluid pressure to a transducer
+	* CVP monitoring
+		* Pressure produced by venous blood in the RA
+		* NV: 2-7 mmHg or 4-10 cm H2O
+		* Function of the right side of the heart
+	* Pulmonary artery pressure monitoring: **Pulmonary Capillary Pressure** and **Pulmonary Artery Wedge** pressure. This gives us an idea of the function of the left side of the heart.
+		* The normal range is 4 to 12 mm Hg for both.
+		* \>20 mm Hg: pulmonary congestion
+		* \>25 mm Hg: pulmonary edema
+		* Left sided failure: PCWP and CVP ↑
+		* Right sided failure: CVP ↑, PCWP ↓
 ___
 # Heart Disorders
 
 ## Pericarditis
-
-* Inflammation of the pericardium
-
-**Associated**with the following:
-
+The inflammation of the pericardium, **associated** with the following:
 * Malignant neoplasms
 * Idiopathic cause
 * Ineffective organisms (bacteria, viruses, fungi)
 * Post-MI syndrome (Dressler’s syndrome)
-  * Pericarditis, fever, pericardial & pleural effusion 1-2 weeks after MI
+	* Pericarditis, fever, pericardial & pleural effusion 1-2 weeks after MI
 * Postpericardiotomy syndrome
 * Systemic connective tissue disease
 * Renal failure
 
 **Assessment**:
-
-* **PAIN**radiating to the neck, shoulder & back
-  * Aggravated by inspiration, coughing & swallowing
-  * Worst in supine position (relived by sitting up & leaning forward)
+* **PAIN** radiating to the neck, shoulder & back
+	* Aggravated by inspiration, coughing & swallowing
+	* Worst in supine position (relived by sitting up & leaning forward)
 * Pericardial friction rub (scratchy high pitch sound)
 * If with chronic constructive pericarditis: signs of RSHF
 * Echocardiography, CT scan – reveals thickening of pericardium
@@ -1347,7 +1274,6 @@ ___
 * Atrial fibrillation is common
 
 **Interventions**:
-
 * NSAIDs for PAIN
 * Corticosteroids
 * Antibiotics
@@ -1356,97 +1282,76 @@ ___
 * Hemodialysis (uremic pericarditis)
 * Assist to assume position of comfort
 * Pericardiectomy (chronic constructive pericarditis)
-* Monitor for complications: pericardial effusionà**Cardiac tamponade**
+* Monitor for complications: pericardial effusion→ **Cardiac tamponade**
 
 **Findings:**
-
-* *Jugular distention*with elevated CVP
-* Paradoxical pulse (systolic BP 10 mmHg or more on expiration than on inspiration)
-  * Hypotension with paradoxical pulse
-* ↓ cardiac output
+* **Jugular distention** with elevated CVP
+* **Pulsus paradoxus** (systolic BP 10 mmHg or more on expiration than on inspiration); hypotension with paradoxical pulse
+* **Decreased Cardiac Output**
 * Muffled heart sounds
 * Circulatory collapse
-  * Hypotension
-  * Cardiogenic shock
-  * Stuporous, probably coma
-  * Tachypnea
-  * Cold clammy skin
-  * Low urine output due to decreased renal perfusionàhighly concentrated urine
-  * Cyanotic
-* Emergency care: Pericardiocentesis
-
- 
-
+	* Hypotension
+	* Cardiogenic shock
+	* Stuporous, probably coma
+	* Tachypnea
+	* Cold clammy skin
+	* Low urine output due to decreased renal perfusion→ highly concentrated urine
+	* Cyanotic
+* **Emergency care**: **Pericardiocentesis**
 ## Myocarditis
-
 **Causes:**
-
 * Viral, bacterial, fungal & parasitic infection
 * Chronic alcohol abuse
 * Radiation therapy
 * Autoimmune disorders
 * Bulimic patients taking ipepac syrup to facilitate purging (myocardial damage)
-* **Due to inflammation àabnormal function**
-* ↓ cardiac output, impaired blood circulation, predispose client to CHF
+* **Due to inflammation → abnormal function**
+	* ↓ cardiac output, impaired blood circulation, predispose client to CHF
 * Due to ischemia: tachycardia, dysrhythmias
 * Cardiomyopathy
 
 **Assessment:**
-
 * Pain, fever, tachycardia, dysrhythmias, dyspnea, malaise, fatigue, anorexia, pale or cyanotic skin, signs of RSHF
 * ↑ WBC count, elevated CRP, elevated cardiac isoenzymes, abnormal ECG
 * Abnormal chest radiography, echocardiography
 
 **Intervention:**
-
 * Treatment of underlying cause (antibiotic)
 * Promote bed rest, Na+-restricted diet, cardiotonic drug (digitalis) are prescribed
 * Monitor cardiopulmonary status and complications (CHF, dysrhythmias)
-  * VS
-  * Daily weight
-  * I\&O
-  * Heart & lung sound
-  * Pulse oximetry measurements
-  * Cardiac monitoring
-  * Dependent edema
-
- 
-
+	* VS
+	* Daily weight
+	* I\&O
+	* Heart & lung sound
+	* Pulse oximetry measurements
+	* Cardiac monitoring
+	* Dependent edema
 ## Rheumatic Carditis/Endocarditis
-
 * An infection of the innermost layers of the heart. It may occur in people with congenital and valvular diseases, and those who have had rheumatic fever.
 
- 
-
-* Causes obstruction in the mitral valve (narrowing of the valves)
-  * Left atrium first affected àleft atrial hypertrophy
-  * Valvular defects – Valvular stenosis (inadequate opening of mitral valve), Valvular regurgitation (valve does not close adequately)
-    * All are acquired
-  * Complications: Cerebrovascular Accident (due to the dislodged emboli), Congestive Heart Failure
-
-**Disturbances in O2 transport Mechanism**
-
+**Causes**:
+* Obstruction in the mitral valve (narrowing of the valves)
+	* Left atrium first affected → left atrial hypertrophy
+* Valvular defects – Valvular stenosis (inadequate opening of mitral valve), Valvular regurgitation (valve does not close adequately)
+	* All are acquired
+* **Complications**: Cerebrovascular Accident (due to the dislodged emboli), Congestive Heart Failure
+___
+# Disturbances in the Oxygen Transport Mechanism
 * Infectious/Inflammatory Disorders
-  * Pericarditis, Myocarditis, Endocarditis, RHD
+	* Pericarditis, Myocarditis, Endocarditis, RHD
 * Coronary Artery Disease
-  * Atherosclerosis
-  * Angina Pectoris
-  * Myocardial Infarction
+	* Atherosclerosis
+	* Angina Pectoris
+	* Myocardial Infarction
 * Congestive Heart Failure
 * Pulmonary Edema
-
- 
-
 ## Coronary Artery Disease
-
 **Stages of CAD**
-
 * Atherosclerotic heart disease
 * Angina pectoris
 * Myocardial infarction
 
 **Coronary Artery Disease**
-
 * Arteriosclerosis
   * Thickening or hardening of the arterial wall
 * Atherosclerosis
@@ -1473,9 +1378,9 @@ ___
 ### Angina Pectoris
 
 * “Chest pain” of cardiac origin
-  * Levine’s sign àhand clenched over the heart area
+  * Levine’s sign → hand clenched over the heart area
   * Imbalance between oxygen supply and demand
-  * Stimulation of sympathetic nervous system à↑ BP, HR (Tachycardia), RR (Tachypnea), Diaphoresis, Cold clammy skin
+  * Stimulation of sympathetic nervous system → ↑ BP, HR (Tachycardia), RR (Tachypnea), Diaphoresis, Cold clammy skin
 * Most common clinical manifestation of myocardial ischemia
 * Myocardial ischemia causes chemical and mechanical stimulation of sensory afferent nerve endings in the coronary vessels and myocardium
 
@@ -1498,11 +1403,11 @@ ___
 
 1. Provide rest *to decrease the oxygen demand.*
 2. Position the client in semi-fowlers.
-3. Provide O2 therapy *to increase oxygen supply*. àneeds order of the doctor
+3. Provide O2 therapy *to increase oxygen supply*. → needs order of the doctor
    1. 2-4 lpm, average of 3 lpm
 4. Drugs:
    1. Vasodilators
-      1. Short acting – sublingual, promotes vasodilation àIncreased blood supply to the heart.
+      1. Short acting – sublingual, promotes vasodilation → Increased blood supply to the heart.
          1. Nitroglycerin (NTG)
          2. Isodil
       2. Long-acting
@@ -1719,12 +1624,12 @@ RSHF Forward Effect:
 **Medical Management:**
 
 * Low-sodium diet, fluid restriction
-* Inotropic agents: àincreases the force of cardiac contraction
+* Inotropic agents: → increases the force of cardiac contraction
   * Digitalis: Digoxin (Lanoxin)
     * ↑ contractility or (+) inotropic effect, ↓ HR or (-) chronotropic effect, ↓ conduction (AV node) or (-) dromotropic effect
     * (-) sympa. activity, (+) parasympathetic activity
     * Watch out for DIGITALIS toxicity: loss of apetite, N\&V, rapid, slow, irregular heart rate, disturbance in color vision
-    * Increase in tissue perfusion àIncreased renal perfusion, Increased Urine *(has diuretic effect\!)*
+    * Increase in tissue perfusion → Increased renal perfusion, Increased Urine *(has diuretic effect\!)*
     * ANTIDOTE: Digibind
   * Dopamine (Intropin, Docard), Dobutamine (Dobutrex)
     * Classification: Vasopressor (most cases, given to increase blood pressure)
@@ -1782,7 +1687,7 @@ RSHF Forward Effect:
   * Morphine
     * Lessen anxiety, muscle relaxation & reduces work of breathing
   * Supplemental O2
-  * If drug therapy & O2is inadequate àinvasive measures
+  * If drug therapy & O2is inadequate → invasive measures
 
 **Nursing Management:**
 
@@ -1806,9 +1711,6 @@ A group of chronic lung diseases that includes:
 	* The only one which affects the alveoli (The other three affects the lower airway)
 * **Bronchiectasis**, 
 * **COPD**
-
- 
-
 ## Bronchial Asthma
 
 * Intermittent & reversible airflow obstruction affecting the lower airway.
@@ -1817,18 +1719,16 @@ A group of chronic lung diseases that includes:
   * Airway hyper-responsiveness **(bronchospasm)**
     * Constriction o bronchial smooth muscle due to stimulation of the nerve fibers
   * **Etiology:**
-    * Allergens, cold air, dry air, airborne particles, microorganism, aspirin àinflammation
+    * Allergens, cold air, dry air, airborne particles, microorganism, aspirin → inflammation
       * Avoid exposure to allergens\!
-    * Exercise, upper respiratory illness (viruses), unknown reasons àbronchospasm
+    * Exercise, upper respiratory illness (viruses), unknown reasons → bronchospasm
 
 **Physical Assessment Findings:**
-
 * **Audible wheezing &↑RR**(acute episode)
   * Wheezing is louder during exhalation
 * Dyspnea, cough, use of accessory muscle of respiration, barrel chest (chronic severe asthma)
 
 **Laboratory Assessment:**
-
 * ABG, elevated eosinophil count, elevated IgE levels
 * Pulmonary Function Tests – most accurate test for asthma
 * Lung volumes, lung capacities
@@ -1838,7 +1738,6 @@ A group of chronic lung diseases that includes:
   * **Residual volume**– how much remains in the lungs after exhalation (about 1, 200\)
 
 **Nursing Interventions:**
-
 * Goals:
   * To relieve airflow
   * Relieve symptoms
@@ -1892,7 +1791,7 @@ A group of chronic lung diseases that includes:
   * *influenzae*, *S. pneumoniae*,*M. pneumoniae*
 * Chemical irritants (noxious fumes, gases, air contaminants)
 * **Assessment Findings:**
-  * Fever, chills, malaise, headache, dry irritating nonproductive cough (initial) àmucopurulent sputum
+  * Fever, chills, malaise, headache, dry irritating nonproductive cough (initial) → mucopurulent sputum
 * **Medical management:**
   * Usually self-limiting
   * Bedrest, antipyretics, expectorants, antitussives, ↑ fluids (best mucolytic\!), humidifiers, antibiotics
@@ -1915,7 +1814,7 @@ A group of chronic lung diseases that includes:
   * **Cigarette Smoking**
   * Long history of bronchial asthma, RTI, air pollution
 * **Assessment Findings:**
-  * Chronic productive cough – thick mucus (earliest symptom) àyellow, purulent, copious, blood-streaked sputum
+  * Chronic productive cough – thick mucus (earliest symptom) → yellow, purulent, copious, blood-streaked sputum
   * Bronchospasm, acute respiratory infections, cyanosis, DOE, **RSHF (corpulmonale)**
 * **Medical Management:**
   * Smoking cessation
@@ -1951,7 +1850,7 @@ Focus: educating clients in managing their disease
   * Decreased breath sounds, wheezing, crackles
   * “Barrel shaped chest”
   * Use of accessory muscle of respiration
-  * Toxic CO2 levels àLethargy, stupor, coma, (carbon dioxide narcosis)
+  * Toxic CO2 levels → Lethargy, stupor, coma, (carbon dioxide narcosis)
 
 **Classification:**
 
@@ -2337,7 +2236,7 @@ Et Tube – insert 8-10 inches of the suction catheter.
 ___
 # Blood and Blood Disorders
 * To transport oxygen
-* Blood formation in the bone marrow à
+* Blood formation in the bone marrow → 
 * WBC – body soldiers
   * Neutrophils – most abundant
   * Eosinophils – during allergy
@@ -2633,7 +2532,7 @@ ___
   * **Blood clothing cascade**
   * **Formation of a complete fibrin clot**
 
-**1\)  Platelet adhesion (come closer together) à2) Platelet release reaction à3) platelet aggregation**
+**1\)  Platelet adhesion (come closer together) → 2) Platelet release reaction → 3) platelet aggregation**
 
 * **Platelet plug formationtriggers the blood clotting mechanism**
   * **Intrinsic pathway**
@@ -2654,11 +2553,11 @@ ___
 
 * Ecchymoses (Bruises), petechial rashes on the arms, legs, upper chest & neck
 * Mucosal leading occurs easily
-* Significant blood loss àanemia
+* Significant blood loss → anemia
 * Intracranial bleed induced stroke (very rare)
   * Assess for neurologic function & mental status
 
-Cerebral Hemorrhage àIncreased ICP – therefore assess LOC
+Cerebral Hemorrhage → Increased ICP – therefore assess LOC
 
 **Diagnostic Findings:**
 
@@ -2769,7 +2668,7 @@ Hypertension
 
 Aldrenal medulla – catecholamines (sympathetic stimulation)
 
-Adrenal cortex – aldosteroneàincreased sodium and water retention
+Adrenal cortex – aldosterone→ increased sodium and water retention
 
 **Causes of increased blood pressure:**
 
@@ -3045,8 +2944,8 @@ Peripheral Arterial Disease
 * Commonly affected:
   * **Saphenous leg veins**(lack support from surrounding muscles)
   * Also occurs in:
-    * Rectum àHemorrhoids
-    * EsophagiaàEsophageal varices
+    * Rectum → Hemorrhoids
+    * Esophagia→ Esophageal varices
 
 **Etiology:**
 
@@ -3066,7 +2965,7 @@ Peripheral Arterial Disease
 
 * Brodie-Trendelenburg test
   * Client lie flat & elevates the affected leg to empty veins, tourniquet is then applied to the upper thigh, & the client is asked to stand
-  * If blood flows from upper part of the leg into the superficial veins à**INCOMPETENT valves**
+  * If blood flows from upper part of the leg into the superficial veins → **INCOMPETENT valves**
   * Ultrasonography
   * Venography
 
