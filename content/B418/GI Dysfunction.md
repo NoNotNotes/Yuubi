@@ -1,6 +1,6 @@
 ---
 tags:
-  - B419
+  - B418
 title: Altered Metabolic-Gastrointestinal and Liver Function
 date: 2024-10-29
 description: Critical disorders of metabolic, gastrointestinal, and liver function as presented by Dr. Rotairo— bleeding disorders, traumatic disorders, abdominal compartment syndrome, and liver failure.
