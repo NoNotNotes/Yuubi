@@ -19,10 +19,8 @@ export default (() => {
 
     const fileDate = fileData.dates?.created ?? new Date();
 
-    // Determine the og:image URL based on the presence of a description
     let ogImageUrl: string
-    if (fileData.frontmatter?.description) {
-      // If a description is present, use the custom API for the og:image
+    if (fileData.frontmatter?.description) { //check if i wrote a description
       const customOgImageUrl = new URL(`https://nnn-vercel-og.vercel.app/api/og`)
       customOgImageUrl.searchParams.append("title", title)
       customOgImageUrl.searchParams.append("content", description)
@@ -37,7 +35,7 @@ export default (() => {
       )
       ogImageUrl = customOgImageUrl.toString()
     } else {
-      // If no description is found, use the original static/og-image.png
+      // fallback
       ogImageUrl = `https://${cfg.baseUrl}/static/og-image.png`
     }
 
