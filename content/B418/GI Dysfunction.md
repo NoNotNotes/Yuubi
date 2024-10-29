@@ -2,8 +2,8 @@
 tags:
   - B419
 title: Altered Metabolic-Gastrointestinal and Liver Function
-date: 2024-10-26
-description: "The three topics covered for the midterm examinations: electrocardiography, GI dysfunction, and elimination dysfunction based on Dr. Rotairo's presentations."
+date: 2024-10-29
+description: Critical disorders of metabolic, gastrointestinal, and liver function as presented by Dr. Rotairo— bleeding disorders, traumatic disorders, abdominal compartment syndrome, and liver failure.
 ---
 Also read: [[ANPH/13|The Gastrointestinal Tract]]
 
@@ -248,5 +248,164 @@ In acute trauma, it is important to perform **aggressive resuscitation**, **cont
 
 ___
 # Abdominal Compartment Syndrome
+A **sustained intraabdominal pressure of greater than 20 mm Hg** with or without an abdominal perfusion pressure of less than 60 mm Hg.
+- **Intraabdominal pressure** (IAP) is a pressure within the abdominal cavity. In most **critically ill** (ICU) patients, an IAP of **5 to 10 mm Hg** is normal. Additionally, **obese** and **pregnant** individuals may also have a higher baseline IAP (as high as **10 to 15 mm Hg**) without consequence. However, in a normal health individual, IAP only ranges from **0 to 5 mm Hg**.
+- **Abdominal perfusion pressure** (APP) is calculated by subtracting IAP from MAP ($\text{APP}=\text{MAP}-\text{IAP}$), and denotes the amount of pressure required to push blood through the abdomen's blood vessels. When IAP gets closer, APP goes down and indicates that blood vessels are being compressed by the IAP, which restricts blood flow to the abdominal viscera and organs.
+- **Intraabdominal hypertension** (IAH) is a sustained IAP of >12 mm Hg that often causes occult ischemia, but does not produce obvious organ failure. This becomes ACS when IAP reaches >20 mm Hg and new organ dysfunction is found.
+
+| Pressure       | Interpretation                                      |
+| -------------- | --------------------------------------------------- |
+| 0 – 5 mm Hg    | Normal                                              |
+| 5 – 10 mm Hg   | ICU                                                 |
+| 10 – 15 mm Hg  | Obese, Pregnant                                     |
+| >12 mm Hg      | IAH                                                 |
+| 15 – 20 mm Hg  | Dangerous IAH (Consider non-invasive interventions) |
+| >20 – 25 mm Hg | Impending ACS (Consider decompressive laparotomy)   |
+## Risk Factors
+1. **Diminished abdominal wall compliance**: trauma, respiratory failure, burns
+2. **Increased intraluminal contents**: gastroparesis, ileus, colonic pseudo-obstruction 
+3. **Increased abdominal contents**: hemo-/pneumoperitoneum, ascites, liver dysfunction
+4. **Capillary leak/fluid resuscitation**
+
+>[!WARNING] Indications for IAP Monitoring
+>A patient must be monitored for increasing IAP in the presence of **sepsis**, **visceral compression/reduction**, **surgery** (AAA repair, fluid volume excess), and **trauma**. Monitoring can be done through:
+>1. **Intragastric Monitoring**
+>2. **Intracolonic Monitoring**
+>3. **Intravesical Monitoring** (via the bladder), the standard method; minimally invasive, accurate, simple.
+
+>[!EXAMPLE]- Etiologies
+>1. **Retroperitoneal**: pancreatitis, retroperitoneal, pelvic bleeding, contained AAA rupture, aortic surgery, abscess, visceral edema
+>2. **Intraperitoneal**: intraperitoneal bleeding, AAA rupture, acute gastric dilatation, bowel obstruction, ileus, mesenteric venous obstruction, pneumoperitoneum, abdominal packing, abscess, visceral edema secondary to resuscitation (SIRS)
+>3. **Abdominal Wall**: burn eschar, repair of gastroschisis or omphalocele, reduction of large hernias, pneumatic anti-shock garments, lap closure under tension, abdominal binders
+>4. **Chronic**: central obesity, ascites, large abdominal tumors, peritoneal dialysis, pregnancy
+## Pathophysiology
+
+```mermaid
+graph TD
+A(Physiologic Insult)
+B(Ischemia)
+C(Inflammatory Response)
+D(Capillary Leak)
+E(Tissue Edema)
+F("Intra-abdominal Hypertension")
+
+A-->B-->C
+A-->C
+C-->D
+C2(Fluid Resuscitation)-->D
+D-->E-->F
+```
+
+An elevated IAP (a) **reduces perfusion of surgical and traumatic wounds, liver, bone marrow, etc.** and (b) **restricts venous return from the legs**. This results in poor wound healing, dehiscence, coagulopathy (from decreased blood flow; hemostasis), immunosuppression, and embolic risk (DVT, PE)
+- "Second hit" in the two event model of multi-organ failure— deterioration after an initial injury or surgery.
+## Assessment Findings
+1. Suspected in **critically ill patients**. They may complain of lightheadedness, dyspnea, abdominal bloating, or abdominal pain.
+2. **The abdomen is tensely distended**, but this is a poor predictor of ACS.
+3. **Progressive oliguria** from decreased renal perfusion.
+4. Hypotension, tachycardia, increased jugular venous pressure and distention, peripheral edema, abdominal tenderness, or acute pulmonary decompensation.
+5. **Imaging** is not reliable in ACS, but a CXR can show decreased lung volumes, atelectasis, or elevated hemodiaphragms. A CT can demonstrate infiltration of the retroperitoneum not proportional to other conditions.
+>[!INFO]- Epidemiology
+>|Abdominal Pressure|Total Prevalence|In MICU|In SICU|
+>|---|---|---|---|
+>|IAP > 12|58.8%|54.4%|65%|
+>|IAP > 15|28.9%|29.8%|27.5%|
+>|IAP > 20 with organ failure|8.2%|10.5%|5.0%|
+## Management
+1. **Fluids** increase cardiac indices in the early course of management, but will worsen edema over time.
+2. **Vasopressors**: perfusion pressure must be increased over 60 mm Hg to ensure continued perfusion.
+3. **Sedation, Paralytics**
+4. **Catheterize**/**Enema**
+5. **Colloids**
+6. **Hemofiltration**
+7. **Paracentesis**, if significant free fluid is present
+8. **Decompressive Laparotomy** in severe cases
+>[!ERROR]- Prognosis (Ivatury, J., 1998)
+>Of 70 patients with IAP > 25 mm Hg who had surgery were distinguished between having the fascia closed or left open:
+>- Closed (25 cases): 52% developed IAP > 25 and 39% died
+>- Open (45 cases): 22% developed IAP > 25 and 10.6% died
+
 ___
 # Liver Failure
+**Acute liver failure** is a clinical syndrome of severe liver function impairment, which results in **encephalopathy**, **coagulopathy**, and **jaundice** within 6 months of the onset of symptoms. Other classifications of liver failure include:
+1. **Fulminant**: the duration between jaundice and encephalopathy takes <2 weeks
+2. **Sub-Fulminant**: the duration between jaundice and encephalopathy takes >2 weeks
+3. **Late-onset**: encephalopathy begins 8 – 24 weeks after the onset of first symptoms.
+## Etiology
+1. **Acetaminophen overdose** is the most common cause of acute liver failure.
+2. **Prescription medications** can cause acute liver failure, such as antibiotics, **nonsteroidal anti-inflammatory drugs**, and anticonvulsants.
+3. **Herbal supplements** have been linked to acute liver fialure.
+4. **Hepatitis** (A, B, E) **and other viruses** (Epstein-Barr, Cytomegalovirus, HSV)
+5. **Toxins**, such as poisonous wild mushrooms
+6. **Autoimmune disease** (hepatitis)
+7. **Venous liver disease**, e.g., Budd-Chiari syndrome
+8. **Metabolic disease**, e.g., Wilson's disease, acute fatty liver of pregnancy. Infrequent causes.
+9. **Cancer**, either of the liver or as metastasis.
+
+>[!DANGER] Pathogenesis
+- **Massive destruction of hepatocytes** from a directly cytotoxic effect or as an immune response to antigens.
+- **Impaired hepatocyte regeneration**, **altered parenchymal perfusion**, **endotoxemia**
+## Assessment Findings
+The clinical features of a patient with acute liver failure typically initially develops **non-specific symptoms** such as **nausea** and **malaise**.
+- **Jaundice** appears and is progressive
+- **Vomiting** is common
+- **Abdominal pain** occurs
+- **Rapid decrease in liver size** without clinical improvement is an ominous sign.
+- **Ascites**
+- **Tachycardia, hypotension, hyperventilation, and fever** are later features.
+- **Coma and encephalopathy** are late features.
+
+>[!TIP] Fetor Hepaticus
+>*Fetor hepaticus* is a characteristic odor of breath described as **sweetish and slightly fecal**. This is due to methyl mercaptans excreted through the lungs as the liver is no longer able to continue its normal demethylating process. This often precedes a coma, and is frequent in patients with an extensive portal-collateral circulation.
+
+**Skin manifestations** appear with acute liver failure from hormonal (the liver metabolizes estrogen) and vascular changes.
+1. **Spider angiomas**: over the vascular territory of the superior vena cava, commonly found in the necklace area, the face, forearms, and the dorsum of the hand. It appears as a central arteriole, from which small vessels (like a spider's legs) radiate outward.
+2. **Palmar erythema**: the hands become warm and the palms become bright red in color, with rapid return of color when blanched with pressure.
+
+>[!WARNING] Hypogonadism
+>The liver is responsible for hormone metabolism. In liver failure, this mechanism fails, and **hormone levels rise**. This impairs reproductive functions in both men and women:
+>1. **Decreased libido and potency**
+>2. **Small and soft testes** with potentially abnormal seminal fluid
+>3. **Loss secondary sexual hair and feminine characteristics** (breast, pelvic fat)
+>4. **Gynaecomastia** (liver failure is the most common cause of this)
+## Hematology in Liver Failure
+1. **Determine Prothrombin Time** (PT)
+2. **CBC**: Hgb, WBC, Platelet (may be low in disseminated intravascular coagulation)
+3. **Serum studies**: glucose, **urea**, electrolytes, creatinine, bilirubin, **albumin** (may decrease as disease progresses; indicator of poor prognosis)
+4. **Liver function tests**: **transaminases** are normally high in liver disease, but these fall as the condition worsens— these carry little prognostic value.
+>[!ERROR] Serology
+>Virological markers (Serum HBsAg, IgM Anti HBc, IgM anti-HAV, Anti HCV, HCV RNA) can indicate the presence of viruses as the causative factor in acute liver failure
+## Management
+1. **Volume resuscitation** is aggressively carried out. Fluids with glucose are given at an infusion rate of at least 6 to 8 mg/kg/minute, with **strict intake-output charting**. Fluid shifts and systemic vasodilation occurs in liver failure, making it necessary to restore circulating volume to improve organ perfusion and prevent complications.
+2. **Diet**: **high carbohydrates**, **moderate fats**, and **moderate protein**
+	- Proteins should be **vegetable-based**, not meat-based. Proteins in general are kept **low if encephalopathy occurs**. Proteins produce ammonia when digested.
+>[!FAIL] Complications
+>Acute liver failure can result in death through cerebral edema, infection, bleeding, respiratory and circulatory failure, renal failure, hypoglycemia, and pancreatitis. Complications of liver failure mainly include:
+>1. **Hepatic encephalopathy**
+>2. **Porto-systemic encephalopathy**
+>3. **Cerebral edema** (intracranial hypertension): a common cause of death
+>4. **Metabolic, electrolyte, and acid-base disturbances**
+### Hepatic Encephalopathy
+If acute liver failure progresses to hepatic encephalopathy, three broad areas of treatment are required:
+1. **Identify the precipitating cause**
+2. **Reduce the production and absorption of gut-derived ammonia and other toxins**, such as **dietary protein** (reduce in diet), **enteric bacteria** (alter with antibiotics/lactulose; stimulate colonic emptying with enemas/lactulose)
+	- **Antibiotics** (**Neomycin**, generally orally; **Metronidazole** seems as effective) is very effective in decreasing gastrointestinal ammonium formation. This is used in the acute phase for 5 to 7 days. **Rifaximin** is also effective for non-comatose hepatic encephalopathy
+	- **Lactulose** is given by mouth, and is broken down into **lactic acid** in the cecum. This drops the fecal pH, which reduces ammonia absorption. This also suppresses ammonia-forming organisms (Bacteroides)
+3. **Modify neurotransmitter balance directly**: Bromocriptine, Flumazemil (this has limited clinical value)
+### Coagulopathy
+The liver is a producer of clotting factors. In failure, coagulopathy can occur.
+1. **IV Vitamin K** to correct reversible coagulopathy.
+2. **Fresh Frozen Plasma** (FFP) in hemorrhage or severe coagulopathy (PT > 60s)
+3. **Correct thrombocytopenia**
+4. **GI Bleeding Prophylaxis** with **PPIs**, **Sucralfate** (a protectant), and **Ranitidine** (H₂ antagonist)
+### Metabolic and Electrolyte Imbalances
+1. **Hyponatremia**
+2. **Hypokalemia**: decreased dietary intake, chronic illness, secondary hyperaldosteronism, frequent GI losses
+3. **Hypophosphatemia**: the regenerating liver uses up phosphate for tissue repair.
+4. **Hypoglycemia**: failure of hepatic gluconeogenesis and increased plasma insulin levels from decreased uptake.
+5. **Respiratory Alkalosis**: hyperventilation from direct stimulation of the respiratory center by toxic substances.
+### Hepatorenal Syndrome
+The most common cause of **renal insufficiency** in ALF. This occurs secondary to **renal vasoconstriction**. There are two types of progression of this syndrome:
+1. **Type 1**: rapidly progressive deterioration— creatinine levels double to >2.5 mg/dL or creatinine clearance drops by 50% to <20 mL/min in **less than two weeks**.
+2. **Type 2**: slow progression, taking **over two weeks**.
+
+The main focus of treatment is to decreased **splanchnic circulation** with **vasoconstrictors** (Terlipressin) and **alpha agonists** (Norepinephrine, Medodrine). These are very effective in reversing functional renal insufficiency.

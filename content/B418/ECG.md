@@ -4,7 +4,7 @@ tags:
 title: Electrocardiography
 draft: false
 date: 2024-10-26
-description: " Electrocardiography (ECG/EKG) is the graphic recording of the electrical activity (electric potentials) of the heart. It is a noninvasive and affordable method of monitoring, often readily available in health care facilities."
+description: Electrocardiography is the graphic recording of the electrical activity of the heart. This lecture covers the conduction system of the heart, lead placement, and how to read ECG waveforms and pattern.
 ---
 Electrocardiography (ECG/EKG) is the **graphic recording of the electrical activity (electric potentials) of the heart**. It is a noninvasive and affordable method of monitoring, often readily available in health care facilities. It uses **metal electrodes** attached to the extremities and chest wall to measure electric potential, which is then visualized by the ECG machine.
   >[!CITE] Reference
