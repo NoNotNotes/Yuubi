@@ -91,30 +91,39 @@ $\text{HR}=300/\text{\# of big squares}$  can be used to determine the heart rat
 1. **Sinus Rhythm**: the **normal** rhythm, with a **P** wave followed by **QRST** with no narrowing or widening. The normal heart rate is dictated by the **sinus** (SA) **node**, the heart's **primary pacemaker**. In an adult, the resting heart rate ranges from **60 – 100 beats/min**.
 
 ![[ecg_sinus-rhythm.png]]
+
 2. **Sinus Bradycardia**: a **normal waveform** but with **a slow heart rate**, **less than 60 beats/min**.
 
 ![[ecg_sinus-bradycardia.png]]
+
 3. **Sinus Tachycardia**: a **normal waveform** but with **a fast heart rate**, **more than 100 beats/min**.
 
 ![[ecg_sinus-tachycardia.png]]
+
 4. **Sinus Arrhythmia**: a **normal waveform** occurring in **irregular intervals**; with the longest PP interval or RR interval being larger by the shortest by **0.16 seconds or more**.
 
 ![[ecg_sinus-arrhythmia.png]]
+
 5. **Premature Atrial Complex**: a **prematurely occurring PQRST complex**. The P wave appears outside of the normal sinus beat, resulting in a long PR interval and a narrow QRS complex.
 
 ![[ecg_premature-atrial-complex.png]]
+
 6. **Atrial Flutter**: an atrial rate of 220 to 300 beats/min, with only the P section of the waveform (atrial depolarization) appearing as flutter waves.
 
 ![[ecg_atrial-flutter.png]]
+
 7. **Atrial Fibrillation**: the atrium is rapidly triggered, resulting in **no discernible P waves**, with an **irregular RR interval**.
 
 ![[ecg_atrial-fibrillation.png]]
+
 8. **Junctional Rhythm**: once the primary pacemaker (SA node) fails to lead the heart's impulses, the **AV Node** takes over, but produces a lower normal heart rate. The **P wave becomes inverted or buried within or follows the QRS complex**, and the **QRS complex itself is narrow**.
 
 ![[ecg_junctional-rhythm.png]]
+
 9. **Premature Ventricular Complex**: a **prematurely occurring complex**; the QRS complex ends up looking **wide** and **bizarre**, with **no preceding P wave**. The following **T wave becomes inverted** in defection to the QRS complex. After each PVC, a **compensatory pause** occurs for the heart to reorient its signals.
 
 ![[ecg_ventricular_premature_complex.png]]
+
 10. **Ventricular Tachycardia**: a series of **at least three consecutive PVCs** that display **rapid**, **bizarre**, **wide QRS complexes** (>0.10s). As previously mentioned, PVCs **do not have a preceding P wave**, which normally act as the origin of ventricular impulses.
 
 ![[ecg_ventricular-tachycardia.png]]
@@ -125,10 +134,13 @@ $\text{HR}=300/\text{\# of big squares}$  can be used to determine the heart rat
 **Atrioventricular  blocks** are a dysfunction of the conductive system of the heart where the time between the activation of the atrium and the ventricles (PR segment) become prolonged.
 1. **First Degree Atrioventricular Blocks**: a **prolonged PR interval** (>0.2s). The impulse continues as normal, hence this often appears asymptomatically and does not require treatment.
 ![[ecg_heart-block-first-degree.png]]
+
 2. **Type 1 (Mobitz I or Wenckebach) Second Degree Atrioventricular Blocks**: a series of **progressively lengthening PR intervals**, until eventually **a QRS complex is dropped** (P wave not followed by QRS). This is a cyclic process that is often benign and may not require treatment.
 ![[ecg_heart-block-second-degree-mobitz-1.png]]
+
 3. **Type 2 (Mobitz II) Second Degree Atrioventricular Blocks**: a stable PR interval with intermittently dropped beats (missing QRS complex).
 ![[ecg_heart-block-second-degree-mobitz-2.png]]
+
 4. **Third Degree Atrioventricular Blocks**: a "**complete heart block**" where atrial and ventricular activity are completely detached from one another. The **QRS complexes often become abnormal in shape, duration, and axis**. They maintain a constant rate and morphology.
 ![[ecg_heart-block-third-degree.png]]
 ___
