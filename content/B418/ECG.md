@@ -73,10 +73,10 @@ An **electrocardiograph** is an axis of time (0.04 s per cell) and electrical po
 3. **QRS Complex**: ventricular depolarization. Normally **0.06 to 0.10 s**, at least less than **0.12 s**.
 4. **QT Interval**: Normally **less than 0.44 s**.
 	- A prolonged QT interval can also result from heart block.
-5. **ST Segment**: the period from the end of ventricular depolarization to atrial repolarization.
+5. **ST Segment**: the period from the end of ventricular depolarization to ventricular repolarization.
 	- **ST segment elevation** is a characteristic finding for **myocardial infarction**.
 	- **ST segment depression** is a sign of **myocardial ischemia**.
-6. **T Wave**: atrial repolarization
+6. **T Wave**: ventricular repolarization
 
 ![[ecg_components.png]]
 
