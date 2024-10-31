@@ -53,6 +53,7 @@ The following are the corresponding leads to which wall of the heart is being de
 4. **V₄**: 5th ICS, MCL
 5. **V₅**: AAL on the same level as V₄
 6. **V₆**: MAL on the same level as V₄
+
 ![[lead_placement1.png]]
 ## Lead Axes
 The two leads to consider for axis deviation is **Lead I** and **Lead AVF**. If both are positive, the axis remains normal.
@@ -127,6 +128,7 @@ $\text{HR}=300/\text{\# of big squares}$  can be used to determine the heart rat
 10. **Ventricular Tachycardia**: a series of **at least three consecutive PVCs** that display **rapid**, **bizarre**, **wide QRS complexes** (>0.10s). As previously mentioned, PVCs **do not have a preceding P wave**, which normally act as the origin of ventricular impulses.
 
 ![[ecg_ventricular-tachycardia.png]]
+
 11. **Ventricular Fibrillation**: the **complete loss of discernible P, QRS, and ST segments** as the ventricle loses its ability to contract as a unit. This is **the most common mechanism of cardiac arrest** in myocardial ischemia and infarction.
 
 ![[ecg_ventricular-fibrillation.png]]
