@@ -5,7 +5,7 @@ tags:
 title: Fundamentals of Nursing (Ritchel Acuna)
 draft: false
 date: 2024-10-27
-description: A collection of lecture contents from three discussions by Sir Ritchel Acuña of East Avenue Medical Center on 10-20, 10-27, and 11-03? for the Fundamentals of Nursing course.
+description: A collection of lecture contents from three discussions by Sir Ritchel Acuña of East Avenue Medical Center on 10-20, 10-27, and 11-10? for the Fundamentals of Nursing course.
 ---
 **Nursing** is the diagnosis of human responses to actual and potential problems (American Nurses Association).
 - The act of fulfilling the environment of the patient to assist him in his recovery (Florence Nightingale)

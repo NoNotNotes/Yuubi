@@ -52,3 +52,14 @@ article h6::before {
 //     fill-opacity: 0.4 !important;
 //     stroke:rgba(255, 126, 126, 0.2) !important;
 // }
+
+.popover-hint ul:not(.section-ul, .tags) li {
+    list-style: none; /* Hide default list style */
+    position: relative;
+    & ::before {
+        content: "–"; /* Custom marker character */
+        position: absolute;
+        left: -1.5em; /* Adjust positioning */
+        color: currentColor; /* Match text color */
+    }
+}

@@ -5,7 +5,8 @@ tags:
   - MS
   - INC
 date: 2024-10-26
-description: A series of lectures by Dr. Arreglo covering the digestive system,
+description: A note on all eight video lectures by Dr. Leni Arreglo covering the digestive system, respiratory system, and cardiovascular system
+draft: true
 ---
 # Digestive System
 The digestive system consists of a long tube also known as the **alimentary canal** where ingested substances travel and undergo mechanical and chemical digestion for conversion into absorbable units of food for **nutrition**. In conjunction with this canal, **accessory organs of digestion** (liver, gallbladder, salivary glands, pancreas) aid in the digestion of food.
@@ -75,15 +76,57 @@ The abdominal areas may be subdivided into four quadrants or nine regions:
 1. **Irritable Bowel Syndrome** (IBS): a **functional** (no causative structural defects) disorder with an unknown cause— an **idiopathic** disorder. However, this has been theorized to be caused by neural or hormonal defects in gastrointestinal regulation.
 	- **Risk Factors**: stress, family history
 	- **Signs and Symptoms**: IBS is classified as **IBS-c** (results in **constipation**), **IBS-d** (results in **mucoid diarrhea**), or IBS-m/**IBS-a** (results in **mixed** or **alternating diarrhea and constipation**). Additionally the following also occur:
-		- Indigestion (dyspepsia)
-		- Abdominal pain
+		- **Indigestion** (dyspepsia)
+		- **Abdominal pain**
 	- **Diagnostic Evaluation**: mainly *exclusionary*, as there is no test specific to IBS. These include **colonoscopy**, **CBC**, **ESR** (elevated in inflammation), **imaging** (UTZ)
-	- **Management** is palliative; symptom-based:
-		- **Diarrhea**: high protein, low residue, high fiber and fluid diet with **fluid replacement** (Oresol).
-		- **Constipation**: low fat, high fiber diet with increased fluid intake. Laxatives may be prescribed.
+	- **Management** is **==palliative==**; symptom-based:
+		- **Diarrhea**: high protein (prevent fluid shifting), low residue, high fiber and fluid diet with **fluid replacement** (Oresol). In severe cases, **antidiarrheals** (Loperamide) may be given.
+		- **Constipation**: low fat, high fiber diet with increased fluid intake. In severe cases, **laxatives** may be prescribed.
 		- **Control symptoms** and exacerbations: low residue, high fiber diet.
-2. **Hiatal Hernia**: the protrusion of the stomach upwards through the **diaphragmatic hiatus**.
-2. **Liver Cirrhosis**: 
+2. **Hiatal Hernia**: the protrusion of the **stomach** upwards through the **diaphragmatic hiatus**. This hiatus is part of the muscle that divides the thoracic cavity and the peritoneal cavity. The hiatus is the point where the esophagus connects to the stomach. This may be **congenital** or **acquired**— increased intraabdominal pressure, such as in obesity, pregnancy, and lifting.
+	- **Types**:
+		- **Sliding Hernia**: the herniation progresses towards the esophagus
+		- **Rolling** (Paraesophageal) **Hernia**: the herniation progresses sidewards
+		- **Mixed-Type Hernia** (combination of both)
+	![[hernia_hiatal-types.png]]
+	- **Signs and Symptoms**: the most prominent clinical manifestation of a hiatal hernia is **pyrosis** (heartburn) resulting from the compromised lower esophageal sphincter and the heightened intraabdominal pressure. As such, this hernia is one of the etiologies of GERD.
+		- **Esophagitis**, **dysphagia** (difficult), and **odynophagia** (pain) are all caused by irritation and injury to the esophageal tract by gastric acid.
+		- Chronic irritation of the esophageal epithelium causes its normally squamous cells to undergo metaplasia into columnar cells, which is known as **Barrett's Esophagus**— the most common precancerous condition of the esophagus.
+		- **Nursing Diagnosis**: **Pain**
+	- **Diagnostic Evaluation**: (a) **esophagoscopy** and (b) **barium swallow** with imaging.
+	- **Management**: the main goal is to **==prevent reflux==**:
+		- **Keep the patient upright** 1 to 2 hours after eating; do not lie down.
+		- **No bedtime snacks**
+		- **Elevate the head of bed by 6 inches** to reduce nighttime reflux.
+		- Avoid **food and drug that can decrease the lower esophageal sphincter's ability to constrict**: soft drinks, alcohol, fatty foods, chocolate, spices/spiciness, Fosamax, Valium
+		- Avoid **activities that increase intraabdominal pressure**: lifting, straining, Valsalva maneuver, bending by the stomach
+		- Avoid **constrictive clothing**
+		- Use **antacids** 30 to 60 minutes after eating
+		- Use **histamine receptor blockers** (H₂ antagonists) such as Ranitidine to decrease acid production
+		- The most effective drugs for GERD are **proton pump inhibitors** (Omeprazole, Esomeprazole) to decreased acid production.
+		- **Surgery** is the **last consideration**.
+
+>[!EXAMPLE] Inguinal and Femoral Hernia
+>1. An **inguinal hernia** is the protrusion of a loop of intestine through the inguinal canal due to weakness or defect in the abdominal muscle.
+>2. A **femoral hernia** is the protrusion of a loop of intestine through the femoral canal where the femoral artery and vein also pass through.
+>
+>These hernias run the risk of **strangulation** where the loop of intestine is constricted and potentially injured. In such a case, herniorrhaphy becomes emergent. Otherwise, surgical correction may be considered as an elective surgery.
+
+3. **Liver Cirrhosis**: an irreversible, progressive scarring (fibrosis) of the liver. This is commonly caused by **alcohol** (Laennec's Cirrhosis), **infection** (hepatitis), **drugs** (hepatotoxicity), **hepatoma** (Liver Cancer), and **idiopathy** (biliary cirrhosis).
+	- Specifically for infection and hepatotoxicity, they are considered as **post-necrotic** cirrhosis.
+	- **Signs and Symptoms**: (a) **liver dysfunction** and (b) **portal hypertension**
+		- **Liver dysfunction** affects:
+			1. **Bile production**: emulsification of fats by bile for absorption. Bile contains water, bilirubin, cholesterol, and bile salts. In liver dysfunction, bilirubin is not taken up by the liver, and **jaundice** occurs. Decreased bile production results in **decreased fat absorption**.
+			2. **Fat Metabolism**: the liver is the site of fat metabolism— lipogenesis, lipolysis, and gluconeogenesis. In liver dysfunction, **weight loss and weakness** occur as fat is no longer stored or used in the body as energy.
+			3. **Carbohydrate Metabolism**: glycogenesis and glycogenolysis in the liver become impaired, which results in **easy fatigability**.
+			4. **Protein Metabolism**: albumin, the major protein in the blood, is produced in the liver. It maintains intravascular pressure by exerting oncotic (attractive) pressure to fluids, increasing volume. When albumin decreases in liver disease, oncotic pressure decreases, and fluid leaves the intravascular space, producing **edema**. Additionally, the liver converts ammonia to urea for excretion. In liver dysfunction, ammonia increases in the blood, which can result in **hepatic encephalopathy**.
+			5. **Clotting Factors**: all clotting factors are produced by the liver. In liver dysfunction, the patient becomes prone to **bleeding problems**.
+			6. **Fat-Soluble Vitamins** and some Vitamin B are stored in the liver.
+			7. **Biotransformation of Drugs** i.e. metabolism of drugs into inactive metabolites for excretion. In liver cirrhosis, these patients experience altered pharmacokinetics and normal doses of drugs may cause toxic effects.
+		- **Portal hypertension**:
+			- All the blood returning from the gastrointestinal tract passes through the **portal vein**. This blood contains food and drugs and are immediately metabolized in the **liver** before entering circulation through the **hepatic vein** then to the inferior vena cava.
+			- **Tissue scarring** stiffens the liver, **increasing pressure in the portal vein**. It is in portal hypertension that fluid escapes the intravascular compartment into the peritoneum— **ascites**. This also causes blood to back up in gastrointestinal circulation, producing 
+
 ___
 # Sample Questions
 ## Gastrointestinal System
@@ -298,3 +341,5 @@ A client being treated for esophageal varices has a Sengstaken-Blakemore tube in
 >
 >The nurse prioritizes the **airway** (refer to the ABCs of Life), especially in the context of a Sengstaken-Blakemore tube as the esophagus runs parallel posterior to the trachea.
 
+___
+# 
