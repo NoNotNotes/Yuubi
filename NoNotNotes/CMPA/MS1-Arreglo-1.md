@@ -114,7 +114,7 @@ The abdominal areas may be subdivided into four quadrants or nine regions:
 
 3. **Liver Cirrhosis**: an irreversible, progressive scarring (fibrosis) of the liver. This is commonly caused by **alcohol** (Laennec's Cirrhosis), **infection** (hepatitis), **drugs** (hepatotoxicity), **hepatoma** (Liver Cancer), and **idiopathy** (biliary cirrhosis).
 	- Specifically for infection and hepatotoxicity, they are considered as **post-necrotic** cirrhosis.
-	- **Signs and Symptoms**: (a) **liver dysfunction** and (b) **portal hypertension**
+	- **Pathophysiology**: (a) **liver dysfunction** and (b) **portal hypertension**
 		- **Liver dysfunction** affects:
 			1. **Bile production**: emulsification of fats by bile for absorption. Bile contains water, bilirubin, cholesterol, and bile salts. In liver dysfunction, bilirubin is not taken up by the liver, and **jaundice** occurs. Decreased bile production results in **decreased fat absorption**.
 			2. **Fat Metabolism**: the liver is the site of fat metabolism— lipogenesis, lipolysis, and gluconeogenesis. In liver dysfunction, **weight loss and weakness** occur as fat is no longer stored or used in the body as energy.
@@ -126,8 +126,13 @@ The abdominal areas may be subdivided into four quadrants or nine regions:
 		- **Portal hypertension**:
 			- All the blood returning from the gastrointestinal tract passes through the **portal vein**. This blood contains food and drugs and are immediately metabolized in the **liver** before entering circulation through the **hepatic vein** then to the inferior vena cava.
 			- **Tissue scarring** stiffens the liver, **increasing pressure in the portal vein**. It is in portal hypertension that fluid escapes the intravascular compartment into the peritoneum— **ascites**. 
-			- This also causes blood to back up in gastrointestinal circulation, resulting in **hemorrhoids** and **esophageal varices**, which are fragile and easily rupture; bleeding risks. Combined with impaired production of clotting factors, patients are highly susceptible to hemorrhage.
-
+			- This also causes blood to back up in gastrointestinal circulation, resulting in **hemorrhoids** (recto-anal varices) and **esophageal varices**, which are fragile and easily rupture; bleeding risks. Combined with impaired production of clotting factors, patients are highly susceptible to hemorrhage.
+			- Blood from GI circulation escapes through collateral vessels due to portal hypertension, forming **prominent distended abdominal veins** (**caput medusae**) and **spider angiomas** (pathognomonic of liver cirrhosis)
+	- **Diagnostic Examination**: the most definitive test for liver cirrhosis is a **liver biopsy**. In a liver biopsy, the patient is positioned **supine with a pillow under the right upper quadrant**. After the procedure, a common complication is **bleeding**, hence the patient must be positioned **right side-lying with a pillow under the right upper quadrant**. This compresses the biopsy site, reducing bleeding.
+		- Additionally, **elevated liver enzymes** (AST, ALT) can show a result of up to three times normal value.
+		- **Imaging**: Ultrasound, MRI, CT Scan
+	- **Management** is symptomatic:
+		- 
 ___
 # Sample Questions
 ## Gastrointestinal System
