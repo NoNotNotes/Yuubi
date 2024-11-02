@@ -125,7 +125,8 @@ The abdominal areas may be subdivided into four quadrants or nine regions:
 			7. **Biotransformation of Drugs** i.e. metabolism of drugs into inactive metabolites for excretion. In liver cirrhosis, these patients experience altered pharmacokinetics and normal doses of drugs may cause toxic effects.
 		- **Portal hypertension**:
 			- All the blood returning from the gastrointestinal tract passes through the **portal vein**. This blood contains food and drugs and are immediately metabolized in the **liver** before entering circulation through the **hepatic vein** then to the inferior vena cava.
-			- **Tissue scarring** stiffens the liver, **increasing pressure in the portal vein**. It is in portal hypertension that fluid escapes the intravascular compartment into the peritoneum— **ascites**. This also causes blood to back up in gastrointestinal circulation, producing 
+			- **Tissue scarring** stiffens the liver, **increasing pressure in the portal vein**. It is in portal hypertension that fluid escapes the intravascular compartment into the peritoneum— **ascites**. 
+			- This also causes blood to back up in gastrointestinal circulation, resulting in **hemorrhoids** and **esophageal varices**, which are fragile and easily rupture; bleeding risks. Combined with impaired production of clotting factors, patients are highly susceptible to hemorrhage.
 
 ___
 # Sample Questions
