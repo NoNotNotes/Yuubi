@@ -1,7 +1,6 @@
 ---
 tags:
   - CMPA
-description: final step
 title: ⭐ Competency Appraisal
 date: 2024-06-10
 ---
