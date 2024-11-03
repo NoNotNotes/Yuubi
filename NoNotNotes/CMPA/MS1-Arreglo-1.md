@@ -6,7 +6,7 @@ tags:
   - INC
 date: 2024-10-26
 description: A note on all eight video lectures by Dr. Leni Arreglo covering the digestive system, respiratory system, and cardiovascular system
-draft: true
+draft: false
 ---
 # Digestive System
 The digestive system consists of a long tube also known as the **alimentary canal** where ingested substances travel and undergo mechanical and chemical digestion for conversion into absorbable units of food for **nutrition**. In conjunction with this canal, **accessory organs of digestion** (liver, gallbladder, salivary glands, pancreas) aid in the digestion of food.
@@ -17,7 +17,7 @@ The digestive system consists of a long tube also known as the **alimentary cana
 >The **Lower GIT**, starting from the large intestine to the anus, involves:
 >1. **Absorption**; the reabsorption of water that converts stool into its formed, solid state.
 >2. **Synthesis of Vitamin K** by the normal gut flora *E. coli*, which makes up roughly 50% of an individual's Vitamin K. This is **necessary for the production of clotting factors X, IX, VII, and II** (Vitamin K dependent clotting factors). This is the mechanism behind the importance of Vitamin K in stopping bleeding.
->3. **Putrifaction** also occurs, where *E. coli* interacts with fecal materials to produce flatus, a combination of carbon dioxide, carbon monoxide, methane, and ammonia
+>3. **Putrefaction** also occurs, where *E. coli* interacts with fecal materials to produce flatus, a combination of carbon dioxide, carbon monoxide, methane, and ammonia
 
 >[!ERROR] GI Bleeding
 >**Gastrointestinal bleeding** can occur along any part of the alimentary canal. In general, this is also divided between **Upper GI Bleeding** (UGIB) and **Lower GI Bleeding** (LGIB), which present differently:
@@ -73,69 +73,341 @@ The abdominal areas may be subdivided into four quadrants or nine regions:
 >|**RLQ**|Crohn's Disease, Appendicitis|
 >|**Epigastric Region**| Gastritis, Peptic Ulcer Disease|
 ## Non-inflammatory Disorders
-1. **Irritable Bowel Syndrome** (IBS): a **functional** (no causative structural defects) disorder with an unknown cause— an **idiopathic** disorder. However, this has been theorized to be caused by neural or hormonal defects in gastrointestinal regulation.
-	- **Risk Factors**: stress, family history
-	- **Signs and Symptoms**: IBS is classified as **IBS-c** (results in **constipation**), **IBS-d** (results in **mucoid diarrhea**), or IBS-m/**IBS-a** (results in **mixed** or **alternating diarrhea and constipation**). Additionally the following also occur:
-		- **Indigestion** (dyspepsia)
-		- **Abdominal pain**
-	- **Diagnostic Evaluation**: mainly *exclusionary*, as there is no test specific to IBS. These include **colonoscopy**, **CBC**, **ESR** (elevated in inflammation), **imaging** (UTZ)
-	- **Management** is **==palliative==**; symptom-based:
-		- **Diarrhea**: high protein (prevent fluid shifting), low residue, high fiber and fluid diet with **fluid replacement** (Oresol). In severe cases, **antidiarrheals** (Loperamide) may be given.
-		- **Constipation**: low fat, high fiber diet with increased fluid intake. In severe cases, **laxatives** may be prescribed.
-		- **Control symptoms** and exacerbations: low residue, high fiber diet.
-2. **Hiatal Hernia**: the protrusion of the **stomach** upwards through the **diaphragmatic hiatus**. This hiatus is part of the muscle that divides the thoracic cavity and the peritoneal cavity. The hiatus is the point where the esophagus connects to the stomach. This may be **congenital** or **acquired**— increased intraabdominal pressure, such as in obesity, pregnancy, and lifting.
-	- **Types**:
-		- **Sliding Hernia**: the herniation progresses towards the esophagus
-		- **Rolling** (Paraesophageal) **Hernia**: the herniation progresses sidewards
-		- **Mixed-Type Hernia** (combination of both)
-	![[hernia_hiatal-types.png]]
-	- **Signs and Symptoms**: the most prominent clinical manifestation of a hiatal hernia is **pyrosis** (heartburn) resulting from the compromised lower esophageal sphincter and the heightened intraabdominal pressure. As such, this hernia is one of the etiologies of GERD.
-		- **Esophagitis**, **dysphagia** (difficult), and **odynophagia** (pain) are all caused by irritation and injury to the esophageal tract by gastric acid.
-		- Chronic irritation of the esophageal epithelium causes its normally squamous cells to undergo metaplasia into columnar cells, which is known as **Barrett's Esophagus**— the most common precancerous condition of the esophagus.
-		- **Nursing Diagnosis**: **Pain**
-	- **Diagnostic Evaluation**: (a) **esophagoscopy** and (b) **barium swallow** with imaging.
-	- **Management**: the main goal is to **==prevent reflux==**:
-		- **Keep the patient upright** 1 to 2 hours after eating; do not lie down.
-		- **No bedtime snacks**
-		- **Elevate the head of bed by 6 inches** to reduce nighttime reflux.
-		- Avoid **food and drug that can decrease the lower esophageal sphincter's ability to constrict**: soft drinks, alcohol, fatty foods, chocolate, spices/spiciness, Fosamax, Valium
-		- Avoid **activities that increase intraabdominal pressure**: lifting, straining, Valsalva maneuver, bending by the stomach
-		- Avoid **constrictive clothing**
-		- Use **antacids** 30 to 60 minutes after eating
-		- Use **histamine receptor blockers** (H₂ antagonists) such as Ranitidine to decrease acid production
-		- The most effective drugs for GERD are **proton pump inhibitors** (Omeprazole, Esomeprazole) to decreased acid production.
-		- **Surgery** is the **last consideration**.
+### Irritable Bowel Syndrome (IBS)
+Irritable bowel syndrome is a **functional** (no causative structural defects) **disorder** with an unknown cause— an **idiopathic** disorder. However, this has been theorized to be caused by neural or hormonal defects in gastrointestinal regulation.
+1. **Risk Factors**: stress, family history
+2. **Signs and Symptoms**: IBS is classified as **IBS-c** (results in **constipation**), **IBS-d** (results in **mucoid diarrhea**), or IBS-m/**IBS-a** (results in **mixed** or **alternating diarrhea and constipation**). Additionally the following also occur:
+	- **Indigestion** (dyspepsia)
+	- **Abdominal pain**
+3. **Diagnostic Evaluation**: mainly *exclusionary*, as there is no test specific to IBS. These include **colonoscopy**, **CBC**, **ESR** (elevated in inflammation), **imaging** (UTZ)
+4. **Management** is **==palliative==**; symptom-based:
+	- **Diarrhea**: high protein (prevent fluid shifting), low residue, high fiber and fluid diet with **fluid replacement** (Oresol). In severe cases, **antidiarrheals** (Loperamide) may be given.
+	- **Constipation**: low fat, high fiber diet with increased fluid intake. In severe cases, **laxatives** may be prescribed.
+	- **Control symptoms** and exacerbations: low residue, high fiber diet.
+### Hiatal Hernia
+The protrusion of the **stomach** upwards through the **diaphragmatic hiatus**. This hiatus is part of the muscle that divides the thoracic cavity and the peritoneal cavity. The hiatus is the point where the esophagus connects to the stomach. This may be **congenital** or **acquired**— increased intraabdominal pressure, such as in obesity, pregnancy, and lifting.
+1. **Types**:
+	- **Sliding Hernia**: the herniation progresses towards the esophagus
+	- **Rolling** (Paraesophageal) **Hernia**: the herniation progresses sidewards
+	- **Mixed-Type Hernia** (combination of both)
+![[hernia_hiatal-types.png]]
+2. **Signs and Symptoms**: the most prominent clinical manifestation of a hiatal hernia is **pyrosis** (heartburn) resulting from the compromised lower esophageal sphincter and the heightened intraabdominal pressure. As such, this hernia is one of the etiologies of GERD.
+	- **Esophagitis**, **dysphagia** (difficult), and **odynophagia** (pain) are all caused by irritation and injury to the esophageal tract by gastric acid.
+	- Chronic irritation of the esophageal epithelium causes its normally squamous cells to undergo metaplasia into columnar cells, which is known as **Barrett's Esophagus**— the most common precancerous condition of the esophagus.
+	- **Nursing Diagnosis**: **Pain**
+3. **Diagnostic Evaluation**: (a) **esophagoscopy** and (b) **barium swallow** with imaging.
+4. **Management**: the main goal is to **==prevent reflux==**:
+	- **Keep the patient upright** 1 to 2 hours after eating; do not lie down.
+	- **No bedtime snacks**
+	- **Elevate the head of bed by 6 inches** to reduce nighttime reflux.
+	- Avoid **food and drug that can decrease the lower esophageal sphincter's ability to constrict**: soft drinks, alcohol, fatty foods, chocolate, spices/spiciness, Fosamax, Valium
+	- Avoid **activities that increase intraabdominal pressure**: lifting, straining, Valsalva maneuver, bending by the stomach
+	- Avoid **constrictive clothing**
+	- Use **antacids** 30 to 60 minutes after eating
+	- Use **histamine receptor blockers** (H₂ antagonists) such as Ranitidine to decrease acid production
+	- The most effective drugs for GERD are **proton pump inhibitors** (Omeprazole, Esomeprazole) to decreased acid production.
+	- **Surgery** is the **last consideration**.
 
 >[!EXAMPLE] Inguinal and Femoral Hernia
 >1. An **inguinal hernia** is the protrusion of a loop of intestine through the inguinal canal due to weakness or defect in the abdominal muscle.
 >2. A **femoral hernia** is the protrusion of a loop of intestine through the femoral canal where the femoral artery and vein also pass through.
 >
 >These hernias run the risk of **strangulation** where the loop of intestine is constricted and potentially injured. In such a case, herniorrhaphy becomes emergent. Otherwise, surgical correction may be considered as an elective surgery.
+### Liver Cirrhosis
+Liver Cirrhosis is an **irreversible, progressive scarring** (fibrosis) **of the liver**. This is commonly caused by **alcohol** (Laennec's Cirrhosis), **infection** (hepatitis), **drugs** (hepatotoxicity), **hepatoma** (Liver Cancer), and **idiopathy** (biliary cirrhosis). Specifically for infection and hepatotoxicity, they are considered as **post-necrotic** cirrhosis.
 
-3. **Liver Cirrhosis**: an irreversible, progressive scarring (fibrosis) of the liver. This is commonly caused by **alcohol** (Laennec's Cirrhosis), **infection** (hepatitis), **drugs** (hepatotoxicity), **hepatoma** (Liver Cancer), and **idiopathy** (biliary cirrhosis).
-	- Specifically for infection and hepatotoxicity, they are considered as **post-necrotic** cirrhosis.
-	- **Pathophysiology**: (a) **liver dysfunction** and (b) **portal hypertension**
-		- **Liver dysfunction** affects:
-			1. **Bile production**: emulsification of fats by bile for absorption. Bile contains water, bilirubin, cholesterol, and bile salts. In liver dysfunction, bilirubin is not taken up by the liver, and **jaundice** occurs. Decreased bile production results in **decreased fat absorption**.
-			2. **Fat Metabolism**: the liver is the site of fat metabolism— lipogenesis, lipolysis, and gluconeogenesis. In liver dysfunction, **weight loss and weakness** occur as fat is no longer stored or used in the body as energy.
-			3. **Carbohydrate Metabolism**: glycogenesis and glycogenolysis in the liver become impaired, which results in **easy fatigability**.
-			4. **Protein Metabolism**: albumin, the major protein in the blood, is produced in the liver. It maintains intravascular pressure by exerting oncotic (attractive) pressure to fluids, increasing volume. When albumin decreases in liver disease, oncotic pressure decreases, and fluid leaves the intravascular space, producing **edema**. Additionally, the liver converts ammonia to urea for excretion. In liver dysfunction, ammonia increases in the blood, which can result in **hepatic encephalopathy**.
-			5. **Clotting Factors**: all clotting factors are produced by the liver. In liver dysfunction, the patient becomes prone to **bleeding problems**.
-			6. **Fat-Soluble Vitamins** and some Vitamin B are stored in the liver.
-			7. **Biotransformation of Drugs** i.e. metabolism of drugs into inactive metabolites for excretion. In liver cirrhosis, these patients experience altered pharmacokinetics and normal doses of drugs may cause toxic effects.
-		- **Portal hypertension**:
-			- All the blood returning from the gastrointestinal tract passes through the **portal vein**. This blood contains food and drugs and are immediately metabolized in the **liver** before entering circulation through the **hepatic vein** then to the inferior vena cava.
-			- **Tissue scarring** stiffens the liver, **increasing pressure in the portal vein**. It is in portal hypertension that fluid escapes the intravascular compartment into the peritoneum— **ascites**. 
-			- This also causes blood to back up in gastrointestinal circulation, resulting in **hemorrhoids** (recto-anal varices) and **esophageal varices**, which are fragile and easily rupture; bleeding risks. Combined with impaired production of clotting factors, patients are highly susceptible to hemorrhage.
-			- Blood from GI circulation escapes through collateral vessels due to portal hypertension, forming **prominent distended abdominal veins** (**caput medusae**) and **spider angiomas** (pathognomonic of liver cirrhosis)
-	- **Diagnostic Examination**: the most definitive test for liver cirrhosis is a **liver biopsy**. In a liver biopsy, the patient is positioned **supine with a pillow under the right upper quadrant**. After the procedure, a common complication is **bleeding**, hence the patient must be positioned **right side-lying with a pillow under the right upper quadrant**. This compresses the biopsy site, reducing bleeding.
-		- Additionally, **elevated liver enzymes** (AST, ALT) can show a result of up to three times normal value.
-		- **Imaging**: Ultrasound, MRI, CT Scan
-	- **Management** is symptomatic:
-		- 
+| Signs of Liver Dysfunction                 | Pathophysiology                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Jaundice**, **Decreased Fat Absorption** | Emulsification of fats by **bile** is required for absorption. The liver produces bile out of water, **bilirubin**, cholesterol, and bile salts. In liver dysfunction, bilirubin is not taken up by the liver and **jaundice** occurs as bilirubin levels increase. **Decreased bile production** results in **decreased fat absorption**.                |
+| **Weight Loss**, **Weakness**              | The liver is **the site of fat metabolism**— lipogenesis, lipolysis, and gluconeogenesis. In liver dysfunction, **weight loss and weakness** occur as fat is no longer stored or used in the body as energy.                                                                                                                                              |
+| **Fatigue**                                | Glycogenesis and glycogenolysis as processes in **carbohydrate metabolism** in the liver become impaired, which results in **easy fatigability** from decreased energy stores (glycogen).                                                                                                                                                                 |
+| **Bipedal Edema**                          | **Albumin**, the major protein in the blood, is produced in the liver. It maintains intravascular pressure by exerting **oncotic** (attractive) **pressure** to fluids, maintaining circulating volume. When albumin decreases in liver dysfunction, oncotic pressure decreases, and fluid leaves the intravascular space, producing **edema** (bipedal). |
+| **Hepatic Encephalopathy**                 | **Protein metabolism** produces **ammonia**, which the liver converts into **urea**, which can be excreted by the urine. If it is unable to do so, **ammonia levels rise**, which result in **hepatic encephalopathy**, a severe complication of liver cirrhosis.                                                                                         |
+| **Carbohydrate Metabolism**                |                                                                                                                                                                                                                                                                                                                                                           |
+| **Vitamin Deficiency**                     | Fat-soluble vitamins are absorbed along with fats, which rely on emulsification by bile. If bile is insufficient, the fat-soluble vitamins (ADEK) may become deficient as the body fails to absorb them. Additionally, some B vitamins are also stored in the liver.                                                                                      |
+| **Bleeding**                               | **All clotting factors are produced by the liver**. In liver dysfunction, the patient becomes prone to **bleeding problems**.                                                                                                                                                                                                                             |
+| **Altered Pharmacokinetics**               | **Biotransformation of drugs** i.e. the metabolism of drugs into inactive metabolites for excretion is primarily done by the liver. In liver dysfunction, these patients experience **altered pharmacokinetics** and normal doses of drugs may cause toxic effects.                                                                                       |
+
+| Signs of Portal Hypertension                                    | Pathophysiology                                                                                                                                                                                                                                                                                              |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Normal physiology of the portal vein →                          | All the blood returning from the gastrointestinal tract passes through the **portal vein**. This blood contains food and drugs and are immediately metabolized in the **liver** before entering circulation through the **hepatic vein** then to the inferior vena cava.                                     |
+| **Ascites**                                                     | **Tissue scarring** stiffens the liver, **increasing pressure in the portal vein**. It is in portal hypertension that fluid escapes the intravascular compartment into the peritoneum— **ascites**.                                                                                                          |
+| **Neovascularization**— **Hemorrhoids**, **Esophageal Varices** | This also causes blood to back up in gastrointestinal circulation, resulting in **hemorrhoids** (recto-anal varices) and **esophageal varices**, which are fragile and easily rupture; bleeding risks. Combined with impaired production of clotting factors, patients are highly susceptible to hemorrhage. |
+| **Vascular Changes**— **Caput Medusae**, **Spider Angiomas**    | Blood from GI circulation escapes through collateral vessels due to portal hypertension, forming **prominent distended abdominal veins** (**caput medusae**) and **spider angiomas** (pathognomonic of liver cirrhosis)                                                                                      |
+1. **Diagnostic Examination**: the most definitive test for liver cirrhosis is a **liver biopsy**. In a liver biopsy, the patient is positioned **supine with a pillow under the right upper quadrant**. After the procedure, a common complication is **bleeding**, hence the patient must be positioned **right side-lying with a pillow under the right upper quadrant**. This compresses the biopsy site, reducing bleeding.
+	- Additionally, **elevated liver enzymes** (AST, ALT) can show a result of up to three times normal value.
+	- **Imaging**: Ultrasound, MRI, CT Scan
+2. **Early Stage Management**: *non-specific* symptoms— **weight loss**, **weakness**, **fatigue**, **bipedal edema** (altered metabolism, albumin production). **Nursing Diagnoses**: **Fluid Volume Excess**, **Imbalanced Nutrition, Less Than Body Requirements**, **Fatigue**, **Activity Tolerance**, **Risk for Injury**:
+	- Restrict fluids and sodium or use diuretics (potassium-sparing) as ordered.
+	- Diet: low sodium, low fat, low cholesterol, high iron (for anemia), high albumin
+	- Monitor intake and output, vital signs, and weigh the patient daily
+	- Provide rest periods, and ensure safety (for weakness and fatigue)
+	- Slow down the progression of the disease: avoid alcohol, follow diet regimen, avoid fatigue, stress, infection, hepatotoxic drugs, and other precipitating factors.
+3. **Late Stage Management**: *specific* symptoms also appear in addition to early signs— **ascites**, **dyspnea**, **anorexia**, **jaundice**, **portal hypertension** (hepatomegaly, esophageal varices, rectoanal varices, hemorrhoids, bleeding), **vascular changes** (caput medusae, spider angioma), and **complications** (hepatic encephalopathy, primary peritonitis, hepatorenal syndrome)
+	- As earlier, continue restrictions (Fluid, Na) and monitoring (I&O, VS, Wt). However, **protein is now limited**, as this may contribute to hepatic encephalopathy.
+	- Rest and safety is still required. Importantly, **avoid bleeding**:
+		- Avoid trauma, avoid variceal rupturing (straining, coughing)
+		- Use an electric, soft-bristled toothbrush
+		- The use of a **Sengstaken-Blakemore Tube**, a three-lumen tube, can apply physical support to esophageal varices with a balloon (second lumen) while maintaining patency with the stomach (first lumen), and anchoring the tube in place (third lumen). While in place, **watch out for airway problems** due to its proximity to the trachea. **In case of anchor rupture**, the pressure of the second lumen pushes the tube upwards and obstructs breathing. The nurse needs to **rupture the tube with a pair of scissors** and remove the tube.
+		- **Blood transfusion**: **PRBC** may be required if bleeding is severe. **FFP** and **Cryoprecipitate** may be given to restore clotting factors.
+	- **Diet**: restrict sodium, **low protein**, low fat, low cholesterol, high iron (for anemia), high vitamin content (ADEK/B). **Restrict alcohol**.
+	- **Position** the patient on **reverse Trendelenburg** to localize ascites away from the diaphragm to relieve breathing.
+	- **Paracentesis** may be used if ascites is severe. Patients **empty the bladder** and are **positioned upright** (sitting). A catheter is anchored to just below the umbilicus to serve as an exit point. **Not all fluid is removed at once** to avoid causing hypotension.
+	- **Skin care** may be required for pruritic jaundice.
+	- **Beta-blockers** may be used to **reduce portal hypertension**.
+	- **Manage complications**:
+		- Primary peritonitis, treated with massive doses of antibiotics
+		- Hepatorenal syndrome: kidney injury
+		- Hepatic encephalopathy: a metabolic brain disease characterized by increased ammonia in the blood causing an altered level of consciousness. There are staging classifications:
+			- **Stage I**: Confusion, asterixis (flapping tremor)
+			- **Stage II**: Lethargy, asterixis
+			- **Stage III**: Stuporous, potential loss of asterixis
+			- **Stage IV**: Comatose, no asterixis present
+	- **Controlling hepatic encephalopathy**: **restrict protein** in the diet, **avoid bleeding** (hemolysis eventually produces ammonia), **decrease putrefaction** that contributes to ammonia formation (remove fecal materials with laxatives/enema or remove gut bacteria with antibiotics)
+		- **Maintain privacy**, **prevent immobility complications**, **promote safety**, and **continue communicating** with the patient, even if comatose.
 ___
 # Sample Questions
 ## Gastrointestinal System
+Which of the following instructions in inappropriate for a nurse to give to a patient who has gastroesophageal reflux disease?
+1. Take prescribed antacids before eating
+2. Place blocks under the legs of the head of the bed
+3. Eating a high-fat, low-protein must be avoided
+4. Do not lie down for one hour after eating
+>[!FAQ]- Rationalization
+>
+
+A nurse would assess a patient who has undergone a total gastrectomy for late symptoms of dumping syndrome, which include:
+1. Diaphoresis, lightheadedness
+2. Facial flushing, paresthesia
+3. Disorientation, vomiting
+4. Diarrhea, hypotension
+>[!FAQ]- Rationalization
+>
+
+Which of the following statements, if made by a patient who has diverticulosis, would indicate to the nurse that the patient is following the diet plan correct?
+1. I eat meat five times a week
+2. I do not eat fried foods
+3. I drink water instead of coffee
+4. I eat macaroni salad every day
+>[!FAQ]- Rationalization
+>
+
+A nurse should expect a Sengstaken-Blakemore tube to be ordered for a patient who has bleeding esophageal varices in order to apply direct pressure and
+1. Cause vasoconstriction of the splenic artery
+2. Ensure airway patency
+3. Provide for enteral nutrition
+4. Stop bleeding
+>[!FAQ]- Rationalization
+>
+
+A client with cholecystitis is being assessed for Murphy's sign. The nurse is correct when they notice:
+1. The client stops breathing in when pressure is applied to the RUQ
+2. The client stops breathing out when pressure is applied to the RUQ
+3. The client stops breathing in when pressure is applied to the LUQ
+4. The client stops breathing out when pressure is applied to the LUQ
+>[!FAQ]- Rationalization
+>
+
+A client with liver cirrhosis manifests asterixis, jaundice, and anorexia due to
+1. Liver dysfunction
+2. Portal hypertension
+3. Both conditions
+4. Neither of these
+>[!FAQ]- Rationalization
+>
+
+A client with acute pancreatitis complains of severe pain, which of the following independent nursing intervention is a priority?
+1. Narcotics as ordered
+2. Position the client comfortably
+3. Place the client on NPO
+4. All of the above
+>[!FAQ]- Rationalization
+>
+
+The nurse would expect which of these assessment findings in a client with gastric ulcers?
+1. Pain occurring at night
+2. Pain relieved by eating
+3. Gnawing epigastric pain
+4. All of the above
+>[!FAQ]- Rationalization
+>
+
+The client who has underwent a Billroth I procedure is taught that the procedure involves:
+1. Removal of the stomach and anastomosing the stump to the duodenum
+2. Removal of the stomach and duodenum and anastomosing the stump to the jejunum
+1. Bypassing the stomach and connecting it to the ileum
+2. Removal of the duodenum and anadstomosing the stomach to the jejunum
+>[!FAQ]- Rationalization
+>
+
+In caring for a client with hiatal hernia, which of the following should not be included in a teaching plan regarding the causes?
+1. To avoid heavy lifting
+2. A dietary plan avoiding soda
+3. Its prevalence on obese persons
+4. Its prevalence on women
+>[!FAQ]- Rationalization
+>
+
+The most fatal complication of Choledocholithiasis is ascending cholangitis which may complicate to develop shock, the initial manifestation of which includes the following except?
+1. Jaundice
+2. HR 120/min
+3. Hyperventilation
+4. No exception
+>[!FAQ]- Rationalization
+>
+
+A client with liver cirrhosis has severe ascites and being prepared for paracentesis, prior to the procedure the client is asked to:
+1. Prepare for paracentesis
+2. Empty the bladder
+3. Place the client in a reverse Trendelenburg position
+4. All of the above
+>[!FAQ]- Rationalization
+>
+
+After pyloroplasty, which of the following interventions promote rapid gastric emptying?
+1. Simple sugar in the diet
+2. Moderate fat intake
+3. Liquid must be taken in between meals
+4. Upright position after meals
+>[!FAQ]- Rationalization
+>
+
+A client with possible appendicitis is being assessed, which of the following is a sign of complication?
+1. Severe vomiting
+2. High grade fever
+3. WBC 15,000
+4. Rigid, board-like abdomen
+>[!FAQ]- Rationalization
+>
+
+The I in IBD stands for
+1. Irritable
+2. Inflammatory
+3. Infectious
+4. Incredible
+>[!FAQ]- Rationalization
+>
+
+A clinic nurse is providing health teaching for a patient newly diagnosed with gastroesophageal reflux disease. Which of the following needs no further teaching for the patient?
+1. Change of dietary pattern to small frequent feedings and bedtime snack
+2. Avoiding wearing of tight socks
+3. Use of magnesium carbonate (Gaviscon) to decrease acid production
+4. Avoidance of bending, stooping, or slumping posture
+>[!FAQ]- Rationalization
+>
+
+Postoperatively, the patient develops dumping syndrome. Which of the following statements, if made by the patient, should indicate to the nurse that furhter dietary teaching is unnecessary?
+1. "I should eat bread with each meal."
+2. "I should eat meals more frequently."
+3. "I should lie down after eating."
+4. "I should drink fluids with my meals."
+>[!FAQ]- Rationalization
+>
+
+A client with peptic ulcer disease would be given the following medications, except:
+1. Antacid
+2. Ranitidine
+3. Metronidazole
+4. No exception
+>[!FAQ]- Rationalization
+>
+
+Which of the following would predispose the client to the development of chronic pancreatitis?
+1. Cystic fibrosis
+2. Alcoholism
+3. Fatty foods
+4. All of the above
+>[!FAQ]- Rationalization
+>
+
+A client being treated for esophageal varices has a Sengstaken-Blakemore tube inserted to control the bleeding. The most important assessment for the nurse is to check:
+1. The ability to swallow
+2. IV fluids for the shift
+3. A patent airway
+4. Check that the balloon is deflated on a regular basis
+>[!FAQ]- Rationalization
+>
+
+The nurse notes that there is documentation of the presence of asterixis. To check for the presence of this sign, the nurse would do which of the following?
+1. Ask the client to extend their arms
+2. Check for the presence of Homan's sign
+3. Instruct the client to lean forward
+4. Measure the client's abdominal girth
+>[!FAQ]- Rationalization
+>
+
+When caring for a client with ascites the nurse should understand that the portal vein:
+1. Brings blood away from the liver
+2. Enters the superior vena cava from the cranium
+3. Brings venous blood from the intestinal wall to the liver
+4. Is located superficially on the anteromedial surface of the thigh
+>[!FAQ]- Rationalization
+>
+
+The nurse administers Neomycin to a client with hepatic encephalopathy, understanding its therapeutic effect is achieved by:
+1. Killing bacteria
+2. Preventing ammonia formation
+3. Improving asterixis
+4. None of the above
+>[!FAQ]- Rationalization
+>
+
+A nurse provides dietary instructions to a client with a diagnosis of cholecystitis. Which of the following food items identified by the client indicates an understanding of foods to avoid?
+1. Fresh fruit
+2. Fresh vegetables
+3. Poultry without skin
+4. Brown gravy
+>[!FAQ]- Rationalization
+>
+
+An ambulatory care nurse is preparing a client scheduled for a liver biopsy., The nurse reviews the client's record and expects to note which of the following laboratory results documented in the client's chart in preparation for this procedure?
+1. Prothrombin time
+2. White blood cell count
+3. Blood urea nitrogen
+4. Uric acid level
+>[!FAQ]- Rationalization
+>
+
+The patient has been treated for a peptic ulcer. He enters the hospital reporting that he has vomited a very large amount of blood. The nurse should expect which sign to be present?
+1. Decreased blood pressure
+2. Decreased pulse
+3. Decreased respirations
+4. Increased urinary output
+>[!FAQ]- Rationalization
+>
+
+When caring for a patient after open cholecystectomy, the nurse should be aware of the major complication of procedure which is:
+1. Hemorrhage
+2. Atelectasis
+3. Wound dehiscence
+4. Infection
+>[!FAQ]- Rationalization
+>
+
+The nurse is assessing a male client after 24 hours following a cholecystectomy. The nurse noted that the T-tube has drained 500 mL of green-brown drainage since the surgery. Which nursing intervention is appropriate?
+1. Clamp the T-tube
+2. Irrigate the T-tube
+3. Notify the physician
+4. Document the findings
+>[!FAQ]- Rationalization
+>
+
+During abdominal examination, the nurse notices bluish discoloration of the periumbilical area. This indicates pancreatic bleeding and is referred to as:
+1. Grey-Turner's sign
+2. Cullen's sign
+3. Battle's sign
+4. Kernig's sign
+>[!FAQ]- Rationalization
+>
+
+An ineffective nursing measure to prevent the progress of hepatic coma is:
+1. Giving diuretics
+2. Making certain that a low-protein diet is served
+3. Assessing if there is adequate renal perfusion
+4. Assessing for a patent airway and oxygenation
+>[!FAQ]- Rationalization
+>
+
 Which of the following instructions is **appropriate** for a nurse to give to a patient who has gastroesophageal reflux disease (GERD)?
 1. Take prescribed antacids before eating
 2. Place blocks under the legs of the head of the bed
@@ -346,6 +618,4 @@ A client being treated for esophageal varices has a Sengstaken-Blakemore tube in
 >3
 >
 >The nurse prioritizes the **airway** (refer to the ABCs of Life), especially in the context of a Sengstaken-Blakemore tube as the esophagus runs parallel posterior to the trachea.
-
-___
-# 
+## System

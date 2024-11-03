@@ -3,7 +3,7 @@ tags:
   - CMPA
   - MS
 title: Medical-Surgical Nursing by Dr. Ferrer (Part 1)
-description: A compilation of Dr. Ferrer's coverage of the first module for Medical-Surgical Nursing I, covering cardiologic, respiratory, and hematologic disorders.
+description: A compilation of Dr. Ferrer's coverage of the first module for Medical-Surgical Nursing, covering cardiologic, respiratory, and hematologic disorders.
 date: 2024-10-13
 ---
 A compilation of **Dr. Ferrer**'s coverage of the first module for Medical-Surgical Nursing I, covering cardiologic, respiratory, and hematologic disorders. Individual notes on these subjects can be found here:

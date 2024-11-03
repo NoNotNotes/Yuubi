@@ -99,17 +99,27 @@ A **kidney ultrasound scan** can be used to assess kidney size, echogenicity, co
 ## Management
 1. **Evaluation**: determine the type of kidney disease, comorbid conditions, current level of kidney function, complications present related to kidney function, and further risks for kidney or cardiovascular disease.
 2. **Treatment of reversible causes** for renal dysfunction. Therapy is dependent on diagnosis and comorbid conditions.
-3. **Prevention of progression**: it is vital to treat the underlying cause
-	- Renal hypoperfusion: hypovolemia, hypotension, infection, and drugs that lower GFR (NSAIDs)
-	- Cease nephrotoxic drug use; long-term NSAID use
+3. **Prevention of progression**: it is vital to treat the underlying cause. Some examples of causes include are:
+	- **Renal hypoperfusion**: hypovolemia, hypotension, infection, and drugs that lower GFR (NSAIDs)
+	- Cease **nephrotoxic drug use**: long-term NSAID use
 	- Treat UTIs
 	- Treat UT obstruction
-	- **Strict control of diabetes mellitus**
+	- **Strict control of diabetes mellitus** and other comorbid conditions
 	- **Blood pressure control**
-	- **Weight loss in obesity**
+	- **Weight loss if obese**
 	- Treat metabolic acidosis
 	- **SGLT2** can be used to slow progression
 4. **Treatment and prevention for complications**
-5. **Identification for and adequate preparation for renal replacement therapy** (RRT; dialysis, transplantation) is done if **uremia** is present.
-
-just a bit more 💀 ⚰️ i'll work on it tomorrow
+5. **Identification of indications for and adequate preparation for renal replacement therapy** (RRT; dialysis, transplantation) is done if **uremia** is present.
+6. **Diet Regimen**:
+	- Restrict **protein**: use a plant-based diet
+	- Restrict **salt and water**: 2 g of salt, 2 L of fluids
+	- Restrict **potassium**: hyperkalemia may occur as the kidneys fail to excrete them; additionally, potassium-binding resins may be passed through the bowel to reduce potassium levels.
+	- Restrict **phosphorus**.
+7. **Medications**: **the kidneys are responsible for the excretion of many drugs** and their metabolites. Some drugs which should be adjusted in dosage or discontinued entirely are:
+	- **Insulin** can produce hypoglycemia when the kidney fails to remove insulin from the bloodstream.
+	- **Metformin** accumulation results in lactic acidosis.
+	- **Morphine** metabolites are removed by the kidneys. Prolonged sedation can occur in renal impairment.
+	- **Nephrotoxic drugs**: NSAIDs and contrast material reduce renal blood flow, which can produce acute kidney injury from nephropathy.
+	- **Magnesium containing laxatives**: hypermagnesemia
+	- **Phosphorus containing drugs** (e.g. cathartics): hyperphosphatemia
