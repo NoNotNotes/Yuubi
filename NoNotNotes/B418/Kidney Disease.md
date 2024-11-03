@@ -4,7 +4,6 @@ tags:
 title: Chronic Kidney Disease
 description: Chronic kidney disease, a progressive decline in renal function (GFR) over months to years, affects about 10 percent of the general population worldwide.
 ---
-
 # Chronic Kidney Disease
 Chronic kidney disease (CKD) is a progressive disease affecting kidney function that occurs over months to years. It may present with:
 - Persistent **proteinuria** or **abnormal renal morphology**
@@ -110,6 +109,10 @@ A **kidney ultrasound scan** can be used to assess kidney size, echogenicity, co
 	- Treat metabolic acidosis
 	- **SGLT2** can be used to slow progression
 4. **Treatment and prevention for complications**
+	- **Hypertension**: target a blood pressure of 130/80-85; if proteinuria or diabetes mellitus is present, then 120/80 is the target. Use diuretics, sodium restriction, and antihypertensives (ACE inhibitors, Angiotensin receptor blockers, calcium channel blockers)
+	- **Diabetes Mellitus**: target a strict control of serum glucose to 100–140 (bedtime) and 80–120 (prepranial) mg/dL. A HbA1c should also be kept <7%
+	- **Anemia**: target a hemoglobin level of 10 to 13 g/dL. Epogen, iron, and folic acid may be used.
+	- **Hypolipidemics** may be used to control dyslipidemia.
 5. **Identification of indications for and adequate preparation for renal replacement therapy** (RRT; dialysis, transplantation) is done if **uremia** is present.
 6. **Diet Regimen**:
 	- Restrict **protein**: use a plant-based diet
@@ -123,3 +126,30 @@ A **kidney ultrasound scan** can be used to assess kidney size, echogenicity, co
 	- **Nephrotoxic drugs**: NSAIDs and contrast material reduce renal blood flow, which can produce acute kidney injury from nephropathy.
 	- **Magnesium containing laxatives**: hypermagnesemia
 	- **Phosphorus containing drugs** (e.g. cathartics): hyperphosphatemia
+___
+# End-Stage Kidney Disease
+In ESKD, **renal replacement therapy** is absolutely necessary. An early referral to a nephrologist when reaching late stage 3 CKD or a rapidly declining GFR is imperative for good prognosis.
+- Utilize a **team approach**: collaborate with dieticians, nephrologists, etc.
+- **Educate the patient** about the procedure and its pertinent information.
+- **Palliate the client** while awaiting or undergoing RRT.
+## Dialysis
+**Dialysis** is done when **GFR is down** to 10 mL/min/1.73 m², when **uremic symptoms** appear, when **fluid overload** persists despite diuresis, and when **refractory hyperkalemia** occurs. This may take the form of:
+### Hemodialysis
+The **blood is physically removed from the body**, moved through a dialyzer (filters the waste), then returned as purified blood into the body. This is done thrice a week for 3 to 5 hours when at a dialysis center, or done at home (more frequent, shorter length)
+- This often utilizes an **arteriovenous (AV) fistula** which requires special precautions for trauma to the arm with the fistula. Alternatively, an **indwelling catheter** may be used. It's not without complications, however— infections (often staphylococcus), thrombosis, and aneurysms may occur.
+- Complications include **fever**, **hypotension** (excessive filtration, hemorrhage, etc.), and issues brought about by failure of dialysis: **hemolysis** (chloramine from dialysate), **dementia** (aluminum from dialysate), **seizures** (failure of dialysis concentrate delivery system), **bleeding** (excessive anticoagulants), and **muscle cramps** (from ultrafiltration)
+### Peritoneal Dialysis
+A dialysis solution is **pumped into the peritoneum**, where **the peritoneal membrane acts as a semipermeable membrane to excrete waste products**. The dialysis solution is drained and cycled.
+- This may be **continuous ambulatory peritoneal dialysis** (CAPD) or **continuous cyclic peritoneal dialysis** (CCPD). A machine is required for CCPD.
+- **Peritonitis** is a major concern. Nausea, vomiting, abdominal pain, diarrhea or constipation, and fever may appear. The clear dialysate becomes cloudy, and peritoneal cell count increases to 100 WBC/mcl. Staph A is the most common causative agent, but strep. and G-ves may also be causative. Antibiotics (emepric intraperitoneal vancomycin or 1st gen cephalosporins, + 3rd gen cephalosporin \[Ceftazidime\], then abx rx later tailored to culture results) <sup>i just copied this directly</sup> may be used to treat peritonitis.
+- Other complications include **exit-site or tunnel infections**, and noninfectious complications such as **catheter issues** (impaired flow, leakage, pain), **increased abdominal pressure** (backpain, hernia, hydrothorax), **metabolic issues** (hypokalemia, metabolic syndrome), and **encapsulating peritoneal sclerosis**.
+![[dialysis_types.png]]
+### Kidney Transplantation
+An issue of supply is always present in transplants. Patients can wait years to receive a fitting donor. **Two-thirds of kidney allografts come from deceased owners**, with the remaining coming from living donors.
+
+Patients undergoing dialysis have an average **3 to 5 year life expectancy** (can go up to 25 years, depending on comorbidities), but the average waiting time (in the U.S.) is 3 to 7 years. The most common (majority) cause of death is **cardiac disease**, with other deaths appearing from infection, cerebrovascular disease, or malignancy.
+
+A patient is referred as a candidate for transplantation by a nephrologist once they reach **stage 3 to 5 of CKD**, **CKD with polycystic kidney disease**, or those with **proteinuria of more then 1000 mg/day**. It is important to refer early especially for those with **rapidly progressing decline in renal function**, even if the aforementioned criteria have not been met.
+
+>[!FAQ] When to Admit
+>CKD decompensation (acid-base and electrolyte balance disorder worsens, volume overload reappears) and those starting dialysis are to be admitted to a care institution.
