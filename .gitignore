@@ -9,9 +9,9 @@ private/
 .replit
 replit.nix
 E-books/
-content/.obsidian/file-recovery.json
-content/.obsidian/app.json
-content/.obsidian/types.json
-/content/.tmp.driveupload
+NoNotNotes/.obsidian/file-recovery.json
+NoNotNotes/.obsidian/app.json
+NoNotNotes/.obsidian/types.json
+NoNotNotes/.tmp.driveupload
 *.canvas
-content/.obsidian/workspace.json
+NoNotNotes/.obsidian/workspace.json
