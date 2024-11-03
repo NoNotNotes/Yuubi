@@ -1,3 +1,12 @@
+---
+tags:
+  - B418
+  - MS
+  - COMP
+title: B418 MIDTERMS
+description: A compilation for the midterm topics in Critical Care Nursing by Dr. Rotairo and Dr. Ferrer (and the other one I forgot who). This covers electrocardiography, gastrointestinal and liver dysfunction, and chronic/end-stage kidney disease.
+date: 2024-11-03
+---
 The following discussions are based on these topics:
 1. [[ECG|Electrocardiography]]
 2. [[GI Dysfunction|Gastrointestinal and Liver Dysfunction]]
