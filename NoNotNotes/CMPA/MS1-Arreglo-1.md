@@ -618,4 +618,4 @@ A client being treated for esophageal varices has a Sengstaken-Blakemore tube in
 >3
 >
 >The nurse prioritizes the **airway** (refer to the ABCs of Life), especially in the context of a Sengstaken-Blakemore tube as the esophagus runs parallel posterior to the trachea.
-## System
+## Endocrine System

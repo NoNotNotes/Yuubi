@@ -4,6 +4,7 @@ tags:
   - B418
 title: Occupational First Aid & BLS-CPR with AED Handbook
 description: A training handbook for Red Cross First Aid/CPR Training. These are summaries of topics of standard first aid and are an integral part of Red Cross Training, but is only supplementary to actual Red Cross Training.
+date: 2024-10-31
 ---
 # Introduction to First Aid
 **First aid** is immediate help provided to a sick or injured person until professional medical help arrives or becomes available. It *does not imply medical treatment* and is by no means a replacement for it. Instead, the objective of first aid is to:
