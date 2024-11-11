@@ -300,7 +300,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   }
 
   function resolveUrl(slug: FullSlug): URL {
-    return new URL(resolveRelative(currentSlug, slug), location.toString())
+    return new URL(resolveRelative("/" as FullSlug, slug), location.origin)
   }
 
   const resultToHTML = ({ slug, title, content, tags }: Item) => {
