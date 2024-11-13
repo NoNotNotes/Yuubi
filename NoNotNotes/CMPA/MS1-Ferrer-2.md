@@ -221,7 +221,7 @@ The separation of the **choroid from the retina**, forming a retinal pigment epi
 	2. Sense of a **curtain** being drawn over the eye.
 	3. **Painless blurring** of vision.
 3. **Treatment**
-	1. **Scleral buckle**, which promote reattachment of the choroid to the senosry retina.
+	1. **Scleral buckle**, which promote reattachment of the choroid to the sensory retina.
 	2. **Pneumatic retinopexy**, where the retinal pigment epithelium (RPE) is pushed into the retina via the administration of gas bubbles or silicone oil into the vitreous cavity.
 		- Importantly, position the patient **PRONE** after surgery to position the gas bubble properly in pushing the RPE to the retina.
 		- Avoid activities that increases IOP: sneezing, coughing, straining/valsalva, vomiting (use antiemetics), constipation (use high fiber/high residue + papaya diet, or laxatives as ordered)

@@ -41,7 +41,7 @@ Blood pressure is measured as **systolic** over **diastolic** pressure. Systolic
 ## Heart Sounds
 The heart sounds are auscultated with a stethoscope. The diaphragm of the stethoscope is best for detecting S1 and S2, and the bell is best for S3, S4, and Murmurs.
 1. **S<sub>1</sub>** (Systole): the sound created by the closure of the atrioventricular valves (Tricuspid, Mitral).
-2. **S<sub>2</sub>** (Diastolic): the sound created by  the closure of the semilunar valves (Pulmonic, Aortic).
+2. **S<sub>2</sub>** (Diastole): the sound created by the closure of the semilunar valves (Pulmonic, Aortic).
 3. **S<sub>3</sub>** (Ventricular Gallop): an abnormal heart sound heard in heart failure.
 4. **S<sub>4</sub>** (Atrial Gallop)
 5. **Murmurs**: the sound blood makes when flow becomes turbulent, such as in valvular heart disease (VHD).
@@ -225,14 +225,14 @@ Discovered by **Robert Koch**, giving it the name "**Koch's disease**". It is ca
 	- **Bronchodilators**: Salbutamol, Ventril; avoid **stimulants** because of palpitation as a side effect.
 ### Emphysema
 ***Pink puffer***; problems with (mn. IBA) **inelasticity of alveoli**, **barrel chest** (increased anteroposterior chest diameter due to air trapping), and **air trapping**. Highly related to smoking.
-1. **Risk Factors**: smoking, alpha-1 antitypsin deficiency, air pollution
+1. **Risk Factors**: smoking, alpha-1 antitrypsin deficiency, air pollution
 2. **Clinical Manifestations**:
 	- **Productive Cough**
-	- **Dyspnea** at  rest
+	- **Dyspnea** at rest
 	- **Rales, Crackles, Rhonchi**
 	- **Barrel Chest** d/t **Air Trapping**
 3. **Diagnostic Examination**: **ABG**, also respiratory acidosis; **CXR** (overinflation)
-4. **Management**: (mn. FLA, CAMB) (i have no idea how this )
+4. **Management**: (mn. FLA, CAMB)
 	1. **Force Fluids**
 	2. **Low Inflow O2** (prevent loss of hypoxic drive)
 	3. **Administer medications** as ordered
@@ -355,7 +355,7 @@ graph TD
 	- **Pain** is the most important nursing diagnosis, especially as a symptom of crisis. An opioid (morphine) may be required.
 	- mn. **SICKLE**: Jaundi(s)ce, Avoid (i)nfection (triggers crisis), (C)rescent-shaped RBC, (K)Crisis and Pain, (Lahi) Hereditary, (E)ncourage hydration (3L/day to avoid clotting)
 	- mn. **HOPIA**: Hypoxia, high altitudes, opioid (morphine), pain, infection, adequate hydration
-	- **Complications**: pulmonary hypertension, priapism, impotence, infection, strike, acute chest syndrome
+	- **Complications**: pulmonary hypertension, priapism, impotence, infection, stroke, acute chest syndrome
 
 >[!ERROR] Jaundice
 >**Hemoglobin** is released when the RBC is lysed, and releases **Heme**, which converts to bilirubin, which leads to the jaundiced presentation of patients with hemolytic anemia (e.g. sickle cell anemia, malaria).

@@ -40,3 +40,13 @@ C(<strong>Chronic Illness</strong>: opportunistic infections, weight loss, diarr
 D(<strong>AIDS</strong>: Kaposi's sarcoma, <i>Pneumocystis jirovecii</i> pneumonia, Cryptococcal meningitis)
 A-->B-->C-->D
 ```
+## Stages of HIV Infection
+1. **Primary Infection**: acute stage; the earliest stage that develops within two to four weeks after infection.
+	- **Flu-like symptoms** (fever, headache, rash) as the virus disseminates throughout the body.
+	- **High levels of HIV in the blood** greatly increases the risk of transmission. CD4 cells are attacked and destroyed.
+	- **Lymphadenopathy**, and **muscle ache** appear by the third week.
+	- **Symptoms abate** as the immune system begins to gain control over the virus.
+2. **Asymptomatic HIV Infection**: clinical latency. HIV continues to replicate, but only in low levels. These people can spread HIV, even without HIV-related symptoms. Without treatment, chronic HIV infection advances to AIDS in ~10 or more years, though it may advance faster in some people.
+3. **Acquired Immunodeficiency Syndrome** (AIDS) is the final and most severe stage of HIV infection. The body is unable to fight off opportunistic infections as the immune system is severely compromised. The specific damage done is to the **CD4**, reaching levels of less than 200 cells/mm<sup>3</sup>.
+	- Once AIDS is diagnosed, people often have around three years of life expectancy.
+## Clinical Manifestations

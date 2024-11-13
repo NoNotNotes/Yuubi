@@ -99,7 +99,7 @@ In lower GI bleeding, the following **symptoms** appear:
 	- **Serial platelet counts** are used to determine the need for platelet transfusions (>50,000/mm³)
 8. **ABG and Electrolyte Balance**: patients with repeated vomiting may develop hypokalemia, hyponatremia, and metabolic alkalosis.
 9. **CT Angiography** is the gold standard for the diagnosis of GI bleeding.
-10. **Endoscopy**: the use of an endoscope to physically visualize the gastrointestinal tract. This may be done in the form of an esophagogastroduodenoscopy (EGC; upper GI) or colonoscopy (lower GI).
+10. **Endoscopy**: the use of an endoscope to physically visualize the gastrointestinal tract. This may be done in the form of an esophagogastroduodenoscopy (ED; upper GI) or colonoscopy (lower GI).
 ## Treatment and Management
 1. **Quick Identification** is important in preventing complications and implementing early interventions.
 2. **Aggressive Resuscitation** may be necessary in severe bleeding to reestablish stable vitals and blood parameters.
@@ -192,7 +192,7 @@ As mentioned, it is important to **determine the details of the trauma experienc
 | Breathing and Ventilation           | Is breathing labored? Are breath sounds symmetrical? Does the chest rise with respirations?<br>- Oxygen therapy: nasal cannula, face mask                                                   |
 | Circulation with Hemorrhage Control | Are pulses present and symmetric? Does the skin appear normal, warm, and well perfused?<br>- Establish two large bore (18 gauge) antecubital IVs for resuscitation<br>- Monitor the patient |
 | Disability                          | What is the patient's GCS scale? Are they able to move all of their extremities?                                                                                                            |
-| Exposure/Environmental Control      | Completely expose the patient. How is the rectal tone? Is there gross bleeding through the rectum?                                                                                          |
+| Exposure and Environmental Control  | Completely expose the patient. How is the rectal tone? Is there gross bleeding through the rectum?                                                                                          |
 
 2. Following an **intact primary survey**, **adjunct interventions** and **resuscitation** may begin. Adjunct interventions include the following as necessary: EKG, ABG, CXR, Pelvis X-ray, Urinary Catheterization, E-FAST Exam, and/or DPL.
 	- E-FAST and/or DPL are used to determine hemoperitoneum. Bedside sonography may be used.

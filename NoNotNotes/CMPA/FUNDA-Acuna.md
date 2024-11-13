@@ -343,7 +343,7 @@ ___
 # Vital Signs
 **Vital signs** are cardinal signs of the body that are assessed to provide a clinical picture of body functions.
 ## Body Temperature
-**Body temperature** is body heat resulting from heat production (primarily metabolism) and heat loss (conduction, convection, radiation, evaporation) in the body. This is measured in **°C** or **°F** ( $°\text{F} = °\text{C}\times1.8+32$,  $°\text{C} = °\text{F}\div1.8-32$).
+**Body temperature** is body heat resulting from heat production (primarily metabolism) and heat loss (conduction, convection, radiation, evaporation) in the body. This is measured in **°C** or **°F** ( $°\text{F} = °\text{C}\times1.8+32$,  $°\text{C} = °\text{F}-32\div1.8$).
 - **Core temperature** refers to body temperature deep within the body, which remains relatively constant at around ~37°C. **Surface temperature** (commonly via axilla) refers to temperature of the skin down to the level of subcutaneous tissue. This fluctuates in response to the environment, ranging from 20°C to 40°C.
 - **Axillary Temperature**: temperature taken from the axilla. Temperature readings **normally range from 36°C to 37°C**. The axilla should be dry (pat dry if necessary; do not rub as friction will elevate findings) and the bulb of the thermometer should sit in the center of the axilla.
 	- Clean the thermometer before and after use: remember the clean-to-dirty principle.

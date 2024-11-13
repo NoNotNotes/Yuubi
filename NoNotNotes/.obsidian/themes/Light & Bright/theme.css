@@ -67,7 +67,7 @@ body{
   --table-row-background-hover: none;
   --table-row-alt-background: none;
   --table-row-last-border-width: var(--table-border-width);
-  --titlebar-background: transparent;
+  --titlebar-background: var(--background-primary);
   --vault-name-font-size: var(--font-ui-large);
   --vault-name-font-weight: var(--font-bold);
   --vault-name-color: var(--text-muted);

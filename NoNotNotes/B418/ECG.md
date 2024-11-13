@@ -66,7 +66,7 @@ The two leads to consider for axis deviation is **Lead I** and **Lead AVF**. If 
 | Negative | Negative | Extreme Axis Deviation |
 ___
 # ECG Wave Parameters
-An **electrocardiograph** is an axis of time (0.04 s per cell) and electrical potential (inc). These cells are grouped into a five by five larger square, spanning 200 milliseconds.
+An **electrocardiograph** is an axis of time (0.04s per cell) and electrical potential (inc). These cells are grouped into a five by five larger square, spanning 200 milliseconds.
 1. **P Wave**: atrial depolarization;  the duration of **atrial conduction**. Normally **0.5 to 2.5 mm** in amplitude when graphed, and **up to 0.10s** in duration in adults.
 	- **Rapid sequence of P waves** (sawtooth appearance) indicate **atrial flutter**, as the atrium rapidly depolarizes.
 	- **Absence of P waves** is termed **atrial fibrillation**, when the heart fails to establish meaningful contractions, and instead wiggles in place.

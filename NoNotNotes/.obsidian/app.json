@@ -2,5 +2,6 @@
   "showInlineTitle": false,
   "showRibbon": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "readableLineLength": true
 }
