@@ -79,6 +79,8 @@ An **electrocardiograph** is an axis of time (0.04 s per cell) and electrical po
 	- **ST segment depression** is a sign of **myocardial ischemia**.
 6. **T Wave**: ventricular repolarization
 
+![[ecg_wave.png]]
+
 ![[ecg_components.png]]
 
 ___
