@@ -1,9 +1,11 @@
 ---
 tags:
   - CMPA
-title: Growth and Development (Sir V.)
+  - A219
+title: Growth and Development
 description: Growth is the increase in physiologic paramaters of size (weight), height, and circumferencial parameters (head, chest, and abdominal) that occurs primarily in the first 20 years of life. Development is the increase in mental, cognitive, and overall capacity to function covering speech and language, body language, self-esteem, motor development, and sensory development.
 permalink: growth-and-development
+date: 2024-11-16
 ---
 >[!CITE] References
 >This note is based on a series of five video lectures by Sir V.
@@ -280,6 +282,7 @@ ___
 | **8 y.o.**     | Movements become more graceful                                                                                                                                                                                                                                            |
 | **9–10 y.o.**  | Normal 20/20 vision is achieved<br>Better behaved<br>Enjoys team sports<br>Appearance of secondary sexual characteristics                                                                                                                                                 |
 | **11–12 y.o.** | Begins interest in opposite sex, reading romance, mystery, and adventure stories                                                                                                                                                                                          |
+|                |                                                                                                                                                                                                                                                                           |
 ## Dentition
 
 | Age                | Teething                              |
