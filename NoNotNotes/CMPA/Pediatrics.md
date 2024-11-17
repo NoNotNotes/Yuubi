@@ -643,7 +643,7 @@ Progress through **puberty** can be monitored with the appearance of **secondary
 1. **Primal or Undifferentiated Faith**
 2. **Stage 1: Intuitive-Projective Faith**
 3. **Stage 2**: **Mythical-Literal Faith**
-4. **Stage 3**: **Synthetic-Conventional Faith**\
+4. **Stage 3**: **Synthetic-Conventional Faith**
 ## Behavioral Distinctions
 1. **Infants** are generally **observers**.
 	- Most significant persons
