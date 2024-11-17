@@ -299,11 +299,11 @@ ___
 | **11 y.o.**        | Permanent Canines                     |
 | **12 y.o.**        | Permanent Second Molars               |
 | **18 y.o.**        | Permanent Third Molars (Wisdom Teeth) |
-## Reflexes
+%%## Reflexes
 
 | Reflex    | Disappearance                                                                            |
 | --------- | ---------------------------------------------------------------------------------------- |
-| Extrusion | 6 months, as the gastric sphincter is developed. This signals readiness for solid foods. |
+| Extrusion | 6 months, as the gastric sphincter is developed. This signals readiness for solid foods. |%%
 ___
 # Causes of Injury in Children
 
