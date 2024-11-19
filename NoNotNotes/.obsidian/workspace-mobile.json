@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/GnD.md",
+                "file": "CHN/Expanded Program on Immunization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GnD"
+              "title": "Expanded Program on Immunization"
             }
           }
         ]
@@ -149,9 +149,13 @@
   },
   "active": "f814b8b44cf0a47d",
   "lastOpenFiles": [
-    "CMPA/RPS MNC/09.md",
-    "CMPA/GnD.md",
+    "CHN/Demography.md",
+    "CHN/Field Health Services Information System.md",
     "MS-CD Exam Rationalization.md",
+    "CHN/PHC.md",
+    "CHN/IYCF.md",
+    "CMPA/GnD.md",
+    "CMPA/RPS MNC/09.md",
     "B418/08.md",
     "MS/19.md",
     "CMPA/d/10-21-2024 MS.md",
@@ -171,10 +175,6 @@
     "CMPA/d/04-04-2024 MS.md",
     "B418/ECG.md",
     "CMPA/RPS MNC/index.md",
-    "CMPA/RPS MNC/03.md",
-    "CMPA/RPS MNC/05.md",
-    "CMPA/RPS MNC/04.md",
-    "CMPA/d/11-04-2024 FC.md",
     "CD",
     "attachments/stages-of-disease.png",
     "attachments/chain-of-infection.png",

@@ -67,7 +67,7 @@ ___
 2. Use **black permanent ink** for all entries.
 3. Date, time, and sign all entries. Use first initial, last name and title.
 4. Entries are to be **legible with no blank spaces left** on a line. If space is left on a line, draw a line through the space to the end of the line. Diagonal lines may be used for large spaces.
-5. **Strikethrough errors** (~~*like this*~~), write `ERROR`, initial, and date the line. **Do not erase, obliterate, or "white out" the error**.
+5. **Strikethrough errors** (~~like this~~), write `ERROR`, initial, and date the line. **Do not erase, obliterate, or "white out" the error**.
 6. Entries are to be **factual, complete, accurate**, contain observations, clinical signs and symptoms, client quotes when applicable, nursing interventions, and patient reactions. Do not give opinions, make assumptions, or enter vague, meaningless statements e.g. "*is a good parent*". Be **specific**.
 7. Use **correct grammar, spelling, and punctuation**.
 8. Write the **client's name and other identifying information** on each medical record page.
