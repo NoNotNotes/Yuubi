@@ -154,7 +154,7 @@ Another important milestone of infancy is the **readiness for solid foods** or c
 >
 >| | Infant | Toddler | Preschool | Schoolage | Adolescent |
 >|---|---|---|---|---|---|
->|**Daily Caloric Demand**| 1,200|1,300–1,400 |1,700–1,800 |2,100–2,400 |2,200–2,700 |
+>|**Daily Caloric Demand**| 1,200 or 100–115/kg|1,300–1,400 |1,700–1,800 |2,100–2,400 |2,200–2,700 |
 >|**Remark**||Able to feed self| |Minimize junk food | |
 
 ## Toddler
