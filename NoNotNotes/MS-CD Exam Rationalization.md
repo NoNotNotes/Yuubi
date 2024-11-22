@@ -1,3 +1,12 @@
+---
+tags:
+  - CMPA
+  - QNA
+  - INC
+draft: true
+title: Communicable Disease Exam with Ratio
+date: 2024-10-30
+---
 1. A 46-year-old with Dengue has a nursing diagnosis of deficient fluid volume related to excessive fluid loss. Which action related to the fluid management should be delegated to a nursing assitant?
 	1. Administer IV fluids as prescribed by the physician.
 	2. Develop plan for dark colored food intake.
