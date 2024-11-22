@@ -40,9 +40,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           minutes: Math.ceil(minutes),
         })
         segments.push(displayedTime)
+        const wordCountDisplay = i18n(cfg.locale).components.contentMeta.wordCount({
+          _words,
+        })
+        segments.push(wordCountDisplay)
       }
 
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
+
+      // Display word count
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
