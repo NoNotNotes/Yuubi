@@ -46,7 +46,7 @@ ___
 2. **Left-to-Right Shunting**: oxygenated blood enters the deoxygenated blood compartments.
 	- **Atrial Septal Defect**: increased blood volume in the right atrium, which results in increasing rate of contraction, then back to systemic circulation. Management is a dacron or teflon patch in an open heart surgery.
 	- **Ventricular Septal Defect** (most common): eventually results in right ventricular hypertrophy, which reverses the shunt (rarely). Management is patching in an open heart surgery.
-	- **Atrioventral Septal Defect**/**Atrioventricular Canal Defect**: Management is patching (VSD first, then ASD). 
+	- **Atrioventricular Septal Defect**/**Atrioventricular Canal Defect**: Management is patching (VSD first, then ASD). 
 	- **Patent Ductus Arteriosus** (among the most common): a connection between the aorta and pulmonary artery, classified as a left-to-right shunt despite having no septal defects. **Machinery murmurs** can be heard as this is outside of the heart.
 		- Indomethacin stimulates closure of the PDA. Prostaglandin keeps it open (used in ToGV to compensate). If unresolved, closed heart surgery is done.
 ## Cyanotic CHD

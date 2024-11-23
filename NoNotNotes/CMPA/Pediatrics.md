@@ -1,9 +1,11 @@
 ---
-title: Pediatrics
+title: Normal Pediatrics
 tags:
   - CMPA
 description: Pediatric Nursing as discussed by Ma'am Auri. Mostly based on her presentation, supplemented by her lectures.
 date: 2024-09-24
+aliases:
+  - Pediatrics
 ---
 This is basically lifted information of **Ma'am Aurisita Maganis Delos Reyes**'s presentation, revised into a web format/noted down using the outline method. If find it a good exercise to re-summarize this information as it was in the presentation, pointing out and organizing key points and information.
 

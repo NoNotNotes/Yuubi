@@ -10,7 +10,7 @@ The following notes were used for this compilation:
 - [[B419/01|Introduction to Nursing Leadership and Management]]
 - [[B419/02|Patient Health Care Delivery Systems]]
 - [[B419/03|Evidence-Based Practices in Nursing Management]]
-- [[B419/04|Ethical, Legal, and Moral Considerations in Nursing Leadership Management]]
+- [[B419/04|04]]
 - [[B419/05|Organizational Communication]]
 
 The pointers to review provided by Ma'am Diosul are as follows (unaltered). Basically, all the content discussed is included to some degree.

@@ -282,7 +282,6 @@ ___
 | **8 y.o.**     | Movements become more graceful                                                                                                                                                                                                                                            |
 | **9–10 y.o.**  | Normal 20/20 vision is achieved<br>Better behaved<br>Enjoys team sports<br>Appearance of secondary sexual characteristics                                                                                                                                                 |
 | **11–12 y.o.** | Begins interest in opposite sex, reading romance, mystery, and adventure stories                                                                                                                                                                                          |
-|                |                                                                                                                                                                                                                                                                           |
 ## Dentition
 
 | Age                | Teething                              |
@@ -332,18 +331,18 @@ ___
 ___
 # Causes of Injury in Children
 
-| Accident                     | Infant | Toddler | Preschool | Schoolage |          Adolescent           |
-| ---------------------------- | :----: | :-----: | :-------: | :-------: | :---------------------------: |
-| Aspiration of Foreign Bodies |   ⭕    |    ⭕    |           |           |                               |
-| Falls                        |   ⭕    |    ⭕    |     ⭕     |           |                               |
-| Asphyxia                     |   ⭕    |    ⭕    |           |           |                               |
-| Burns                        |   ⭕    |    ⭕    |     ⭕     |           |                               |
-| Drowning                     |   ⭕    |    ⭕    |     ⭕     |     ⭕     |               ⭕               |
-| Poisoning                    |        |    ⭕    |     ⭕     |           |                               |
-| Fracture                     |        |         |   <br>    |     ⭕     | ⭕ (and other sports injuries) |
-| Motor Vehicular Accident     |        |    ⭕    |     ⭕     |     ⭕     |               ⭕               |
-| Substance Abuse              |        |         |           |           |               ⭕               |
-| Firearm Accidents            |        |         |           |           |               ⭕               |
+| Accident                         | Infant | Toddler | Preschool | Schoolage |          Adolescent           |
+| -------------------------------- | :----: | :-----: | :-------: | :-------: | :---------------------------: |
+| **Aspiration of Foreign Bodies** |   ⭕    |    ⭕    |           |           |                               |
+| **Falls**                        |   ⭕    |    ⭕    |     ⭕     |           |                               |
+| **Asphyxia**                     |   ⭕    |    ⭕    |     ⭕     |           |                               |
+| **Burns**                        |   ⭕    |    ⭕    |     ⭕     |           |                               |
+| **Drowning**                     |   ⭕    |    ⭕    |     ⭕     |     ⭕     |               ⭕               |
+| **Poisoning**                    |        |    ⭕    |     ⭕     |           |                               |
+| **Fracture**                     |        |         |   <br>    |     ⭕     | ⭕ (and other sports injuries) |
+| **Motor Vehicular Accident**     |        |    ⭕    |     ⭕     |     ⭕     |               ⭕               |
+| **Substance Abuse**              |        |         |           |           |               ⭕               |
+| **Firearm Accidents**            |        |         |           |           |               ⭕               |
 - **Fractures** increase in incidence in school-aged children due to rapid long bone development.
 ___
 # Summary of G&D
