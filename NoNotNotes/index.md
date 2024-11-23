@@ -35,3 +35,14 @@ For the actual site, its components, and its styling:
 | [MikeKneeB](https://github.com/MikeKneeB)                         | [OverlayExplorer](https://github.com/MikeKneeB/quartz-site/tree/main) addendum for Quartz, implementing explorer functionality into mobile viewports.                                             |
 | [Eileen Zhang](https://github.com/fanteastick)                    | [Random Page Button](https://quartz.eilleeenz.com/) from her cute website, with code from t-schreibs. Found this out from MassiveJuice.                                                           |
 | [MassiveJuice](https://github.com/MasssiveJuice08)                | [Callouts, Columns, Info boxes, and more](https://morrowind-modding.github.io/contributing/custom-formatting-features) from other sources adapted into Quartz.                                    |
+
+>[!CITE] Academic Copyright Disclaimer
+>These notes are intended for **personal academic use** and represent my personal synthesis and formatting of university materials and other reference books and academic material. The purpose of this website is to serve as a convenient reference for myself and a resource for peers.
+>
+>**Ownership and Copyright**
+>
+>I do not claim ownership of any copyrighted material, diagrams, or other intellectual property included in these notes unless explicitly stated. I have taken reasonable care to credit sources where appropriate and have no intention of monetizing any content on this website.
+>
+>**Contact for Concerns**
+>
+>If you believe any material hosted here violates copyright, trademark, or ownership rights, please contact me at [GitHub](https://github.com/nonotnotes) or [X](https://x.com/hsterts) with specific details. I will promptly review and remove infringing material, if necessary.
