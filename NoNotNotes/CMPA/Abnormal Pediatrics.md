@@ -3,7 +3,7 @@ tags:
   - CMPA
   - A219
 title: Pathologic Pediatrics
-description: A discussion on the abnormalities found with the structure of a newborn's heart from persisting fetal circulatory structures (foramen ovale, ductus aretriosus) or defects with the formation of the heart.
+description: A discussion on the abnormalities found with the structure of a newborn's heart from persisting fetal circulatory structures (foramen ovale, ductus arteriosus) or defects with the formation of the heart.
 date: 2024-11-21
 ---
 This will be a collection of various topics that involve abnormalities in children from neonates to adolescents. Currently, this page covers:
