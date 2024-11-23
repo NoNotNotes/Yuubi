@@ -12,7 +12,7 @@ As a review, there are two external and three internal parts of fetal circulatio
 	- Blood coming in from the **inferior vena cava** will mostly pass through the **foramen ovale** into the **left atrium**, as it closes the superior vena cava and tricuspid valve. From the left atrium, blood is pumped to the **left ventricle** and through the **aorta**, which nourishes the brain.
 	- Blood coming in from the **superior vena cava** will mostly pass through the **tricuspid valve** into the **right ventricle**, through the **pulmonary artery**, through the **ductus arteriosus**, and **to the descending aorta**.
 2. **Deoxygenated blood** is sent back to the placenta through the **umbilical arteries** from two arteries past the bifurcation of the descending aorta.
-3. The **ducta** ("ducts"; temporary connections between two vessels) shunts blood in fetal circulation. There are **three shunts** in a fetus:
+3. The **ductus** ("ducts"; temporary connections between two vessels) shunts blood in fetal circulation. There are **three shunts** in a fetus:
 	1. **Ductus venosus**: connects the umbilical vein and inferior vena cava, bypassing the immature liver.
 	2. **Ductus arteriosus**: connects the pulmonary artery and aorta, allowing blood to shunt from right-to-left.
 	3. **Foramen ovale**: connects the two atria, allowing blood to shunt left-to-right, bypassing the lungs.
