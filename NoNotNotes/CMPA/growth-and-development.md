@@ -37,8 +37,8 @@ ___
 
 *These are other aspects of growth and develop not discussed during the live lectures but are found in the summarized growth and development table by Sir V.*
 
-| Age        | Language (words) |                 Sleep (Hours)                 | Discipline Methods                                                                                         |
-| ---------- | :--------------: | :-------------------------------------------: | ---------------------------------------------------------------------------------------------------------- |
+| Age            | Language (words) |                 Sleep (Hours)                 | Discipline Methods                                                                                         |
+| -------------- | :--------------: | :-------------------------------------------: | ---------------------------------------------------------------------------------------------------------- |
 | **Infant**     |      5 – 10      | 17–18 hrs.<br>10–12 hrs. after 8 to 9 months. | **Time-out**                                                                                               |
 | **Toddler**    |    900–1,000     |                     10–12                     | Redirection, Time-out, Loss of Privileges, Explaining, Reprimanding, Reasoning, **Ignore Temper Tantrums** |
 | **Preschool**  |   2,000–2,100    |                     11–12                     | Time-out (in play), **Allow To Try**, Loss of Privileges, Explaining, Reprimanding, Reasoning              |
@@ -91,7 +91,7 @@ Infants are children from 0 to 1 year old. Their mnemonic is **GOATS**:
 5. **Solitary**, **Stranger Anxiety**, and **Sensory**:
 	- **Solitary** refers to the type of play used by an infant.
 		- A **musical mobile** may be used by **two months**. As, prior to this, the infant is often asleep for brain development.
-		- The primary type of toy used for an infant is a **rattle**, an object that makes sound when shaken. Shaking aids in motor development, and the sound aids in sensory development. This is given by **four or five months** as the child loses the palmar and grasping reflex.
+		- The primary type of toy used for an infant is a **rattle**, an object that makes sound when shaken. Shaking aids in motor development, and the sound aids in sensory development. This is given by **four or five months** as the child loses the palmar/grasping reflex.
 		- **Play should not be too big, too small, and toxic, and not contain detachable parts**. Due to them being in the oral stage, infants will almost always place things in their mouth. Moderately sized, colorful (primary colors, red) toys with no detachable parts and no toxic elements are best choices for infants.
 	- **Stranger Anxiety** refers to the fear of individuals besides the primary care giver. This begins by 6 months of age, peaks by 9 months of age, and fades by 12 months of age.
 	- **Sensory** refers to the primary method for learning/cognitive development. This is part of the **sensorimotor** stage of Jean Piaget's cognitive development theory that is most predominant in infancy.
@@ -195,15 +195,14 @@ With the development of autonomy, the toddler becomes:
 	- In the context of sharing, the toddler will often say no. The parent should encourage sharing, but not force it. If the toddler does so, **praise** the behavior.
 
 The theme of toddlers is **Holding On and Letting Go**: (*this wasn't expanded upon all too much*)
-1. **Holding onto toys**: toddlers are selfish, and are commonly jealous of others' toys. This is the reason for **parallel play**. Each child will have their own toy to play with.
-2. **Holding onto food**
-3. **Holding onto stool**: the toddler begins to hold in their stool, prolonging periods of dryness. This is one of the indicators for beginning toilet training in toddlerhood.
+1. **Holding onto toys and food**: toddlers are selfish, and are commonly jealous of others' toys. This is the reason for **parallel play**. Each child will have their own toy to play with.
+2. **Holding onto stool**: the toddler begins to hold in their stool, prolonging periods of dryness. This is one of the indicators for beginning toilet training in toddlerhood.
 ## Preschool
 Preschoolers are children from 3 to 6 years old. Their mnemonic is **MAGIC**:
 1. **Mutilation** or castration, a primary fear of preschoolers.
 2. **Associative Play**: the type of play utilized by the preschooler as they undergo their **imitative** and **imaginative** phase; **role-modeling** is exemplified by the child playing "**pretend games**" through **play sets**— doll houses, kitchen sets, medical sets, etc. They can also play with puzzle sets.
 	- Preschoolers become more comfortable with **sharing** (expanding significant others)
-3. **Guilt**: the developmental outcome of failure to establish **intimacy**.
+3. **Guilt**: the developmental outcome of failure to establish **initiative**.
 4. **Initiative**, **Imitator**, **Imaginative**
 	- **Initiative**: the primary developmental task of a preschooler. The development of trust in infancy, then autonomy in toddlerhood lead to **initiative**, a sense for doing things proactively. Otherwise, **guilt** develops. To aid in developing this sense of initiative, the preschooler is **supported and allowed to try**.
 	- **Imaginative**: the preschooler is highly imaginative, giving rise to their way to play, fears (supernatural), and even the presence of an **imaginary friend** to fulfill emotional needs.
@@ -223,7 +222,7 @@ School-age children are children from 6 to 12 years old. Their mnemonic is **DIM
 1. **Death**: awareness of the reality of death and mortality causes school-age children to fear death. Additionally, these children also fear **intimidating teachers**.
 2. **Industry vs. Inferiority**: the school-age child is exposed to the academic system where competition and ranking arise formally and informally. The developmental task is to establish **industry** (productivity, competence) to find validation from their teachers and to establish an ego as a capable student which if unfulfilled can result in feelings of **inferiority**. The development of industry is **supported by teaching by the parents**.
 	- **Punishment** from failure or **excessive expectations** will also result in failure to develop industry and a strengthened feeling of inferiority.
-3. **Modesty**: the child high values the valuation and recognition of their teacher. Modest behavior, being helpful, and being respectful are the methods by which the student seeks for this validation.
+3. **Modesty**: the child high values the valuation and recognition of their teacher. Modest behavior (**refinement** of words, actions), being helpful, and being respectful are the methods by which the student seeks for this validation.
 4. **Peers**: the significant others of the school-age child shifts from their home environment to their school environment— the **peers**, those of the same age group in the same environment, and their **teachers** from which they derive their feelings of validation and/or fear.
 5. **Loss of Self-control**: a problem that results from the child's involvement in **competition**. This is an important time to strengthen the child's sense of **sportsmanship**.
 6. **Explanation of the Procedure**: The school-age child begins to ask the question "How?" and takes pleasure in learning how things are done.
@@ -254,6 +253,7 @@ ___
 1. Lifting of head
 2. Sitting, crawling, cruising, walking, running
 3. Birth weight: doubling, tripling, quadrupling
+4. Secondary Sexual Characteristics
 
 | Age            | Motor Milestones                                                                                                                                                                                                                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -302,6 +302,28 @@ ___
 | **11 y.o.**        | Permanent Canines                     |
 | **12 y.o.**        | Permanent Second Molars               |
 | **18 y.o.**        | Permanent Third Molars (Wisdom Teeth) |
+## Secondary Sexual Characteristics
+| Female Characteristic            | Description                                                     |
+| -------------------------------- | --------------------------------------------------------------- |
+| **Accelerated Linear Growth**    | Increase in height (growth spurt, 9–11 y.o.)                    |
+| **Broadening of the Hips**       | Fermenting body type, varying based on individual               |
+| **Telarche**                     | Development of the breasts                                      |
+| **Adrenarche**                   | Growth of pubic (starts with symphysis pubis) and axillary hair |
+| **Menarche**                     | The first occurrence of menstruation                            |
+| **Ovulation**                    | Beginning of cyclic release of an egg cell                      |
+| **Increased Vaginal Secretions** | As the reproductive system becomes functional                   |
+
+| Male Characteristic             | Description                                                                |
+| ------------------------------- | -------------------------------------------------------------------------- |
+| **Increase in Weight**          | Increased body weight                                                      |
+| **Broadening of the Shoulders** | Masculine body type, varying based on individual                           |
+| **Growth of Testes**            | Enlargement and functionality                                              |
+| **Deepening of the Voice**      |                                                                            |
+| **Adrenarche**                  | Growth of pubic (starts with base of the penis), axillary, and facial hair |
+| **Penile Growth**               | Lengthening of the penis                                                   |
+| **Accelerated Linear Growth**   | Increase in height (growth spurt, 12–14 y.o.)                              |
+| **Spermatogenesis**             | Production and release of sperm via ejaculations                           |
+
 %%## Reflexes
 
 | Reflex    | Disappearance                                                                            |
