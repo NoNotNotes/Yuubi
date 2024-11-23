@@ -11,14 +11,10 @@
             "id": "f814b8b44cf0a47d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A219/CHD.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CHD"
+              "title": "New tab"
             }
           }
         ]
@@ -127,9 +123,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "A219/CHD.md"
-          },
+          "state": {},
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -149,12 +143,12 @@
   },
   "active": "f814b8b44cf0a47d",
   "lastOpenFiles": [
+    "CHN/COPAR.md",
+    "A219/CHD.md",
     "CMPA/growth-and-development.md",
     "CMPA/Pediatrics.md",
     "CMPA/Perioperative Nursing.md",
     "CMPA/CHN.md",
-    "CHN/COPAR.md",
-    "A219/CHD.md",
     "Untitled.md",
     "B419/MIDTERM.md",
     "CHN/Expanded Program on Immunization.md",
