@@ -51,7 +51,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.Darkmode(),
     Component.MobileOnly(Component.Spacer()),
-    Component.MobileOnly(Component.OverlayExplorer()),
+    Component.MobileOnly(Component.OverlayExplorer({
+      filterFn: (node) => {
+        const omit = new Set(["q"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    })),
     Component.Search(),
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
@@ -81,10 +86,20 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.MobileOnly(Component.OverlayExplorer()),
+    Component.MobileOnly(Component.OverlayExplorer({
+      filterFn: (node) => {
+        const omit = new Set(["q"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    })),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+        const omit = new Set(["q"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    })),
   ],
   right: [
     Component.Graph({
