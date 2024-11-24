@@ -16,6 +16,10 @@ const config: QuartzConfig = {
     baseUrl: "nonotnotes.com",
     ignorePatterns: ["private", "templates", ".obsidian", "/content/.tmp.driveupload", "Untitled*"],
     defaultDateType: "created",
+    passProtected: {
+      enabled: false,
+      iteration: 2e6,
+    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
