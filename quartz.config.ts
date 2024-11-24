@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian", "/content/.tmp.driveupload", "Untitled*"],
     defaultDateType: "created",
     passProtected: {
-      enabled: false,
+      enabled: true,
       iteration: 2e6,
     },
     theme: {

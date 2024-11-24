@@ -65,7 +65,7 @@ export default {
     },
     error: {
       title: "Note Not Found",
-      notFound: "There really isn't a note here. Try searching for it 👇",
+      notFound: "There really is no note here. Try searching for it 👇",
       home: "Return to Homepage 🏠",
     },
     folderContent: {
@@ -82,14 +82,14 @@ export default {
       totalTags: ({ count }) => `Found ${count} total tags.`,
     },
     encryptedContent: {
-      loading: "Loading...",
+      loading: "",
       password: "Password",
       submit: "Submit",
-      enterPassword: "This page is locked by default. Please enter passsword to unlock:",
-      modernBrowser: "Please use a modern browser.",
-      wrongPassword: "Wrong password. Please re-enter passsword to unlock:",
+      enterPassword: "This page is locked. Enter a password to show its contents.",
+      modernBrowser: "Your browser is unable to handle this request.",
+      wrongPassword: "Try again.",
       noPayload: "No encrypted payload.",
-      decrypting: "Decrypting...",
+      decrypting: "Verifying...",
     },
   },
 } as const satisfies Translation

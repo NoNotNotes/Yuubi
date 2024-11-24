@@ -53,7 +53,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.MobileOnly(Component.OverlayExplorer()),
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+        const omit = new Set(["q"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    }
+    )),
   ],
   right: [
     //Component.DesktopOnly(Component.TableOfContents()),
