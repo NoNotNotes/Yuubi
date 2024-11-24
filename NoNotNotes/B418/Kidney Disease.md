@@ -3,6 +3,7 @@ tags:
   - B418
 title: Chronic Kidney Disease
 description: Chronic kidney disease, a progressive decline in renal function (GFR) over months to years, affects about 10 percent of the general population worldwide.
+date: 2024-11-12
 ---
 # Chronic Kidney Disease
 Chronic kidney disease (CKD) is a progressive disease affecting kidney function that occurs over months to years. It may present with:

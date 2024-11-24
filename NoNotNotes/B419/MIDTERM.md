@@ -1,3 +1,7 @@
+---
+draft: false
+date: 2024-11-19
+---
 # Planning
 **Planning** determines the steps to be taken for the foreseeable future. It precedes all other processes of management. This was defined by **Henry Fayol** as first step of management (Planning, Organizing, Staffing, Directing, Controlling). The courses of action to take in order to arrive at a desired result is determined.
 
