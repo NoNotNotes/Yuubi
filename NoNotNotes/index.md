@@ -2,6 +2,7 @@
 title: No, Not Notes
 description: A collection of all of my notes and studies. My second brain, basically. Everything will be for available basically forever for free.
 date: 2024-06-10
+showDate: false
 ---
 <script type="text/javascript">
     function generateCountdown() {
