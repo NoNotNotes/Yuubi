@@ -1,5 +1,7 @@
 ---
 password: "4MYyQM3tHpC9sKZ3KksmqX35CagAvqw6"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 You are currently reviewing the research proposal of a student nurse. Which question will you ask to critique the purpose of a research project?

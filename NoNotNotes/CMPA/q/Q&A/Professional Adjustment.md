@@ -1,5 +1,7 @@
 ---
 password: "5pKcsnSr3YrMt3xkeHDMctHftRvAGYhy"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 You are a nurse in a clinic. Which of the following information are you allowed to legally and ethically disclose confidential information about a client?

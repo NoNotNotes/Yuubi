@@ -1,5 +1,7 @@
 ---
 password: "zRHtfQRn5GkWZRp9DDeNADWf9v7B5CV2"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 %% Pre-test

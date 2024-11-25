@@ -1,5 +1,7 @@
 ---
 password: "dArbzNLEXnnd23uzmEXP7c4pWBRMhHJA"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 You are currently discussing cardiovascular pharmacology to student nurses rotating in the Central ICU. Which of the following calcium channel blockers has the most potent peripheral smooth muscle dilator effect?

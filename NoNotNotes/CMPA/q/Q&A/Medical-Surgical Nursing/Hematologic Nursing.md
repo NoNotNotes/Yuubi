@@ -1,5 +1,7 @@
 ---
 password: "eDU2rdAzPVqfMmHeSSCNaJ8nMJkr52D9"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 Hannah is a patient with multiple myeloma. Which of the following assessment findings is consistent with the pathogenesis of multiple myeloma? 

@@ -1,5 +1,7 @@
 ---
 password: "NtCCFXhQjF2ZT2xUmDNG3mnWqPU4ktLp"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 Romina is a 50 year old client with chronic kidney disease. While reviewing her labs, you noted that the potassium level is 5.7 mEq/L (5.7 mmol/L). Which patterns would the nurse watch for on the cardiac monitor as a result of the laboratory value? 

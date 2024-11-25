@@ -1,5 +1,7 @@
 ---
 password: "5HrExjDdc4Xkx2BdHs2P7NvDZcfnBPZa"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 Helena is a post-surgical patient with a hemoglobin level of 7.6 g/dL and hematocrit of 25%. Today, she was prescribed with pRBC transfusion. You took the client's temperature and it was at 38.2°C orally. Which of the following is a correct intervention?

@@ -29,7 +29,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
       
-      if (fileData.dates && fileData.frontmatter?.showDate) {
+      if (fileData.dates && (fileData.frontmatter?.showDate ?? true)) {
         segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
       }
 

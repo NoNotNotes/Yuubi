@@ -1,5 +1,7 @@
 ---
 password: "GT2by28EhBTr9VUL7LnDa6UtYshBdubK"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 You are an oncology nurse. While doing your rounds, you identify which of the following patients as requiring immediate intervention? Select all that apply. 

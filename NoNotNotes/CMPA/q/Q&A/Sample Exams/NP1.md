@@ -1,5 +1,7 @@
 ---
 password: "Qjn6wHxrfD6xzWN4BHej8qYU664pJ5Hy"
+showDate: false
+date: 2023-12-31
 ---
 Progress Notes:
 - [[#Diagnostic Examination]]: N/A

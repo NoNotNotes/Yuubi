@@ -1,5 +1,7 @@
 ---
 password: "8gqSVepXG97sJGfuRGcf5WC3apbh67Pr"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 Raya is being prepared for a thoracentesis due to a pleural effusion. The nurse should assist the client to which position for the procedure?

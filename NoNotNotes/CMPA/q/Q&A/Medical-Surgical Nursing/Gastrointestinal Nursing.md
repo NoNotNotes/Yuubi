@@ -1,5 +1,7 @@
 ---
 password: "p2T3guk9xzJrChrqzpWVdqytua87YssR"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 Sabrina has undergone esophagogastroduodenoscopy. Which of the following should you place highest priority on the client's care plan?

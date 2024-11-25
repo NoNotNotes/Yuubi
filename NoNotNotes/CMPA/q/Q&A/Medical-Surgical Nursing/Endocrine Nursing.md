@@ -1,5 +1,7 @@
 ---
 password: "YLctJPxL6h2Uyspr8JjhtquwQQqk9E3z"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 Lorelei is patient with diabetes mellitus has an Hba1c level of 8%. On the basis of this test result, the nurse plans to teach the client about the need for which measure?

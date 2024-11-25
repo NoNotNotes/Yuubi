@@ -1,5 +1,7 @@
 ---
 password: "6qd2sZvxJXF35RE8kA6Aq2F2GCLE4VXX"
+showDate: false
+date: 2023-12-31
 ---
 >[!INFO] Situation
 >Pregnancy is a dangerous milestone. Nurse Jeara intends to lessen pregnancy complications. 

@@ -1,5 +1,7 @@
 ---
 password: "6hKtYwfjYqaPPRaWrVPGSHa4YvAWvJZy"
+showDate: false
+date: 2023-12-31
 ---
 1. A nurse is establishing a therapeutic relationship with a client diagnosed with depression. The nurse demonstrates empathy by:
 - [ ] Sharing personal experiences of overcoming depression.

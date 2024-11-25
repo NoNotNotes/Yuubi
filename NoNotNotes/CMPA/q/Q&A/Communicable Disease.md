@@ -1,5 +1,7 @@
 ---
 password: "WJL99Bvn5KgnaWCCgMv5MgbUTbeuqrJX"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 Joann was diagnosed with strongyloidiasis. Which of the following is responsible for the phase of acute infection in strongyloidiasis where lungs are destroyed causing pneumonia with hemorrhage?

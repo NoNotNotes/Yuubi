@@ -1,5 +1,7 @@
 ---
 password: "cXrGkuMfsLjqeSh2NBAJzwSG4w84mdfS"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 You are currently conducting a class regarding the nursing model of practice implemented in the health care facility. You know that the student nurse has achieved the objectives of the class when she determines which scenario is characteristic of the team-based model of nursing practice?

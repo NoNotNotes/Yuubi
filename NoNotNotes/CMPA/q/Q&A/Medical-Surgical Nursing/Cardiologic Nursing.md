@@ -1,5 +1,7 @@
 ---
 password: "tENqXxX7PD5yjsTY8tG342yt74qahCU2"
+showDate: false
+date: 2023-12-31
 ---
 # Practice Questions
 You are monitoring a patient post-CABG when suddenly she presents with ventricular fibirillation. After placing the pads on the client's chest and before discharging the device, which intervention isa priority?

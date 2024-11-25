@@ -5,6 +5,7 @@
     "tags": "tags",
     "date": "date",
     "draft": "checkbox",
-    "password": "text"
+    "password": "text",
+    "showDate": "checkbox"
   }
 }
