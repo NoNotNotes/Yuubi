@@ -7,7 +7,8 @@ description: A discussion on the abnormalities found with the structure of a new
 date: 2024-11-21
 ---
 This will be a collection of various topics that involve abnormalities in children from neonates to adolescents. Currently, this page covers:
-1. [[A219/CHD|Congenital Heart Defects]] (11/21/2024)
+1. [[A219/CHD|Congenital Heart Defects]] (Sir Vasquez, 11/21/2024)
+2. [[#Acquired Heart Disorders]] (Prof. Melanie Cambel, 04/19/2024)
 ___
 # Congenital Heart Defects
 The main cause of CHDs is **unknown**. However, infants can be predisposed to CHDs in **alcoholism**, **maternal malnutrition**, **rubella**, **teratogenesis** (drugs, radiation), **advanced maternal age**, and **family history of CHD**s.
@@ -52,6 +53,19 @@ As a review, there are two external and three internal parts of fetal circulatio
 >[!TIP] Diagrams
 >I still don't like how much space images take, so I've merged them all into one image.
 >![[congenital-heart-defects.png]]
+
+```mermaid
+flowchart TD
+A(Congenital Heart Defects)
+A-->B(Acyanotic CHDs)
+A-->C(Cyanotic CHDs)
+B-->D(Left-to-Right Shunting)
+B-->E(Obstructive Defects)
+D-->F["Atrial Septal Defect<br>Ventricular Septal Defect<br>Patent Ductus Arteriosus"]
+E-->G["Coarctation of the Aorta<br>Pulmonary Valve Stenosis"]
+C-->H(Right-to-Left Shunting)
+H-->I[Tetralogy of Fallot<br>Transposition of the Great Vessels<br>Truncus Arteriosus<br>Tricuspid Atresia]
+```
 ## Acyanotic CHDs
 Heart defects that **do not produce cyanosis**. These may be due to **obstructive lesions** such as stenoses and coarctation, or due to **left-to-right shunting**. These send oxygenated blood back into pulmonary circulation, which means no significant deoxygenation occurs.
 ### Valvular Stenosis
@@ -102,7 +116,7 @@ The only type of CHDs that appear **cyanotic** are those with **right-to-left sh
 - **Correction**: relieving pulmonary stenosis through valvuloplasty or valve replacement, the overriding of the aorta, then the ventricular septal defect. These procedures are done with three open heart surgeries done in stages.
 ### Transposition of the Great Vessels
 **Transposition of the Great Arteries/Vessels**: **swapping** of the connections of the pulmonary artery and aorta. This shuts off pulmonary circulation from systemic circulation as the right ventricle sends blood into systemic circulation and the left ventricle sends blood into the lungs. Survival rates for TOGV are very poor.
-- The only way a newborn can survive with this defect is with the presence of a **foramen ovale and patent ductus arteriosus**. Oxygenated blood may move from the pulmonary artery (now connected to the left ventricle) into the aorta through the PDA, and a left-to-right shunt through the foramen ovale allows oxygenated blood to move from the left atrium to the right atrium.
+- The only way a newborn can survive with this defect is with the presence of a shunt that allows blood to mix. This may be a **foramen ovale**, a **patent ductus arteriosus**, or a **ventricular septal defect**.
 - This defect is visible in a **3D ECHO**.
 - **Treatment**:
 	- **Palliative**: **Prostaglandin** is used to **keep the ductus arteriosus open** and the **Rashkind procedure** is used to **create an atrial septal opening**.
@@ -123,11 +137,75 @@ The only type of CHDs that appear **cyanotic** are those with **right-to-left sh
 | **Ventricular Septal Defect**          | An opening between the ventricles                                                                                                       | Patching                                                                         |
 | **Atrioventriculocanal Defect**        | A combination of ASD and VSD                                                                                                            | Patching                                                                         |
 | **Pulmonary Valve Stenosis**           | Narrowing of the pulmonary valve                                                                                                        | Valvuloplasty/Valve Replacement                                                  |
-| **Aortic Valve Stenosis**              | Narrowing of the aorta                                                                                                                  | Valvuloplasty/Valve Replacement                                                  |
+| **Aortic Valve Stenosis**              | Narrowing of the aortic valve                                                                                                           | Valvuloplasty/Valve Replacement                                                  |
+| **Coarctation of the Aorta**           | Narrowing of the aorta                                                                                                                  | Resection and end-to-end anastomosis, balloon angioplasty                        |
 | **Tetralogy of Fallot**                | Pulmonary valve stenosis, right-sided ventricular hypertrophy, overriding of the aorta, and a ventricular septal defect                 | Blalock-Taussig; Correction of stenosis, then overriding, then the septal defect |
 | **Transposition of the Great Vessels** | Swapping of the pulmonary artery and aorta, separating pulmonic circulation from systemic circulation                                   | Prostaglandin, Rashkind<br>Mustard                                               |
 | **Truncus Arteriosus**                 | Conjoining of the pulmonary artery and aorta with a large ventricular septal defect                                                     | Complete cardiac repair                                                          |
 | **Tricuspid Atresia**                  | Failure of the tricuspid valve to form or open, requiring an atrial septal defect and ventricular septal defect to maintain circulation | Blalock-Taussig, Waterston<br>Fontan                                             |
 ___
-# Respiratory Dysfunction
->[!WARNING] Work In Progress!
+# Acquired Heart Disorders
+## Congestive Heart Failure
+1. **Impaired Myocardial Function**: tachycardia, fatigue, weakness, restlessness, pale, cool extremities, hypotension, decreased urine output (renal perfusion)
+2. **Pulmonary Congestion**: tachypnea, dyspnea, respiratory distress, exercise intolerance, cyanosis, wheezing
+3. **Systemic Venous Congestion**
+	1. **Peripheral and Periorbital Edema**: weight gain, ascites, hepatomegaly, neck vein distention
+
+Quite directly, the main goal of therapy is to **improve cardiac function**. This is achieved with:
+1. **Digoxin Therapy** (Digitalis) increases cardiac output by improving contractility (positive inotropic effect). In children, **Lanoxin** is the type of digoxin used, given orally or intravenously with a loading dose and maintenance dose twice a day.
+2. **ACE Inhibitors** (Capoten/Enalapril): inhibition of the RAAS mechanism of the kidney by blocking the conversion of angiotensin I to angiotensin II. This mechanism naturally increases fluid volume when it detects hypotension, but this only causes further problems when in heart failure.
+3. **Diuretics** for the removal of excess fluid and sodium from the body. This is a mainstay of treatment of CHF.
+4. **Ferrous supplementation** and **blood transfusion** is used in cases of anemia.
+5. **Respiratory infection** can occur and worsen hypoxemia. Pulmonary hygiene, CPT, antibiotics, and oxygen therapy are all methods for prevention or intervention.
+## Rheumatic Fever
+An **autoimmune disease** involving the heart, CNS, joints, subcutaneous tissue, and the skin triggered by **Group A Beta-Hemolytic Streptococcus** (GABHS).
+- Risk Factors: **children with dental caries** (adhere to a check-up once every 6 months), those who have had **recent or recurrent strep throat**, and those who are **immunocompromised**.
+### JONES Criteria
+For a diagnosis of **rheumatic fever**, the child must present with **two major manifestations** or with **one major and two minor manifestations**. This is a clinical diagnosis concerning the following signs and symptoms:
+1. **Major**: carditis, chorea, polyarthritis, subcutaneous nodules, and erythema marginatum.
+3. **Minor**: fever, history of streptococcal infection (ask for history of sore/strep throat), elevated laboratory findings (anti-streptolysin O titer \[ASOT]), and arthralgia (joint pain).
+
+>[!EXAMPLE] Laboratory Findings
+>- **ASOT** Lab Findings:
+>	- 150 to 250: Normal
+>	- \>250 to <500: Dormant RF
+>	- \>500 to <5000:  Active RF
+>	- \>5000: Rheumatic Heart Disease
+>- **ESR**, increased during hyperemia.
+>- **CRP**, produced by the liver in response to inflammation and tissue damage. This is used to determine both the presence of inflammation and **response to treatment**.
+### Pathophysiology
+1. Spread of GABHS to the pulmonary system, through pulmonary circulation, to the **mitral valve** (proliferation) of the heart results in the major manifestations:
+	- **Carditis**
+	- **CNS Chorea**
+	- **Polyarthritis**: inflammation
+	- **Subcutaneous Nodules**
+	- **Erythematous Marginatum**
+2. **Mitral Valve Stenosis**: damage to the mitral valve from GAHBS. Left ventricular hypertrophy occurs for compensation. This backs up to the left atrium and pulmonary circulation, resulting in LSCHF. Crackles and moist coughing occurs from pulmonary edema.
+	- **Lanoxin** (Digitalis) increases heart contraction, while decreasing heart rate. This results in bradycardia. **Do not administer Lanoxin if heart rate is experiencing bradycardia**. Decreased cerebral perfusion alters LOC.
+### Nursing Management
+1. **Fever**, **Pain** (polyarthritis), **Inflammation**, **Thrombotic Formation**
+	- **Aspirin** fulfills all of these problems within a child (antipyretic, analgesic, antiinflammatory effect, thrombolytic effect). The main purpose is for its antiinflammatory effect on polyarthritis.
+2. **Diet**: high calorie, high fiber, low sodium, and soft diet. If polyarthritis affects the temporomandibular joint, NGT/OF may be required.
+3. **Polyarthritis**: pain may be produced even by thin linens. A **bed cradle is created and formed as a tent**, to maintain thermoregulation without placing weight on the patient directly.
+	- Fractured TSB may be required to reduce discomfort. Avoid the joints, and only pat the patient. Place a moist towel on the forehead, torso, and axillary areas.
+### Treatment
+**Penicillin** is the drug of choice, combined with erythromycin and benzanthin penicillin.
+2. **Oral**: Erythromycin with Penicillin
+3. **Monthly injection of 1 gram benzathine penicillin** (twice a month, 500 mg per dose).
+
+>[!TIP] PARAFI
+>The **PARAFI** mnemonic denotes the interventions for a child with rheumatic fever:
+>1. **Pain Control**
+>2. **Antibiotics** for an active infection by GABHS
+>3. **Rest**
+>4. **Aspirin** as an antiinflammatory and as an antithrombotic
+>5. **Follow-up Care** is necessary to detect progression or complication of the disease.
+>6. **Infection**, specifically **respiratory infection** is prevented and immediately managed to prevent flareups of rheumatic fever.
+
+## Kawasaki Disease
+A **mucocutaneous lymph node syndrome** that causes **acute systemic vasculitis**. This occurs most commonly in children below 5 years old, peaking in toddlerhood. Its cause is unknown.
+1. **Signs and Symptoms**: (mn. **CRASH**) **conjunctivitis** (pink eye), **rash**, **arthritis**, **strawberry tongue**, and **hands** (desquamation, late sign).
+	- An early manifestation and **hallmark** of Kawasaki disease is **irritability** (lasts for ~2 weeks), followed by a fever, then the CRASH manifestations.
+2. **Diagnostic Evaluation**: there is no diagnosis for Kawasaki disease. The diagnosis is made based on clinical presentation.
+3. **Most serious complication**: **coronary artery aneurysm**
+### Treatment

@@ -5,6 +5,7 @@ tags:
   - INC
 title: Hematologic Disorders
 date: 2024-10-10
+draft: true
 ---
 This nursing domain was discussed along with the following:
 1. [[CARDIO|Cardiologic Disorders]]

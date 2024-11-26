@@ -4,6 +4,7 @@ tags:
   - A113
 title: Fundamentals of Nursing (Toni Notario)
 date: 2024-10-20
+description: A full transcript of Madame Toni's lectures on Medication Administration (10/20/2024) and Oxygenation (11/24/2024)
 ---
 (c) **Madame Toni**
 1. **Medication Administration** (10/20/2024)
@@ -173,11 +174,3 @@ CPT is composed of three main techniques:
 	- **Base of the lungs**: modified Trendelenburg
 	- **Right lung**: left-side lying
 	- **Left lung**: right-side lying
-___
-# Infusion Procedures
-___
-# Bowel Elimination
-___
-# Urinary Elimination
-___
-# Assistive Devices

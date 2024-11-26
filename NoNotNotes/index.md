@@ -47,3 +47,7 @@ For the actual site, its components, and its styling:
 >**Contact for Concerns**
 >
 >If you believe any material hosted here violates copyright, trademark, or ownership rights, please contact me at [GitHub](https://github.com/nonotnotes) or [X](https://x.com/hsterts) with specific details. I will promptly review and remove infringing material, if necessary.
+
+| Contributor | Contribution                                                          |
+| ----------- | --------------------------------------------------------------------- |
+|             | A major portion of this page is sourced from my university. While not |

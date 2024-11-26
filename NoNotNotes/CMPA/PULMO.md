@@ -5,6 +5,7 @@ tags:
   - INC
 title: Pulmonary Disorders
 date: 2024-10-06
+draft: true
 ---
 This nursing domain was discussed along with the following:
 1. [[CARDIO|Cardiologic Disorders]]
