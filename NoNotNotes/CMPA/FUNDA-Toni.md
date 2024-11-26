@@ -6,8 +6,10 @@ title: Fundamentals of Nursing (Toni Notario)
 date: 2024-10-20
 ---
 (c) **Madame Toni**
+1. **Medication Administration** (10/20/2024)
+2. **Concept of Oxygenation** (11/24/2024)
 ___
-# Module 1: Medication Administration
+# Medication Administration
 The administration of medication is a **dependent nursing action**. Doctor's orders are required for any medications given.
 >[!IMPORTANT] Fundamental Rule: **never administer an unfamiliar medication**.
 
@@ -101,51 +103,53 @@ Administration through parenteral means, given its potential risks, should follo
 5. **IM**: **Aspirate** to check if a blood vessel has been punctured, before releasing the medication.
 ___
 # Oxygenation
-**Oxygen therapy** is used to reverse hypoxia, hypoxemia, or anoxia; to increase oxygen levels. Importantly, the following are followed:
-1. **Positioning**: the patient is placed on a High Fowler's position to enhance lung expansion, improving the reception of oxygen. This position is used in patients experiencing DOB, SOB, or Orthopnea (alternatively, the orthopneic position)
+**Oxygen therapy** is used to **reverse hypoxia**, **hypoxemia**, or **anoxia**; to increase oxygen levels in tissues/cells. Importantly, the following are considered:
+1. **Positioning**: the patient is placed on a **High Fowler's**/sitting/elevated head of bed/high back rest position to enhance lung expansion, improving the reception of oxygen. This position is used in patients experiencing **DOB**, **SOB**, or **Orthopnea** (alternatively, the orthopneic position)
 >[!TIP] In pregnancy
 >The position of comfort in pregnancy is a **left-side lying position**. This is a common answer in any question related to positioning a pregnant client.
 
-2. **Precautions**: oxygen is one of the main elements of the fire triad. As such, **alcohol**, **oil**, **smoking**, and other potentially flammable materials or activities are prohibited.
-	- An important nursing action is to **place a No Smoking sign** near the bed, tank, or door of the room.
-	- Additionally, **cotton clothing** is used as other fabrics can create **static friction**, which is another potential source of fire.
+2. **Precautions/Contraindications**: oxygen is one of the main elements of the fire triad. As such, **alcohol**, **oil**, **smoking**, and other potentially **flammable** and volatile materials or activities are prohibited.
+	- An important nursing action is to **place a No Smoking sign** near the bed, tank, or door of the room. This must be placed in prominent places of the room.
+	- Additionally, **cotton clothing** is used because other fabrics (nylon, synthetic, cashmere, etc.) can generate **static friction**, which is another potential source of fire.
 	- In **pediatric wards**, **battery-operated toys** are also contraindicated.
-3. **Devices Used in Oxygenation**: oxygenation can be assessed with:
-	1. **Pulse Oximetry** (SpO₂): ensure avoidance of erroneous results— reduce light exposure of the area being used for oximetry.
-	2. **Incentive Spirometer**: a pulmonary rehabilitation tool used to increase alveolar expansion and train inspiratory muscles.
+3. **Diet**: **small frequent meals** (preferred for nasal cannula) or **NPO** (preferred for face mask). These are used to **decrease oxygen demand** by reducing metabolic activity.
+4. **Devices Used in Oxygenation**: oxygenation can be assessed with:
+	1. **Pulse Oximetry** (SpO₂): a device that measures oxygen saturation. This is a transcutaneous measurement. Ensure avoidance of erroneous results— **reduce light exposure** of the area being used for oximetry. In order of preference, this can be used on the finger, the toes, earlobe, forehead, and nose bridge.
+	2. **Incentive Spirometer**: a pulmonary rehabilitation tool used to **increase alveolar expansion** and train inspiratory muscles.
 	3. **Humidifier**: increases moisture of delivered air to prevent drying.
 ## Delivery Systems
-1. **Low Flow**: entry level oxygenation, potentially even usable as an independent nursing intervention in emergencies.
->[!WARNING] Refractory Hypoxia in COPD
->The use of high flow oxygen is **not done for patients with COPD**. These patients do not require the SpO<sub>2</sub> of a normal individual. Their breathing reflex may mainly depend on oxygen levels rather than carbon dioxide levels; a high oxygen flow can deplete this **hypoxic drive**, inhibiting the patient's breathing.
+1. **Low Flow**: entry level oxygenation, potentially even usable as an independent nursing intervention in emergencies. This uses a nasal cannula or face masks (simple, partial rebreather, non-rebreather).
 
-2. **High Flow**: including the use of CPAP, CPEP, and BiPAP
+>[!WARNING] Refractory Hypoxia in COPD/CAL (Chronic Airflow Limitation)
+>The use of high flow oxygen is **not done for patients with COPD**. The flow used is **only 2–3 L/min**. These patients do not require the SpO₂ of a normal individual. Their breathing reflex may mainly depend on oxygen levels rather than carbon dioxide levels; a high oxygen flow can deplete this **hypoxic drive**, inhibiting the patient's breathing.
 
-| Delivery                          | Rate        |
-| --------------------------------- | ----------- |
-| **Nasal Cannula**                     | 2–6 L/min   |
-| **Face Mask**                         | 8 L/min     |
-| **Face Mask with Partial Rebreather** | 10–12 L/min |
-| **Non-Breather Face Mask**            | 15 L/min    |
-| **Venturi Mask**                      | -           |
-3. **Wall-Outlet Supplemental Therapy**
+2. **High Flow**: venturi mask; including the use of CPAP, CPEP, and BiPAP
 
-| Color  | Content                      |
-| ------ | ---------------------------- |
-| **Green**  | Oxygen                       |
-| **Blue**   | Nitrous Oxide (Laughing Gas) |
-| **Yellow** | Medical Air; Compressed Air  |
-| **White**  | Suction/Vacuum               |
+| Delivery                         | Rate        |
+| -------------------------------- | ----------- |
+| **Nasal Cannula**                | 2–6 L/min   |
+| **Face Mask**                    | 4–8 L/min   |
+| **Partial Rebreather Face Mask** | 8–12 L/min  |
+| **Non-Rebreather Face Mask**     | 10–15 L/min |
+| **Venturi Mask** (high flow)     |             |
+## Wall-Outlet Supplemental Therapy
+
+| Color             | Content                      |
+| ----------------- | ---------------------------- |
+| **Green Outlet**  | Oxygen                       |
+| **Blue Outlet**   | Nitrous Oxide (Laughing Gas) |
+| **Yellow Outlet** | Medical Air; Compressed Air  |
+| **White Outlet**  | Suction/Vacuum               |
 ## Suctioning
-**Suctioning** is used to remove pulmonary secretions to improve gas exchange; to prevent hypoxia. It utilizes a **sterile technique** as the nurse maneuvers a suction catheter into the airways to remove any buildup of secretions.
+**Suctioning** is used to **remove pulmonary secretions** to improve gas exchange. A primary consideration is to **==prevent hypoxia==**. It utilizes a **sterile technique** as the nurse maneuvers a suction catheter into the airways to remove any buildup of secretions.
 
-| Age Group | Catheter Size | Portable Suction<br>Pressure | Wall-Type Suction<br>Pressure |
-| --------- | ------------- | ---------------------------- | ----------------------------- |
-| **Adult**     | Fr. 12 – 18   | 10 – 15 mm Hg                | 100 – 120 mm Hg               |
-| **Child**     | Fr. 8 – 10    | 5 – 10 mm Hg                 | 95 – 110 mm Hg                |
-| **Infant**    | Fr. 5 – 8     | 3 – 5 mm Hg                  | 50 – 95 mm Hg                 |
+| Age Group  | Catheter Size | Portable Suction<br>Pressure | Wall-Type Suction<br>Pressure                     |
+| ---------- | ------------- | ---------------------------- | ------------------------------------------------- |
+| **Adult**  | Fr. 12 – 18   | 10 – 15 mm Hg                | 100 – 120 mm Hg (for thick, tenacious secretions) |
+| **Child**  | Fr. 8 – 10    | 5 – 10 mm Hg                 | 95 – 110 mm Hg                                    |
+| **Infant** | Fr. 5 – 8     | 3 – 5 mm Hg                  | 50 – 95 mm Hg                                     |
 
-The application of suction is done while the patient is in a semi-fowlers (if conscious) or side-lying (if unconscious) position. Prior to every period of suctioning, the patient is **hyperoxygenated**. While maintaining sterile technique with the hand manipulating the suction catheter, suction is intermittently applied during withdrawal as to avoid damaging tissue. In general, the shorter the period of suctioning, the less hypoxia occurs.
+The application of suction is done while the patient is in a **semi-fowlers** if conscious and **side-lying** if unconscious position. **Prior to and after every period of suctioning, the patient is hyperoxygenated to prevent hypoxia**. While maintaining sterile technique with the hand manipulating the suction catheter, **suction is intermittently applied during withdrawal** as to **avoid damaging tissue** (trauma). In general, the shorter the period of suctioning, the less hypoxia occurs. If asked in the board exam, the best duration is 5 seconds.
 
 |                             | Oral         | Nasal        | Tracheal (stoma)   |
 | ----------------------- | ------------ | ------------ | ------------------ |
@@ -153,6 +157,7 @@ The application of suction is done while the patient is in a semi-fowlers (if co
 | **Rest Period**             | 20 – 30 sec. | 20 – 30 sec. | 2 – 3 min.         |
 | **Length of Tip Insertion** | 3 – 5 in.    | 3 – 5 in.    | 2 – 3 in.          |
 | **Lubricant Used**          | Clean Water  | KY Jelly     | NSS; Sterile Water |
+- The length of tip insertion is often based on **anatomical landmarks**: **from the tip of the nose to the earlobe**.
 ## Chest Physiotherapy
 A series of techniques applied to facilitate the removal of secretions from the airways.
 1. **Precautions**:

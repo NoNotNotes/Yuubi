@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2e138256b9658ca",
+        "id": "663714ae141b050f",
         "type": "tabs",
         "children": [
           {
-            "id": "f814b8b44cf0a47d",
+            "id": "5b1b7fb12e24814e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CMPA/MS-Valdez.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MS-Valdez"
             }
           }
         ]
@@ -123,7 +127,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "CMPA/Saunders/Unit III.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -141,14 +147,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f814b8b44cf0a47d",
+  "active": "5b1b7fb12e24814e",
   "lastOpenFiles": [
-    "CHN/COPAR.md",
-    "A219/CHD.md",
+    "CMPA/Saunders/Unit III.md",
     "CMPA/growth-and-development.md",
     "CMPA/Pediatrics.md",
-    "CMPA/Perioperative Nursing.md",
+    "CMPA/MS1-Ferrer-2.md",
+    "CMPA/MS-Valdez.md",
+    "CMPA/FUNDA-Toni.md",
+    "A219/CHD.md",
     "CMPA/CHN.md",
+    "CMPA/FUNDA-Handout.md",
+    "CMPA/FUNDA-Acuna.md",
+    "CMPA/MS1-Ferrer-1.md",
+    "CMPA/Abnormal Pediatrics.md",
+    "attachments/congenital-heart-defects.png",
+    "attachments/cardiovascular-system_fetal-circulation.png",
+    "A219/Acute-Neonate.md",
+    "CHN/COPAR.md",
+    "CMPA/Perioperative Nursing.md",
     "Untitled.md",
     "B419/MIDTERM.md",
     "CHN/Expanded Program on Immunization.md",
@@ -160,15 +177,6 @@
     "CMPA/GnD.md",
     "CMPA/RPS MNC/09.md",
     "B418/08.md",
-    "MS/19.md",
-    "CMPA/d/10-21-2024 MS.md",
-    "CMPA/MS1-Arreglo-1.md",
-    "CMPA/MS1-Ferrer-1.md",
-    "CMPA/MS1-Ferrer-2.md",
-    "CD/STI.md",
-    "B418/Unconscious Patients.md",
-    "CMPA/FUNDA-Toni.md",
-    "CMPA/FUNDA-Acuna.md",
     "CD",
     "attachments/stages-of-disease.png",
     "attachments/chain-of-infection.png",
@@ -178,8 +186,6 @@
     "attachments/lead_placement1.png",
     "attachments/heart_conduction_system.png",
     "attachments/ecg_ventricular_premature_complex.png",
-    "attachments/ecg_ventricular-tachycardia.png",
-    "attachments/ecg_ventricular-fibrillation.png",
     "attachments/COMPOSITE-WHO-PARTOGRAPH-1.pdf"
   ]
 }

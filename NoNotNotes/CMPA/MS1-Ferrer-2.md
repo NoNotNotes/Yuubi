@@ -40,8 +40,10 @@ One of the most important aspects of care for patients with musculoskeletal inju
 An **inflammation** of the joints, causing **pain**.
 1. **Management**: antiinflammatory medications
 	- First line: **NSAIDs** (MIND; mefenamic acid, ibuprofen, naproxen, diplofenac). This may result in ulceration (GI irritants) and nephrotoxicity in long-term use. Second line is **steroids**
+
 >[!DRUG] COX-2 Inhibitor NSAIDs
 >These are a recent form of NSAIDs that do not produce gastric irritation. Among its forms, Etoricoxib (**Arcoxia**) is common manifestation
+
 2. **Types**:
 	1. **Osteoarthritis**: common in **obese** and **old** patients, where **the major weight-bearing joints** (cervical spine, lumbar spine, knees) **degenerate through wear-and-tear**.
 		- **Management**: (1) rest, (2) weight loss in obese patients via low carb/low fat diet, (3) pain management (NSAIDs, steroids \[-*sones*], paracetamol, liniments)
@@ -55,7 +57,7 @@ An **inflammation** of the joints, causing **pain**.
 			- **Cold Packs** can help with acute exacerbations of pain.
 			- **Heat Application** can help reduce inflammation.
 			- **Provide regular activities** to reduce pain levels. Rest increases the stiffness and pain of RA.
-		- **Signs and Symptoms**: **fever**, weight loss (painful eating)
+		- **Signs and Symptoms**: **fever**, weight loss (painful to chew)
 			- **Characteristic Pain Pattern**: stiffness that occurs for more than 30 minutes that appears systemically (all joints), symmetrically, and bilaterally
 			- **Manifestations**: Subcutaneous nodules, Raynaud's phenomenon
 				- In late rheumatoid arthritis, deformities of the hand occurs. From proximal to distal, these are the Boutonniere deformity of the thumb, ulnar deviation of metacarpophalangeal joints, and swan-neck deformity of fingers.
@@ -68,6 +70,7 @@ An **inflammation** of the joints, causing **pain**.
 			- **Characteristic Pain Pattern**: **monoarticular**; only one joint is affected, compared to OA and RA, which are **polyarticular**.
 			- **Manifestations**: erythematous first metatarsophalangeal joint; **podagra**; a great toe.
 		- **Diagnostic Evaluation**: serum uric acid
+
 >[!WARNING] Pyrazinamide
 >Pyrazinamide, a TB medication, can increase uric acid. This is avoided in patients with gout.
 
@@ -110,8 +113,8 @@ Nursing management includes management of the traction system, **neurovascular s
 | **Deep Vein Thrombosis**       | Checked with Homan's sign                                        |
 >[!INFO] Casting
 These are hard bindings of affected extremities to immobilize and promote healing. This may use two types of materials:
->1. Plaster of Paris, a slow-drying cast material. White.
->2. Fiberglass, a fast-drying cast material, but is more expensive. This comes in more colors, too.
+>1. **Plaster of Paris**, a slow-drying cast material. White.
+>2. **Fiberglass**, a fast-drying cast material, but is more expensive. This comes in more colors, too.
 
 ## Osteoporosis
 "*Porous bones*" manifested by decreased bone mass density (BMD). This may occur in patients whose osteoclastic activity (bone resorption) is greater than osteoblastic activity (bone deposition).
@@ -124,6 +127,7 @@ These are hard bindings of affected extremities to immobilize and promote healin
 	- Diet (caffeine, alcohol, low calcium): should include ~1,200 mg of Calcium per day.
 	- Post-menopausal (decreased estrogen)
 	- Immobility
+
 >[!WARNING] Surgically-Induced Osteoporosis
 >The removal of ovaries (oophorectomy) or testes (orchidectomy) are considered as essentially causative of osteoporosis. The resulting osteoporosis is considered "surgically-induced".
 
@@ -139,7 +143,7 @@ Also read: [[ANPH/15-1|Anatomy of the eyes]]
 The eye is made up of various layers:
 1. Outer:
 	1. **Sclera**
-	2. **Cornea** (avasular)
+	2. **Cornea** (avascular)
 2. Middle
 	1. **Uvea**
 	2. **Iris**, the pigmented ring of accommodating tissue that controls the amount of light to enter the eyes; these cause pupillary constriction (miosis) in the presence of light, and cause pupillary dilation (medriasis) in the presence of darkness. The examination of the pupil with a penlight to detect these constrictions or dilatations assesses the function of **CN III** (oculomotor nerve).
@@ -148,6 +152,7 @@ The eye is made up of various layers:
 	4. **Choroid**
 3. Inner
 	1. **Retina**: contains retinal vessels and is the sensory unit of the eyes. These function with **CN II** (optic nerve), assessed with **Snellen's chart** (visual acuity).
+
 >[!TIP] Cranial Nerve V: The Trigeminal Nerve
 >The nerve that innervates the cornea via the ophthalmic branch, maxillary branch, and mandibular branch. The reflex tested for the eye is the **corneal reflex**, which causes the individual to blink when a cotton wisp is used to stimulate the cornea.
 ### Inflammation of the Eyes
@@ -163,6 +168,7 @@ The eye is made up of various layers:
 4. **Presbyopia**: far-sightedness that occurs with aging.
 ### Ocular Medications
 1. **Eye drops**: therapeutic fluid administered at the lower conjunctiva.
+
 >[!WARNING] Close the inner punctum of the eye:
 >Place pressure on the area between the corner of the eye and the side of the nose to prevent systemic absorption of the drug (approx. 7% gets absorbed).
 
