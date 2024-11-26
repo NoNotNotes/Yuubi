@@ -2,16 +2,21 @@
 tags:
   - CMPA
   - MS
-title: Medical-Surgical Nursing by Dr. Ferrer (Part 1)
-description: A compilation of Dr. Ferrer's coverage of the first module for Medical-Surgical Nursing, covering cardiologic, respiratory, and hematologic disorders.
-date: 2024-10-13
+title: Medical-Surgical Nursing (Dr. Ferrer)
+description: A compilation of Dr. Ferrer's coverage of the first module for Medical-Surgical Nursing, covering cardiologic, respiratory, hematologic, musculoskeletal, sensory, and oncologic disorders.
+date: 2024-11-03
 ---
-A compilation of **Dr. Ferrer**'s coverage of the first module for Medical-Surgical Nursing I, covering cardiologic, respiratory, and hematologic disorders. Individual notes on these subjects can be found here:
+A compilation of **Dr. Ferrer**'s lessons on medical-surgical nursing, ~~communicable diseases~~, and ~~emergency and disaster nursing~~. Individual notes on these subjects can be found here:
 1. [[10-07-2024 MS|10-07-2024 Cardiovascular Disorders]]
-2. [[10-07-2024 MS|10-8-2024 Respiratory Disorders]]
+2. [[10-08-2024 MS|10-08-2024 Respiratory Disorders]]
 3. [[10-09-2024 MS|10-09-2024 Hematologic Disorders]]
+4. [[10-18-2024 MS|10-18-2024 Musculoskeletal Disorders]]
+5. [[04-02-2024 MS|04-02-2024 Sensory Disorders]]
+6. [[10-21-2024 MS|10-21-2024 Oncologic Disorders]]
 
-These notes are based on live lectures, and no accompanying presentations or slides were provided for them. One [video lecture](https://www.youtube.com/watch?v=5KZV7EtrgTQ) on cardiovascular disorders was recorded.
+These notes are based on live lectures, and no accompanying presentations or slides were provided for them. Here are some video lectures made available:
+1. [Cardiovascular Disorders by Dr. Ferrer](https://drive.google.com/file/d/1atm_J4EBGDDWwkdj622zG0X7oJpya6ju/view?usp=drive_link)
+2. [Oncologic Disorders by Dr. Ferrer](https://drive.google.com/file/d/1O98UV_HzgZxjWiNgWvxqaIlukP0OG4e-/view?usp=drive_link)
 ___
 # Cardiovascular Disorders
 ## Review of Anatomy and Physiology
@@ -364,3 +369,450 @@ graph TD
 	- If determined as autoimmune, this is treated by removing antibodies (**splenectomy**) or immunosuppression (**steroids**). If necessary, replacement of damaged bone marrow tissue with a **bone marrow transplant** may be done.
 	- **Diagnostic Picture**: **pancytopenia**; risk for infection, bleeding, and the 3 Ps of anemia.
 	- **Nursing Interventions**: provide rest for fatigue, avoid caffeine, prevent infection, prevent bleeding (avoid rigorous activities, NSAIDs, Aspirin, etc.)
+___
+# Musculoskeletal Disorders
+## Common Musculoskeletal Injuries
+1. **Sprains and Strains**: **Ligaments** are  supporting tissue that connect bones to other bones. A **sprain** occurs when ligaments are stretched or torn. **Tendons** are supporting tissue that connects bones to muscles. A **strain** occurs when muscles or tendons are stretched or torn.
+	- **Management**: **RICE** for mild to moderate sprains/strains
+		1. **Rest**
+		2. **Ice** (Intermittently)
+		3. **Compression Bandage**
+		4. **Elevation**
+		5. In severe sprains/strains, **surgery** may be required.
+2. **Dislocations**: **joints** are the areas of articulation where two or more bones connect. In any occurrence of malposition (non-approximation) of the joints, they are **dislocated**. This may be complete or partial (AKA *subluxation*).
+3. **Arthritis**: **joints** contain tissue that may become inflamed; this is termed as **arthritis**.
+4. **Fractures**: a discontinuity of the bone produced pathologically or by trauma.
+5. **Osteomyelitis**: an inflammation of the bone
+6. **Osteoporosis**: "*porous bone*"; a decreased density rating of the bone, commonly caused by a lack of calcium in the bone.
+## Neurovascular Status Impairment
+One of the most important aspects of care for patients with musculoskeletal injuries. These are regularly assessed in patients, especially in those with casts and traction.
+(*mn. 6 Ps*)
+1. **Pain**: often the initial complaint
+2. **Paresthesia**: a tingling sensation of the extremities
+3. **Pulselessness**: a lack of peripheral pulses
+4. **Pallor**: pale discoloration of the skin
+5. **Poikilathermia**: a cool feeling of the skin
+6. **Paralysis**: often the last complaint
+## Arthritis
+An **inflammation** of the joints, causing **pain**.
+1. **Management**: antiinflammatory medications
+	- First line: **NSAIDs** (MIND; mefenamic acid, ibuprofen, naproxen, diplofenac). This may result in ulceration (GI irritants) and nephrotoxicity in long-term use. Second line is **steroids**
+
+>[!DRUG] COX-2 Inhibitor NSAIDs
+>These are a recent form of NSAIDs that do not produce gastric irritation. Among its forms, Etoricoxib (**Arcoxia**) is common manifestation
+
+2. **Types**:
+	1. **Osteoarthritis**: common in **obese** and **old** patients, where **the major weight-bearing joints** (cervical spine, lumbar spine, knees) **degenerate through wear-and-tear**.
+		- **Management**: (1) rest, (2) weight loss in obese patients via low carb/low fat diet, (3) pain management (NSAIDs, steroids \[-*sones*], paracetamol, liniments)
+		- **Signs and Symptoms**:
+			- **Characteristic Pain Pattern**: morning pain less than 30 minutes. It is localized, asymmetrical, and non-systematic.
+			- **Manifestations**: Heberden's (distal metacarpal joint) and Bouchard's (proximal metacarpal joint) nodes
+		- **Diagnostic Examination**: x-ray (visualization of osteophytes/spur formation), bone density measurement
+	2. **Rheumatoid Arthritis**: a **chronic, autoimmune** disorder that goes into remission and exacerbations. RA is common in **women**.
+		- **Management**: pain management (NSAIDs, steroids \[-*sones*], paracetamol, liniments), and the **standard treatment of methotrexate**. Nursing interventions include: 
+			- **Splints** can immobilize the affected extremities.
+			- **Cold Packs** can help with acute exacerbations of pain.
+			- **Heat Application** can help reduce inflammation.
+			- **Provide regular activities** to reduce pain levels. Rest increases the stiffness and pain of RA.
+		- **Signs and Symptoms**: **fever**, weight loss (painful to chew)
+			- **Characteristic Pain Pattern**: stiffness that occurs for more than 30 minutes that appears systemically (all joints), symmetrically, and bilaterally
+			- **Manifestations**: Subcutaneous nodules, Raynaud's phenomenon
+				- In late rheumatoid arthritis, deformities of the hand occurs. From proximal to distal, these are the Boutonniere deformity of the thumb, ulnar deviation of metacarpophalangeal joints, and swan-neck deformity of fingers.
+		- **Diagnostic Examination**: elevated ESR, positive Rheumatoid factors (immunologic markers)
+	3. **Gouty Arthritis**: the result of a **metabolic** disorder in purine metabolism, increasing levels of uric acid, resulting in the crystallization of gout (**tophi**) in the synovial spaces, causing pain and inflammation.
+		- **Management**: **colchicine** is the first line used for acute gout attacks that **reduces pain and inflammation**. Next, NSAIDs then steroids can be used.
+			- **Allopurinol** is used to **lower uric acid** by blocking the enzyme for metabolizing purine to uric acid (xanthene oxidase). Colchicine does not does this. In recent development, **Febuxostat** may be a preference in lowering uric acid.
+			- **Diet** should avoid purine. Avoid **alcohol**, anchovies, shellfish, oysters, clams, and **organ meats**. Increase fluid intake to prevent nephrolithiasis.
+		- **Signs and Symptoms**: pain. A **kidney stone** may also form from uric acid crystals.
+			- **Characteristic Pain Pattern**: **monoarticular**; only one joint is affected, compared to OA and RA, which are **polyarticular**.
+			- **Manifestations**: erythematous first metatarsophalangeal joint; **podagra**; a great toe.
+		- **Diagnostic Evaluation**: serum uric acid
+
+>[!WARNING] Pyrazinamide
+>Pyrazinamide, a TB medication, can increase uric acid. This is avoided in patients with gout.
+
+## Fractures
+A discontinuity in a bone.
+1. **Signs and Symptoms**:
+	- **Crepitus**: a grating sound between the discontinued bones
+	- **Loss of function**
+	- **Obvious deformity** such as misalignment and shortening of the joint.
+	- **Pain**
+2. **Diagnosis**: **x-ray** reveals fractured fragments
+3. **Management**:
+	- In an emergency, **immobilize** (external, splint, traction, cast; internal, tongs, wires, pins) **any suspected fracture**.
+4. **Complications**:
+	1. **Shock**: hypovolemia from hemorrhage.
+	2. **Fat Embolism Syndrome**: the transmission of fat as emboli in circulation from leakage of fat from yellow bone marrow into blood vessels, commonly from femoral or pelvic fractures as large bones of the body. The immediate problem with FES is a **pulmonary embolism** manifested by dyspnea, which can result in respiratory failure. Hypotension, tachycardia, and tachypnea all appear as sequelae. The emboli also produces **petechial rashes** on the chest.
+	3. **Infection** as manifested by fever, foul-smelling discharge, erythema
+	4. **Compartment Syndrome**: a syndrome characterized by **unrelenting pain** (even with opioids) as an extremity experiences pressure such as in internal bleeding (limited by fascia; relieved via **fasciotomy**) or an external covering (a cast) is set too tight. The core problem of compartment syndrome is of [[#Neurovascular Status Impairment]].
+	5. **Deep Vein Thrombosis** as exemplified in Homan's sign (pain upon dorsiflexion of the foot)
+### Traction
+The use of a traction weight and countertraction to immobilize and reduce fractures to assist in healing. There are various types:
+1. **Skin Traction**: traction applied over the skin, indirectly to the bone. This utilizes elastic bandages or adhesives.
+	1. **Buck's Traction**: lower extremity traction. This is not used with weights more than eight pounds.
+	2. **Russel's Traction**: stabilizes fractured femur
+	3. **Cervical Traction**: for neck affliction
+	4. **Pelvic Traction**: for back pain
+2. **Skeletal Traction**: traction applied directly into the bone via pin, wire, or tongs. This invasive placement may result in infection. As such, the nurse **assesses for infection** and cleans pin sites.
+>[!TIP] Traction Management
+>Never remove weights unless prescribed by the doctors. The weights should hang freely, be free of friction, and free of knots.
+
+Nursing management includes management of the traction system, **neurovascular status** (6 Ps), infection, and complications of immobilization.
+
+| Complication of Immobilization | Management                                                       |
+| ------------------------------ | ---------------------------------------------------------------- |
+| **Pneumonia**                  | Teach the patient breathing exercises (deep breathing, coughing) |
+| **Constipation**               | Increase fluids and fiber (high residue)                         |
+| **Urinary Tract Infection**    | Increase fluids                                                  |
+| **Pressure Ulcers**            | Assess skin integrity regularly                                  |
+| **Contractures**               | Utilize positioning and ROM exercises                            |
+| **Deep Vein Thrombosis**       | Checked with Homan's sign                                        |
+>[!INFO] Casting
+These are hard bindings of affected extremities to immobilize and promote healing. This may use two types of materials:
+>1. **Plaster of Paris**, a slow-drying cast material. White.
+>2. **Fiberglass**, a fast-drying cast material, but is more expensive. This comes in more colors, too.
+
+## Osteoporosis
+"*Porous bones*" manifested by decreased bone mass density (BMD). This may occur in patients whose osteoclastic activity (bone resorption) is greater than osteoblastic activity (bone deposition).
+1. **Risk Factors**:
+	- Being underweight
+	- Smoking
+	- Alcoholism
+	- Sedentary lifestyles
+	- Age
+	- Diet (caffeine, alcohol, low calcium): should include ~1,200 mg of Calcium per day.
+	- Post-menopausal (decreased estrogen)
+	- Immobility
+
+>[!WARNING] Surgically-Induced Osteoporosis
+>The removal of ovaries (oophorectomy) or testes (orchidectomy) are considered as essentially causative of osteoporosis. The resulting osteoporosis is considered "surgically-induced".
+
+2. **Diagnostic Examination**: **DEXA Scan** to measure bone mass density and **x-ray studies** for pathologic fractures
+3. **Management**: Calcitonin, Bisphosphonates, Alendronic acid; all prevent bone resorption (breakdown). The patients are kept upright right after consumption, and are given on an empty stomach.
+	- **Diet**: **dairy products**, dark green leafy vegetables.
+	- **Lifestyle**: exercise, as exercise increases bone density. In immobilized patients, isometric exercises may be used.
+___
+# Sensory Disorders
+## Eye Disorders
+Also read: [[ANPH/15-1|Anatomy of the eyes]]
+### Anatomy of the Eyes
+The eye is made up of various layers:
+1. Outer:
+	1. **Sclera**
+	2. **Cornea** (avascular)
+2. Middle
+	1. **Uvea**
+	2. **Iris**, the pigmented ring of accommodating tissue that controls the amount of light to enter the eyes; these cause pupillary constriction (miosis) in the presence of light, and cause pupillary dilation (medriasis) in the presence of darkness. The examination of the pupil with a penlight to detect these constrictions or dilatations assesses the function of **CN III** (oculomotor nerve).
+		- Drugs that induce miosis are called **miotics**. Drugs that induce medriasis are called **medriatics**.
+	3. **Ciliary Body**: the producer of aqueous humor that occupies that fills the eye. This is implicated in glaucoma when overproduction results in an increase in IOP.
+	4. **Choroid**
+3. Inner
+	1. **Retina**: contains retinal vessels and is the sensory unit of the eyes. These function with **CN II** (optic nerve), assessed with **Snellen's chart** (visual acuity).
+
+>[!TIP] Cranial Nerve V: The Trigeminal Nerve
+>The nerve that innervates the cornea via the ophthalmic branch, maxillary branch, and mandibular branch. The reflex tested for the eye is the **corneal reflex**, which causes the individual to blink when a cotton wisp is used to stimulate the cornea.
+### Inflammation of the Eyes
+1. **Scleritis**: inflammation of the sclera
+2. **Iritis**: inflammation of the iris
+3. **Retinitis**: inflammation of the retina
+4. **Keratitis**: inflammation of the cornea, especially after corneal abrasion e.g. due to contact lenses.
+5. **Blepharitis**: inflammation of the eyelidg
+### Errors of Refraction
+1. **Myopia**: near-sightedness, treated with concave lenses.
+2. **Hyperopia**: far-sightedness, treated with convex lenses.
+3. **Astigmatism**: irregular curvature of the cornea, treated with cylindrical lenses.
+4. **Presbyopia**: far-sightedness that occurs with aging.
+### Ocular Medications
+1. **Eye drops**: therapeutic fluid administered at the lower conjunctiva.
+
+>[!WARNING] Close the inner punctum of the eye:
+>Place pressure on the area between the corner of the eye and the side of the nose to prevent systemic absorption of the drug (approx. 7% gets absorbed).
+
+2. **Eye ointment**
+### Cataracts
+An increase in the **opacity of the lens** of the eyes. A **progressive, painless loss of vision** is the main characteristic of cataracts.
+1. **Risk Factors**: *mn. CARDS*
+	- Corticosteroids
+	- **Aging**
+	- Retinal Detachment
+	- Diabetes Mellitus, Down Syndrome
+	- **Smoking**
+2. **Symptoms**
+	- **Painless** blurring of vision
+	- **White-colored** or cloudy lens/pupil
+3. **Treatment**: cataracts are done primarily through **lens removal** (**phacoemulsification**). This may be done with ultrasound vibrations that breaks the lens into fragments. Patients without lens are **aphakic** (has aphakia). Surgical management is through **lens replacement**, which uses **lens implants** or **corrective lenses**.
+4. **Nursing Intervention**
+	- Post-op: monitor vital signs, level of consciousness, and dressings.
+	- Elevate the **head of the bed**.
+	- Lie on the **unaffected side**.
+	- **Eyeglasses** will be given for the patient when discharged to reduce glare. At night, an **eye shield** is used to prevent trauma such as scratching.
+	- Avoid activities that elevate the IOP: sneezing, coughing, straining or using the valsalva maneuver (utilize a papaya + high residue/fiber diet) to prevent constipation, **laxatives** may be given. **Antiemetics** may be given for vomiting patients. Increased IOP may cause hemorrhaging and pain.
+	- Priority after surgery: **safety**. Set siderails.
+### Glaucoma
+**Increased IOP** (normal: 10 to 21 mmHg) due to an imbalance in the **production and drainage of aqueous humor**. This results in nerve damage to the optic nerve (CN II).
+1. **Signs and Symptoms**: 
+	1. **Open Angle Glaucoma**: loss of **peripheral** vision (tunnel vision), where halos are seen when around lights.
+	2. **Closed Angle Glaucoma**: headache and eye pain present due to higher IOP compared to open angle.
+2. **Risk Factors**
+	1. **Smoking**, **Steroids**
+	2. **Aging**, **Family History**, **High Myopia**
+	3. **Diabetes Mellitus**
+3. **Diagnostic Examination**
+	1. **History**
+	2. **Tonometry** through a tonometer, which measures IOP
+4. **Nursing Intervention**
+	1. Priority Nursing Diagnosis: **risk for injury** due to sensory impairment; ensure safety.
+	2. **Keep lights open** to promote pupil constriction. Dark environments allow for dilation, increasing IOP.
+	3. Avoid all activities that increase IOP; sneezing, coughing, vomiting, straining, valsalva maneuver
+5. **Treatment**: decrease production, increase outflow; the main goal is to reduce IOP to prevent CN II damage, which can result in irreversible blindness
+	1. **Miotics**: drugs that constrict the pupil e.g. **Pilocarpine** and **Carbachol**. The constriction allows for outflow to be faster, draining the eye.
+	2. **Topical Beta-Blockers** instilled at the lower conjunctiva; **betaxolol**, **timolol**. These decrease humor production Always monitor heart rate to check for bradycardia. Trivia: only 7% of eye drops enter systemic circulation.
+	3. **Diuretics**: to reduce pressure by reducing fluid content; acetazolamide (diamox)
+	4. **Prostaglandin Analogs/Agonist**: **travoprost**, **latanoprost**; these facilitate humor drainage.
+	5. **Surgical Management**: iridectomy, iridotomy used to facilitate aqueous drainage.
+### Retinal Detachment
+The separation of the **choroid from the retina**, forming a retinal pigment epithelium (RPE) detached from the sensory layer.
+1. **Causes**
+	1. Diabetic retinopathy
+	2. Aphakia
+	3. Tumor of the eye
+	4. Inflammation of the eye: uvitis (middle layer inflammation)
+	5. High myopia
+2. **Symptoms**:
+	1. **Flashes** of light and sight of **floaters** (light spots on the foreground of one's sight)
+	2. Sense of a **curtain** being drawn over the eye.
+	3. **Painless blurring** of vision.
+3. **Treatment**
+	1. **Scleral buckle**, which promote reattachment of the choroid to the sensory retina.
+	2. **Pneumatic retinopexy**, where the retinal pigment epithelium (RPE) is pushed into the retina via the administration of gas bubbles or silicone oil into the vitreous cavity.
+		- Importantly, position the patient **PRONE** after surgery to position the gas bubble properly in pushing the RPE to the retina.
+		- Avoid activities that increases IOP: sneezing, coughing, straining/valsalva, vomiting (use antiemetics), constipation (use high fiber/high residue + papaya diet, or laxatives as ordered)
+## Ear Disorders
+1. **External Ear**: ear canal
+	- Erythematous ear canal; **otitis externa**, inflammation of the ear canal.
+	- The ear canal is normally skin colored. If inflamed, it is erythematous.
+	- Aural tenderness occurs, where manipulation of the pinna, oracle, or canal causes pain.
+	- Treatment: **analgesics** (otic drops)
+2. **Middle Ear**: tympanic membrane, eustachian tube (connects the ear to the nasopharynx), malleus, indus, stapes (ossicles).
+	- Problems with the external or middle ear that results in hearing loss is **conductive hearing loss**
+	- In **otitis media**, the tympanic membrane bulges and becomes erythematous (normally pearly grey).
+	- A consequence of **URTIs** travelling through the eustachian tube.
+3. **Inner Ear**: a.k.a. labyrinth; vestibule (semicircular canal), and cochlea
+	- **Labyrinthitis**.
+	- Problems with the inner ear or labyrinth that results in hearing loss is **sensorineural hearing loss**. Often caused by (mn. LMP) **labyrinthitis**, **Meniere's syndrome**, and **presbycusis**.
+
+>[!INFO] Hearing Loss
+>Hearing loss may be **conductive** from the affectation of the conducting system of the ears, **sensorineural** from the affectation of the sensory organ or the nervous system, or **functional** from psychological or emotional blocking-out of stimulus.
+
+### Otitis Externa
+Containing the ear canal and other external ear structures, otitis externa is the **inflammation of the ear canal**. Because it commonly occurs after swimming, it is called "*swimmer's ear*"
+1. **Symptoms**
+	1. Erythematous ear canal
+	2. Aural Tenderness
+2. **Treatment**
+	1. **Antibiotics** for infection
+	2. **Analgesia** with otic drugs (ear drops) for pain
+### Otitis Media
+Associated with URTIs (cough or cold). This features a **tympanic membrane that bulges and becomes erythematous**. Hearing loss associated with this condition is **conductive hearing loss**. If untreated, this may also cause **mastoiditis**.
+1. **Symptoms**
+	1. **Fever**
+	2. **Ear Pain** (Otalgia), a classic symptom of otitis media.
+	3. **Ear Pressure**
+	4. **Bulging Eardrum**
+	5. **Ear Discharge**
+2. **Treatment**
+	1. **Antibiotics** and **analgesia**
+	2. **Tympanotomy** or **Myringotomy**: a surgical perforation of the tympanic membrane used to relieve otalgia by decreasing pressure by facilitate drainage. A repair (tympanoplasty, myringoplasty)
+### Mastoiditis
+A complication of **otitis media**.
+1. **Symptoms**: the tympanic membrane is described as (mn. DIRT) dull, immobile, red, and thick.
+2. **Treatment**: surgery to remove infected mastoid ear cells: **mastoidectomy**.
+	- If unsuccessful in removing infected cells, meningitis, dizziness, and damage to CN 6 (abducens) and 7 (facial).
+### Otosclerosis
+Abnormal bone growth at the level of the **stapes**, common in **pregnant women**.
+1. **Symptoms**
+	1. Conductive hearing loss
+	2. Normal tympanic membrane (pearly grey)
+	3. Often occurs in pregnant patients.
+2. **Treatment**
+	1. **Stapedectomy**: removal of the stapes and abnormal bone growths.
+	2. Application of **hearing aids**
+	3. **Sodium fluoride** may prevent otosclerosis.
+### Presbycusis
+A form of sensorineural hearing loss related to aging. Hearing is lost due to age because of degenerative changes (atrophy) of the cochlea. Irreversible.
+### Meniere's Disease
+An inner ear (labyrinth) disorder, where there is an **increased fluid** (endolymphatic fluid) **in the membranous labyrinth**. It is primarily **idiopathic**.
+1. **Symptoms**
+	- **Tinnitus**, ringing within the ears.
+	- **Sensorineural Hearing Loss**
+	- **Vertigo** (most common and troublesome due to affectation of the cochlea)
+2. **Management**
+	1. **Risk for falls or injury** due to impaired vestibular function; **ensure safety**.
+	2. **Low sodium diet** as episodes may be related to high sodium consumption, which further increase fluid volume.
+	3. **Diuretics** to reduce fluid volume if prescribed.
+	4. **Endolymphatic drainage**
+	5. **Vestibular nerve resection** to remove vertigo.
+	6. **Labyrinthectomy**, removal of the inner ear. Permanent deafness.
+___
+# Oncologic Disorders
+**Cancer** is a disease of **mutated cells that proliferate abnormally**, creating pathology as a result of the abnormal cells' demands on the body or by their direct effect on the body organs implicated in their growth. Many factors affect the development of cancer, but the exact processes are not well understood in the current state of medicine:
+
+>[!WARNING] Etiology
+>**Age** is the single most important epidemiologic factor in the development of cancer. Most cancer occurs in people older than **65 years of age**.
+>- Cancer is more common in **industrialized sectors**, and in **men**.
+>- **Race** may also predispose some populations to some types of cancer.
+>
+>**Carcinogenesis** may also be induced by **viruses**, **bacteria**, **physical agents** (such as radiation), **chemical agents** (carcinogens), **genetic factors**, **dietary factors**, and **hormonal agents**.
+
+| **Characteristic**         | Benign Neoplasm                                                                                                           | Malignant Neoplasm                                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Cell Characteristics**   | **Well-differentiated** cells that resemble normal cells                                                                  | **Undifferentiated**; does not mimic its original tissue                                                         |
+| **Mode of Growth**         | Tumor grows by expanding; **does not infiltrate surrounding tissues**. This **encapsulates** the tumor as one large mass. | Grows at its edges by sending out processes that **infiltrate and destroy surrounding tissues**                  |
+| **Rate of Growth**         | Usually **slow**                                                                                                          | Variable; can be **fast**.                                                                                       |
+| **Metastasis**             | **Does not spread by metastasis**                                                                                         | **Invasive**; **Metastasizes** through access to lymph nodes                                                     |
+| **General Effects**        | Usually **localized**; does not produce generalized effects unless its location affects vital functions                   | Often causes **generalized** effects (anemia, weakness, weight loss)                                             |
+| **Tissue Destruction**     | Does not usually cause tissue damage unless its location interferes with blood flow                                       | Extensive tissue damage either through overuse of blood supply or secretion of substances that cause cell damage |
+| **Ability to cause death** | Usually does not result in death, unless the growth is located near vital functions                                       | Usually causes death unless growth is controlled                                                                 |
+## Assessment
+An assessment for the presence of **cancer** may be done through the determination of **signs and symptoms**, **palpable non-tender masses**, and (definitively), a **biopsy**. If present, **tumors are graded** according to their **size**, **lymph involvement**, and **metastatic status**.
+
+>[!INFO] Tumor Markers
+>Some types of tumors can be detected through **tumor markers** found in the blood, some examples of which include **Prostate-Specific Antigen** (PSA) and **Prostatic Acid Phosphatase** (PAP) can point towards the presence of prostatic cancer, one of the most common forms of cancer in men.
+
+## Warning Signs of Cancer (CAUTION)
+1. **C**hanges in bowel or bladder habits
+2. **A** non-healing sore
+3. **U**nusual bleeding or discharge
+4. **T**hickening or lumps in the breast
+5. **I**ndigestion or difficulty in swallowing
+6. **O**bvious changes in warts or moles
+7. **N**agging cough or hoarseness
+## Cancer Prevention
+1. **Primary Prevention**: lifestyle changes as health education for the clients:
+	- Avoid **alcohol**
+	- Avoid **smoking**
+	- Avoid **fatty foods**
+2. **Secondary Prevention**: early detection through:
+
+| Cancer                  | Examination                    | Frequency                           |
+| ----------------------- | ------------------------------ | ----------------------------------- |
+| Breast (After menarche) | Breast Self-Examination        | Monthly (1 week after menstruation) |
+| Testicle                | Testicular Self-Examiantion    | Monthly                             |
+| Colorectal (50 y.o.+)   | Fecal Occult Blood Test        |                                     |
+|                         | Digital Rectal Examination     | Every 5 years                       |
+|                         | Flexible Sigmoidoscopy         | Every 5 years                       |
+|                         | Colonoscopy with Barium Enema  | Every 10 years                      |
+| Prostate                | Digital Rectal Examination     |                                     |
+|                         | Prostate Specific Antigen Test |                                     |
+## Cancer of the Breast
+>[!WARNING] Etiology
+>1. **Genetic Factor**: BRCA1 or BRCA2 (Family History)
+>2. **Advanced Age**
+>3. **Hormonal Exposure**: Estrogen 
+>4. **Menstrual History**: Early Onset/Menarche, Late Menopause
+>5. **Obstetric History**: childbirth in advanced maternal age (30+); nulliparity
+
+**Breast cancer** may appear as a **hard, non-tender, irregular mass** that appears with **orange-peel skin and skin dimpling**. Depending on the tumor size and lymph node involvement, the following is the staging for breast cancer:
+- **Stage 1**: a tumor size of less than 2 centimeters
+- **Stage 2**: a tumor size of less than 5 centimeters
+- **Stage 3**: a tumor size of more than 5 centimeters, with lymph node involvement (axillary)
+- **Stage 4**: metastasis has occurred
+### Management
+1. **Surgery**: lumpectomy (lump; breast-conserving surgery), simply mastectomy (breast), modified radical mastectomy (breast, lymph nodes), radical mastectomy (breast, lymph nodes, pectoralis muscle)
+	- **Preoperative Management**: **psychosocial support** and **arm exercises** (rope turning?)
+	- **Postoperative**: place the patient on (a) **semi-fowlers**, (b) **monitor drainage**, and (c) **apply affected arm precautions** (avoid all sources of trauma to the affected side).
+2. **Chemotherapy**
+3. **Radiation Therapy**
+>[!INFO] Nursing Interventions
+>**Client Education**: breast self-examination
+
+## Cancer of the Lungs
+**Bronchogenic Cancer** includes cancer of the lungs. This is commonly brought upon by **smoking**, environmental hazards (air pollution, asbestos), and a familial history, among others. Its signs and symptoms include:
+1. **Coughing**, often chronic; more than a month
+2. **Chest Pain**
+3. **Weight Loss**
+4. **Anorexia**
+
+Diagnostic examination of the lungs for determination of lung cancer include:
+1. **X-ray**
+2. **CT Scan**
+3. **MRI**
+4. **Bronchoscopy**: the use of an endoscope to directly visualize the airways
+### Management
+The primary intervention is through **surgery**: lobectomy (lobe), pneumonectomy (lung, unilateral or bilateral), wedge resection (piece of the lung), segmentectomy (segment of the lung). Positioning after surgery follows the "**LUPA**" mnemonic:
+- Post-**Lobectomy**: place the client on the **unaffected side** to promote drainage.
+- Post-**Pneumonectomy**: place the client on the **affected side** to promote lung expansion.
+## Cancer of the Prostate
+This is among the most common in the aged population of men. It has a considerable **familial link**, also increases with **age**, and may be caused by **heavy metal exposure**. It manifests as:
+1. **Gross, Painless Hematuria**: urinating large amounts of blood without pain.
+2. Difficulty in initiating urination and urinary retention from **obstruction** caused by the growth
+3. **Bone pain**, usually as a sign of metastasis
+### Management
+1. **Radical Prostatectomy**, or **orchidectomy** (testosterone is used for cancer growth; this removes testosterone).
+2. **Radiation Therapy**
+3. **Pharmacologic Therpay**: GnRH Analogues (inhibits luteinizing hormone, which inhibits testosterone production)
+## Multiple Myeloma
+A malignant disease of the **plasma cell**. These result in the production of osteoclast-activating substances that destroy the bone.%% Its prognosis is based on **serum albumin** and **beta-2 microglobulin** (an indirect measure of tumor burden)%%
+1. **Bone pain**, along the back or from the ribs; **the classic symptom** of multiple myeloma. This pain is chronic, and abates upon awakening but worsens during the day.
+2. **Osteoclast activating factors** are substances secreted by plasma cells that stimulate osteoclasts. This stimulates the process of bone resorption and bone destruction, which can result in pathologic fractures (**osteoporosis**) and **hypercalcemia**.
+3. **Hypercalcemia** produces excessive thirst, dehydration, constipation, and altered sensorium. The deposition of calcium in the kidney can also result in **renal failure** and kidney stones.
+### Management
+There is **no cure** for multiple myeloma. However, **chemotherapy** and **radiation** can control symptoms and improve quality of life.
+## Chemotherapy
+The administration of **cytotoxic medication** to promote **tumor cell death**, even if at the cost of normal cell death. It is preferably administered through **IV**, but this poses the risk of **extravasation**; the leakage of the chemotherapeutic agents into tissue, producing a deep chemical burn. Other methods of administration include:
+1. Topical
+2. Intrathecal: passage of chemotherapeutic medication through cerebrospinal fluid (CSF); through a lumbar puncture into the ommaya reservoir.
+3. Intracavitary: the introduction of chemotherapeutic medication into the peritoneum or other cavities of the body
+4. Intravesical: direct introduction of chemotherapeutic medication into targeted organs.
+
+| Chemotherapeutic Agent                                          | Method of Action                 | Side Effects                                              |
+| --------------------------------------------------------------- | -------------------------------- | --------------------------------------------------------- |
+| **Alkylating Agents**: Busulfan, **Cyclophosphamide** (Cytoxan) | Interferes with DNA Replication  | Cytoxan: cystitis                                         |
+| **Antimetabolites**: 5-Fluorouracil, **Methotrexate**           | Interferes with metabolites      | Methotrexate: megaloblastosis                             |
+| **Cytotoxic Antibiotics**: Bleomycin, Doxorubicin               | Inhibits DNA and RNA synthesis   | Doxorubicin: cardiotoxic (cardiac monitoring; WOF angina) |
+| **Plant Alkaloids**: Vincristine, Vinblastine                   | Inhibits cell division (M phase) | Neurotoxic, producing paresthesia                         |
+### Side Effects
+1. **Alopecia**: hair loss occurring during chemotherapy; hair will return after chemotherapy ceases. Take note that hair is only washed three times a week, and not more frequently.
+2. **Bone Marrow Suppression** (Pancytopenia): reduction in WBC (immunosuppression), RBC (anemia), and platelet count (thrombocytopenia).
+3. **Nausea and Vomiting**: antiemetics (Omdansetron) are used 30 minutes prior to the administration of chemotherapy.
+4. **Diarrhea**: low fiber dieting
+5. **Mucositis, Stomatitis**: soft-bristled, electric toothbrush; avoid mouthwash containing alcohol. Additionally, smoking and alcohol are restricted.
+## Radiation Therapy
+The use of physical radiation waves to **reduce tumor size and kill tumor cells**, which **relieves obstruction** and **decreases pain**. There are two modes of delivery for radiation therapy: **external radiation** or *teletherapy*, and **internal radiation** or *brachytherapy*
+
+**External radiation** or "teletherapy" is the delivery of radiation externally to targeted areas.
+1. **Side Effects**: this may result in **diarrhea**, **tissue damage**, **fatigue**, and **radiation pneumonia**.
+2. **Benefits**: **no risk for radiation exposure to others**.
+3. **Client instructions** mainly intervene with the client's skin over the treatment site to maintain its integrity:
+	- Protect the skin from **sun exposure**
+	- Avoid **rubbing** the treatment site
+	- **Wash** marked skin with **plain water** only; **do not use powders, lotions, or soap**.
+	- Wear **loose-fitting clothing** over the treatment area.
+
+**Internal radiation** or "brachytherapy" is the use of **implants** (sealed; administered through beads, seeds, or needles) or **systemic radiation** (unsealed; administered orally or through IV) to deliver radiation to the relevant body systems.
+1. **Side effects** are similar to those in teletherapy.
+2. An issue
+3. **Client instructions** are related to **potential unintended exposure** to radiation. In unsealed internal radiation, excreted body fluids may be radioactive. Urine should be flushed thrice in order to reduce risks of contamination.
+>[!WARNING] Safety Precautions
+Patients on brachytherapy require a **private room** to avoid unintended exposure. For staff taking care of the patient, those who are **pregnant** are restricted, due to potential teratogenic effects of radiation on the fetus. Additionally, the following are instated to protect from radiation exposure:
+>1. Exposure to the radioactive agents or patient is **limited to 30 minutes over an 8 hour shift**.
+>2. **Maintain a distance of 6 feet or more** as much as possible. Limit close proximity to necessary procedures only.
+>3. When providing care, a **lead-lined shield** is used to protect against radioactivity.
+## Oncologic Emergencies
+1. **Superior Vena Cava Syndrome**: the obstruction of the SVC by a growing tumor, which restricts venous return from the upper extremities and head. This produces (a) **periorbital edema**, (b) **jugular vein distention**, and (c) **edema of the neck, arms, and hands**. This may also result in **seizures**.
+>[!SUCCESS] Treatment
+>**Radiation** is used to reduce tumor size, and **seizure precautions** are put in place in order to promote safety in the case of a potential seizure.
+
+2. **Tumor Lysis Syndrome**: the result of **tumor cell destruction from treatment**, which releases cell contents such as **calcium** and **uric acid**.
+>[!SUCCESS] Treatment
+>1. **Hydration** is used to offset the increased circulating substances (hemodilution).
+>2. In the case of **uric acid**, **medication such as allopurinol or febuxostat** or **dialysis** may be required.
+
+3. **Spinal Cord Compression**: another complication produced by physical compression from tumor growth. This can result in **back pain**, **leg pain**, and **paresthesias of the lower extremity** as spinal function or mobility becomes impaired.
+>[!SUCCESS] Treatment
+>Similar to SVC syndrome, the **tumor size is surgically reduced**.
+4. **Disseminated Intravascular Coagulation** (DIC): a **bleeding disorder** resulting from **clot factor depletion** due to prior clot formation secondary to sepsis. The main issue faced is blood loss.
+>[!SUCCESS] Treatment
+>The main issue of blood loss is managed with **blood transfusion**, particularly with FFP to restore the clotting factors.
+

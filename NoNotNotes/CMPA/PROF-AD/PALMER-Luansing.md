@@ -5,6 +5,7 @@ title: PALMER Reviewer by Luansing
 date: 2024-05-02
 ---
 A summary of **Professional Reviewer Dr./Atty. Glenn R. Luansing**'s Nursing Review Guide on **Professional Adjustment**, **Leadership and Management**, **Ethics**, and **Nursing Research**
+
 >[!CITE] 
 >Luansing, G. (2024). *Nursing Review Guide: Professional Adjustment, Leadership and Management, Ethics, and Nursing Research* (1st ed.). CentralBooks. ISBN:978-621-02-2289-0.
 
@@ -38,8 +39,7 @@ The scope of nursing practice is defined under Section 28, Article VI of the Phi
 5. **Researcher**: participate in **identifying significant researchable problems** and using the research process for **investigation**.
 6. **Advocate**: **promote for what is best** for the client, ensuring that their needs are met and **rights are not violated**; **support the client's decisions**.
 7. **Manager**: makes decisions and coordinates the activities of others, delegating  and allocating resources appropriately. **Managers plan, direct, develop, monitor, and evaluate the quality of care and personnel**. They represent the staff and administration as needed.
-___
-# Becoming a Professional Nurse
+## Becoming a Professional Nurse
 1. **Obtain a Bachelor of Science in Nursing** (BSN) **degree**
 2. **Take the Nurse Licensure Examination** (NLE): a test held for those qualified (a citizen, of good moral character, a holder of BSN degree) encompassing the basic competencies in nursing:
 	- The Nursing Process (ADPIE)
@@ -57,8 +57,45 @@ ___
 	- [Oath  of Professionals (Tagalog)](https://www.prc.gov.ph/uploaded/documents/rd%20oath%20form.pdf)
 	- [Nightingale Pledge (1935 revision)](https://en.wikipedia.org/wiki/Nightingale_Pledge)
 5. **Registration**: after qualification through examination, one may become a registered nurse after acquiring a certificate of registration (Section 17, Article IV)
-	- **Registration by Reciprocity** may be provided without examination for nurses registered foreign countries that require the same qualifications and provide the same scope of practice.
-(left off on page  29, continue some other time)
+	- **Registration by Reciprocity** may be provided without examination for nurses registered foreign countries that require the same qualifications and provide the same scope of practice. (Section 20, Article IV)
+	- **Special or Temporary Permits**: foreign licensed nurses who are (1) internationally known specialists or outstanding experts, (2) on a medical mission providing free service in a particular institution, and (3) employed by schools/colleges of nursing as exchange professors. These permits are only effective for the duration of the project, medical mission, or employment contract. (Section 21, Article IV)
+	- **Non-issuance** is done for individuals convicted of a crime involving moral turpitude, immoral/dishonorable conduct, or being of unsound mind. (Section 22, Article IV)
+6. **Revocation and suspension** is imposed upon individuals convicted of a crime involving moral turpitude, immoral/dishonorable conduct, being of unsound mind, or those who have performed unprofessional/unethical conduct, gross incompetence, serious ignorance, malpractice, negligence, or fraud. **This will not exceed a period of four years**. (Section 23, Article IV)
+	- **Reissuance of Revoked Certificates**: after the expiry of the period of suspension (again, not longer than 4 years) for reasons of equity and justice and when the cause for revocation has disappeared and corrected, upon proper application therefore and the payment of the required fees, another certificate of registration/professional license may be granted. This is also applicable to lost certificates or licenses. (Section 24, Article IV)
+	- **Returning from Inactivity**: nurses who have not actively practiced the profession for **five consecutive years** are required to undergo **one month of didactic training** and **three months of practicum**. The Board shall accredit hospitals to conduct these training programs. (Section 26, Article V)
+7. **Nursing Specialization** (Comprehensive Nursing Specialty Program) is mandated by Section 31, Article VII of the Nursing Act of 2002 to be formulated to upgrade the level of skill and competence of any clinician for the development of specialty nurse clinicians in the country, including but not limited to areas of critical care, oncology, renal, and such other areas as maybe determined by the Board.
+	- This is a program by the Board of Nursing and Department of Health, the beneficiaries of which will be mandated to serve in any Philippine hospital for a period of at least two years of continuous service, as this program is funded by the Philippine Charity Sweepstakes Office and the Philippine Amusement and Gaming Corporation.
+## The Board of Nursing
+**The Board of Nursing**, as stated in Section 3, Article III of the Nursing Act of 2002, is composed of a **Chairperson** and **six members** (1) appointed by the President of the Republic of the Philippines, (2) from among two recommendees, per vacancy, of the Philippine Regulation Commission, (3) chosen and ranked from a list of three nominees, per vacancy, of the accredited professional organization of nurses in the Philippines (Philippine Nurses Association).
+1. **Qualifications** of the Chairperson and Board members are as follow: (a) be a natural born citizen and resident in the Philippines, (b) be a member in good standing of the accredited professional organization of nurses, (c) be a registered nurse, holder of a master's degree in nursing, education, or other allied medical profession (mandatory for the Chairperson; while only a majority of Board members must have a master's degree), (d) have at least ten years of continuous practice prior to appointment, the last five years of which must have been in the Philippines, and (e) not convicted of any offense involving moral turpitude.
+2. **Disqualifications and Prohibitions** (Section 5, Article II) of the Chairperson and the Board members must (a) immediately resign from any teaching position or review program in any institution, agency, or instrumentality in both government and private sectors, (b) not have any pecuniary (financial) interest in or administrative supervision over any institution offering Bachelor of Science in Nursing, including review classes.
+3. **Term** (Section 6, Article III): the Chairperson and Members of the Board of Nursing shall hold office for a term of **three years** and until their successors have been appointed and qualified (the **hold over period**), provided that the Chairperson and Members of the Board **may be reappointed** for another term. Any vacancy filled by an **ad interim appointment** for the unexpired portion of the term only. Oath-taking is performed prior to the performance of one's duties.
+4. **Removal** (Section 11, Article I) of a Member of the Board of Nursing may be due to (a) continuous neglect of duty or incompetence, (b) commission or toleration of irregularities in the licensure examination, and (c) unprofessional, immoral, or dishonorable conduct.
+
+>[!INFO] Term vs Tenure
+>"**Term of Office**" is a period during which an appointee, e.g. the Board of Nursing, **can validly hold their office/public position as a matter of right**. "**Tenure of Office**", however, is the period during which the appointee is physically/actually occupying their public office. One's term is fixed, while their tenure may be shortened in cases of removal, disqualification, or incapacitation.
+
+The Board of Nursing is given the following **Powers and Duties** as written in Section 9, Article II of the Nursing Act of 2002:
+1. **Conduct the licensure examination** for nurses.
+2. **Issue, suspend, and revoke certificates** of registration for the practice of nursing.
+3. **Monitor and enforce quality standards** of nursing practice.
+4. **Ensure quality nursing education** by inspection and recommendation to the CHED. The Board may open and close colleges of nursing and/or nursing education programs upon written recommendation to CHED.
+5. **Conduct hearings and investigations** to resolve complaints against nurse practitioners, with the power to issue subpoena ad testificandum (respondents and witnesses) and subpoena duces tecum (documents).
+6. **Promulgate a Code of Ethics** in coordination and consultation with the Philippine Nurses Association.
+7. **Recognize nursing specialty organizations** in coordination with the Philippines Nurses Association.
+8. **Prescribe, adopt, issue, and promulgate guidelines, regulations, measures, and decisions as may be necessary for the improvement and advancement of the nursing profession**.
+## Prohibited Practice of Nursing
+Section 35, Article VII of the Nursing Act of 2002 enumerates the following prohibited acts which, if an individual is convicted of, will produce a **fine** of **not less than ₱50,000.00 nor more than ₱100,000.00** or **imprisonment** of **not less than one year nor more than six years**, or **both** upon discretion of the court:
+- **Practicing nursing without the meaning of the Nursing Act**:
+	1. Without a certificate or license except if exempted, including the use of another's certificate or license, invalid certificate or license, or falsely obtained certificate or license.
+	2. Appending BSN/RN titles or any similar appendage to their name without having been conferred said degree or registration.
+	3. Who, as a registered and licensed nurse, abets or assists in the illegal practice of another who is not qualified to practice nursing.
+- **Conducting in-serve educational programs or review classes without permit** from the Board and the Commission.
+- **Employers who violate the minimum base pay of nurses** and the incentives and benefits that should be accorded to them.
+- **Any person or chief executive officer violating the provision of this Act and its rules and regulations**.
+## Nursing Positions
+1. **Nurse Supervisor/Manager**: a
+2. **Chief Nurse/Director of Nursing Service**: 
 ___
 # II: Nursing Leadership
 **Leadership** is the process of persuasion and example-setting of an individual to influence a group to take action in accordance with their common goals, and achieve desired objectives. This process may be **formal** or **informal** based on appointment or status of the leader or de-facto leader. This process may be achieved through:
