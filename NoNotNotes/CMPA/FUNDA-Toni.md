@@ -59,7 +59,7 @@ The first six rights of medication listed are most important, but otherwise not 
 | os                | Left eye                                                                                                                                                                                                                                  |
 | od                | Right eye                                                                                                                                                                                                                                 |
 | parenteral        | Syringe-based administration. An invasive procedure that can be classified as ID, SC, IM, or IV. Because of its nature, it is considered as the most dangerous and the fastest method of administration. Apply **universal precautions**. |
-| ID                | Intraderma                                                                                                                                                                                                                                |
+| ID                | Intradermal                                                                                                                                                                                                                               |
 | SQ/SC             | Subcutaneous                                                                                                                                                                                                                              |
 | IM                | Intramuscular                                                                                                                                                                                                                             |
 | IV                | Intravenous                                                                                                                                                                                                                               |
@@ -94,9 +94,9 @@ Syringe-based administration. An invasive procedure that can be classified as ID
 
 | Parameter | Intradermal | Subcutaneous | Intramuscular                    |
 | --------- | ----------- | ------------ | -------------------------------- |
-| Length    | 3/8 – 5/8"  | 5/8 – 1/2"   | 1/2 – 1 1/2"                     |
-| Gauge     | 26 – 27     | 25 – 26      | Child: 24 – 25<br>Adult: 23 – 24 |
-| Angle     | 10° – 15°   | 45°          | 90°                              |
+| **Length**    | 3/8 – 5/8"  | 5/8 – 1/2"   | 1/2 – 1 1/2"                     |
+| **Gauge**     | 26 – 27     | 25 – 26      | Child: 24 – 25<br>Adult: 23 – 24 |
+| **Angle**     | 10° – 15°   | 45°          | 90°                              |
 
 Administration through parenteral means, given its potential risks, should following these principles:
 1. **ID**: **Bevel Up**. The bevel of the needle should be facing up, away from the skin. This facilitates the formation of a **wheal** or **bleb**. **No red ink** when marking the site. No massaging.
@@ -124,7 +124,7 @@ ___
 >[!WARNING] Refractory Hypoxia in COPD/CAL (Chronic Airflow Limitation)
 >The use of high flow oxygen is **not done for patients with COPD**. The flow used is **only 2–3 L/min**. These patients do not require the SpO₂ of a normal individual. Their breathing reflex may mainly depend on oxygen levels rather than carbon dioxide levels; a high oxygen flow can deplete this **hypoxic drive**, inhibiting the patient's breathing.
 
-2. **High Flow**: venturi mask; including the use of CPAP, CPEP, and BiPAP
+2. **High Flow**: venturi mask; additionally with the use of CPAP, CPEP, and BiPAP
 
 | Delivery                         | Rate        |
 | -------------------------------- | ----------- |
@@ -132,7 +132,7 @@ ___
 | **Face Mask**                    | 4–8 L/min   |
 | **Partial Rebreather Face Mask** | 8–12 L/min  |
 | **Non-Rebreather Face Mask**     | 10–15 L/min |
-| **Venturi Mask** (high flow)     |             |
+| **Venturi Mask** (high flow)     | -           |
 ## Wall-Outlet Supplemental Therapy
 
 | Color             | Content                      |
@@ -141,6 +141,9 @@ ___
 | **Blue Outlet**   | Nitrous Oxide (Laughing Gas) |
 | **Yellow Outlet** | Medical Air; Compressed Air  |
 | **White Outlet**  | Suction/Vacuum               |
+
+![[equipment_medical-gas-outlets.png]]
+
 ## Suctioning
 **Suctioning** is used to **remove pulmonary secretions** to improve gas exchange. A primary consideration is to **==prevent hypoxia==**. It utilizes a **sterile technique** as the nurse maneuvers a suction catheter into the airways to remove any buildup of secretions.
 
