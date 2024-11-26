@@ -4,7 +4,7 @@ tags:
   - A113
 title: Fundamentals of Nursing (Notario)
 date: 2024-11-24
-description: A compilation of Madame Toni M. Notario's lectures on Medication Administration (10/13/2024) and Oxygenation (11/24/2024).
+description: A compilation of Madame Toni M. Notario's lectures on Bowel Elimination and Infusion Procedures (06/23/2024), Medication Administration (10/13/2024) and Oxygenation (11/24/2024).
 ---
 (c) **Madame Toni**
 1. **Bowel Elimination** (06/23/2024)
