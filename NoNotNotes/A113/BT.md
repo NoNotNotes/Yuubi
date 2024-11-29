@@ -97,7 +97,7 @@ Next, **plan** for the transfusion: check for **allergies**, **previous blood tr
 Finally, **document** the transfusion. This includes the date, time, procedure, assessment cues from before and after the transfusion, and any variances or observations.
 ___
 # Transfusion Reactions
-There are five general transfusion reactions, related to hemolysis, anaphylaxis, circulatory overload (TACO, and lung injury (TRALI). These often occur within the first 15 minutes of transfusion (hence the continuous monitoring done during this period) or the first 50 ccs of blood transfused.
+There are five general transfusion reactions: febrile, hemolytic, anaphylactic, circulatory overload (TACO), and lung injury (TRALI). These often occur within the first 15 minutes of transfusion (hence the continuous monitoring done during this period) or the first 50 ccs of blood transfused.
 
 **Acute Hemolytic Transfusion Reaction** (AHTR) results from an **incompatibility**, resulting in the destruction of transfused RBCs, and kidney damage or failure.
 1. **Clinical Signs**: fever/chills, **flank/back pain**, reddish or brown urine (hemoglobinuria), hypotension, tachycardia, apprehension ("*sense of impending doom*")

@@ -113,8 +113,23 @@ ___
 1. **Colon**: the *large intestine*, which is generally about 50 to 60 inches long. Its main functions are the absorption of water and nutrients, fecal elimination, and mucoid protection of the intestinal wall. The colon terminates at the rectum, where any remaining products of digestion is feces or stool.
 2. **Rectum**: a pouch with vertical folds, that expand to retain feces. This connects to the **anal canal**, which has to sphincters: the **internal sphincter** acts **involuntarily**, while the **external sphincter** is controlled **voluntarily**. The internal sphincter reacts to the **defecation reflex**, but the external sphincter can be used to inhibit the reflex. The urge to defecate normally disappears soon after inhibition, and resurfaces in a few hours.
 ## Factors Affecting Defecation
-**Development**
+**Developmentally**, toddlers are able to obtain bowel control before bladder control, with toilet training beginning from 18 to 24 months of age and finishing by 30 to 36 months of age.
+1. **Diet**: fiber is an important determining factor of stool characteristics. These may generally be divided between **insoluble** (whole-wheat flour, wheat bran, nuts, vegetables) and **soluble** (oats, peas, beans, apples, citrus fruits, carrots, barley, psyllium) fiber.
+	- **Gas-producing Foods** include apples, bananas, cabbage, cauliflower, and onions.
+	- **Laxative Foods**: prunes, alcohol, chocolate, figs, and bran.
+	- **Constipating Foods**: cheese, pasta, lean meat, eggs.
+2. **Fluid Intake and Output**: fecal elimination is affected by the amount of fluid ingested, as the colon absorbs water from passing stool before excretion; being dehydrated will result in hard stool both because the water content is reduced and because decreased fluid intake will slow down the passage of chyme along the intestines. Too much fluid, however, will advance the passage of the stool and increase its fluid content, resulting in soft, watery stool.
+3. **Activity** is an important stimulant of peristalsis. Without activity, such as in bed-ridden patients, constipation is a common problem.
+4. **Psychologic Factors**: **anxiety** and **anger** can increase peristaltic activity, potentially producing **nausea** or **diarrhea**. Conversely, **depressed clients** can experience slowed intestinal motility.
+5. **Defecating Habits**: eating is a stimulus for peristaltic activity due to the **gastrocolic reflex**, an increase in peristalsis with the presence of food in the stomach. This is why many individuals defect soon after eating breakfast. Individuals can also fall into a routine schedule for defecting, at a specific time of the day or after a certain activity.
+6.  **Medications**:
+	- **Constipating Drugs**: tranquilizers, opioids that decrease gastrointestinal activity. General anesthesia will decrease colonic movement, producing a paralytic ileus that lasts for 1 to 2 days. This is a reason for placing the client on NPO until bowel sounds are observed.
+	- **Discoloring Drugs**: iron supplements will make stool appear black as iron becomes oxidized in the GI tract; antacids will make stool appear white.
+7. **Diagnostic Procedures**: a colonoscopy or sigmoidoscopy will require a cleansing enema.
+8. **Pathologic Conditions**: spinal injury can paralyze the bowel or inhibit the urge to defecate.
+9. **Pain** will inhibit the urge to defecate, which can result in constipation if chronic.
 ## Stool Characteristics
+
 | Parameter        | Normal                                                                                                 | Abnormal                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | **Color**        | Brown (Adult), Yellow (Infant)                                                                         | Clay, white, black, tarry, red, pale, orange, green                 |
@@ -136,3 +151,51 @@ These abnormalities have the following potential (common) causes:
 4. **Amount**: N/A
 5. **Odor**: a foul or pungent smell results from **infection** or the presence of **blood**.
 6. **Constituents**: pus (infection), parasites (parasitic infection), blood (bleeding), large amounts of fat (malabsorption), and foreign objects.
+## Problems with Defecation
+1. **Constipation**: a condition of passing three stools or less in a week. This features hard, formed stool that is difficult to pass. Defecation becomes a painful event, potentially producing abdominal pain, anorexia, headaches, and a feeling of rectal fullness.
+	- **Management**: increased fluid intake, high fiber diet, and prune juice (laxative effect)
+2. **Fecal Impaction**: a collection of hardened feces in the folds of the rectum, potentially becoming obstructive. In some cases, **liquid fecal seepage**, a form of fecal incontinence, may occur. Anorexia, abdominal distention, nausea, and vomiting may also occur.
+	- **Management**: an enema or manual removal (digital rectal evacuation) may be done.
+	- **Gerontologic Concern**: older adults with fecal impaction may show signs of **delirium**. A sudden change in mental status can be an indication for performing an assessment for fecal impaction in a client with a history of constipation.
+3. **Diarrhea**: watery feces passed at an increased frequency. This features spasmodic cramps and increased bowel sounds as chyme is passed along the gastrointestinal tract at an increased rate.
+	- **Management**: **monitor fluid and electrolyte** status as diarrhea can cause severe losses. Eat **bland** (non-stimulating) food **high in sodium and potassium**. **Limit fats** in the food. Diarrhea can also increase the risk for **impaired skin integrity**, indicating the need for skin assessment especially for the perineal area. Maintain **hand hygiene**!
+4. **Fecal Incontinence**: the loss of ability to control fecal and gaseous discharges. The prevalence of bowel incontinence increases with age.
+	- **Management**: diet modification; avoid alcohol, greasy/spicy food, and gas-producing vegetables. Weight loss can also reduce fecal incontinence in overweight patients by reducing the weight and pressure on the pelvic muscles.
+5. **Flatulence**: excessive flatus in the intestines that may cause intestinal distention (colic).
+	- **Management**: limit carbonated drinks, straw, and chewing gum.
+## Enema
+An **enema** is a procedure where a solution is introduced into the rectum and colon for purposes of cleansing, constipation, increasing peristalsis, medication, expelling flatus, and for imaging/diagnosis. This may be done through different types of enemas:
+1. **Cleansing Enema**: a procedure done to remove feces. This may extend from the rectum to the colon. The removal of feces may be used to prevent the escape of feces during surgery, as preparation for diagnostic tests (x-ray, endoscopy), and simply for the removal of feces in cases of constipation and fecal impaction. The instilled solution is only maintained for 10 to 15 minutes.
+	- **High Cleansing Enema**: literally "high" in the height used for the enema; the bag is hung **12 to 18 inches** above the rectum. This is used to cleanse as much of the colon as possible. Because of the anatomy of the colon, the patient will initially be placed on a left-lateral position, then dorsal recumbent, then right lateral.
+	- **Low Cleansing Enema**: only hung **12 inches above the rectum**. This is used to cleanse primarily the rectum and sigmoid colon. The patient will only need to be placed on the Sim's Left Lateral position.
+	- **Solutions used** include isotonic and hypertonic solutions, and NSS with soap suds (sometimes called a medicated enema). Clean water is no longer used for cleansing enemas due to their tendency to cause electrolyte imbalances.
+>[!TIP] Children are positioned dorsal recumbent.
+
+2. **Retention Enema**: an enema that uses oil or medication (antibiotics, anthelmintics) that is instilled into the rectum for **1 to 3 hours**. This may be used to soften feces, stimulate peristaltic movement, and deliver medication.
+	- **Solutions used** include those for **constipation**: mineral oil, cottonseed oil, olive oil; and **for stimulating peristalsis**: castor oil.
+3. **Carminative Enema**: an enema combining 30 mL of magnesium sulfate, 60 mL of glycerol, and 90 mL of sterile water used to **expel flatus**. 60 to 80 mL of the solution is instilled.
+	- A **return-flow enema** may also be occasionally used to expel flatus, where 100 to 200 mL of solution is instilled and removed from the rectum and sigmoid colon repeatedly for 5 to 6 times.
+
+>[!TIP] Enema Solution Temperature
+>The enema solution must be slightly warm: **37.7°C**. Solutions that are too cold or too hit will result in **cramping** and discomfort.
+
+| Solution                             | Constituents                          | Action                                                        | Time to Take Effect   | Adverse Effects                                     |
+| ------------------------------------ | ------------------------------------- | ------------------------------------------------------------- | --------------------- | --------------------------------------------------- |
+| Hypertonic (Sodium Phosphate)        | 90 to 120 mL                          | Draws water into the colon                                    | 5 to 10 minutes       | Retention of sodium                                 |
+| Hypotonic (Tap Water)                | 500 to 1000 mL of tap water           | Distends the colon, stimulates peristalsis, softens the feces | 15 to 20 minutes      | Fluid and electrolyte imbalance, water intoxication |
+| Isotonic (Normal Saline, safest)     | 500 to 1000 mL of normal saline       | Distends the colon, stimulates peristalsis, softens the feces | 15 to 20 minutes      | Possible sodium retention                           |
+| Soap suds (Castile Soap)             | 500 to 1000 mL with 3 to 5 mL of soap | Irritates mucosa, distends the colon                          | 10 to 15 minutes      | May damage mucosa                                   |
+| Oil (mineral, olive, cottonseed oil) | 90 to 120 mL                          | Lubricates the feces and colonic mucosa                       | 30 minutes to 3 hours | N/A                                                 |
+>[!WARNING] Clinical Alert
+>**Fleet Enemas** are commercially available enemas, and are used for clients with renal failure. The patient is instructed to thoroughly assess the label on the fleet enema for potential contraindications and frequency of use (i.e. some enemas indicate that more than one enema every 24 hours may be harmful).
+>
+>Some clients may wish to self-administer an enema. If appropriate, the client's knowledge and technique is validated. Assisted enemas may also be done.
+
+### Insertion
+Always use **KY Jelly** (water-based lubricant) for the insertion of a rectal tube. Use the age-appropriate size and length for the enema:
+
+| Age    | Size      | Lubricated Length | Inserted Length |
+| ------ | --------- | ----------------- | --------------- |
+| Adult  | Fr. 22-32 | 2 inches          | 3 to 4 inches   |
+| Child  | Fr. 14-18 | 2 inches          | 2 to 3 inches   |
+| Infant | Fr. 12    | 1.5 inches        | 1 to 1.5 inches |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/MS-Valdez.md",
+                "file": "A113/Communication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MS-Valdez"
+              "title": "Communication"
             }
           }
         ]
@@ -48,7 +48,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "kawasa",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -128,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CMPA/Saunders/Unit III.md"
+            "file": "A113/Communication.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -149,6 +149,18 @@
   },
   "active": "5b1b7fb12e24814e",
   "lastOpenFiles": [
+    "A113/O2.md",
+    "A113/Communication.md",
+    "CMPA/PROF-AD/PALMER-Luansing.md",
+    "Untitled.md",
+    "A113/Elimination.md",
+    "CMPA/FUNDA-Notario.md",
+    "A113/BP.md",
+    "A113/BT.md",
+    "CMPA/MS1-Ferrer-1.md",
+    "CMPA/Abnormal Pediatrics.md",
+    "A219/Acute-Neonate.md",
+    "CMPA/PEDIA-AMDR.md",
     "CMPA/Saunders/Unit III.md",
     "CMPA/growth-and-development.md",
     "CMPA/Pediatrics.md",
@@ -159,24 +171,12 @@
     "CMPA/CHN.md",
     "CMPA/FUNDA-Handout.md",
     "CMPA/FUNDA-Acuna.md",
-    "CMPA/MS1-Ferrer-1.md",
-    "CMPA/Abnormal Pediatrics.md",
     "attachments/congenital-heart-defects.png",
     "attachments/cardiovascular-system_fetal-circulation.png",
-    "A219/Acute-Neonate.md",
     "CHN/COPAR.md",
     "CMPA/Perioperative Nursing.md",
-    "Untitled.md",
     "B419/MIDTERM.md",
     "CHN/Expanded Program on Immunization.md",
-    "CHN/Demography.md",
-    "CHN/Field Health Services Information System.md",
-    "MS-CD Exam Rationalization.md",
-    "CHN/PHC.md",
-    "CHN/IYCF.md",
-    "CMPA/GnD.md",
-    "CMPA/RPS MNC/09.md",
-    "B418/08.md",
     "CD",
     "attachments/stages-of-disease.png",
     "attachments/chain-of-infection.png",

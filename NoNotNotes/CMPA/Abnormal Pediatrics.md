@@ -163,7 +163,7 @@ An **autoimmune disease** involving the heart, CNS, joints, subcutaneous tissue,
 ### JONES Criteria
 For a diagnosis of **rheumatic fever**, the child must present with **two major manifestations** or with **one major and two minor manifestations**. This is a clinical diagnosis concerning the following signs and symptoms:
 1. **Major**: carditis, chorea, polyarthritis, subcutaneous nodules, and erythema marginatum.
-3. **Minor**: fever, history of streptococcal infection (ask for history of sore/strep throat), elevated laboratory findings (anti-streptolysin O titer \[ASOT]), and arthralgia (joint pain).
+2. **Minor**: fever, history of streptococcal infection (ask for history of sore/strep throat), elevated laboratory findings (anti-streptolysin O titer \[ASOT]), and arthralgia (joint pain).
 
 >[!EXAMPLE] Laboratory Findings
 >- **ASOT** Lab Findings:

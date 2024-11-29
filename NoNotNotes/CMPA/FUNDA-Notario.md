@@ -215,12 +215,12 @@ Primarily used for pre-colonoscopy or pre-operative stages. It is a procedure th
 2. **Volume**: depends on the age of the patient, generally divided between:
 	- **Adults**: 750 to 1000 mL
 	- **Children**: 500 to 700 mL
-	- Infant: 100 to 20 mL
+	- **Infant**: 100 to 200 mL
 3. **Temperature**: the solution must be warm (100 to 105F, maximum of 100F for children to prevent rectal discomfort).
-4. **Length of Rectal Tube**: also depends on age. Avoid rectal discomfort; never exceed limitations on length. Insertion requires KY (water-based) Jelly. Use a generous amount.
-	- Adults: 3" to 4"
-	- Children: 2" to 3"
-	- Infant: 1" to 1.5"
+4. **Length and Size of Rectal Tube**: also depends on age. Avoid rectal discomfort; never exceed limitations on length. Insertion requires KY (water-based) Jelly. Use a generous amount.
+	- **Adults**: 3" to 4", Fr. 22-32
+	- **Children**: 2" to 3", Fr. 14-18
+	- **Infant**: 1" to 1.5", Fr. 12
 5. **Types and Differences**:
 
 | Characteristics | Non-Retention  |              Retention               |
@@ -240,7 +240,7 @@ Blood transfusions are sterile procedures.
 	- Whole Blood
 	- Packed RBC
 	- Platelets
-4. Gauge: the best gauge is 18 (green). Maximum is 20 (pink)
+4. **Gauge**: the best gauge is 18 (green). Maximum is 20 (pink)
 5. **Solution**: the only adjust solution to blood is NSS.
 6. **Reactions**: when any reactions occur, (a) stop the BT line, (b) then continue the NSS line. (c) Measure vital signs then refer to the physician.
 	- **Allergic/Anaphylactic Reaction**: hives, rashes, urticaria, pruritus; Diphenhydramine or Benadryl are regularly used to counteract these manifestations.
