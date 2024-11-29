@@ -103,7 +103,7 @@ The score is tallied, and interpreted as:
 1. **0 to 3**: poor, serious, severely depressed. CPR may be required.
 2. **4 to 6**: fair, guarded, moderately depressed. Suctioning may be required. Monitoring is required.
 3. **7 to 10**: good, healthy.
-## Silverman-Anderson Index
+a## Silverman-Anderson Index
 Also known as Silverman-Anderson Respiratory Severity Score (RSS). It evaluates five parameters of work of breathing and assigns an overall score with a patient breathing comfortably a `0` and a patient in severe respiratory distress a `10`.
 
 | Scoring | Upper Chest          | Lower Chest   | Xiphoid Retract | Nares Dilate | Expiratory Grunt            |

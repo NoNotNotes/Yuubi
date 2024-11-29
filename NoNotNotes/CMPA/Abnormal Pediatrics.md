@@ -209,3 +209,47 @@ A **mucocutaneous lymph node syndrome** that causes **acute systemic vasculitis*
 2. **Diagnostic Evaluation**: there is no diagnosis for Kawasaki disease. The diagnosis is made based on clinical presentation.
 3. **Most serious complication**: **coronary artery aneurysm**
 ### Treatment
+
+___
+# The Newborn
+Diseases that appear during the first week of life, covering **acute disorders of the newborn**— respiratory distress syndrome, meconium aspiration syndrome, apnea of the newborn, sepsis, hypoglycemia, and pathologic jaundice/hyperbilirubinemia; **diseases of the newborn**— necrotizing enterocolitis, retinopathy of prematurity, failure to thrive, transient tachypnea of the newborn, down syndrome, attention deficit hyperactivity disorder, and autism spectrum disorder, rheumatic fever; **high-risk newborns**: abnormal birth-weight, head injuries, nerve injuries, prematurity, and postmaturity; and **metabolic disorders** detected through newborn screening— congenital hypothyroidism, congenital adrenal hyperplasia, phenylketonuria, galactosemia, G6PD deficiency, and maple syrup urine disease.
+
+>[!EXAMPLE] Normal Neonatal Vital Signs/Laboratory Findings
+>1. **Pulse**: 120–160 BPM, dipping to as low as 80 BPM when sleeping and spiking to 180 BPM when crying.
+>2. **Respirations**: 30–60 RPM
+>3. **Blood Pressure**: 80–65/45–40 mm Hg at birth, rising to 100/50 mm Hg in 10 days. Not routinely measured in a newborn.
+>4. **Temperature**:
+>	- **General**: 36.5°C–37.5°C
+>	- **Axillary**: 36.4°C–37.2°C
+>	- **Skin**: 36.0°C–36.5°C
+>	- **Rectal**: 36.6°C–37.2°C
+>5. **Oxygen Saturation**: 95%–100%
+>6. **Serum Glucose**: 3.3 mmol/L
+## Respiratory Distress Syndrome
+A serious lung disorder, also known as **hyaline membrane disease**, caused by **immaturity of the lungs**, making the newborn **deficient in lung surfactant**. This results in the inability of the alveoli to expand from increased surface tension, causing respiratory distress. This is **almost exclusively seen in prematurity** as the lungs only begin producing surfactant by 6 months of gestation, and only have fully mature lungs by 9 months of gestation.
+1. **Signs and Symptoms**: signs are divided between major signs for those directly relating to respiratory status, and minor signs for secondary effects of poor oxygenation:
+	- **Major Signs**: tachypnea (60+; normally 30–60 RPM), flaring nares, expiratory grunting, chest retractions, see-saw respirations, chest-wall recessions, apnea/dyspnea, and cyanosis. Many of these are present in the Respiratory Severity Score (Silverman-Andersen Index, see image below)
+	- **Minor Signs**: tachycardia (>160 BPM), pallor, decreased activity level, hypothermia, oliguria.
+
+![[silverman-anderson-index.png]]
+
+2. **Diagnostic Evaluation**: laboratory data is used but are non-specific. Numerous biochemical abnormalities may produce the same findings.
+	- **Blood Glucose**: <3.3 mmol/L
+	- **Arterial Blood Gases**: respiratory acidosis
+	- **Oxygen Saturation**: <95%
+	- **Imaging**: x-ray reveals a ground-glass appearance of the lungs— a diffuse, granular pattern indicative of alveolar collapse.
+	- **Scoring** with the respiratory severity score can grade respiratory distress from grade 0 to 2. Each category (chest movement, retractions, grunting) is graded from 0 to 2, and tallied— **0 to 3** is good, healthy, no respiratory distress. **4 to 6** is fair, guarded, mild respiratory distress. **7 to 10** indicates poor, serious, severely respiratory distress.
+
+| Scoring | Upper Chest          | Lower Chest   | Xiphoid Retract | Nares Dilate | Expiratory Grunt            |
+| ------- | -------------------- | ------------- | --------------- | ------------ | --------------------------- |
+| 0       | Synchronized         | No retraction | None            | None         | None                        |
+| 1       | Lag on respirations  | Just visible  | Just visible    | Minimal      | Audible on Stethoscope Only |
+| 2       | See-saw Respirations | Marked        | Marked          | Marked       | Audible by Naked ear        |
+
+3. **Management**:
+	1. **Monitoring** for color, respiratory rate, respiratory effort, airway, cardiopulmonary function, ABGs, and O₂ saturation.
+	2. **Positioning** for supporting respirations and for postural drainage if necessary.
+	3. **Suctioning** every two hours or as necessary if indications are present.
+	4. **Chest Physiotherapy**— percussion, vibration, postural drainage. Take note that this is done before feedings because CPT can induce emesis.
+4. **Therapy**: **exogenous surfactant administration** directly into the lungs via an intratracheal tube. A common drug used is **Beractant (Survanta)**, a bovine pulmonary surfactant. **Oxygen** therapy is also used to maintain oxygen saturation.
+## Meconium Aspiration Syndrome
