@@ -4,8 +4,9 @@ tags:
   - A113
   - INC
 date: 2024-10-05
+description: "Two discussions for urinary elimination and fecal/bowel elimination. This covers findings, abnormalities, and procedures related to elimination: catheterization and enema."
 ---
->[!WARNING] This discussion is lifted from Ma'am Tuiza's presentation on Elimination Patterns (UE and FE). It will be supplemented with Kozier and Erb's Fundamentals of Nursing sometime soon.
+>[!WARNING] This discussion is lifted from Ma'am Tuiza's presentation on Elimination Patterns (UE and FE).
 
 ___
 # Urinary Elimination
@@ -16,7 +17,7 @@ ___
 4. **Pelvic Floor Muscles**: the pelvic floor muscles, unlike the smooth muscle of the bladder, is under voluntary control. These muscles are important in controlling urination (continence).
 	- Factors that weaken these muscles include childbirth, pregnancy, chronic constipation, obesity/overweight, and aging (as well as decreases in estrogen at menopause).
 5. **Urination/Micturition**: the urge to urinate begins once the **stretch receptors** of the bladder become distended, often at around **250 to 450 mL** of urine. This transmits impulses to the spinal cord (S2 to S4 is the voiding reflex center of the spine). This relaxes the internal bladder sphincter, initiating the urge to void. Second, the external urethral sphincter muscle become relaxed when the time and place are appropriate for urination. Otherwise, the micturition reflex subsides until the bladder becomes more distended, and it repeats.
-	- **Voluntary control** requires intact nerves that supply the bladder, urethra, cord, and brain, as well as the motor area of the cerebrum.\
+	- **Voluntary control** requires intact nerves that supply the bladder, urethra, cord, and brain, as well as the motor area of the cerebrum.
 ## Factors Affecting Voiding
 
 | Age                      | Developmental Milestone                                                                                                                                                                                             |

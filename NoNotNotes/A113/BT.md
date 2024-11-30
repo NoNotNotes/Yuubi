@@ -3,6 +3,7 @@ tags:
   - A113
 title: Blood Transfusion
 date: 2024-10-04
+description: A Blood Transfusion is the introduction of whole blood or other blood components into venous circulation. It is used to restore blood volume and the oxygen carrying capacity of the blood.
 ---
 >[!WARNING] This discussion is lifted from Ma'am Tuiza's presentation on Blood Transfusion (1 and 2). It will be supplemented with Kozier and Erb's Fundamentals of Nursing sometime soon.
 

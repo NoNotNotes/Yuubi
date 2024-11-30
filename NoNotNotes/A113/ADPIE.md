@@ -4,6 +4,7 @@ tags:
 title: The Nursing Process
 draft: false
 date: 2024-10-11
+description: The Nursing Process, a systematic scientific method of formulating and providing nursing care generally consists of five core steps, summarized by the mnemonic ADPIE. In order, they are Assessment, Diagnosis, Planning, Intervention/Implementation, and Evaluation.
 ---
 >[!CITE] Sources
 >This discussion summarizes multiple presentations produced by **Ma'am Tuiza**.

@@ -7,7 +7,7 @@ showDate: false
 <script type="text/javascript">
     function generateCountdown() {
         let element = document.getElementsByClassName('countdown')[0];
-        let msRemaining = Date.parse('2025-11-9') - new Date();
+        let msRemaining = Date.parse('2025-11-04') - new Date();
         element.innerHTML = Math.floor(msRemaining / 1000 / 86400) + ' days';
     }
 
@@ -48,6 +48,49 @@ For the actual site, its components, and its styling:
 >
 >If you believe any material hosted here violates copyright, trademark, or ownership rights, please contact me at [GitHub](https://github.com/nonotnotes) or [X](https://x.com/hsterts) with specific details. I will promptly review and remove infringing material, if necessary.
 
-| Contributor | Contribution                                                          |
-| ----------- | --------------------------------------------------------------------- |
-|             | A major portion of this page is sourced from my university. While not |
+The following are attributions for the lecturers behind my notes. This is a mix of university faculty, my review center, and external reviewers for our in-house study.
+
+| Attribution                                  | Contribution                                                                                                                                                                                                                    |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **My University™**                           | A major portion of this page is sourced from my university and its faculty.                                                                                                                                                     |
+| **Dr. Elenita Manrique-Arreglo**             | Medical-Surgical Nursing                                                                                                                                                                                                        |
+| **Dr. Leila R. Ferrer**                      | Medical-Surgical Nursing, Communicable Diseases, Emergency and Disaster Nursing                                                                                                                                                 |
+| **Sir Francis A. Vasquez III**               | Maternal and Child Health Nursing (OB, Pediatrics), Perioperative Nursing                                                                                                                                                       |
+| **Sir Ferdinand B. Valdez**                  | The Royal Pentagon Review Specialists, Inc.; Medical-Surgical Nursing                                                                                                                                                           |
+| **Dr. Glenn R. Luansing**                    | The Royal Pentagon Review Specialists, Inc.; Professional Adjustment, Leadership and Management, Ethics, and Research<br>- Authored Professional Nursing Practice, Ethics, and Jurisprudence<br>- Authored Nursing Review Guide |
+| **Ma'am Toni M. Notario**                    | Preparatory and Professional Review Enhancement Corporation; Fundamentals of Nursing                                                                                                                                            |
+| **Dr. Marie Therese Pacabis**                | Power Development Review Center; Maternal and Child Health Nursing                                                                                                                                                              |
+| **Ma'am Aurisita M. Delos Reyes**            | Pediatric Nursing                                                                                                                                                                                                               |
+| **Ma'am Aida V. Garcia**                     | Community Health Nursing                                                                                                                                                                                                        |
+| **Dr. Rosalinda Parado Salustiano**          | - Authored Dr. RPS Maternal & Newborn Care: A Comprehensive Review Guide and Source Book for Teaching and Learning                                                                                                              |
+| **Dr. Lucila Espinosa**                      | Psychiatric Nursing                                                                                                                                                                                                             |
+| **Ma'am Caroline San Diego**                 | Gerontologic Nursing                                                                                                                                                                                                            |
+| **Ma'am Aida Bautista**                      | Psychiatric Nursing                                                                                                                                                                                                             |
+| **Dr. Potenciana A. Maroma**                 | Medical-Surgical Nursing                                                                                                                                                                                                        |
+| **Sir Gerry Nicolas**                        | Medical-Surgical Nursing<br>Nutrition and Diet Therapy                                                                                                                                                                          |
+| **Ma'am Shiela Mujemulta**                   | Medical-Surgical Nursing                                                                                                                                                                                                        |
+| **Ma'am Sharon Cajayon**                     | Nursing Research                                                                                                                                                                                                                |
+| **Sir Raymart Denaga**                       | Community Health Nursing                                                                                                                                                                                                        |
+| **Dr. Michael Joseph Diño**                  | Nursing Informatics                                                                                                                                                                                                             |
+| **Dean Maria Luisa Uayan**                   | Nursing Bioethics                                                                                                                                                                                                               |
+| **Sir Francis Vasquez III**                  | Maternal and Child Health Nursing                                                                                                                                                                                               |
+| **Sir Donato Mirador**                       | Health Assessment                                                                                                                                                                                                               |
+| **Dr. Maria Jennifer Vitorillo-Plueckebaum** | Anatomy and Physiology                                                                                                                                                                                                          |
+| **Ma'am Jhal Espinosa**                      | Fundamentals of Nursing Practice                                                                                                                                                                                                |
+| **Ma'am Melania Concepcion**                 | Theoretical Foundations of Nursing                                                                                                                                                                                              |
+| **Dr. Carmencita Pacis**                     | Pharmacology                                                                                                                                                                                                                    |
+| **Ma'am Melanie Cambel**                     | Maternal and Child Health Nursing                                                                                                                                                                                               |
+| **Ma'am Marlynne Cabading**                  | Maternal and Child Health Nursing                                                                                                                                                                                               |
+| **Dr. Leila R. Ferrer**                      | Critical Care Nursing                                                                                                                                                                                                           |
+
+%%
+Health Education
+
+Community Health Nursing 1 - Ma'am
+
+Nursing Care of Clients with Life-threatening Conditions, Acutely Ill, Multiorgan Problems High Acuity & Emergency Situations (Acute & Chronic)
+Nursing Leadership & Management
+Competency Appraisal 1
+Disaster Nursing
+Competency Appraisal 2
+Intensive Nursing Practicum%%

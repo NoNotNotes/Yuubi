@@ -1,3 +1,10 @@
+---
+tags:
+  - A113
+title: Therapeutic Communication
+description: Therapeutic communication promotes understanding and can help establish a constructive relationship between the nurse and the client. This relationship is client-centered*and goal-oriented.
+date: 2024-11-29
+---
 The **communication process** is built on a **trusting relationship** with a client and the client's support people. Effective communication is essential for the establishment of an effective **nurse-client relationship**. **Therapeutic communication** promotes understanding and can help establish a constructive relationship between the nurse and the client. This relationship is **client-centered** and **goal-oriented**.
 
 **Attentive listening** or **active listening** is a major component of therapeutic communication. This involves the use of mindfulness, using all the senses to pay attention to what the client says, does, and feels. Active listening skills are among the most important skills to develop as a nurse.
@@ -49,12 +56,14 @@ ___
 	- Client: "Those night nurses must just sit around and talk all night. They didn't answer my call light for over an hour." Nurse: "I'll have you know we literally run around even at night. You're not the only client, you know."
 4. **Challenging**: making clients prove their statement or perspective. This disregards the feelings of the client, and makes the client feel as thought it is necessary to defend their position. This can also make them double-down.
 	- Client: "I feel as if I am dying." Nurse: "How can you feel that way when your pulse rate is 60?"
-5. **Probing**: aking for information chiefly out of curiosity rather than for the intention of assistance. These often take on the form of **"Why" questions** that can place the client in a defensive position.
+5. **Probing**: asking for information chiefly out of curiosity rather than for the intention of assistance. These often take on the form of **"Why" questions** that can place the client in a defensive position.
     - Client: "I didn't ask the doctor when he was here." Nurse: "Why didn't you?"
 6. **Testing**
 7. **Rejecting**
-8. **Changing Topics and Subjects**
-9. **Unwarranted Reassurance**
+8. **Changing Topics and Subjects**: directing the communication into areas of self-interest rather than the client's concerns
+9. **Unwarranted Reassurance**: clichés or other comforting statements of advice that reassure the patient can block the fears, feelings, and other thoughts of the client.
+	- "Everything will turn out alright."
+	- "You'll be fine. Don't worry."
 10. **Passive Judgment**: giving **opinions** and approving responses, **moralizing**, or implying one's own values. These imply that the client must follow the nurse's thinking, fostering client dependence.
 	- "That's good." "That's bad."
 	- "You shouldn't do that."
