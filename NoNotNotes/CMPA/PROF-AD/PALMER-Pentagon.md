@@ -3,6 +3,7 @@ tags:
   - CMPA
 title: PALMER Reviewer by Pentagon
 date: 2024-10-21
+draft: true
 ---
 >[!WARNING] Work in Progress
 
