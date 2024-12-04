@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPA/d/12-01-2024 FEDN.md",
-                "mode": "preview",
+                "file": "CD/CD-ARC.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-01-2024 FEDN"
+              "title": "CD-ARC"
             }
           }
         ]
@@ -149,9 +149,13 @@
   },
   "active": "5b1b7fb12e24814e",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "CD/CD-ARC.md",
+    "Untitled 1.md",
+    "CMPA/growth-and-development.md",
+    "CMPA/d/12-01-2024 FEDN.md",
     "CMPA/d/12-01-2024 MS.md",
     "CMPA/d/11-25-2024 MS.md",
-    "CMPA/d/12-01-2024 FEDN.md",
     "MS/index.md",
     "A113/Communication.md",
     "A113/O2.md",
@@ -166,15 +170,11 @@
     "A219/Acute-Neonate.md",
     "CMPA/PEDIA-AMDR.md",
     "CMPA/Saunders/Unit III.md",
-    "CMPA/growth-and-development.md",
     "CMPA/Pediatrics.md",
     "CMPA/MS1-Ferrer-2.md",
     "CMPA/MS-Valdez.md",
     "CMPA/FUNDA-Toni.md",
     "A219/CHD.md",
-    "CMPA/CHN.md",
-    "CMPA/FUNDA-Handout.md",
-    "CMPA/FUNDA-Acuna.md",
     "attachments/congenital-heart-defects.png",
     "attachments/cardiovascular-system_fetal-circulation.png",
     "CD",
