@@ -38,18 +38,18 @@ ___
 4. **Compensation** refers to the elevation of one component (carbon dioxide, bicarbonate) in response to an imbalance in the other component. The body "compensates" for an abnormal value (e.g., low pH from high carbon dioxide) by throwing another abnormal value at it (e.g., raising pH by increasing bicarbonate). **Uncompensated** readings show the opposing value as normal and the pH as abnormal because of this. **Partially compensated** readings indicate that the opposing component has become abnormal, but the pH remains abnormal. **Full compensation** is achieved once pH becomes normal. 
 ## Simple ABGs
 1. **pH**: **7.35 - 7.45**. Lower than normal is acidosis, higher is alkalosis.
-2. **CO2**: **35 - 45**. Lower than normal is alkalosis, higher is acidosis.
-3. **HCO3**: **22 - 26**. Lower than normal is acidosis, higher is alkalosis.
-4. Whichever of the **CO2** (respiratory) and **HCO3** (metabolic) readings **agree with the pH** is the result. If both agree, it is **combined** or **mixed**.
+2. **CO₂**: **35 - 45**. Lower than normal is alkalosis, higher is acidosis.
+3. **HCO₃**: **22 - 26**. Lower than normal is acidosis, higher is alkalosis.
+4. Whichever of the **CO₂** (respiratory) and **HCO₃** (metabolic) readings **agree with the pH** is the result. If both agree, it is **combined** or **mixed**.
 
 >[!TIP] **Mnemonics**
 >The **ROME** mnemonic may be used to remember which value corresponds to metabolic and respiratory imbalances: **Respiratory-Opposite, Metabolic-Equal**.
 >- In **respiratory** pH disorders, pH and PaCO₂ go in **opposite** directions. As pH goes down, PaCO₂ goes up, and vice versa.
 >- In **metabolic** pH disorders, pH and HCO₃ go in **equal** directions. As pH goes down, HCO₃ also goes down, and vice versa.
 ## ABG Compensation Levels
-1. **Fully Compensated**: Read the pH. If it is normal, full compensation is achieved. Identify which region the pH is closer to even in the normal range. Determine the match from CO2 or HCO3 to differentiate respiratory from metabolic pH imbalance.
+1. **Fully Compensated**: Read the pH. If it is normal, full compensation is achieved. Identify which region the pH is closer to even in the normal range. Determine the match from CO₂ or HCO₃ to differentiate respiratory from metabolic pH imbalance.
 2. **Partially Compensated**: Read the pH. If none of the values are normal, compensation is partial. Same rules as before are observed.
-3. **Uncompensated**: If one of CO2 or HCO3 is normal, but the pH is abnormal, no compensation has been achieved.
+3. **Uncompensated**: If one of CO₂ or HCO₃ is normal, but the pH is abnormal, no compensation has been achieved.
 ## Sample Questions
 These are pulled from [SurviveNursing](http://survivenursing.com/abg/). 🌚Old site, so security is slightly outdated (HTTP protocol).🌚
 
