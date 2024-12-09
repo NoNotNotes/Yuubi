@@ -9,6 +9,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>{title}</a>
+      <img class="site-icon" src="/static/icon.png" alt="Site Icon" />
     </h2>
   )
 }
@@ -17,6 +18,18 @@ PageTitle.css = `
 .page-title {
   font-size: 1.75rem;
   margin: 0;
+}
+
+.site-icon {
+  border-radius: 5px;
+  max-width: 1.3rem;
+  margin: 0 0.4rem;
+  display: inline;
+  filter: hue-rotate(60deg);
+}
+
+[saved-theme="light"] .site-icon {
+  filter: hue-rotate(200deg);
 }
 `
 

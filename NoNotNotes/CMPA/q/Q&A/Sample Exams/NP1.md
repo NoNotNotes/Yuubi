@@ -3,14 +3,7 @@ password: "Qjn6wHxrfD6xzWN4BHej8qYU664pJ5Hy"
 showDate: false
 date: 2023-12-31
 ---
-Progress Notes:
-- [[#Diagnostic Examination]]: N/A
-- [[#Pre-Intensive Examination]]: N/A
-- [[#Recalls I]]: complete
-- [[#Recalls II]]: N/A
-- [[#Recalls III]]: N/A
-- [[#Recalls IV]]: N/A
-# Diagnostic Examination
+# Test 01
 >[!INFO] Situation
 >Verbal communication is extremely important especially when the Nurse is exploring problems and disorders with the clients in any age group. Nurse Dante is assigned to different clients in the ward.
 
@@ -868,7 +861,7 @@ Daryl has become progressively dyspneic and now has been co-diagnosed with left 
 
 
 ___
-# Pre-Intensive Examination
+# Test 02
 >[!INFO] Situation
 >Charity, the PHN in the Municipality of Tubog, learned from the residents that children and some elderly have been suffering from respiratory and skin ailments allegedly due to the bad smelling curly dark smoke emitting from the factory nearby. She was invited to the community assembly that was initiated by the barangay council.
 
@@ -1722,7 +1715,7 @@ Using the Pearson Product Moment Correlation, the statistical test yielded a -0.
 >
 
 ___
-# Recalls I
+# Test 03
 This exam was (mostly) rationalized by **Ms. Julianne Lupisan, RN**.
 
 >[!INFO] Situation 
@@ -2622,7 +2615,7 @@ Postural drainage to relieve respiratory congestion should take place:
 >Postural drainage poses a risk for aspiration if done after meals. It should be done before meals.
 
 ___
-# Recalls II
+# Test 04
 >[!INFO] Situation
 >Nurse Kaye is appointed as the nurse supervisor in a municipal health unit. She is guided by the managerial functions to properly guide her team.
 
@@ -3450,7 +3443,7 @@ This part of a research refers to the clear concise statement of the specific go
 >
 
 ___
-# Recalls III
+# Test 05
 >[!INFO] Situation
 >On 19 September 2019, an outbreak of polio was declared in the Philippines. Children in the Philippines are at risk of lifelong paralysis because of this outbreak. 
 
@@ -4280,7 +4273,7 @@ A client comes into the clinic with tremors and pitch changes in her voice. She 
 >
 
 ___
-# Recalls IV
+# Test 06
 >[!INFO] Situation
 >The Family Nursing Care Plan is designed to provide ways in solving health-related problems of the family as a whole. The nursing process is used to make this type of care plan.
 
@@ -5146,3 +5139,667 @@ The Rural Health Nurse and the Rural Health Physician are explaining the home ca
 - [ ] “Let me review what is needed again, then I’ll talk to you later.”
 >[!FAQ]- Rationalization
 >
+
+___
+# Test 07
+>[!WARNING] Disclaimer
+>This test will have an answer key, but does not have any information for rationalization. The answer key is at the end of the test. There are only 78 items.
+
+Nursing is the protection, promotion and optimization of health and abilities, prevention of illness and injury, alleviation of suffering through the diagnosis and treatment of human response and advocacy in the care of the individuals, families, communities and the population. This is the most accepted definition of nursing as defined by the:
+1. PNA
+2. ANA
+3. Nightingale
+4. Hernderson
+>[!FAQ]- Answer
+>2
+
+Advancement in Nursing leads to the development of the Expanded Career Roles. Which of the following is NOT an expanded career role for nurses?
+1. Nurse practitioner
+2. Clinical nurse specialist
+3. Nurse researcher
+4. Nurse anesthesiologist
+>[!FAQ]- Answer
+>4
+
+The Board of Nurses regulated the Nursing profession in the Philippines and is responsible for the maintenance o the quality of nursing in the country. Powers and duties o the board of nursing are the following EXCEPT:
+1. Issue, suspend, revoke certificates of registration
+2. Issue subpoena duces tecum, ad testificandum
+3. Open and close colleges of nursing
+4. Supervise and regulate the practice of nursing
+>[!FAQ]- Answer
+>3
+
+A nursing student or a beginning staff nurse who has not yet experienced enough real situations to make judgments about them is in what stage of Nursing Expertise?
+1. Novice
+2. Newbie
+3. Advanced beginner
+4. Competent
+>[!FAQ]- Answer
+>1
+
+You attended a pulse oximeter to the client. You know that the purpose is to:
+1. Determine if the client’s hemoglobin level is low and if he needs blood transfusion
+2. Check the level of client’s tissue perfusion
+3. Measure the efficacy of the client’s anti=hypertensive medications
+4. Detect oxygen saturation of arterial blood before symptoms of hypoxemia develops
+>[!FAQ]- Answer
+>3
+
+After a few hours in the Emergency Room, the client is admitted to the ward with an order of hourly monitoring of blood pressure. The nurse finds that the cuff is too narrow and this will cause the blood pressure reading to be:
+1. Inconsistent
+2. Low systolic and high diastolic
+3. Higher than what the reading should be
+4. Lower than what the reading should be
+>[!FAQ]- Answer
+>4
+
+Through the client’s health history, you gather that the patient smokes and drinks coffee. When taking the blood pressure of a client who recently smoked or drank coffee, how long should the nurse wait before taking the client’s blood pressure for accurate reading?
+1. 15 minutes
+2. 30 minutes
+3. 1 hour
+4. 5 minutes
+>[!FAQ]- Answer
+>3
+
+While the client has pulse oximeter on his fingertip, you notice that sunlight is shining on the area where the oximeter is. Your action will be to:
+1. Set and turn on the alarm of the oximeter
+2. Do nothing since there is no identified problem
+3. Cover the fingertip sensor with a towel or bed sheet
+4. Change the location of the sensor every four hours
+>[!FAQ]- Answer
+>2
+
+The nurse finds it necessary to recheck the blood pressure reading. In case of such reassessment, the nurse should wait for a period of:
+1. 15 seconds
+2. 1 to 2 minutes
+3. 30 minutes
+4. 15 minutes
+>[!FAQ]- Answer
+>3
+
+If the arm is said to be elevated when taking the blood pressure, it will create a:
+1. False high reading
+2. False low reading
+3. True false reading
+4. Indeterminate
+>[!FAQ]- Answer
+>2
+
+You are to assess the temperature of the client the next morning and found out that he ate ice cream. How many minutes should you wait before assessing the client’s oral temperature?
+1. 10 minutes
+2. 20 minutes
+3. 30 minutes
+4. 15 minutes
+>[!FAQ]- Answer
+>2
+
+When auscultating the client’s blood pressure, the nurse hears the following: from 150 mmHg to 130 mmHg: silence, then, a thumping sound continuing down to 100 mmHg: muffled sound continuing down to 80 mmHg, and then silence. What is the client’s blood pressure?
+1. 130/80
+2. 150/100
+3. 100/80
+4. 150/100
+>[!FAQ]- Answer
+>1
+ 
+In a client with a previous blood pressure of 130/80 4 hours ago, how long will it take to release the blood pressure cuff to obtain an accurate reading?
+1. 10 - 20 seconds
+2. 30 - 45 seconds
+3. 1 - 1.5 seconds
+4. 3 - 3.5 seconds
+>[!FAQ]- Answer
+>2
+
+>[!EXAMPLE] Situation
+>Oral care is an important part of hygienic practices and promoting client comfort.
+
+An elderly client, 84 years old, is unconscious. Assessment of the mouth reveals excessive dryness and presence of sores. Which of the following is BEST to use for oral care?
+1. Lemon glycerine
+2. Hydrogen peroxide
+3. Mineral oil
+4. Normal saline solution
+>[!FAQ]- Answer
+>4
+
+When performing oral care to an unconscious client, which of the following is a special consideration to prevent aspiration of fluids into the lungs?
+1. Put the client on a side lying position with head of bed lowered
+2. Keep the client dry by placing towel under the chin
+3. Wash hands and observe appropriate infection control
+4. Clean mouth with oral swabs in a careful and an orderly progression
+>[!FAQ]- Answer
+>1
+
+The advantages of oral care for a client include all of the following EXCEPT:
+1. Decreases bacteria in the mouth and teeth
+2. Reduces need to use commercial mouthwash which irritate the buccal mucosa
+3. Improves client's appearance and self-confidence
+4. Improves appetite and taste of food
+>[!FAQ]- Answer
+>2
+
+A possible problem while providing oral care to unconscious clients is the risk of fluid aspiration to lungs. This can be avoided by:
+1. Cleaning teeth and mouth with cotton swabs soaked with mouthwash to avoid rinsing the buccal cavity
+2. Swabbing the inside of the cheeks and lips, tongue and gums with dry cotton swabs
+3. Use fingers wrapped with wet cotton washcloth to rub inside the cheeks, tongue, lips and gums
+4. Suctioning as needed while cleaning the buccal cavity
+>[!FAQ]- Answer
+>4
+
+Your client has difficulty of breathing and is mouth breathing most of the time. This causes dryness of the mouth with unpleasant odor. Oral hygiene is recommended fro the client and in addition, you will keep the mouth moistened by using:
+1. Salt solution
+2. Water
+3. Petroleum jelly
+4. Mentholated ointment
+>[!FAQ]- Answer
+>3
+
+>[!EXAMPLE] Situation
+>Ensuring safety before, during and after a diagnostic procedure is an important responsibility of the nurse.
+ 
+To help Fernan better tolerate the bronchosopy, you should instruct him to practice which of the following prior to the procedure?
+1. Clenching his fist every 2 minutes
+2. Breathing in and out through the nose with his mouth open
+3. Tensing the shoulder muscles while lying on his back
+4. Holding his breath periodically for 30 seconds
+>[!FAQ]- Answer
+>2
+
+Following a bronchoscopy, which of the following complains to Fernan should be noted as a possible complication?
+1. Nausea and vomiting
+2. Shortness of breath and laryngeal stridor
+3. Blood tinged sputum and coughing
+4. Sore throat and hoarseness
+>[!FAQ]- Answer
+>2
+
+Immediately after bronchoscopy, you instructed Fernan to:
+1. Exercise the neck muscles
+2. Breathe deeply
+3. Refrain from coughing and talking
+4. Clear his throat
+>[!FAQ]- Answer
+>2
+
+Thoracentesis may be performed for cytologic study of pleural fluid. As a nurse, your most important function during the procedure is to:
+1. Keep the sterile equipment from contamination
+2. Assist the physician
+3. Open and close the three-way stopcock
+4. Observe the patient's vital signs
+>[!FAQ]- Answer
+>4
+
+Right after thoracentesis, which of the following is most appropriate intervention?
+1. Instruct the patient not to cough or deep breathe for 2 hours
+2. Observe for symptoms of tightness of chest or bleeding
+3. Place an ice pack to the puncture site
+4. Remove the dressing to check for bleeding
+>[!FAQ]- Answer
+>2
+
+>[!EXAMPLE] Situation
+>Knowledge of the acid-base disturbance and the functions of the electrolytes is necessary to determine appropriate intervention and nursing actions.
+
+A client with diabetes mellitus has a blood glucose level of 644 mg/dl. The nurse interprets that this client is at most risk for the development of which type of acid-base imbalance?
+1. Respiratory acidosis
+2. Metabolic acidosis
+3. Respiratory alkalosis
+4. Metabolic alkalosis
+>[!FAQ]- Answer
+>4
+
+In a client in the health care clinic, arterial blood gas analysis gives the following results: pH 7.45, pCO2 32 mmHg, PO2 94 mmHg, HCO3 24 mEq/L. The nurse interprets that the client has which acid base disturbance?
+1. Respiratory acidosis
+2. Respiratory alkalosis
+3. Metabolic acidosis
+4. Metabolic alkalosis
+>[!FAQ]- Answer
+>2
+
+A client has an order for ABG analysis on radial artery specimens. The nurse ensures that which of the following has been performed or tested before the ABG specimens are drawn?
+1. Guthrie test
+2. Allen's test
+3. Romberg's test
+4. Weber's test
+>[!FAQ]- Answer
+>2
+
+A nurse is reviewing the arterial blood gas values of a client and notes that he pH is 7.31, PCO2 is 50 mmHg, and the bicarbonate is 27 mEq/L. The nurse concludes that which acid base disturbance is present in this client?
+1. Respiratory acidosis
+2. Respiratory alkalosis
+3. Metabolic acidosis
+4. Metabolic alkalosis
+>[!FAQ]- Answer
+>1
+
+Allen's test checks the patency of the:
+1. Ulnar artery
+2. Radial artery
+3. Carotid artery
+4. Brachial artery
+>[!FAQ]- Answer
+>1
+
+After IVP a renal stone was confirmed, a left nephrectomy was done. Her post operative order includes daily urine specimen to be sent to the laboratory. Eileen has a foley catheter attached to a urinary drainage system. How will you collect the urine specimen?
+1. Remove urine from drainage tube with sterile needle and syringe and empty urine from the syringe into the specimen container
+2. Empty a sample urine from the collecting bag into the specimen container
+3. Disconnect the drainage tube from the indwelling catheter and allow urine to flow from catheter into the specimen container
+4. Disconnect the drainage from the collecting bag and allow the urine to flow from the catheter into the specimen container
+>[!FAQ]- Answer
+>1
+
+Where would the nurse tape Eileen's indwelling catheter in order to reduce urethral irritation?
+1. To the patient's inner thigh
+2. The patient's lower thigh
+3. To the patient's buttocks
+4. To the patient's lower abdomen
+>[!FAQ]- Answer
+>1
+
+Which of the following menu is appropriate for one with low sodium diet?
+1. Instant noodles, fresh fruits and ice tea
+2. Ham and cheese sandwich, fresh fruits and vegetables
+3. White chicken sandwich, vegetable salad and tea
+4. Canned soup, potato salad, and diet soda
+>[!FAQ]- Answer
+>3
+ 
+How will you prevent ascending infection to Eileen who has an indwelling catheter?
+1. See to it that the drainage tubing touches the level of the urine
+2. Change the catheter every eight hours
+3. See to it that the drainage tubing does not touch the level of the urine
+4. Clean catheter may be used since urethral meatus is not a sterile area
+>[!FAQ]- Answer
+>3
+
+>[!EXAMPLE] Situation
+>Hormones are secreted by the various glands in the body. Basic knowledge of the endocrine system is necessary.
+
+Somatotropine or the Growth hormone releasing hormone is secreted by the:
+1. Hypothalamus
+2. Anterior pituitary gland
+3. Posterior pituitary gland
+4. Thyroid gland
+>[!FAQ]- Answer
+>1
+
+All of the following are secreted by the anterior pituitary gland except:
+1. Somatotropin/growth hormone
+2. Follicle stimulationg hormone
+3. Thyroid stimulating hormone
+4. Gonadotropin hormone realeasing hormone
+>[!FAQ]- Answer
+>4
+
+All of the following hormones are hormones secreted by the Posterior pituitary gland except:
+1. Vasopressin
+2. Oxytocin
+3. Anti-diuretic hormone
+4. Growth hormone
+>[!FAQ]- Answer
+>4
+
+Calcitonin, a hormone necessary for calcium regulation is secreted in the:
+1. Thyroid gland
+2. Hypothalamus
+3. Parathyroid gland
+4. Anterior pituitary gland
+>[!FAQ]- Answer
+>1
+
+While parathormone, a hormone that negates the effect of calcitonin is secreted by the:
+1. Thyroid gland
+2. Hypothalamus
+3. Parathyroid
+4. Anterior pituitary gland
+>[!FAQ]- Answer
+>3
+
+>[!EXAMPLE] Situation
+>The staff nurse supervisor requests all the staff nurses to "brainstorm" and learn ways to instruct diabetic clients on self-administration of insulin. She wants to ensure that there are nurses available daily to do health education classes.
+
+The plan of the nurse supervisor is an example of
+1. In service education process
+2. Efficient management of human resources
+3. Increasing human resources
+4. Primary prevention
+>[!FAQ]- Answer
+>2
+
+When Mrs. Guevarra, a nurse, delegates aspects of the clients care to one nurse aide who is an unlicensed staff, Mrs. Guevarra:
+1. Makes the assignment to teach the staff member
+2. Is assigning the responsibility to the aide but not the accountability for those tasks
+3. Does not have to supervise or evaluate the aide
+4. Must know how to perform task delegated
+>[!FAQ]- Answer
+>2
+
+Connie, the new nurse appears tired and sluggish and lacks the enthusiasm she had six weeks ago when she started the job. The nurse supervisor should
+1. Empathize with the nurse and listen to her
+2. Tell her to take the day off
+3. Discuss how she is adjusting to her new job
+4. Ask about her family
+>[!FAQ]- Answer
+>3
+
+Process of normal negotiations of working conditions between a group of registered nurses and employer is
+1. Grievance
+2. Arbitration
+3. Collective bargaining
+4. Strike
+>[!FAQ]- Answer
+>3
+
+You are attending a certification on cardiopulmonary resuscitation (CPR) offered and required by the hospital employing you. This is
+1. Professional course towards credits
+2. In service education
+3. Advance training
+4. Continuing education
+>[!FAQ]- Answer
+>2
+
+>[!EXAMPLE] Situation
+>As a nurse, you are aware that proper documentation in the patient chart is your responsibility.
+
+Which of the following is not a legally binding document but nevertheless very important in the care of all patients in any health care setting?
+1. Bill of rights as provided in the Philippine Constitution
+2. Scope of nursing practice as defined by RA 9173
+3. Board of nursing resolution adopting the Code of Ethics
+4. Patient's Bill of Rights
+>[!FAQ]- Answer
+>4
+
+A nurse gives a wrong medication to the client. Another nurse employed by the same hospital as a risk manager will expect to receive which of the following communication?
+1. Incident report
+2. Oral report
+3. Nursing kardex
+4. Complain report
+>[!FAQ]- Answer
+>1
+
+Performing a procedure on a client in the absence of an informed consent can lead to which of the following charges?
+ 
+1. Fraud
+2. Assault and battery
+3. Harassment
+4. Breach of confidentiality
+>[!FAQ]- Answer
+>2
+
+Which of the following is the essence of informed consent?
+1. It should have a durable power of attorney
+2. It should have coverage from an insurance company
+3. It should respect the client's freedom from coercion
+4. It should disclose previous diagnosis, prognosis and alternative treatments available for the client
+>[!FAQ]- Answer
+>3
+
+Delegation is the process of assigning tasks that can be performed by a subordinate. The RN should always be accountable and should not lose his accountability. Which of the following is a role included in delegation?
+1. The RN must supervise all delegated tasks
+2. After the task has been delegated, it is no longer a responsibility of the RN
+3. The RN is responsible and accountable for the delegated task in adjunct with the delegate
+4. Follow up with a delegated task necessary only if the assistive personnel is not trustworthy
+>[!FAQ]- Answer
+>3
+
+>[!EXAMPLE] Situation
+>When creating your lesson plan for cerebrovascular disease or STROKE. It is important to include the risk factors of stroke.
+
+The most important risk factor is:
+1. Cigarette smoking
+2. Hypertension
+3. Binge drinking
+4. Heredity
+>[!FAQ]- Answer
+>2
+
+Part of your lesson plan is to talk about etiology or cause of stroke. The types of stroke based on cause are the following EXCEPT:
+1. Embolic stroke
+2. Hemorrhagic stroke
+3. Diabetic stroke
+4. Thrombotic stroke
+>[!FAQ]- Answer
+>3
+
+Hemorrhagic stroke occurs suddenly usually when the person is active. All are causes of hemorrhage EXCEPT:
+1. Phlebitis
+2. Trauma
+3. Damage to blood vessel
+4. Aneurysm
+>[!FAQ]- Answer
+>1
+
+The nurse emphasizes that intravenous drug abuse carries a high risk of stroke. Which drug is closely linked to this?
+1. Amphetamines
+2. Cocaine
+3. Shabu
+4. Demerol
+>[!FAQ]- Answer
+>2
+ 
+A participant in the STROKE class asks what is a risk factor of stroke. Your best response is:
+1. "More red blood cells thicken blood and make clots more possible"
+2. "Increased RBC count is linked to high cholesterol"
+3. "More red blood cell increases hemoglobin content"
+4. "High RBC count increases blood pressure"
+>[!FAQ]- Answer
+>1
+
+>[!EXAMPLE] Situation
+>Recognition of normal values is vital in assessment of clients with various disorders.
+
+A nurse is reviewing he laboratory test results for a client with a diagnosis of severe dehydration. The nurse would expect the hematocrit level for this client to be which of the following?
+1. 60%
+2. 47%
+3. 45%
+4. 32%
+>[!FAQ]- Answer
+>1
+
+A nurse is reviewing the electrolyte results of an assigned client and notes that the potassium level is 5.6 mEq/L. Which of the following would the nurse expect to note on the ECG as a result of this laboratory value?
+1. ST depression
+2. Inverted T wave
+3. Prominent U wave
+4. Tall peaked T waves
+>[!FAQ]- Answer
+>4
+
+A nurse is reviewing the electrolyte results of an assigned client and notes that the potassium level is 3.2 mEq/L. Which of the following would the nurse expect to note on the ECG as a result of this laboratory value?
+1. U waves
+2. absent P waves
+3. Elevated T waves
+4. Elevated ST segment
+>[!FAQ]- Answer
+>1
+
+Dorothy underwent diagnostic test and the result of the blood examination are back. On reviewing the result the nurse notices which of the following as abnormal finding?
+1. Neutrophils 60%
+2. White blood cells (WBC) 9000/mm
+3. Erythrocyte sedimentation rate (ESR) is 39 mm/hr
+4. Iron 75 mg/100 ml
+>[!FAQ]- Answer
+>3
+
+Which of the following laboratory test result indicate presence of an infectious process?
+1. Erythrocyte sedimentation rate (ESR) 12 mm/hr
+2. White blood cells (WBC) 18,000/mm3
+3. Iron 90g/100ml
+4. Neutrophils 67%
+>[!FAQ]- Answer
+>2
+
+>[!EXAMPLE] Situation
+>Pleural effusion is the accumulation of fluid in the pleural space.
+
+Which of the following is a finding that the nurse will be able to assess in a client with pleural effusion?
+1. Reduced or absent breath sound at the base of the lungs, dyspnea, tachypnea and shortness of breath
+2. Hypoxemia, hypercapnea and respiratory acidosis
+3. Noisy respiration, crackles, stridor and wheezing
+4. Tracheal deviation towards the affected side, increased fremitus and loud breath sounds
+>[!FAQ]- Answer
+>1
+
+Thoracentesis is performed to the client with effusion. The nurse knows that the removal of fluid should be slow. Rapid removal of fluid in thoracentesis might cause:
+1. Pneumothorax
+2. Pleurisy or pleuritis
+3. Cardiovascular collapse
+4. Hypertension
+>[!FAQ]- Answer
+>3
+
+3 days after thoracentesis, the client again exhibited respiratory distress. The nurse will know the pleural effusion has reoccurred when she noticed a sharp stabbing pain during inspiration. The physician ordered a closed tube thoracotomy for the client. The nurse knows that the primary function of the chest tube is to:
+1. Restore positive intrathoracic pressure
+2. Restore negative intrathoracic pressure
+3. To visualize the intrathoracic content
+4. As a method of air administration via ventilator
+>[!FAQ]- Answer
+>2
+
+The chest tube is function properly if:
+1. There is an oscillation
+2. There is no bubbling in the drainage bottle
+3. There is a continuous bubbling in the water seal
+4. The suction control bottle has a continuous bubbling
+>[!FAQ]- Answer
+>1
+
+In a client with pleural effusion, the nurse is instructing appropriate breathing technique. Which of the following is included in the teaching?
+1. Breathe normally
+2. Hold the breath after each inspiration for 1 full minute
+3. Practice abdominal breathing
+4. Inhale slowly and hold the breath for 3 to 5 seconds after each inhalation
+>[!FAQ]- Answer
+>4
+
+>[!EXAMPLE] Situation
+>Health care delivery system affects the health status of every Filipino. As a nurse, knowledge of this system is expected to ensure quality of life.
+
+When should rehabilitation commence?
+1. The day before discharge
+2. When the patient desires
+3. Upon admission
+4. 24 hours after discharge
+>[!FAQ]- Answer
+>2
+
+What exemplified the preventive and promotive programs in the hospital?
+1. Hospital as a center to prevent and control infection
+2. Program for smokers
+3. Program for alcoholics and drug addicts
+4. Hospital Wellness Center
+>[!FAQ]- Answer
+>4
+ 
+Which makes nursing dynamic?
+1. Every patient is a unique physical, emotional, social, and spiritual being
+2. The patient participate in the overall nursing care plan
+3. Nursing practice is expanding in the light of modern developments that takes place
+4. The health status of the patient is constantly changing and the nurse must be cognizant and responsive to these changes
+>[!FAQ]- Answer
+>4
+
+Prevention is an important responsibility of the nurse in:
+1. Hospitals
+2. Community
+3. Workplace
+4. All of the above
+>[!FAQ]- Answer
+>4
+
+This form of Health Insurance provides comprehensive prepaid health services to enrollees for a fixed periodic payment:
+1. Health Maintenance Organization
+2. Medicare
+3. Philippine Health Insurance Act
+4. Hospital Maintenance Organization
+>[!FAQ]- Answer
+>1
+
+>[!EXAMPLE] Situation
+>Nursing ethics is an important part of the nursing profession. As the ethical situation arises, so is the need to have an accurate and ethical decision making
+
+The purpose of having a nurse's code of ethics is:
+1.	Delineate the scope and areas of nursing practice
+2.	Identify nursing action recommended for specific health care situations
+>[!FAQ]- Answer
+>3
+
+Health care reports have different purposes. The availability of patients record to all health team members demonstrates which of the following purposes?
+1. Legal documentation
+2. Education
+3. Research
+4. Vehicle for communication
+>[!FAQ]- Answer
+>4
+
+When a nurse commits medication error, she should accurately document client's response and her corresponding action. This is very important for which of the following purposes?
+1. Research
+2. Nursing audit
+3. Legal documentation
+4. Vehicle for communication
+>[!FAQ]- Answer
+>3
+
+POMR has been widely used in many teaching hospitals. One of its unique features is SOAPIE charting. The P in SOAPIE charting should include:
+1. Prescription of the doctor to the patient's illness
+2. Plan of care for patient
+3. Patient's perception of one's illness
+4. Nursing problem and nursing diagnosis
+>[!FAQ]- Answer
+>2
+ 
+The medical records that are organized into separate section from doctors or nurses has more disadvantages than advantages. This is classified as what type of recording?
+1. POMR
+2. SOAPIE
+3. Modified POMR
+4. SOMR
+>[!FAQ]- Answer
+>4
+
+Which of the following is the advantage of SOMR or traditional recording?
+1. Increases efficiency
+2. Reinforces the use of the nursing process
+3. The caregiver can easily locate proper section for making charting entries
+4. Enhances effective communication among the health care team members
+>[!FAQ]- Answer
+>3
+
+>[!EXAMPLE] Situation
+>June is a 24 year old client with symptoms of dyspnea, absent breath sounds on the right lung and chest x-ray revealed pleural effusion. The physician will perform thoracentesis.
+
+Thoracentesis is useful in treating all of the following pulmonary disorders except:
+1. Hemothorax
+2. Tuberculosis
+3. Hydrothorax
+4. Empyema
+>[!FAQ]- Answer
+>2
+
+Which of the following psychological preparation is not relevant for him?
+1. Telling him that the gauge of the needle and anesthesia to be used
+2. Telling him to keep still during the procedure to facilitate the insertion of the needle in the correct place
+3. Allow June to express his feelings and concerns
+4. Physician’s explanation on the purpose of the procedure and how it will be done
+>[!FAQ]- Answer
+>1
+
+Before thoracentesis, the legal consideration you must check is:
+1. Consent is signed by the client
+2. Medicine preparation is correct
+3. Position of the client is correct
+4. Consent is signed by relative and physician
+>[!FAQ]- Answer
+>1
+
+As a nurse, you know that the position for June before thoracentesis is:
+1. Orthopneic
+2. Knee-chest
+3. Low fowlers
+4. Sidelying position on the affected side
+>[!FAQ]- Answer
+>1
+
+Which of the following anesthetic drug is used for thoracentesis?
+1. Procaine 2%
+2. Valium 250 mg
+3. Demerol 75mg
+4. Phenobarbital 50mg
+>[!FAQ]- Answer
+>1

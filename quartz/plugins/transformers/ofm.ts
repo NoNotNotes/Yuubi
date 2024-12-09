@@ -21,6 +21,8 @@ import { PluggableList } from "unified"
 export interface Options {
   comments: boolean
   highlight: boolean
+  spoiler: boolean
+  translucent: boolean
   wikilinks: boolean
   callouts: boolean
   mermaid: boolean
@@ -36,6 +38,8 @@ export interface Options {
 const defaultOptions: Options = {
   comments: true,
   highlight: true,
+  spoiler: true,
+  translucent: true,
   wikilinks: true,
   callouts: true,
   mermaid: true,
@@ -117,6 +121,8 @@ export const tableRegex = new RegExp(/^\|([^\n])+\|\n(\|)( ?:?-{3,}:? ?\|)+\n(\|
 export const tableWikilinkRegex = new RegExp(/(!?\[\[[^\]]*?\]\])/g)
 
 const highlightRegex = new RegExp(/==([^=]+)==/g)
+export const spoilerRegex = new RegExp(/👁️([^\n]+)👁️/g)
+export const translucentRegex = new RegExp(/🌚([^\n]+)🌚/g)
 const commentRegex = new RegExp(/%%[\s\S]*?%%/g)
 // from https://github.com/escwxyz/remark-obsidian-callout/blob/main/src/index.ts
 const calloutRegex = new RegExp(/^\[\!([\w-]+)\|?(.+?)?\]([+-]?)/)
@@ -301,6 +307,32 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                 return {
                   type: "html",
                   value: `<span class="text-highlight">${inner}</span>`,
+                }
+              },
+            ])
+          }
+
+          if (opts.spoiler) {
+            replacements.push([
+              spoilerRegex,
+              (_value: string, ...capture: string[]) => {
+                const [inner] = capture
+                return {
+                  type: "html",
+                  value: `<span class="spoiler">${inner}</span>`,
+                }
+              },
+            ])
+          }
+
+          if (opts.translucent) {
+            replacements.push([
+              translucentRegex,
+              (_value: string, ...capture: string[]) => {
+                const [inner] = capture
+                return {
+                  type: "html",
+                  value: `<span style="opacity: 0.3">${inner}</span>`,
                 }
               },
             ])

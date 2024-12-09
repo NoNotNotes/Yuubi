@@ -41,6 +41,20 @@ article h6::before {
     content: '→  ';
 }
 
+// spoiler formatting
+.spoiler{
+    background-color: var(--secondary);
+    color: transparent;
+    user-select: none;
+    border-radius: 5px;
+    padding: 0 0.2rem;
+}
+  
+.spoiler:hover{
+    background-color: inherit;
+    color: inherit;
+}
+
 // mermaid formatting
 // [saved-theme="dark"] .node rect{
 //     fill:#281c1ccc !important;

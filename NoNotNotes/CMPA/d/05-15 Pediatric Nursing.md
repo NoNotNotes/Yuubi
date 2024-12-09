@@ -8,7 +8,7 @@ An infection involving the heart, CNS, joints, subcutaneous tissue, and the skin
 ## JONES Criteria
 In **Rheumatic Fever**, the child presents with **two major manifestations** or **one major with two minor manifestations**.
 1. **Major**: heart carditis, CNS chorea, joint polyarthritis, subcutaneous nodules, skin erythema marginatum.
-3. **Minor**: fever, history of strep. infection (ask for sore throat), elevated laboratory findings (anti-streptolysin O titer \[ASOT]), arthralgia
+2. **Minor**: fever, history of strep. infection (ask for sore throat), elevated laboratory findings (anti-streptolysin O titer \[ASOT]), arthralgia
 	- **ASOT** Lab Findings:
 		- 150 to 250: (inc.)
 		- >250 to <500: Dormant RF
