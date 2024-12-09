@@ -53,7 +53,7 @@ ___
 ## Sample Questions
 These are pulled from [SurviveNursing](http://survivenursing.com/abg/). 🌚Old site, so security is slightly outdated (HTTP protocol).🌚
 
-|  pH  | CO₂ | HCO₃ |               Answer (Tap to show)                |
+|  pH  | CO₂ | HCO₃ |               Answer                |
 | :--: | :-: | :--: | :-----------------------------------------------: |
 | 7.44 | 49  |  31  |    👁️Fully Compensated Metabolic Alkalosis👁️    |
 | 7.76 | 26  |  20  | 👁️Partially Compensated Respiratory Alkalosis👁️ |
