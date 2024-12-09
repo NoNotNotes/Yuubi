@@ -11,9 +11,9 @@ In **Rheumatic Fever**, the child presents with **two major manifestations** or 
 2. **Minor**: fever, history of strep. infection (ask for sore throat), elevated laboratory findings (anti-streptolysin O titer \[ASOT]), arthralgia
 	- **ASOT** Lab Findings:
 		- 150 to 250: (inc.)
-		- >250 to <500: Dormant RF
-		- >500 to <5000:  Active RF
-		- >5000: Rheumatic Heart Disease
+		- \>250 to <500: Dormant RF
+		- \>500 to <5000:  Active RF
+		- \>5000: Rheumatic Heart Disease
 	- **ESR**, increased during hyperemia.
 	- **CRP**, produced by the liver in response to inflammation and tissue damage. This is used to determine both the presence of inflammation and **response to treatment**.
 ## Pathophysiology
