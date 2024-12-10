@@ -97,6 +97,7 @@ The death of the myocardial layer of the heart, most commonly caused by coronary
 	- **Blood Tests**: **Troponin T, I** (MI-specific), **CKMB**, **Myoglobin** (earliest), and **Lactate Dehydrogenase** (LDH; late to appear).
 
 ![[st_elevation.png]]
+
 4. **Management**: the **MONA** mnemonic (Morphine, Oxygen, Nitroglycerin, Aspirin) is [apparently outdated](https://onlinecjc.ca/article/S0828-282X(15)01566-4/fulltext), with only **aspirin** as remaining relevant and clearly beneficial for treatment. Aspirin is part of the **reperfusion therapy** necessary for recovering homeostasis in the coronary arteries. These include **thrombolytics** such as **streptokinase**. As usual, monitor for bleeding when using medications that reduce the clotting ability of the blood.
 	- If using morphine, **Naloxone** (Narcan) should be prepared in case of oversedation.
 	- The nurse assists in **percutaneous transluminal coronary angioplasty** (PTCA), where a balloon or stent opens up an occluded blood vessel and **coronary artery bypass graft** (CABG) surgery where an extra blood vessel (either saphenous vein, internal mammary artery, or radial artery) is used to bypass the occluded artery
