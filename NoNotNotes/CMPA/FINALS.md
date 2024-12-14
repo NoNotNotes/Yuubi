@@ -182,15 +182,15 @@ An infection involving the heart, CNS, joints, subcutaneous tissue, and the skin
 - Risk Factors: **children with dental caries** (check-up once every 6 months), those who have had **recent or recurrent strep throat**, and those who are immunocompromised.
 ### JONES Criteria
 In rheumatic fever, the child presents with **two major manifestations** or **one major with two minor manifestations**.
-1. **Major**: carditis, CNS chorea, polyarthritis, subcutaneous nodules, and erythema marginatum.
-2. **Minor**: fever, history of strep. infection (ask for history of sore/strep throat), elevated laboratory findings (anti-streptolysin O titer), and arthralgia
-	- **Anti-streptolysin O Titer** (ASOT) Lab Findings:
-		- 150 to 250: No RF
-		- \>250 to <500: Dormant RF
-		- \>500 to <5000:  Active RF
-		- \>**5000**: **Rheumatic Heart Disease**
-	- **ESR**, increased during hyperemia.
-	- **CRP**, produced by the liver in response to inflammation and tissue damage. This is used to determine both the presence of inflammation and **response to treatment**.
+1. **Major**: carditis, chorea, polyarthritis, subcutaneous nodules, and erythema marginatum.
+2. **Minor**: fever, history of strep. infection (ask for history of sore/strep throat), elevated laboratory findings (anti-streptolysin O titer), and arthralgia (single joint pain)
+	- **Anti-streptolysin O Titer** (ASOT) is an antibody for streptococcal infections. In laboratory findings, these are:
+		- 150 to 250 Todds unit: Normal Finding
+		- \>250 to <500 Todds unit: Dormant Rheumatic Fever
+		- \>500 to <5000 Todds unit:  Active Rheumatic Fever
+		- \>**5000** Todds unit: **Rheumatic Heart Disease**
+	- **Erythrocyte Sedimentation Rate** is **increased** during hyperemia (increased blood flow). This reflects a potential infection. Conversely, a decreased ESR may be found in congestive heart failure.
+	- **C-Reactive Protein**, produced by the **liver**, appears in response to inflammation and tissue damage to attempt to repair damaged tissues. This is used to determine both the presence of inflammation and **response to (antibiotic) treatment**.
 ### Pathophysiology
 1. Spread of GABHS to the pulmonary system, through pulmonary circulation, to the **mitral valve** (proliferation) of the heart results in the major manifestations:
 	- **Carditis**
@@ -198,8 +198,8 @@ In rheumatic fever, the child presents with **two major manifestations** or **on
 	- **Polyarthritis**: inflammation
 	- **Subcutaneous Nodules**
 	- **Erythematous Marginatum**
-2. **Mitral Valve Stenosis**: damage to the mitral valve from GAHBS. Left ventricular hypertrophy occurs for compensation. This backs up to the left atrium and pulmonary circulation, resulting in LSCHF. Crackles and moist coughing occurs from pulmonary edema.
-	- Lanoxin (Digitalis) increases heart contraction, while decreasing heart rate. This results in bradycardia. **Do not administer Lanoxin if heart rate is less than (adult) 100 (infant), 90 (toddler, 80 (preschooler), 70 (school-age), 60 bpm (adolescent/adult)**. Decreased cerebral perfusion alters LOC.
+2. **Mitral Valve Stenosis**: damage to the mitral valve from GAHBS, initially starting from mitral valve prolapse. Left ventricular hypertrophy occurs for compensation. This backs up to the left atrium and pulmonary circulation, resulting in LSCHF. Crackles and moist coughing occurs from pulmonary edema.
+	- Lanoxin (Digitalis) increases heart contraction, while decreasing heart rate. This results in bradycardia. **Do not administer Lanoxin if heart rate is less than (adult) 100 (infant), 90 (toddler), 80 (preschooler), 70 (school-age), 60 bpm (adolescent/adult)**. Decreased cerebral perfusion alters LOC.
 ### Nursing Management
 1. **Fever**, **Pain** (polyarthritis), **Inflammation**, **Thrombotic Formation**
 	- **Aspirin** fulfills all of these problems within a child (antipyretic, analgesic, antiinflammatory effect, thrombolytic effect). The main purpose is for its antiinflammatory effect on polyarthritis.
@@ -208,8 +208,8 @@ In rheumatic fever, the child presents with **two major manifestations** or **on
 	- Fractured TSB may be required to reduce discomfort. Avoid the joints, and only pat the patient. Place a moist towel on the forehead, torso, and axillary areas.
 ### Treatment
 **Penicillin** is the drug of choice, combined with erythromycin and benzanthin penicillin.
-2. **Oral**: Erythromycin with Penicillin
-3. **Monthly injection of 1 gram benzathine penicillin** (twice a month, 500 mg per dose).
+1. **Oral**: Erythromycin with Penicillin
+2. **Monthly injection of 1 gram benzathine penicillin** (twice a month, 500 mg per dose).
 ___
 # Normal Obstetrics
 >[!BUG] Outgoing Link
