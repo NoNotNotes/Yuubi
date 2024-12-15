@@ -141,7 +141,7 @@ Limitations to the descriptive nature of a GCS can arise from:
 4. **Corneal Blink Reflex**
 5. **Gag Swallowing Reflex**
 6. **Posturing**: **decorticate** and **decerebrate** postures
-![[posturing.png|500]]
+![[posturing_decorticate-decerebrate.png|500]]
 ## Potential Nursing Diagnoses
 - Ineffective airway clearance
 - Ineffective cerebral tissue perfusion
