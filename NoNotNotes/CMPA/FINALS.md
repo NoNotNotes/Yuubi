@@ -53,13 +53,13 @@ ___
 ## Sample Questions
 These are pulled from [SurviveNursing](http://survivenursing.com/abg/). 🌚Old site, so security is slightly outdated (HTTP protocol).🌚
 
-|  pH  | CO₂ | HCO₃ |               Answer                |
+|  pH  | CO₂ | HCO₃ |                      Answer                       |
 | :--: | :-: | :--: | :-----------------------------------------------: |
 | 7.44 | 49  |  31  |    👁️Fully Compensated Metabolic Alkalosis👁️    |
 | 7.76 | 26  |  20  | 👁️Partially Compensated Respiratory Alkalosis👁️ |
 | 7.21 | 48  |  27  | 👁️Partially Compensated Respiratory Acidosis👁️  |
 | 7.50 | 32  |  15  | 👁️Partially Compensated Respiratory Alkalosis👁️ |
-| 7.20 | 34  |  37  | 👁️Partially Compensated Respiratory Acidosis👁️  |
+| 7.49 | 39  |  37  |      👁️Uncompensated Metabolic Alkalosis👁️      |
 | 7.22 | 30  |  19  |  👁️Partially Compensated Metabolic Acidosis👁️   |
 | 7.22 | 26  |  19  |  👁️Partially Compensated Metabolic Acidosis👁️   |
 | 7.23 | 35  |  18  |      👁️Uncompensated Metabolic Acidosis👁️       |
