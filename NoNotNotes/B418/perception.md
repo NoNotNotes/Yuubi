@@ -227,7 +227,7 @@ The extent of damage depends on what part of the spinal column is damaged, with 
 6. Skin Integrity
 7. Bowel and bladder management
 
->[!CITE] Also Read: [[autonomic-dysreflexia|First Aid for AD]]
+>[!CITE] Also Read: [[nclex|First Aid for AD]]
 
 ___
 # Seizure Disorders
